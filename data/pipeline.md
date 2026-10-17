@@ -695,3 +695,10 @@
 
 - [ ] https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003 | abnormalsecurity | Software Engineer 1 - Cloud Infrastructure | Remote - USA | posted: 2026-10-17
 - [ ] https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002 | lyft | Software Engineer | San Francisco, CA | posted: 2026-10-17
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007 | andurilindustries | Classified Platform Engineer | Costa Mesa, California, United States | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267769007?gh_jid=5267769007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265417007?gh_jid=5265417007 | andurilindustries | Production Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-14
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265402007?gh_jid=5265402007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-10-14
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265401007?gh_jid=5265401007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-14
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007 | andurilindustries | Software Engineer, Interfaces | Waltham, Massachusetts, United States | posted: 2026-10-14
