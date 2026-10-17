@@ -384,4 +384,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://wisconsin.wd1.myworkdayjobs.com/uw_madison/job/Madison-WI/Software-Engineer_JR10016004 | wisconsin | Software Engineer | University of Wisconsin Madison | posted: 2026-10-16
 
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store5434-Virginia-Beach-VA/Team-Captain-Endzone---Loyalty--Front-End-_202640811 | dickssportinggoods | Team Captain Endzone & Loyalty (Front End) | Store5434 Virginia Beach VA | posted: 2026-10-17
+
 ## Processed
