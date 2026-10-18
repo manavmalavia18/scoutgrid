@@ -9873,6 +9873,11 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Maple"
+    careers_url: https://jobs.ashbyhq.com/maple-22
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
