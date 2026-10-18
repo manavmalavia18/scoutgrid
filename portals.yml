@@ -9898,6 +9898,16 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "Elorian"
+    careers_url: https://jobs.ashbyhq.com/elorian-ai-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "FlowGen Labs"
+    careers_url: https://jobs.ashbyhq.com/flowgen%20labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
