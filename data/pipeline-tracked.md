@@ -419,4 +419,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1 | Morningstar | Associate Software Engineer | 2 Locations | posted: 2026-10-16
 - [ ] https://wisconsin.wd1.myworkdayjobs.com/uw_madison/job/Madison-WI/Software-Engineer_JR10016004 | Universities of Wisconsin | Software Engineer | University of Wisconsin Madison | posted: 2026-10-16
 
+- [ ] https://job-boards.greenhouse.io/cssmerge/jobs/8899480002 | Cssmerge | Back-End Engineer - Fleet Management | San Francisco, CA | posted: 2026-10-18
+- [ ] https://job-boards.greenhouse.io/cssmerge/jobs/8899478002 | Cssmerge | Full-Stack Engineer - Fleet Management | San Francisco, CA | posted: 2026-10-18
+- [ ] https://jobs.ashbyhq.com/beaconsoftware/09f8c87c-e446-440e-b497-b4f5e67b4ab2 | Beacon Software | Portfolio Software Engineer | New York, NY | posted: 2026-10-18
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Full-Stack-AI-ML-Developer_01883219 | RTX | Full Stack AI/ML Developer - Digital Products (Remote) | US-CT-REMOTE | posted: 2026-10-18
+
 ## Processed
