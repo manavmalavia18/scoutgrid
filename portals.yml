@@ -9878,6 +9878,26 @@ tracked_companies:
     provider: ashby
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "Butterfly Network"
+    careers_url: https://job-boards.greenhouse.io/butterfly-network
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "OneImaging"
+    careers_url: https://job-boards.greenhouse.io/oneimaging
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Wheelhouse"
+    careers_url: https://job-boards.greenhouse.io/usewheelhouse
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Willow Innovations"
+    careers_url: https://job-boards.greenhouse.io/willow-innovations
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
