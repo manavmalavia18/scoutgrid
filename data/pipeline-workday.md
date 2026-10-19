@@ -399,4 +399,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598 | mckesson | Specialist, Software Engineering | 2 Locations | posted: 2026-10-19
 - [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/AI-Engineering-Specialist_R-10400656 | fiserv | Bilingual AI Software Development Engineer | Coral Springs, Florida | posted: 2026-10-19
 
+- [ ] https://tealium.wd1.myworkdayjobs.com/careers/job/Remote-Poland/Software-Engineer_-6 | tealium | Software Engineer | Remote Poland | posted: 2026-10-19
+- [ ] https://tealium.wd1.myworkdayjobs.com/careers/job/Remote-Poland/Software-Engineer---Connectors---Integrations_ | tealium | Software Engineer - Connectors & Integrations | Remote Poland | posted: 2026-10-19
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Software-Developer_JR-202622686-1 | generalmotors | Software Developer | Warren, Michigan, United States of America | posted: 2026-10-19
+
 ## Processed
