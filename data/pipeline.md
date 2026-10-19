@@ -744,3 +744,5 @@
 - [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6225372004 | selffinancial | Backend Software Engineer | Austin, TX | posted: 2026-10-19
 - [ ] https://jobs.lever.co/egen/d1ed13ca-ebb1-4cbc-8277-8e849d69b522 | egen | ML Platform Engineer, Distributed Training | Remote | posted: 2026-10-19
 - [ ] https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e | solink | Software Engineer Co-op, Agents | Canada · Remote | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519 | openai | Software Engineer, Backend — Dots | New York City | posted: 2026-10-19
