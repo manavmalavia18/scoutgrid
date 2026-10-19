@@ -723,3 +723,8 @@
 - [ ] https://jobs.ashbyhq.com/circuithub/e398bbfc-4286-466e-a621-235cdb60a0bd | circuithub | Software Engineer, Robotics | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
 
 - [ ] https://job-boards.greenhouse.io/rushdownstudios/jobs/4457371009 | rushdownstudios | DevOps Engineer | United States (Remote) | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/mintmcp/dc911c27-5a3b-4dbf-96b6-e3cc36a2e005 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894846002 | tenet3 | Junior Frontend Software Engineer- Hybrid | Dayton, Ohio | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894917002 | tenet3 | Cloud/DevOps Engineer - Hybrid | Dayton, Ohio | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4744538005 | thenewyorktimes | Front-End Web Engineer - T Brand | New York, NY | posted: 2026-10-19
