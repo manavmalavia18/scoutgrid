@@ -716,3 +716,6 @@
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8891301002 | gitlab | Backend Engineer (Ruby), Create: Change Record | Remote, Poland; Remote, United Kingdom | posted: 2026-10-19
 
 - [ ] https://jobs.ashbyhq.com/circuithub/52a918be-07d1-4211-89ca-ed2d4b7a61c5 | circuithub | Software Engineer, Applied AI | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14 | circuithub | Software Engineer, Computer Vision | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091 | circuithub | Software Engineer, Front End & Design | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
