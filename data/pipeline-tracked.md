@@ -458,4 +458,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-5_R1004018-1 | Capital One | Full-stack Engineer 5 | Chicago, IL | posted: 2026-10-19
 - [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/NY---New-York/Machine-Learning-Engineer_R1076448 | Cvshealth | Machine Learning Engineer | 2 Locations | posted: 2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b | OpenAI | Software Engineer, CI/CD & ML Infrastructure | San Francisco | posted: 2026-10-19
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-2--Remote-_Req195675 | The Home Depot | Software Engineer 2 (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-19
+
 ## Processed
