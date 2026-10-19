@@ -10003,6 +10003,41 @@ tracked_companies:
     provider: ashby
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Heron Power"
+    careers_url: https://jobs.ashbyhq.com/heron-power
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fanatics"
+    careers_url: https://job-boards.greenhouse.io/fanaticsinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Rushdown Studios"
+    careers_url: https://job-boards.greenhouse.io/rushdownstudios
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Tenet3"
+    careers_url: https://job-boards.greenhouse.io/tenet3
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "The New York Times"
+    careers_url: https://job-boards.greenhouse.io/thenewyorktimes
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Quantinuum"
+    careers_url: https://jobs.eu.lever.co/quantinuum
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Snap Finance"
+    careers_url: https://snapfinance.wd1.myworkdayjobs.com/Snap_External_Careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from jobright
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
