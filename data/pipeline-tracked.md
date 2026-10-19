@@ -453,4 +453,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026522836 | Boeing | Full Stack Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Software-Developer_JR-202622686-1 | General Motors | Software Developer | Warren, Michigan, United States of America | posted: 2026-10-19
 
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Software-Development-Engineering---Advisor-I_R-10382096 | Fiserv | Software Development Engineering - Advisor I | 3 Locations | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4457503009 | GRVTY | Cloud Software Engineer | Annapolis Junction, Maryland, United States | posted: 2026-10-19
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-5_R1004018-1 | Capital One | Full-stack Engineer 5 | Chicago, IL | posted: 2026-10-19
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/NY---New-York/Machine-Learning-Engineer_R1076448 | Cvshealth | Machine Learning Engineer | 2 Locations | posted: 2026-10-19
+
 ## Processed
