@@ -413,4 +413,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Software-Engineer_REQ370325-1 | tmobile | Software Engineer | 3 Locations | posted: 2026-10-19
 - [ ] https://infios.wd502.myworkdayjobs.com/infios/job/Remote-Mexico/Software-Engineer_JR103002 | infios | Software Engineer | Remote Mexico | posted: 2026-10-19
 
+- [ ] https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Site-Reliability-Engineer-ll_JR_054437-1 | resmed | Site Reliability Engineer ll | San Diego, CA, United States | posted: 2026-10-19
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-2--Remote-_Req195675 | homedepot | Software Engineer 2 (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-19
+
 ## Processed
