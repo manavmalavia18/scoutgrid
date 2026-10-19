@@ -473,4 +473,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107068 | Remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-10-19
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296 | Citi | Angular Developer / Frontend Engineer (Entry-Level) | Irving Texas United States | posted: 2026-10-19
 
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008 | Scopely | Software Engineer, Machine Learning | US - San Francisco, California, United States | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/clera/55d30a46-e5bc-463f-a62b-c0a254c397b0 | Clera | AI Engineer | San Francisco | posted: 2026-10-19
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS---PMTS---Software-Factory--REMOTE-_JR363371 | Salesforce | Software Engineering LMTS / PMTS - Software Factory (REMOTE) | 2 Locations | posted: 2026-10-19
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer_R0120918 | Truist | Software Engineer | Atlanta, GA | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Software-Development-Engineer_JR2026513298 | Boeing | Experienced Software Development Engineer | 3 Locations | posted: 2026-10-19
+
 ## Processed
