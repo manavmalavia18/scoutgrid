@@ -432,4 +432,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/alan/93455a8c-fbc5-4421-986b-9a63e3f22b36 | Alan | Fullstack Software Engineer (x/f/m) - Alan Shop | Anywhere in Belgium, France | posted: 2026-10-19
 - [ ] https://jobs.ashbyhq.com/circuithub/2a208d5b-c870-4398-9990-9c3986634890 | CircuitHub | Software Engineer, Product | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/circuithub/52a918be-07d1-4211-89ca-ed2d4b7a61c5 | CircuitHub | Software Engineer, Applied AI | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/apex-technology-inc/4336aa85-3b5b-427c-a46e-611a9010bac3 | Apex | Software Engineer, Operating Systems | Los Angeles | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/atoms/jobs/8899479002 | Atoms | Back-End Engineer - Fleet Management | San Francisco, CA | posted: 2026-10-18
+- [ ] https://job-boards.greenhouse.io/atoms/jobs/8899477002 | Atoms | Full-Stack Engineer - Fleet Management | San Francisco, CA | posted: 2026-10-18
+- [ ] https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/Frisco-TX-USA/ATM-Software-Engineer---Postilion---Host-Loadset-Development_R1154869 | NCR Atleos | ATM Software Engineer – Postilion / Host Loadset Development | Frisco, TX, USA | posted: 2026-10-19
+- [ ] https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Vulnerability-Management-Platform-Engineer_R162714 | Northern Trust | Vulnerability Management Platform Engineer | 2 Locations | posted: 2026-10-19
+
 ## Processed
