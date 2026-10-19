@@ -386,4 +386,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store5434-Virginia-Beach-VA/Team-Captain-Endzone---Loyalty--Front-End-_202640811 | dickssportinggoods | Team Captain Endzone & Loyalty (Front End) | Store5434 Virginia Beach VA | posted: 2026-10-17
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Full-Stack-AI-ML-Developer_01883219 | globalhr | Full Stack AI/ML Developer - Digital Products (Remote) | US-CT-REMOTE | posted: 2026-10-18
+
 ## Processed
