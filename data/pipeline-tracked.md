@@ -443,4 +443,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14 | CircuitHub | Software Engineer, Computer Vision | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
 - [ ] https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091 | CircuitHub | Software Engineer, Front End & Design | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
 
+- [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598 | McKesson Corporation | Specialist, Software Engineering | 2 Locations | posted: 2026-10-19
+- [ ] https://thales.wd3.myworkdayjobs.com/careers/job/La-Ciotat/Site-Reliability-Engineer--F-H-_R0320073 | Thales | Site Reliability Engineer (F/H) | 2 Locations | posted: 2026-10-19
+
 ## Processed
