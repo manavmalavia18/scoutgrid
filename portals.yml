@@ -9928,6 +9928,61 @@ tracked_companies:
     provider: ashby
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "Apex"
+    careers_url: https://jobs.ashbyhq.com/apex-technology-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "ClickHouse"
+    careers_url: https://jobs.ashbyhq.com/clickhouse
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Monaco"
+    careers_url: https://jobs.ashbyhq.com/monaco
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "PointFive"
+    careers_url: https://jobs.ashbyhq.com/pointfive
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "RobCo"
+    careers_url: https://jobs.ashbyhq.com/robco
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "twenty"
+    careers_url: https://jobs.ashbyhq.com/twenty
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Atoms"
+    careers_url: https://job-boards.greenhouse.io/atoms
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "DiDi Autonomous Driving"
+    careers_url: https://job-boards.greenhouse.io/didi
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CrowdStrike"
+    careers_url: https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "NCR Atleos"
+    careers_url: https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Northern Trust"
+    careers_url: https://ntrs.wd1.myworkdayjobs.com/northerntrust
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
