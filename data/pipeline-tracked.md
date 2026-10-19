@@ -448,4 +448,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/AI-Engineering-Specialist_R-10400656 | Fiserv | Bilingual AI Software Development Engineer | Coral Springs, Florida | posted: 2026-10-19
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861 | Salesforce | Software Engineer (MTS), Frontier Strike (EntSecTech) | Washington - Bellevue | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Java-Software-Engineer--Associate-Experienced-_JR2026522825 | Boeing | Java Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026522836 | Boeing | Full Stack Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Software-Developer_JR-202622686-1 | General Motors | Software Developer | Warren, Michigan, United States of America | posted: 2026-10-19
+
 ## Processed
