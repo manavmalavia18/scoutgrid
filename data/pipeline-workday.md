@@ -410,4 +410,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Java-Software-Engineer--Associate-Experienced-_JR2026522825 | boeing | Java Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026522836 | boeing | Full Stack Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Software-Engineer_REQ370325-1 | tmobile | Software Engineer | 3 Locations | posted: 2026-10-19
+- [ ] https://infios.wd502.myworkdayjobs.com/infios/job/Remote-Mexico/Software-Engineer_JR103002 | infios | Software Engineer | Remote Mexico | posted: 2026-10-19
+
 ## Processed
