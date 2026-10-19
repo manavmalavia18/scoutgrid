@@ -702,3 +702,5 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265402007?gh_jid=5265402007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-10-14
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265401007?gh_jid=5265401007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-14
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007 | andurilindustries | Software Engineer, Interfaces | Waltham, Massachusetts, United States | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | reddit | Machine Learning Engineer, Answers Relevance | Remote - United States | posted: 2026-10-18
