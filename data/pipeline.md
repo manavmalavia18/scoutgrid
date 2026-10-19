@@ -740,3 +740,7 @@
 
 - [ ] https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b | openai | Software Engineer, CI/CD & ML Infrastructure | San Francisco | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/calendly/jobs/8895903002 | calendly | Full Stack Engineer III | Remote - US | posted: 2026-10-19
+
+- [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6225372004 | selffinancial | Backend Software Engineer | Austin, TX | posted: 2026-10-19
+- [ ] https://jobs.lever.co/egen/d1ed13ca-ebb1-4cbc-8277-8e849d69b522 | egen | ML Platform Engineer, Distributed Training | Remote | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e | solink | Software Engineer Co-op, Agents | Canada · Remote | posted: 2026-10-19
