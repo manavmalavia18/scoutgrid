@@ -424,4 +424,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/beaconsoftware/09f8c87c-e446-440e-b497-b4f5e67b4ab2 | Beacon Software | Portfolio Software Engineer | New York, NY | posted: 2026-10-18
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Full-Stack-AI-ML-Developer_01883219 | RTX | Full Stack AI/ML Developer - Digital Products (Remote) | US-CT-REMOTE | posted: 2026-10-18
 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | Reddit | Machine Learning Engineer, Answers Relevance | Remote - United States | posted: 2026-10-18
+
 ## Processed
