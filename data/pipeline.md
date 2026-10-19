@@ -704,3 +704,5 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007 | andurilindustries | Software Engineer, Interfaces | Waltham, Massachusetts, United States | posted: 2026-10-14
 
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | reddit | Machine Learning Engineer, Answers Relevance | Remote - United States | posted: 2026-10-18
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8275745 | reddit | Software Engineer, Agent Optimization & Evaluation | Remote - United States | posted: 2026-10-19
