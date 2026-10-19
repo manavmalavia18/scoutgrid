@@ -418,4 +418,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/Machine-Learning-Engineer--Data-and-Digital-Catalyst-_202610-125840 | roche | Machine Learning Engineer (Data and Digital Catalyst) | South San Francisco | posted: 2026-10-19
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure--Core-Inference--Level-4_R0047199-1 | snapchat | Software Engineer, ML Infrastructure, Core Inference, Level 4 | 2 Locations | posted: 2026-10-19
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J281003 | highmarkhealth | Software Engineer | 51 Locations | posted: 2026-10-19
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00350752-1 | asml | Optical Fabrication Technician CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-10-19
+
 ## Processed
