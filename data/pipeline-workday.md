@@ -403,4 +403,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://tealium.wd1.myworkdayjobs.com/careers/job/Remote-Poland/Software-Engineer---Connectors---Integrations_ | tealium | Software Engineer - Connectors & Integrations | Remote Poland | posted: 2026-10-19
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Software-Developer_JR-202622686-1 | generalmotors | Software Developer | Warren, Michigan, United States of America | posted: 2026-10-19
 
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Software-Development-Engineering---Advisor-I_R-10382096 | fiserv | Software Development Engineering - Advisor I | 3 Locations | posted: 2026-10-19
+- [ ] https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/NY---New-York/Machine-Learning-Engineer_R1076448 | cvshealth | Machine Learning Engineer | 2 Locations | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Herndon-VA/Java-Software-Engineer--Associate-Experienced-_JR2026522825-1 | boeing | Java Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Herndon-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026522836-1 | boeing | Full Stack Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Java-Software-Engineer--Associate-Experienced-_JR2026522825 | boeing | Java Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Herndon-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026522836 | boeing | Full Stack Software Engineer (Associate/Experienced) | USA - Herndon, VA | posted: 2026-10-19
+
 ## Processed
