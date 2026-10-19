@@ -424,4 +424,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00353307 | asml | Optical Fabrication Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | posted: 2026-10-19
 
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107068 | remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-10-19
+- [ ] https://fullsteam.wd1.myworkdayjobs.com/external/job/CAN-ON-Remote/Frontend-Engineer_JR102321 | fullsteam | Frontend Engineer | CAN-ON-Remote | posted: 2026-10-19
+
 ## Processed
