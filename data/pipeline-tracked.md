@@ -463,4 +463,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.eu.greenhouse.io/unframe/jobs/5010248101 | Unframe AI | Full Stack Software Engineer (Remote) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Miami, Florida, United States; New York, New York, United States; Tampa, Florida, United States | posted: 2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/mantle/bdbdcb02-e246-4a7b-9aec-9ab2405478f1 | Mantle | Software Engineer, Applied AI | San Francisco | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/mantle/f86d93b4-26df-4b1e-9840-da69b44fe487 | Mantle | Software Engineer, Mobile | San Francisco | posted: 2026-10-19
+
 ## Processed
