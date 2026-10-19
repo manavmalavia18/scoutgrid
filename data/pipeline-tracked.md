@@ -446,4 +446,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598 | McKesson Corporation | Specialist, Software Engineering | 2 Locations | posted: 2026-10-19
 - [ ] https://thales.wd3.myworkdayjobs.com/careers/job/La-Ciotat/Site-Reliability-Engineer--F-H-_R0320073 | Thales | Site Reliability Engineer (F/H) | 2 Locations | posted: 2026-10-19
 
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/AI-Engineering-Specialist_R-10400656 | Fiserv | Bilingual AI Software Development Engineer | Coral Springs, Florida | posted: 2026-10-19
+
 ## Processed
