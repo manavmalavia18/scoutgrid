@@ -427,4 +427,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107068 | remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-10-19
 - [ ] https://fullsteam.wd1.myworkdayjobs.com/external/job/CAN-ON-Remote/Frontend-Engineer_JR102321 | fullsteam | Frontend Engineer | CAN-ON-Remote | posted: 2026-10-19
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Engineer---Context-and-Semantics--AI-_JR-0110210 | workday | Software Engineer - Context and Semantics (AI) | USA, CA, Pleasanton | posted: 2026-10-19
+- [ ] https://trellix.wd1.myworkdayjobs.com/enterprisecareers/job/Enterprise---US-Texas-Frisco/Software-Development-Engineer---Agentic-AI_JR0037660 | trellix | Software Development Engineer – Agentic AI | Enterprise - US, Texas, Frisco | posted: 2026-10-19
+- [ ] https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/Chicago/Supervisor--D365-CE---Power-Platform-Engineering_JR122010 | rsm | Supervisor, D365 CE & Power Platform Engineering | 6 Locations | posted: 2026-10-19
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Software-Engineer---Software-Test_R10248205 | ngc | Software Engineer - Software Test | 2 Locations | posted: 2026-10-19
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-293589 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-19
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Arlington-Virginia/Software-Engineer-II_R-293167 | mastercard | Software Engineer II | Arlington, Virginia | posted: 2026-10-19
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Software-Engineer_J00179910 | equifax | Software Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-19
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Software-Engineer_J00179903 | equifax | Software Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Experienced-Software-Development-Engineer_JR2026513298-1 | boeing | Experienced Software Development Engineer | 3 Locations | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Software-Development-Engineer_JR2026513298 | boeing | Experienced Software Development Engineer | 3 Locations | posted: 2026-10-19
+
 ## Processed
