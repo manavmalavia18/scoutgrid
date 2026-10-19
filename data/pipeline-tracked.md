@@ -426,4 +426,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | Reddit | Machine Learning Engineer, Answers Relevance | Remote - United States | posted: 2026-10-18
 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8275745 | Reddit | Software Engineer, Agent Optimization & Evaluation | Remote - United States | posted: 2026-10-19
+
 ## Processed
