@@ -714,3 +714,5 @@
 - [ ] https://jobs.ashbyhq.com/skelar/097f08ad-4d39-4f63-8308-7c73b9b45a5e | skelar | Full-stack Marketing Designer | Ukraine, Remote · Lviv · Ukraine · Krakow · Poland · Kyiv · Warsaw · Dnipro | posted: 2026-10-19
 - [ ] https://jobs.ashbyhq.com/alan/93455a8c-fbc5-4421-986b-9a63e3f22b36 | alan | Fullstack Software Engineer (x/f/m) - Alan Shop | Anywhere in Belgium, France | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8891301002 | gitlab | Backend Engineer (Ruby), Create: Change Record | Remote, Poland; Remote, United Kingdom | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/circuithub/52a918be-07d1-4211-89ca-ed2d4b7a61c5 | circuithub | Software Engineer, Applied AI | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
