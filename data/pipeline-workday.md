@@ -393,4 +393,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499 | ngc | 2027 Associate/Software Engineer Pathways Linthicum MA | United States-Maryland-Linthicum | posted: 2026-10-19
 
+- [ ] https://theirc.wd1.myworkdayjobs.com/external_careers/job/New-York-NY-HQ-USA/AI-Platform-Engineer_JR00005419 | theirc | AI Platform Engineer | New York, NY HQ USA | posted: 2026-10-19
+- [ ] https://thales.wd3.myworkdayjobs.com/careers/job/La-Ciotat/Site-Reliability-Engineer--F-H-_R0320073 | thales | Site Reliability Engineer (F/H) | 2 Locations | posted: 2026-10-19
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598-1 | mckesson | Specialist, Software Engineering | 2 Locations | posted: 2026-10-19
+- [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598 | mckesson | Specialist, Software Engineering | 2 Locations | posted: 2026-10-19
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/AI-Engineering-Specialist_R-10400656 | fiserv | Bilingual AI Software Development Engineer | Coral Springs, Florida | posted: 2026-10-19
+
 ## Processed
