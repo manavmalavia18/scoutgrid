@@ -9993,6 +9993,11 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Rivian and Volkswagen Group Technologies"
+    careers_url: https://jobs.ashbyhq.com/rivianvw.tech
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
