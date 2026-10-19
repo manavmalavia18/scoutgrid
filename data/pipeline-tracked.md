@@ -461,4 +461,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b | OpenAI | Software Engineer, CI/CD & ML Infrastructure | San Francisco | posted: 2026-10-19
 - [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-2--Remote-_Req195675 | The Home Depot | Software Engineer 2 (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-19
 
+- [ ] https://job-boards.eu.greenhouse.io/unframe/jobs/5010248101 | Unframe AI | Full Stack Software Engineer (Remote) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Miami, Florida, United States; New York, New York, United States; Tampa, Florida, United States | posted: 2026-10-19
+
 ## Processed
