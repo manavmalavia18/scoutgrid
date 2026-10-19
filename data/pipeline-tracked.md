@@ -428,4 +428,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8275745 | Reddit | Software Engineer, Agent Optimization & Evaluation | Remote - United States | posted: 2026-10-19
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8891301002 | Gitlab | Backend Engineer (Ruby), Create: Change Record | Remote, Poland; Remote, United Kingdom | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/alan/93455a8c-fbc5-4421-986b-9a63e3f22b36 | Alan | Fullstack Software Engineer (x/f/m) - Alan Shop | Anywhere in Belgium, France | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/2a208d5b-c870-4398-9990-9c3986634890 | CircuitHub | Software Engineer, Product | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+
 ## Processed
