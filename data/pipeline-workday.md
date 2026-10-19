@@ -391,4 +391,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Vulnerability-Management-Platform-Engineer_R162714 | ntrs | Vulnerability Management Platform Engineer | 2 Locations | posted: 2026-10-19
 - [ ] https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/Frisco-TX-USA/ATM-Software-Engineer---Postilion---Host-Loadset-Development_R1154869 | ncratleos | ATM Software Engineer – Postilion / Host Loadset Development | Frisco, TX, USA | posted: 2026-10-19
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499 | ngc | 2027 Associate/Software Engineer Pathways Linthicum MA | United States-Maryland-Linthicum | posted: 2026-10-19
+
 ## Processed
