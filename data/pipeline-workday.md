@@ -416,4 +416,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Site-Reliability-Engineer-ll_JR_054437-1 | resmed | Site Reliability Engineer ll | San Diego, CA, United States | posted: 2026-10-19
 - [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-2--Remote-_Req195675 | homedepot | Software Engineer 2 (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-19
 
+- [ ] https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/Machine-Learning-Engineer--Data-and-Digital-Catalyst-_202610-125840 | roche | Machine Learning Engineer (Data and Digital Catalyst) | South San Francisco | posted: 2026-10-19
+
 ## Processed
