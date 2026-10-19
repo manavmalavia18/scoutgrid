@@ -466,4 +466,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mantle/bdbdcb02-e246-4a7b-9aec-9ab2405478f1 | Mantle | Software Engineer, Applied AI | San Francisco | posted: 2026-10-19
 - [ ] https://jobs.ashbyhq.com/mantle/f86d93b4-26df-4b1e-9840-da69b44fe487 | Mantle | Software Engineer, Mobile | San Francisco | posted: 2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/clera/4b4a51c6-e28e-409c-9f0a-04ea0efbe371 | Clera | AI/ML Engineer, Individual Contributor | San Francisco | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519 | OpenAI | Software Engineer, Backend — Dots | New York City | posted: 2026-10-19
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J281003 | Highmark Health | Software Engineer | 51 Locations | posted: 2026-10-19
+
 ## Processed
