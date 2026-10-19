@@ -748,3 +748,5 @@
 - [ ] https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519 | openai | Software Engineer, Backend — Dots | New York City | posted: 2026-10-19
 
 - [ ] https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8 | notion | Software Engineer, Developer Platform | San Francisco, California · New York, New York · New York · United States | posted: 2026-10-19
+
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8828043002 | alarmcom | DevOps Engineer | Tysons, Virginia | posted: 2026-10-19
