@@ -9983,6 +9983,16 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Swap"
+    careers_url: https://jobs.ashbyhq.com/swap
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Deutsche Bank"
+    careers_url: https://db.wd3.myworkdayjobs.com/dbwebsite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
