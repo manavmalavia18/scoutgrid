@@ -737,3 +737,6 @@
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4457503009 | grvty | Cloud Software Engineer | Annapolis Junction, Maryland, United States | posted: 2026-10-19
 
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4457548009 | grvty | Software Engineer | Annapolis Junction, Maryland, United States | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b | openai | Software Engineer, CI/CD & ML Infrastructure | San Francisco | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8895903002 | calendly | Full Stack Engineer III | Remote - US | posted: 2026-10-19
