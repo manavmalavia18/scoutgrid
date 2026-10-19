@@ -624,4 +624,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003 | abnormalsecurity | Software Engineer 1 - Cloud Infrastructure | Remote - USA | posted: 2026-10-17
 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8275745 | reddit | Software Engineer, Agent Optimization & Evaluation | Remote - United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | reddit | Machine Learning Engineer, Answers Relevance | Remote - United States | posted: 2026-10-18
+
 ## Processed
