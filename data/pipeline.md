@@ -706,3 +706,6 @@
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | reddit | Machine Learning Engineer, Answers Relevance | Remote - United States | posted: 2026-10-18
 
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8275745 | reddit | Software Engineer, Agent Optimization & Evaluation | Remote - United States | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/apex-technology-inc/4336aa85-3b5b-427c-a46e-611a9010bac3 | apex-technology-inc | Software Engineer, Operating Systems | Los Angeles | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456453008 | anthropic | Software Engineer, Memory & Search | New York City, NY; New York City, NY / Seattle, WA; Remote-Friendly, United States; San Francisco, CA / New York City, NY / Seattle, WA | posted: 2026-10-19
