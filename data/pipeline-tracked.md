@@ -470,4 +470,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519 | OpenAI | Software Engineer, Backend — Dots | New York City | posted: 2026-10-19
 - [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J281003 | Highmark Health | Software Engineer | 51 Locations | posted: 2026-10-19
 
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107068 | Remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-10-19
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296 | Citi | Angular Developer / Frontend Engineer (Entry-Level) | Irving Texas United States | posted: 2026-10-19
+
 ## Processed
