@@ -388,4 +388,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Full-Stack-AI-ML-Developer_01883219 | globalhr | Full Stack AI/ML Developer - Digital Products (Remote) | US-CT-REMOTE | posted: 2026-10-18
 
+- [ ] https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Vulnerability-Management-Platform-Engineer_R162714 | ntrs | Vulnerability Management Platform Engineer | 2 Locations | posted: 2026-10-19
+- [ ] https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/Frisco-TX-USA/ATM-Software-Engineer---Postilion---Host-Loadset-Development_R1154869 | ncratleos | ATM Software Engineer – Postilion / Host Loadset Development | Frisco, TX, USA | posted: 2026-10-19
+
 ## Processed
