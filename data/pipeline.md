@@ -750,3 +750,23 @@
 - [ ] https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8 | notion | Software Engineer, Developer Platform | San Francisco, California · New York, New York · New York · United States | posted: 2026-10-19
 
 - [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8828043002 | alarmcom | DevOps Engineer | Tysons, Virginia | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/infisical/351240fc-0dd3-48c3-a46e-e8861cae27cd | infisical | Full Stack Engineer | United States · United Kingdom · Brazil · Canada · Remote | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/tenex/8d761b69-44ba-48c9-ae3c-33ab46fda0cf | tenex | Software Engineer II (REMOTE) | Remote, USA | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/8038003003 | coherehealth | Software Engineer II | United States | posted: 2026-10-19
+- [ ] https://thrivemarketjobs.com/job_posting.html?id=4458409009&gh_jid=4458409009 | thrivemarket | Site Reliability Engineer | Playa Vista, CA or Remote | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/known/540cf0e7-05e4-471c-bbf6-73dde7c6e279 | known | Backend Engineer | San Francisco, CA | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/8015117003 | launchdarkly | Backend Software Engineer, SDK | Remote - US | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/runway-ml/d761c781-5291-461e-aa7a-d25b3165663b | runway-ml | Member of Applied AI Team | Remote · Seattle, WA · Seattle · United States · London · United Kingdom · New York, NY · New York City · San Francisco, CA · San Francisco | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/offerup/jobs/8301852 | offerup | Software Development Engineer II (Remote @ Colombia) | Remote @ Colombia | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/8015082003 | coherehealth | Software Engineer I | United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456018008 | anthropic | IT Systems Engineer, Client Platform Engineer, ChromeOS | Boston, MA; Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY; Washington, DC | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/capitaltg/jobs/5268774007?gh_jid=5268774007 | capitaltg | CyberArk SME / DevOps Engineer | Remote (US) | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4723171006?gh_jid=4723171006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/homechefinternalemployees/jobs/5450221008 | homechefinternalemployees | Software Engineer II | Chicago, IL | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/homechef/jobs/5450220008 | homechef | Software Engineer II | Chicago, IL | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4723163006?gh_jid=4723163006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265763007?gh_jid=5265763007 | andurilindustries | Computer Vision Software Engineer, Software Defined Weapon Optic | Costa Mesa, California, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008 | scopely | Software Engineer, Machine Learning | US - San Francisco, California, United States | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268307007?gh_jid=5268307007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268306007?gh_jid=5268306007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-19
