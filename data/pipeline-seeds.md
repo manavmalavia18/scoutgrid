@@ -634,4 +634,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/apex-technology-inc/4336aa85-3b5b-427c-a46e-611a9010bac3 | apex-technology-inc | Software Engineer, Operating Systems | Los Angeles | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456453008 | anthropic | Software Engineer, Memory & Search | New York City, NY; New York City, NY / Seattle, WA; Remote-Friendly, United States; San Francisco, CA / New York City, NY / Seattle, WA | posted: 2026-10-19
 
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4457548009 | grvty | Software Engineer | Annapolis Junction, Maryland, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4457503009 | grvty | Cloud Software Engineer | Annapolis Junction, Maryland, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4457479009 | grvty | Software Engineer | Annapolis Junction, Maryland, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005 | bracebridgecapital | Northeastern University Software Engineer - Application Development Co-op | Boston, MA | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005 | bracebridgecapital | Northeastern University Software Engineer - Business Intelligence Co-op | Boston | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/mintmcp/dc911c27-5a3b-4dbf-96b6-e3cc36a2e005 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894846002 | tenet3 | Junior Frontend Software Engineer- Hybrid | Dayton, Ohio | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894917002 | tenet3 | Cloud/DevOps Engineer - Hybrid | Dayton, Ohio | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/rushdownstudios/jobs/4457371009 | rushdownstudios | DevOps Engineer | United States (Remote) | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268307007?gh_jid=5268307007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268306007?gh_jid=5268306007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/e398bbfc-4286-466e-a621-235cdb60a0bd | circuithub | Software Engineer, Robotics | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14 | circuithub | Software Engineer, Computer Vision | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091 | circuithub | Software Engineer, Front End & Design | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/52a918be-07d1-4211-89ca-ed2d4b7a61c5 | circuithub | Software Engineer, Applied AI | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+
 ## Processed
