@@ -728,3 +728,6 @@
 - [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894846002 | tenet3 | Junior Frontend Software Engineer- Hybrid | Dayton, Ohio | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894917002 | tenet3 | Cloud/DevOps Engineer - Hybrid | Dayton, Ohio | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4744538005 | thenewyorktimes | Front-End Web Engineer - T Brand | New York, NY | posted: 2026-10-19
+
+- [ ] https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005 | bracebridgecapital | Northeastern University Software Engineer - Application Development Co-op | Boston, MA | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005 | bracebridgecapital | Northeastern University Software Engineer - Business Intelligence Co-op | Boston | posted: 2026-10-19
