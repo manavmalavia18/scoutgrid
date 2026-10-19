@@ -439,4 +439,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/Frisco-TX-USA/ATM-Software-Engineer---Postilion---Host-Loadset-Development_R1154869 | NCR Atleos | ATM Software Engineer – Postilion / Host Loadset Development | Frisco, TX, USA | posted: 2026-10-19
 - [ ] https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Vulnerability-Management-Platform-Engineer_R162714 | Northern Trust | Vulnerability Management Platform Engineer | 2 Locations | posted: 2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/circuithub/e398bbfc-4286-466e-a621-235cdb60a0bd | CircuitHub | Software Engineer, Robotics | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14 | CircuitHub | Software Engineer, Computer Vision | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091 | CircuitHub | Software Engineer, Front End & Design | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-10-19
+
 ## Processed
