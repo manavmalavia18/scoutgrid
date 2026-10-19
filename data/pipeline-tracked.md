@@ -479,4 +479,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer_R0120918 | Truist | Software Engineer | Atlanta, GA | posted: 2026-10-19
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Software-Development-Engineer_JR2026513298 | Boeing | Experienced Software Development Engineer | 3 Locations | posted: 2026-10-19
 
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-107932-1 | Expedia | Software Development Engineer II - Payments | Washington - Seattle Campus | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/infisical/351240fc-0dd3-48c3-a46e-e8861cae27cd | Infisical | Full Stack Engineer | United States · United Kingdom · Brazil · Canada · Remote | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/tenex/8d761b69-44ba-48c9-ae3c-33ab46fda0cf | Tenex | Software Engineer II (REMOTE) | Remote, USA | posted: 2026-10-19
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420 | Boeing | Associate Flight Test Data Processing Software Engineer | USA - Berkeley, MO | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/fanaticsinc/jobs/4457595009 | Fanatics | Applied AI Engineer | New York, NY, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/rushdownstudios/jobs/4457371009 | Rushdown Studios | DevOps Engineer | United States (Remote) | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894917002 | Tenet3 | Cloud/DevOps Engineer - Hybrid | Dayton, Ohio | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894846002 | Tenet3 | Junior Frontend Software Engineer- Hybrid | Dayton, Ohio | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4744538005 | The New York Times | Front-End Web Engineer - T Brand | New York, NY | posted: 2026-10-19
+
 ## Processed
