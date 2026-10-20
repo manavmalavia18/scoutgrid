@@ -522,4 +522,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Illinois-Chicago/DevOps-Engineer_JR102824 | Itron | DevOps Engineer | United States of America, Illinois, Chicago | posted: 2026-10-20
 - [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-4_Q426SWEFS2 | Snap Inc. | Software Engineer, Full Stack, Level 4 | 5 Locations | posted: 2026-10-20
 
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8236513 | Boxinc | Software Engineer III, Events Processing | Redwood City, CA, United States | posted: 2026-10-20
+- [ ] https://jobs.smartrecruiters.com/WellmarkInc/744000156596619 | WellmarkInc | Platform Engineer - Product Development and Quoting | Des Moines, IA, United States | posted: 2026-10-20
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000156619374 | ServiceNow | Software Engineer - Federal | Santa Clara, CALIFORNIA, United States | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/hex/b3921203-d928-40ac-9675-a58a9cdbaafa | Hex | Software Engineer, Infrastructure | Remote - US | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c | OpenAI | Software Engineer, TPU Compilers | San Francisco | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/reliable-robotics/8427dd70-4a63-4ec5-bf10-6f5cfebbe0dd | Reliable Robotics | Simulation Software Engineer | Mountain View, CA · Seattle, WA · Seattle · United States · San Diego, CA · San Diego | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/gradial/jobs/4459656009 | Gradial | Software Engineer | Seattle, WA | posted: 2026-10-20
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer--Applications--Trusted-Content-Standards_R26-8108 | Rockwell Automation | Software Engineer, Applications, Trusted Content Standards | 4 Locations | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8017509003 | Affirm | Software Engineer II, Backend (Purchasing Power - Core) | Remote Canada | posted: 2026-10-20
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Machine-Learning-Engineer-4_R1003405-1 | Capital One | Machine Learning Engineer 4 | New York, NY | posted: 2026-10-20
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Remote---USA/Python---Java-Full-Stack-Developer--AI-Assisted-_J2466341-1 | Jabil | Python & Java Full Stack Developer | Remote - USA | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb | 1Password | Frontend Developer, Device Security | Remote (United States / Canada) | posted: 2026-10-20
+- [ ] https://uchicago.wd5.myworkdayjobs.com/external/job/Chicago-IL/Junior-Software-Developer_JR35628 | University of Chicago | Junior Software Developer | Chicago, IL | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/rivianvw.tech/45773489-7107-4942-92d0-3f9c48ef79e0 | Rivian and Volkswagen Group Technologies | Software Engineer, Edge AI | Palo Alto, California | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/unify/cf6a04a0-dd94-4345-aef2-168f38b50ae1 | Unify Technologies | Applied AI Engineer | San Francisco Office · New York Office · New York City · United States | posted: 2026-10-20
+
 ## Processed
