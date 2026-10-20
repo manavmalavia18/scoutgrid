@@ -500,4 +500,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mintive/dc911c27-5a3b-4dbf-96b6-e3cc36a2e005 | Mintive | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6225372004 | Self Financial, Inc. | Backend Software Engineer | Austin, TX | posted: 2026-10-19
 
+- [ ] https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829 | Mimecast | Software Engineer I | United States of America– Minnesota – Minneapolis | posted: 2026-10-20
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Software-Development-Engineer-in-Test_R0148252 | Hitachi | Software Development Engineer in Test | Santa Clara, California, United States | posted: 2026-10-20
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452 | RTX | Part time Software Engineer Co-op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | posted: 2026-10-20
+
 ## Processed
