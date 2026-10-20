@@ -770,3 +770,12 @@
 - [ ] https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008 | scopely | Software Engineer, Machine Learning | US - San Francisco, California, United States | posted: 2026-10-19
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268307007?gh_jid=5268307007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-10-19
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268306007?gh_jid=5268306007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-19
+
+- [ ] https://jobs.ashbyhq.com/voyant-photonics/4a23ee3a-2087-4525-8979-c704f6bbd8bb | voyant-photonics | Systems Software Engineer, Hardware Validation | New York Office (HQ) | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/pumpcareers/jobs/5457861008 | pumpcareers | Backend Engineer | San Francisco, CA | posted: 2026-10-20
+- [ ] https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac | palantir | Software Engineer, New Grad - Query Engines | New York, NY | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269031007?gh_jid=5269031007 | andurilindustries | Software Engineer - Payload Integrations | Costa Mesa, California, United States | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/relativity/jobs/8892460002?gh_jid=8892460002 | relativity | Software Development Engineer in Test I | Long Beach, California, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4458584009 | avride | Labeling Backend Software Engineer | Austin, Texas | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268991007?gh_jid=5268991007 | andurilindustries | Classified Platform Engineer | Washington, District of Columbia, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455961008 | anthropic | Applied AI Demo Engineer | San Francisco, CA / New York City, NY | posted: 2026-10-19
