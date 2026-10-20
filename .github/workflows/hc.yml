@@ -59,6 +59,12 @@ jobs:
           # actually takes effect here instead of being silently pinned to
           # whatever a one-time override says.
 
+      - name: Disconnect from Tailscale exit node
+        # GitHub became unreachable through the residential exit node after
+        # long scrapes (DNS: "Could not resolve host: github.com"). Restore the
+        # runner's normal network before git pull/push.
+        run: sudo tailscale down || true
+
       - name: Commit results
         run: |
           git config user.name "scoutgrid-bot"

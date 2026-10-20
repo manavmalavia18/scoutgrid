@@ -59,6 +59,12 @@ jobs:
           # doesn't silently fall back to the software-role defaults.
           HC_QUERIES: "data engineer|data analyst|data scientist|etl developer|power bi developer|database administrator|business intelligence engineer|business intelligence analyst|analytics engineer|machine learning engineer|ai ml engineer|data warehouse engineer|product analyst"
 
+      - name: Disconnect from Tailscale exit node
+        # GitHub became unreachable through the residential exit node after
+        # long scrapes (DNS: "Could not resolve host: github.com"). Restore the
+        # runner's normal network before git pull/push.
+        run: sudo tailscale down || true
+
       - name: Commit results
         run: |
           git config user.name "scoutgrid-bot"
