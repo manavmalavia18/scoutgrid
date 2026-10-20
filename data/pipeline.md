@@ -1032,3 +1032,10 @@
 - [ ] https://job-boards.greenhouse.io/jordanparkgroup/jobs/6229011004 | jordanparkgroup | Associate - Software Developer | San Francisco, California, United States | posted: 2026-10-20
 
 - [ ] https://jobs.ashbyhq.com/promise/8e0610c9-74b9-4c76-a8a9-c9de01a12419 | promise | Software Engineer - Platform & Infrastructure | Washington, D.C. | posted: 2026-10-20
+
+- [ ] https://jobs.ashbyhq.com/obsidiansystems/0a44c74d-4519-4cce-9596-dd75c5ecbdd5 | obsidiansystems | Functional Software Engineer | USA - East Coast · Miami · United States · Canada - East Coast · Canada · Remote | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mintmcp/e4a065d0-7730-4f75-a74f-ae75ffd78168 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/patreon/2c79ab4b-6479-451d-bbac-e2e2fb0dc911 | patreon | Software Engineer, Backend | New York | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mirage/90f94252-d48f-41a8-b0a5-066f48552083 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mirage/0d823573-16d7-4b05-915b-e6e5fe7cfb12 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-20
+- [ ] https://jobs.lever.co/xsolla/c2cf774d-e285-480b-96a3-3f133a243eff | xsolla | Software Engineer | Remote USA | posted: 2026-10-20
