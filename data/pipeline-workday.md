@@ -460,4 +460,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4_R1001188-1 | capitalone | Full Stack Engineer 4 | 2 Locations | posted: 2026-10-20
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4_R1004106-1 | capitalone | AI Engineer 4 | 5 Locations | posted: 2026-10-20
 
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Software-Development-Engineer-in-Test_R0148252 | hitachi | Software Development Engineer in Test | Santa Clara, California, United States | posted: 2026-10-20
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452 | globalhr | Part time Software Engineer Co-op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | posted: 2026-10-20
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545 | globalhr | Part time Software Engineer Co-op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | posted: 2026-10-20
+
 ## Processed
