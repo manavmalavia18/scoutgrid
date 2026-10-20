@@ -464,4 +464,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452 | globalhr | Part time Software Engineer Co-op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | posted: 2026-10-20
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545 | globalhr | Part time Software Engineer Co-op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | posted: 2026-10-20
 
+- [ ] https://wisconsin.wd1.myworkdayjobs.com/uw_madison/job/Madison-WI/Software-Engineer_JR10015741 | wisconsin | Software Engineer | University of Wisconsin Madison | posted: 2026-10-20
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Site-Reliability-Engineer_JREQ204647 | thomsonreuters | Site Reliability Engineer | United States of America Eagan Minnesota | posted: 2026-10-20
+- [ ] https://solutionhealth.wd1.myworkdayjobs.com/careers/job/Remote---NH/Solutionhealth---Platform-Engineer---IT---Full-Time---HYBRID_JR13888 | solutionhealth | Solutionhealth - Platform Engineer - IT - Full Time - HYBRID | 2 Locations | posted: 2026-10-20
+- [ ] https://solutionhealth.wd1.myworkdayjobs.com/careers/job/Remote---NH/Solutionhealth---Platform-Engineer---IT---Full-Time---HYBRID_JR13889 | solutionhealth | Solutionhealth - Platform Engineer - IT - Full Time - HYBRID | 2 Locations | posted: 2026-10-20
+- [ ] https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-II_R6804 | mimecast | Software Engineer II | United States of America– Minnesota – Minneapolis | posted: 2026-10-20
+- [ ] https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829 | mimecast | Software Engineer I | United States of America– Minnesota – Minneapolis | posted: 2026-10-20
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Supply-Chain-Sourcing-Core--Remote-_Req196309 | homedepot | Software Engineer II, Supply Chain Sourcing Core (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-20
+- [ ] https://creditacceptance.wd5.myworkdayjobs.com/credit_acceptance/job/USA---Remote/Software-Engineer-II--Data_R13795-1 | creditacceptance | Software Engineer II, Data | USA - Remote | posted: 2026-10-20
+
 ## Processed
