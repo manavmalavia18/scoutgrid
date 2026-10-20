@@ -1054,3 +1054,15 @@
 - [ ] https://jobs.ashbyhq.com/shepherd/c4081c3d-a79b-4ac9-aa19-78f5e1a24c4d | shepherd | Software Engineer, Full Stack | San Francisco | posted: 2026-10-20
 - [ ] https://www.cedar.com/careers/open-roles?gh_jid=8285401 | careportalinc | Platform Engineer III | USA | posted: 2026-10-20
 - [ ] https://job-boards.greenhouse.io/future/jobs/4745515005 | future | Applied AI Engineer | Remote · Remote | posted: 2026-10-20
+
+- [ ] https://www.fieldwire.com/job/8886697002?gh_jid=8886697002 | fieldwire | Mid-Level AI & Machine Learning Engineer | San Francisco, CA (Hybrid) | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52 | quora | Full Stack Software Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/astra/c34d486b-4fc9-4c24-8a18-577fcd6d5194 | astra | Backend Engineer | Remote - US Only | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/8304333 | trace3 | Software Engineer / Scrum Master - PLNR (26-394) | Colorado Springs, CO | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/8304310 | trace3 | Software Engineer (GAITS - Analyst Team) (26-386) | Colorado Springs, CO | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/ardentmc/jobs/8287674?gh_jid=8287674 | ardentmc | Geospatial Application Developer | Washington, D.C. Metro - hybrid/remote | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/unify/cf6a04a0-dd94-4345-aef2-168f38b50ae1 | unify | Applied AI Engineer | San Francisco Office · New York Office · New York City · United States | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/creatoriq/db2c1016-e927-45e8-aced-5010660faad5 | creatoriq | Backend Software Engineer (Python / Go) | Warsaw · Remote | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007 | andurilindustries | Classified Cloud & Platform Engineer | Costa Mesa, California, United States | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269889007?gh_jid=5269889007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269886007?gh_jid=5269886007 | andurilindustries | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
