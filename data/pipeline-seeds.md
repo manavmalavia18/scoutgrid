@@ -669,4 +669,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b | openai | Software Engineer, CI/CD & ML Infrastructure | San Francisco | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/calendly/jobs/8895903002 | calendly | Full Stack Engineer - Trust and Safety | Remote - US | posted: 2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/voyant-photonics/4a23ee3a-2087-4525-8979-c704f6bbd8bb | voyant-photonics | Systems Software Engineer, Hardware Validation | New York Office (HQ) | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/pumpcareers/jobs/5457861008 | pumpcareers | Backend Engineer | San Francisco, CA | posted: 2026-10-20
+- [ ] https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac | palantir | Software Engineer, New Grad - Query Engines | New York, NY | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269031007?gh_jid=5269031007 | andurilindustries | Software Engineer - Payload Integrations | Costa Mesa, California, United States | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/relativity/jobs/8892460002?gh_jid=8892460002 | relativity | Software Development Engineer in Test I | Long Beach, California, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4458584009 | avride | Labeling Backend Software Engineer | Austin, Texas | posted: 2026-10-19
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268991007?gh_jid=5268991007 | andurilindustries | Classified Platform Engineer | Washington, District of Columbia, United States | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455961008 | anthropic | Applied AI Demo Engineer | San Francisco, CA / New York City, NY | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/tenex/8d761b69-44ba-48c9-ae3c-33ab46fda0cf | tenex | Software Engineer II (REMOTE) | Remote, USA | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/8038003003 | coherehealth | Software Engineer II | United States | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/known/540cf0e7-05e4-471c-bbf6-73dde7c6e279 | known | Backend Engineer | San Francisco, CA | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/8015117003 | launchdarkly | Backend Software Engineer, SDK | Remote - US | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/runway-ml/d761c781-5291-461e-aa7a-d25b3165663b | runway-ml | Member of Applied AI Team | Remote · Seattle, WA · Seattle · United States · London · United Kingdom · New York, NY · New York City · San Francisco, CA · San Francisco | posted: 2026-10-19
+
 ## Processed
