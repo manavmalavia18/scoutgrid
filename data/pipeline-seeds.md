@@ -937,4 +937,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.lever.co/xsolla/c2cf774d-e285-480b-96a3-3f133a243eff | xsolla | Software Engineer | Remote USA | posted: 2026-10-20
 
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8017509003 | affirm | Software Engineer II, Backend (Purchasing Power - Core) | Remote Canada | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8236513 | boxinc | Software Engineer III, Events Processing | Redwood City, CA, United States | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/gradial/jobs/4459656009 | gradial | Software Engineer | Seattle, WA | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5269753007 | sparksoftcorporation | Mid-Level Application Developer | Remote/Hybrid if local to Maryland | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/geotab/jobs/5453858008 | geotab | Site Reliability Engineering | Atlanta, Georgia - USA; Detroit, Michigan - USA; Las Vegas, Nevada - USA | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/indigenouspactpbcinc/jobs/4745179005 | indigenouspactpbcinc | Full Stack Developer, Digital Services | Seattle, Minneapolis, Denver, Charlotte | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/shepherd/395f4b75-cf05-4581-8408-8f4fe0f1480b | shepherd | Software Engineer, Backend | San Francisco | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/shepherd/6cbab29e-1bbf-42b4-9308-3823693ca288 | shepherd | Software Engineer, AI Product + Agents | San Francisco | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/shepherd/26959124-aab2-446e-aa4d-7265c83e0be5 | shepherd | Software Engineer, Applied AI | San Francisco | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/shepherd/c4081c3d-a79b-4ac9-aa19-78f5e1a24c4d | shepherd | Software Engineer, Full Stack | San Francisco | posted: 2026-10-20
+- [ ] https://www.cedar.com/careers/open-roles?gh_jid=8285401 | careportalinc | Platform Engineer III | USA | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/future/jobs/4745515005 | future | Applied AI Engineer | Remote · Remote | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/obsidiansystems/0a44c74d-4519-4cce-9596-dd75c5ecbdd5 | obsidiansystems | Functional Software Engineer | USA - East Coast · Miami · United States · Canada - East Coast · Canada · Remote | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mintmcp/e4a065d0-7730-4f75-a74f-ae75ffd78168 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/patreon/2c79ab4b-6479-451d-bbac-e2e2fb0dc911 | patreon | Software Engineer, Backend | New York | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mirage/90f94252-d48f-41a8-b0a5-066f48552083 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mirage/0d823573-16d7-4b05-915b-e6e5fe7cfb12 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/de3a8ce3-f688-41bc-b2e9-33bd0f3e0782 | hadrian-automation | Software Engineer, Cell Orchestration | Los Angeles, CA | posted: 2026-10-15
+
 ## Processed
