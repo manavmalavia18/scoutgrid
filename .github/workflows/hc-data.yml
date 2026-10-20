@@ -14,8 +14,13 @@ permissions:
 
 jobs:
   scan:
-    runs-on: ubuntu-latest
-    timeout-minutes: 13
+    # Patchright/Xvfb became unreliable when ubuntu-latest started migrating
+    # to Ubuntu 26 on 2026-10-19. Keep this browser workflow on the known-good
+    # image until Patchright explicitly supports the newer runner.
+    runs-on: ubuntu-24.04
+    # Full HC runs can take 12+ minutes before commit/push; 13 minutes caused
+    # valid scrapes to be cancelled at the job boundary.
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
