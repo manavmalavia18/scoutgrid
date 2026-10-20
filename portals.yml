@@ -10098,6 +10098,11 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "Understood"
+    careers_url: https://job-boards.greenhouse.io/understood-org-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
