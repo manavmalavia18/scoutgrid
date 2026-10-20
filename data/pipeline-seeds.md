@@ -935,4 +935,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.gofasti.com/job-application/6228899004?gh_jid=6228899004 | gofasti | 1173 - Fullstack Software Engineer (AI-Native) | Remote · ENV | posted: 2026-10-20
 - [ ] https://job-boards.greenhouse.io/jordanparkgroup/jobs/6229011004 | jordanparkgroup | Associate - Software Developer | San Francisco, California, United States | posted: 2026-10-20
 
+- [ ] https://jobs.lever.co/xsolla/c2cf774d-e285-480b-96a3-3f133a243eff | xsolla | Software Engineer | Remote USA | posted: 2026-10-20
+
 ## Processed
