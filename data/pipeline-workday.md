@@ -438,4 +438,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Experienced-Software-Development-Engineer_JR2026513298-1 | boeing | Experienced Software Development Engineer | 3 Locations | posted: 2026-10-19
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Software-Development-Engineer_JR2026513298 | boeing | Experienced Software Development Engineer | 3 Locations | posted: 2026-10-19
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Senior-Site-Reliability-Engineer--US-Federal-_JR-0105509-1 | workday | Site Reliability Engineer (US Federal) | USA.VA.Reston | posted: 2026-10-20
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Spain---Remote/Data-Platform-Engineer--Data-Infrastructure---Services_R57954 | trimble | Data Platform Engineer, Data Infrastructure & Services | 2 Locations | posted: 2026-10-20
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---Remote-OH/Data-Integration-Software-Engineer_R58031-1 | trimble | Data Integration Software Engineer | 3 Locations | posted: 2026-10-20
+- [ ] https://republic.wd5.myworkdayjobs.com/republic/job/USA---Remote/Full-Stack-Engineer-II_R-186867 | republic | Full Stack Engineer II | USA - Remote | posted: 2026-10-20
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/DevOps-Engineer---Level-3-4--AHT-_R10252254 | ngc | DevOps Engineer - Level 3/4 (AHT) | United States-California-Redondo Beach | posted: 2026-10-20
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-1 | boeing | Associate Flight Test Data Processing Software Engineer | USA - Berkeley, MO | posted: 2026-10-20
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420 | boeing | Associate Flight Test Data Processing Software Engineer | USA - Berkeley, MO | posted: 2026-10-20
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00353178 | asml | Optical Fabrication Tech CWW Front End Days | Wilton, CT, USA | posted: 2026-10-20
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00351665 | asml | Optical Fabrication Tech CWW Front End Days | Wilton, CT, USA | posted: 2026-10-20
+- [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Irvine-California/Software-Engineer_R12554-1 | alteryx | Software Engineer | Irvine, California | posted: 2026-10-20
+
 ## Processed
