@@ -683,4 +683,256 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/8015117003 | launchdarkly | Backend Software Engineer, SDK | Remote - US | posted: 2026-10-19
 - [ ] https://jobs.ashbyhq.com/runway-ml/d761c781-5291-461e-aa7a-d25b3165663b | runway-ml | Member of Applied AI Team | Remote · Seattle, WA · Seattle · United States · London · United Kingdom · New York, NY · New York City · San Francisco, CA · San Francisco | posted: 2026-10-19
 
+- [ ] https://jobs.ashbyhq.com/promise/8e0610c9-74b9-4c76-a8a9-c9de01a12419 | promise | Software Engineer - Platform & Infrastructure | Washington, D.C. | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/oneapp/18b45262-c4d8-4cbe-b773-f552c38223fa | oneapp | Software Engineer, Banking | United States (Remote) | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229015004 | speechify | Software Engineer, AI Data - San Francisco, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229016004 | speechify | Software Engineer, AI Data - Palo Alto, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229017004 | speechify | Software Engineer, AI Data - New York, NY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229018004 | speechify | Software Engineer, AI Data - Seattle, WA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229019004 | speechify | Software Engineer, AI Data - Bellevue, WA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229020004 | speechify | Software Engineer, AI Data - Austin, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229021004 | speechify | Software Engineer, AI Data - Dallas, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229022004 | speechify | Software Engineer, AI Data - Los Angeles, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229023004 | speechify | Software Engineer, AI Data - Boston, MA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229024004 | speechify | Software Engineer, AI Data - Chicago, IL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229025004 | speechify | Software Engineer, AI Data - Denver, CO, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229026004 | speechify | Software Engineer, AI Data - Atlanta, GA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229027004 | speechify | Software Engineer, AI Data - Washington, DC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229028004 | speechify | Software Engineer, AI Data - London, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229029004 | speechify | Software Engineer, AI Data - Berlin, Germany | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229030004 | speechify | Software Engineer, AI Data - Munich, Germany | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229031004 | speechify | Software Engineer, AI Data - Amsterdam, Netherlands | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229032004 | speechify | Software Engineer, AI Data - Dublin, Ireland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229033004 | speechify | Software Engineer, AI Data - Paris, France | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229034004 | speechify | Software Engineer, AI Data - Zurich, Switzerland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229035004 | speechify | Software Engineer, AI Data - Madrid, Spain | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229036004 | speechify | Software Engineer, AI Data - Bangalore, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229037004 | speechify | Software Engineer, AI Data - Hyderabad, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229038004 | speechify | Software Engineer, AI Data - San Jose, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229039004 | speechify | Software Engineer, AI Data - Mountain View, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229040004 | speechify | Software Engineer, AI Data - Menlo Park, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229042004 | speechify | Software Engineer, AI Data - Cupertino, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229043004 | speechify | Software Engineer, AI Data - Sunnyvale, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229044004 | speechify | Software Engineer, AI Data - Santa Clara, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229045004 | speechify | Software Engineer, AI Data - Oakland, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229046004 | speechify | Software Engineer, AI Data - Berkeley, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229047004 | speechify | Software Engineer, AI Data - San Mateo, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229048004 | speechify | Software Engineer, AI Data - Fremont, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229049004 | speechify | Software Engineer, AI Data - Sacramento, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229050004 | speechify | Software Engineer, AI Data - Santa Monica, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229051004 | speechify | Software Engineer, AI Data - Culver City, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229052004 | speechify | Software Engineer, AI Data - Irvine, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229053004 | speechify | Software Engineer, AI Data - Pasadena, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229054004 | speechify | Software Engineer, AI Data - Long Beach, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229055004 | speechify | Software Engineer, AI Data - Anaheim, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229056004 | speechify | Software Engineer, AI Data - San Diego, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229057004 | speechify | Software Engineer, AI Data - Redmond, WA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229058004 | speechify | Software Engineer, AI Data - Kirkland, WA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229059004 | speechify | Software Engineer, AI Data - Portland, OR, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229060004 | speechify | Software Engineer, AI Data - Salt Lake City, UT, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229061004 | speechify | Software Engineer, AI Data - Provo, UT, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229062004 | speechify | Software Engineer, AI Data - Phoenix, AZ, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229063004 | speechify | Software Engineer, AI Data - Scottsdale, AZ, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229064004 | speechify | Software Engineer, AI Data - Tempe, AZ, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229065004 | speechify | Software Engineer, AI Data - Fort Worth, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229066004 | speechify | Software Engineer, AI Data - Plano, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229067004 | speechify | Software Engineer, AI Data - Frisco, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229068004 | speechify | Software Engineer, AI Data - Houston, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229069004 | speechify | Software Engineer, AI Data - San Antonio, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229070004 | speechify | Software Engineer, AI Data - Las Vegas, NV, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229071004 | speechify | Software Engineer, AI Data - Boulder, CO, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229072004 | speechify | Software Engineer, AI Data - Minneapolis, MN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229073004 | speechify | Software Engineer, AI Data - Saint Paul, MN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229074004 | speechify | Software Engineer, AI Data - Madison, WI, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229075004 | speechify | Software Engineer, AI Data - Ann Arbor, MI, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229076004 | speechify | Software Engineer, AI Data - Detroit, MI, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229077004 | speechify | Software Engineer, AI Data - Columbus, OH, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229078004 | speechify | Software Engineer, AI Data - Cincinnati, OH, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229079004 | speechify | Software Engineer, AI Data - Cleveland, OH, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229080004 | speechify | Software Engineer, AI Data - Indianapolis, IN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229081004 | speechify | Software Engineer, AI Data - Kansas City, MO, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229082004 | speechify | Software Engineer, AI Data - St. Louis, MO, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229083004 | speechify | Software Engineer, AI Data - Naperville, IL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229084004 | speechify | Software Engineer, AI Data - Evanston, IL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229085004 | speechify | Software Engineer, AI Data - Cambridge, MA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229086004 | speechify | Software Engineer, AI Data - Jersey City, NJ, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229087004 | speechify | Software Engineer, AI Data - Newark, NJ, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229088004 | speechify | Software Engineer, AI Data - Princeton, NJ, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229089004 | speechify | Software Engineer, AI Data - Philadelphia, PA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229090004 | speechify | Software Engineer, AI Data - Pittsburgh, PA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229091004 | speechify | Software Engineer, AI Data - Stamford, CT, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229092004 | speechify | Software Engineer, AI Data - New Haven, CT, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229093004 | speechify | Software Engineer, AI Data - Providence, RI, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229094004 | speechify | Software Engineer, AI Data - Arlington, VA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229095004 | speechify | Software Engineer, AI Data - Alexandria, VA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229096004 | speechify | Software Engineer, AI Data - Reston, VA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229097004 | speechify | Software Engineer, AI Data - Richmond, VA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229098004 | speechify | Software Engineer, AI Data - Baltimore, MD, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229099004 | speechify | Software Engineer, AI Data - College Park, MD, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229100004 | speechify | Software Engineer, AI Data - Silver Spring, MD, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229101004 | speechify | Software Engineer, AI Data - Charlotte, NC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229102004 | speechify | Software Engineer, AI Data - Raleigh, NC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229103004 | speechify | Software Engineer, AI Data - Durham, NC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229104004 | speechify | Software Engineer, AI Data - Chapel Hill, NC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229105004 | speechify | Software Engineer, AI Data - Cary, NC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229106004 | speechify | Software Engineer, AI Data - Nashville, TN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229107004 | speechify | Software Engineer, AI Data - Huntsville, AL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229108004 | speechify | Software Engineer, AI Data - Miami, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229109004 | speechify | Software Engineer, AI Data - Orlando, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229110004 | speechify | Software Engineer, AI Data - Tampa, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229111004 | speechify | Software Engineer, AI Data - Fort Lauderdale, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229112004 | speechify | Software Engineer, AI Data - Jacksonville, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229113004 | speechify | Software Engineer, AI Data - Manchester, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229114004 | speechify | Software Engineer, AI Data - Cambridge, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229115004 | speechify | Software Engineer, AI Data - Oxford, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229116004 | speechify | Software Engineer, AI Data - Edinburgh, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229117004 | speechify | Software Engineer, AI Data - Bristol, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229118004 | speechify | Software Engineer, AI Data - Reading, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229119004 | speechify | Software Engineer, AI Data - Birmingham, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229120004 | speechify | Software Engineer, AI Data - Hamburg, Germany | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229121004 | speechify | Software Engineer, AI Data - Frankfurt, Germany | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229122004 | speechify | Software Engineer, AI Data - Cologne, Germany | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229123004 | speechify | Software Engineer, AI Data - Stuttgart, Germany | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229124004 | speechify | Software Engineer, AI Data - Lyon, France | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229125004 | speechify | Software Engineer, AI Data - Toulouse, France | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229126004 | speechify | Software Engineer, AI Data - Rotterdam, Netherlands | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229127004 | speechify | Software Engineer, AI Data - Eindhoven, Netherlands | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229128004 | speechify | Software Engineer, AI Data - Utrecht, Netherlands | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229129004 | speechify | Software Engineer, AI Data - Brussels, Belgium | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229130004 | speechify | Software Engineer, AI Data - Geneva, Switzerland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229131004 | speechify | Software Engineer, AI Data - Basel, Switzerland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229132004 | speechify | Software Engineer, AI Data - Vienna, Austria | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229133004 | speechify | Software Engineer, AI Data - Barcelona, Spain | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229134004 | speechify | Software Engineer, AI Data - Lisbon, Portugal | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229135004 | speechify | Software Engineer, AI Data - Porto, Portugal | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229136004 | speechify | Software Engineer, AI Data - Milan, Italy | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229137004 | speechify | Software Engineer, AI Data - Rome, Italy | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229138004 | speechify | Software Engineer, AI Data - Stockholm, Sweden | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229139004 | speechify | Software Engineer, AI Data - Copenhagen, Denmark | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229140004 | speechify | Software Engineer, AI Data - Helsinki, Finland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229141004 | speechify | Software Engineer, AI Data - Gothenburg, Sweden | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229142004 | speechify | Software Engineer, AI Data - Prague, Czech Republic | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229143004 | speechify | Software Engineer, AI Data - Budapest, Hungary | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229144004 | speechify | Software Engineer, AI Data - Bucharest, Romania | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229145004 | speechify | Software Engineer, AI Data - Pune, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229146004 | speechify | Software Engineer, AI Data - Chennai, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229147004 | speechify | Software Engineer, AI Data - Mumbai, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229148004 | speechify | Software Engineer, AI Data - Delhi, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229149004 | speechify | Software Engineer, AI Data - Noida, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229150004 | speechify | Software Engineer, AI Data - Gurgaon, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229151004 | speechify | Software Engineer, AI Data - Warsaw, Poland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229152004 | speechify | Software Engineer, AI Data - Kraków, Poland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229153004 | speechify | Software Engineer, AI Data - Wrocław, Poland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229154004 | speechify | Software Engineer, AI Data - Bratislava, Slovakia | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229155004 | speechify | Software Engineer, AI Data - Luxembourg City, Luxembourg | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229156004 | speechify | Software Engineer, AI Data - Santa Cruz, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229157004 | speechify | Software Engineer, AI Data - Riverside, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229158004 | speechify | Software Engineer, AI Data - Fresno, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229159004 | speechify | Software Engineer, AI Data - Bakersfield, CA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229160004 | speechify | Software Engineer, AI Data - Tacoma, WA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229161004 | speechify | Software Engineer, AI Data - Spokane, WA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229162004 | speechify | Software Engineer, AI Data - Eugene, OR, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229163004 | speechify | Software Engineer, AI Data - Bend, OR, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229164004 | speechify | Software Engineer, AI Data - Boise, ID, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229165004 | speechify | Software Engineer, AI Data - Fort Collins, CO, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229166004 | speechify | Software Engineer, AI Data - Colorado Springs, CO, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229167004 | speechify | Software Engineer, AI Data - Reno, NV, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229168004 | speechify | Software Engineer, AI Data - Albuquerque, NM, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229169004 | speechify | Software Engineer, AI Data - Tucson, AZ, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229170004 | speechify | Software Engineer, AI Data - El Paso, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229171004 | speechify | Software Engineer, AI Data - College Station, TX, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229172004 | speechify | Software Engineer, AI Data - Honolulu, HI, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229173004 | speechify | Software Engineer, AI Data - Anchorage, AK, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229174004 | speechify | Software Engineer, AI Data - Champaign, IL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229175004 | speechify | Software Engineer, AI Data - Milwaukee, WI, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229176004 | speechify | Software Engineer, AI Data - Grand Rapids, MI, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229177004 | speechify | Software Engineer, AI Data - Dayton, OH, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229178004 | speechify | Software Engineer, AI Data - Bloomington, IN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229179004 | speechify | Software Engineer, AI Data - West Lafayette, IN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229180004 | speechify | Software Engineer, AI Data - Omaha, NE, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229181004 | speechify | Software Engineer, AI Data - Des Moines, IA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229182004 | speechify | Software Engineer, AI Data - Iowa City, IA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229183004 | speechify | Software Engineer, AI Data - State College, PA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229184004 | speechify | Software Engineer, AI Data - Buffalo, NY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229185004 | speechify | Software Engineer, AI Data - Rochester, NY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229186004 | speechify | Software Engineer, AI Data - Syracuse, NY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229187004 | speechify | Software Engineer, AI Data - Ithaca, NY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229188004 | speechify | Software Engineer, AI Data - Stony Brook, NY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229189004 | speechify | Software Engineer, AI Data - Hartford, CT, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229190004 | speechify | Software Engineer, AI Data - Burlington, VT, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229191004 | speechify | Software Engineer, AI Data - Virginia Beach, VA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229192004 | speechify | Software Engineer, AI Data - Norfolk, VA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229193004 | speechify | Software Engineer, AI Data - Savannah, GA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229194004 | speechify | Software Engineer, AI Data - Greensboro, NC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229195004 | speechify | Software Engineer, AI Data - Winston-Salem, NC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229196004 | speechify | Software Engineer, AI Data - Charleston, SC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229197004 | speechify | Software Engineer, AI Data - Columbia, SC, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229198004 | speechify | Software Engineer, AI Data - Memphis, TN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229199004 | speechify | Software Engineer, AI Data - Knoxville, TN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229200004 | speechify | Software Engineer, AI Data - Chattanooga, TN, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229201004 | speechify | Software Engineer, AI Data - Louisville, KY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229202004 | speechify | Software Engineer, AI Data - Lexington, KY, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229203004 | speechify | Software Engineer, AI Data - Birmingham, AL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229204004 | speechify | Software Engineer, AI Data - New Orleans, LA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229205004 | speechify | Software Engineer, AI Data - Baton Rouge, LA, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229206004 | speechify | Software Engineer, AI Data - St. Petersburg, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229207004 | speechify | Software Engineer, AI Data - West Palm Beach, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229208004 | speechify | Software Engineer, AI Data - Gainesville, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229209004 | speechify | Software Engineer, AI Data - Tallahassee, FL, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229210004 | speechify | Software Engineer, AI Data - Oklahoma City, OK, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229211004 | speechify | Software Engineer, AI Data - Tulsa, OK, USA | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229212004 | speechify | Software Engineer, AI Data - Glasgow, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229213004 | speechify | Software Engineer, AI Data - Leeds, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229214004 | speechify | Software Engineer, AI Data - Belfast, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229215004 | speechify | Software Engineer, AI Data - Nottingham, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229216004 | speechify | Software Engineer, AI Data - Newcastle, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229217004 | speechify | Software Engineer, AI Data - Cardiff, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229218004 | speechify | Software Engineer, AI Data - Brighton, United Kingdom | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229219004 | speechify | Software Engineer, AI Data - Cork, Ireland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229220004 | speechify | Software Engineer, AI Data - Galway, Ireland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229221004 | speechify | Software Engineer, AI Data - Düsseldorf, Germany | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229222004 | speechify | Software Engineer, AI Data - Bordeaux, France | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229223004 | speechify | Software Engineer, AI Data - Lille, France | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229224004 | speechify | Software Engineer, AI Data - Nantes, France | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229225004 | speechify | Software Engineer, AI Data - The Hague, Netherlands | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229226004 | speechify | Software Engineer, AI Data - Ghent, Belgium | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229227004 | speechify | Software Engineer, AI Data - Antwerp, Belgium | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229228004 | speechify | Software Engineer, AI Data - Lausanne, Switzerland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229229004 | speechify | Software Engineer, AI Data - Valencia, Spain | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229230004 | speechify | Software Engineer, AI Data - Seville, Spain | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229231004 | speechify | Software Engineer, AI Data - Malaga, Spain | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229232004 | speechify | Software Engineer, AI Data - Bilbao, Spain | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229233004 | speechify | Software Engineer, AI Data - Braga, Portugal | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229234004 | speechify | Software Engineer, AI Data - Coimbra, Portugal | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229235004 | speechify | Software Engineer, AI Data - Turin, Italy | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229236004 | speechify | Software Engineer, AI Data - Bologna, Italy | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229237004 | speechify | Software Engineer, AI Data - Malmö, Sweden | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229238004 | speechify | Software Engineer, AI Data - Aarhus, Denmark | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229239004 | speechify | Software Engineer, AI Data - Tampere, Finland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229240004 | speechify | Software Engineer, AI Data - Riga, Latvia | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229241004 | speechify | Software Engineer, AI Data - Vilnius, Lithuania | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229242004 | speechify | Software Engineer, AI Data - Kaunas, Lithuania | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229243004 | speechify | Software Engineer, AI Data - Brno, Czech Republic | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229244004 | speechify | Software Engineer, AI Data - Cluj‑Napoca, Romania | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229245004 | speechify | Software Engineer, AI Data - Timișoara, Romania | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229246004 | speechify | Software Engineer, AI Data - Iași, Romania | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229247004 | speechify | Software Engineer, AI Data - Sofia, Bulgaria | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229248004 | speechify | Software Engineer, AI Data - Zagreb, Croatia | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229249004 | speechify | Software Engineer, AI Data - Split, Croatia | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229250004 | speechify | Software Engineer, AI Data - Ljubljana, Slovenia | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229251004 | speechify | Software Engineer, AI Data - Athens, Greece | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229252004 | speechify | Software Engineer, AI Data - Thessaloniki, Greece | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229253004 | speechify | Software Engineer, AI Data - Kolkata, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229254004 | speechify | Software Engineer, AI Data - Kochi, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229256004 | speechify | Software Engineer, AI Data - Ahmedabad, India | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229257004 | speechify | Software Engineer, AI Data - Gdańsk, Poland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229258004 | speechify | Software Engineer, AI Data - Poznań, Poland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229259004 | speechify | Software Engineer, AI Data - Katowice, Poland | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229260004 | speechify | Software Engineer, AI Data - Košice, Slovakia | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6229014004 | speechify | Software Engineer, AI Data | Remote · Distributed | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/6228378004 | speechify | Software Engineer, AI Data | Remote · Distributed | posted: 2026-10-20
+- [ ] https://careers.gofasti.com/job-application/6228902004?gh_jid=6228902004 | gofasti | 1175 - Applied AI Engineer | Remote · ENV | posted: 2026-10-20
+- [ ] https://careers.gofasti.com/job-application/6228899004?gh_jid=6228899004 | gofasti | 1173 - Fullstack Software Engineer (AI-Native) | Remote · ENV | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/jordanparkgroup/jobs/6229011004 | jordanparkgroup | Associate - Software Developer | San Francisco, California, United States | posted: 2026-10-20
+
 ## Processed
