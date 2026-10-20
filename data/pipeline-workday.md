@@ -449,4 +449,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00351665 | asml | Optical Fabrication Tech CWW Front End Days | Wilton, CT, USA | posted: 2026-10-20
 - [ ] https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/Irvine-California/Software-Engineer_R12554-1 | alteryx | Software Engineer | Irvine, California | posted: 2026-10-20
 
+- [ ] https://ineos.wd503.myworkdayjobs.com/ineoscareers/job/Denver-CO/Data-Platform-Engineer_REQ-3029 | ineos | Data Platform Engineer | Denver, CO | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-III_1215732-1 | hpe | Systems/Software Engineer III | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-II_1215731-1 | hpe | Systems/Software Engineer II | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-III_1215732 | hpe | Systems/Software Engineer III | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-II_1215731 | hpe | Systems/Software Engineer II | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-III_1215732-2 | hpe | Systems/Software Engineer III | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-II_1215731-2 | hpe | Systems/Software Engineer II | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-5_R1004018-1 | capitalone | Full-stack Engineer 5 | Chicago, IL | posted: 2026-10-20
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4_R1001188-1 | capitalone | Full Stack Engineer 4 | 2 Locations | posted: 2026-10-20
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4_R1004106-1 | capitalone | AI Engineer 4 | 5 Locations | posted: 2026-10-20
+
 ## Processed
