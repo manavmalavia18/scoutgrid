@@ -1030,3 +1030,5 @@
 - [ ] https://careers.gofasti.com/job-application/6228902004?gh_jid=6228902004 | gofasti | 1175 - Applied AI Engineer | Remote · ENV | posted: 2026-10-20
 - [ ] https://careers.gofasti.com/job-application/6228899004?gh_jid=6228899004 | gofasti | 1173 - Fullstack Software Engineer (AI-Native) | Remote · ENV | posted: 2026-10-20
 - [ ] https://job-boards.greenhouse.io/jordanparkgroup/jobs/6229011004 | jordanparkgroup | Associate - Software Developer | San Francisco, California, United States | posted: 2026-10-20
+
+- [ ] https://jobs.ashbyhq.com/promise/8e0610c9-74b9-4c76-a8a9-c9de01a12419 | promise | Software Engineer - Platform & Infrastructure | Washington, D.C. | posted: 2026-10-20
