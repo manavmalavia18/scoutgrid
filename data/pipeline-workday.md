@@ -499,4 +499,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Experienced---Mid-Career-Software-Engineer---Anti-Tamper--AT-----Signing-Bonus-Potential---_JR2026518977 | boeing | Experienced / Mid-Career Software Engineer - Anti-Tamper (AT)-***Signing Bonus Potential*** | USA - Oklahoma City, OK | posted: 2026-10-20
 - [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Experienced-Software-Developer_R014904 | aveva | Experienced Software Developer | Philadelphia, Pennsylvania, United States of America | posted: 2026-10-20
 
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer--Applications--Trusted-Content-Standards_R26-8108 | rockwellautomation | Software Engineer, Applications, Trusted Content Standards | 4 Locations | posted: 2026-10-20
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107079 | remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-10-20
+- [ ] https://nb.wd1.myworkdayjobs.com/nbcareers/job/New-York-NY/Full-Stack-Dev-III--Marketing-Technology_R0012548 | nb | Sitecore Full Stack Developer- Marketing Technology | New York, NY | posted: 2026-10-20
+- [ ] https://erm.wd3.myworkdayjobs.com/erm_careers/job/Indianapolis-Indiana/Software-Developer_R00032508-1 | erm | Software Developer | Indianapolis, Indiana | posted: 2026-10-20
+- [ ] https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Remote-USA/Software-Engineer-III_R-100603 | csiweb | Software Engineer III (Angular) | Remote, USA | posted: 2026-10-20
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Machine-Learning-Engineer-4_R1003405-1 | capitalone | Machine Learning Engineer 4 | New York, NY | posted: 2026-10-20
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-5_R1004161-2 | capitalone | Full Stack Engineer 5 | 3 Locations | posted: 2026-10-20
+- [ ] https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Site-Reliability-Engineering-Strategy---Governance_JR1086206 | broadridge | Site Reliability Engineering Strategy & Governance | New York, NY | posted: 2026-10-20
+
 ## Processed
