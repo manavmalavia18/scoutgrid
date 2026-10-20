@@ -10038,6 +10038,46 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from jobright
+  - name: "Clarion"
+    careers_url: https://jobs.ashbyhq.com/clarion-3
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Mintive"
+    careers_url: https://jobs.ashbyhq.com/mintive
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Unify Technologies"
+    careers_url: https://jobs.ashbyhq.com/unify
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Voyant Photonics"
+    careers_url: https://jobs.ashbyhq.com/voyant-photonics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Carbon Direct"
+    careers_url: https://job-boards.greenhouse.io/carbon-direct-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Self Financial, Inc."
+    careers_url: https://job-boards.greenhouse.io/selffinancial
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Systems & Technology Research"
+    careers_url: https://job-boards.greenhouse.io/systemstechnologyresearch
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "NISC"
+    careers_url: https://job-boards.greenhouse.io/testnisc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
