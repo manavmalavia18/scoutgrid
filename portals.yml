@@ -10083,6 +10083,21 @@ tracked_companies:
     provider: ashby
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "Infisical"
+    careers_url: https://jobs.ashbyhq.com/infisical-3
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Swoop Technologies"
+    careers_url: https://jobs.ashbyhq.com/swoop-search-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Avante"
+    careers_url: https://job-boards.greenhouse.io/avante-5
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
