@@ -10078,6 +10078,11 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Shiftsmart"
+    careers_url: https://jobs.ashbyhq.com/shiftsmart
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
