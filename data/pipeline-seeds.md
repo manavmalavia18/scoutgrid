@@ -956,4 +956,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mirage/0d823573-16d7-4b05-915b-e6e5fe7cfb12 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-20
 - [ ] https://jobs.ashbyhq.com/hadrian-automation/de3a8ce3-f688-41bc-b2e9-33bd0f3e0782 | hadrian-automation | Software Engineer, Cell Orchestration | Los Angeles, CA | posted: 2026-10-15
 
+- [ ] https://job-boards.greenhouse.io/referralsuseonly/jobs/8304770 | referralsuseonly | Software Engineer II (Networking) - Platform Infra | United States | posted: 2026-10-20
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806 | elastic | Software Engineer II (Networking) - Platform Infra | United States | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/openrouter/7bff9169-ffb2-4a03-a0ee-2a5e73c0c0dd | openrouter | Software Engineer, Money Platform | Remote (US) | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/openrouter/8930eaba-071f-4b08-b598-306cb691b0d4 | openrouter | Software Engineer, Identity Platform | Remote (US) | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714 | justworks | Software Engineer, Backend | New York, New York | posted: 2026-10-20
+- [ ] https://jobs.lever.co/bluecoding/253b096c-05d4-4815-a571-7a76206af724 | bluecoding | Web Developer (Marketing Sites) | Remote Latam | posted: 2026-10-20
+- [ ] https://www.fieldwire.com/job/8886697002?gh_jid=8886697002 | fieldwire | Mid-Level AI & Machine Learning Engineer | San Francisco, CA (Hybrid) | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52 | quora | Full Stack Software Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/astra/c34d486b-4fc9-4c24-8a18-577fcd6d5194 | astra | Backend Engineer | Remote - US Only | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/ardentmc/jobs/8287674?gh_jid=8287674 | ardentmc | Geospatial Application Developer | Washington, D.C. Metro - hybrid/remote | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/unify/cf6a04a0-dd94-4345-aef2-168f38b50ae1 | unify | Applied AI Engineer | San Francisco Office · New York Office · New York City · United States | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/creatoriq/db2c1016-e927-45e8-aced-5010660faad5 | creatoriq | Backend Software Engineer (Python / Go) | Warsaw · Remote | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c | openai | Software Engineer, TPU Compilers | San Francisco | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb | 1password | Frontend Developer, Device Security | Remote (United States / Canada) | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007 | andurilindustries | Classified Cloud & Platform Engineer | Costa Mesa, California, United States | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269889007?gh_jid=5269889007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269886007?gh_jid=5269886007 | andurilindustries | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
+
 ## Processed
