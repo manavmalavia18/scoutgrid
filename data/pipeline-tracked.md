@@ -489,4 +489,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/tenet3/jobs/8894846002 | Tenet3 | Junior Frontend Software Engineer- Hybrid | Dayton, Ohio | posted: 2026-10-19
 - [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4744538005 | The New York Times | Front-End Web Engineer - T Brand | New York, NY | posted: 2026-10-19
 
+- [ ] https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac | Palantir Technologies | Software Engineer, New Grad - Query Engines | New York, NY | posted: 2026-10-19
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-III_1215732 | Hewlett Packard Enterprise | Systems/Software Engineer III | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-II_1215731 | Hewlett Packard Enterprise | Systems/Software Engineer II | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-III_1215732-1 | Hpe | Systems/Software Engineer III | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Roseville-California-United-States-of-America/Systems-Software-Engineer-II_1215731-1 | Hpe | Systems/Software Engineer II | Roseville, California, United States of America | posted: 2026-10-20
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Production-Support-Engineering---Cloud-DevOps-Engineer-SMTS_JR363299 | Salesforce | Production Support Engineering - Cloud DevOps Engineer SMTS | California - San Francisco | posted: 2026-10-20
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR363304-1 | Salesforce | Software Engineering SMTS | California - San Francisco | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/voyant-photonics/4a23ee3a-2087-4525-8979-c704f6bbd8bb | Voyant Photonics | Systems Software Engineer, Hardware Validation | New York Office (HQ) | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mintive/dc911c27-5a3b-4dbf-96b6-e3cc36a2e005 | Mintive | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-19
+- [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6225372004 | Self Financial, Inc. | Backend Software Engineer | Austin, TX | posted: 2026-10-19
+
 ## Processed
