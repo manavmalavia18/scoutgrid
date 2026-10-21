@@ -508,4 +508,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-5_R1004161-2 | capitalone | Full Stack Engineer 5 | 3 Locations | posted: 2026-10-20
 - [ ] https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Site-Reliability-Engineering-Strategy---Governance_JR1086206 | broadridge | Site Reliability Engineering Strategy & Governance | New York, NY | posted: 2026-10-20
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0109614 | workday | Software Development Engineer - US Federal | USA.VA.Reston | posted: 2026-10-21
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006 | ngc | Associate Software Engineer | United States-Nebraska-Bellevue | posted: 2026-10-21
+
 ## Processed
