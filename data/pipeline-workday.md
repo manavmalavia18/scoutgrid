@@ -511,4 +511,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0109614 | workday | Software Development Engineer - US Federal | USA.VA.Reston | posted: 2026-10-21
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006 | ngc | Associate Software Engineer | United States-Nebraska-Bellevue | posted: 2026-10-21
 
+- [ ] https://oxford.wd5.myworkdayjobs.com/tommybahamaus/job/Corporate---SeattleWA/Front-End-Web-Developer_R49501 | oxford | Front End Web Developer | Corporate - Seattle,WA | posted: 2026-10-21
+- [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Remote/Software-Engineer-IV_JR104005 | modivcare | Software Engineer IV | Remote | posted: 2026-10-21
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1 | mastercard | Software Engineer I | O'Fallon, Missouri | posted: 2026-10-21
+- [ ] https://kcura.wd1.myworkdayjobs.com/external_career_site/job/Illinois/Advanced-Software-Engineer_26-0320 | kcura | Advanced Software Engineer | Illinois | posted: 2026-10-21
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733 | hitachi | Software Engineering Co-op | Liberty, South Carolina, United States | posted: 2026-10-21
+- [ ] https://healthplanone.wd1.myworkdayjobs.com/hpone/job/FL-Remote/Software-Engineer_JR1639 | healthplanone | Software Engineer | 42 Locations | posted: 2026-10-21
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Software-Development-Engineering---Advisor-II_R-10404854 | fiserv | Software Development Engineering - Advisor II | Berkeley Heights, New Jersey | posted: 2026-10-21
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Software-Development-Engineering---Advisor-II_R-10404855 | fiserv | Software Development Engineering - Advisor II | Alpharetta, Georgia | posted: 2026-10-21
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/SGP---Singapore-Remote-Office/Software-Engineer--Backend_R0034980 | epiqsystems | Backend Software Engineer - AI Labs | SGP - Singapore Remote Office | posted: 2026-10-21
+- [ ] https://danafarber.wd5.myworkdayjobs.com/dana-farbernonrecruit/job/Boston-Job-Posting-Location/Software-Engineer-II_JR-8548 | danafarber | Software Engineer II | Boston Job Posting Location | posted: 2026-10-21
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Software-Developer-II_R0017455 | astreya | Software Developer II | Remote, India | posted: 2026-10-21
+
 ## Processed
