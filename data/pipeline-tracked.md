@@ -555,4 +555,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8304878 | DoorDash | Software Engineer, Reliability Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-21
 
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000156637254 | ServiceNow | Machine Learning Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/pennylane/b7c3bdef-92c8-44b3-a1f9-1b34698a862d | Pennylane | DevOps Engineer W/M (remote) 🇪🇺 | Remote | posted: 2026-10-21
+
 ## Processed
