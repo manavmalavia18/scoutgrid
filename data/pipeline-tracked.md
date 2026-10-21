@@ -558,4 +558,39 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/ServiceNow/744000156637254 | ServiceNow | Machine Learning Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-10-20
 - [ ] https://jobs.ashbyhq.com/pennylane/b7c3bdef-92c8-44b3-a1f9-1b34698a862d | Pennylane | DevOps Engineer W/M (remote) 🇪🇺 | Remote | posted: 2026-10-21
 
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8306479 | Mozilla | Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox | Remote Canada; Remote US | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/blossom-health/3ac1c37a-3ea3-4451-8833-e2b6d163579d | Blossom Health | Applied AI Engineer | New York City | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/blossom-health/769e371e-ce17-4595-b3de-5a6122ad925b | Blossom Health | Software Engineer | New York City | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/clera/981f8150-4e48-4261-bfdf-5b8516f55d42 | Clera | Full-Stack Software Engineer, Design | San Francisco | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/clera/121621c4-34cf-442d-9d97-cd36e650f0a9 | Clera | Platform Engineer, Biotech | San Francisco | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/clera/c6b5e7f5-ead2-42f0-b482-09178b2c27f0 | Clera | Product Engineer (Software Engineer) | San Francisco | posted: 2026-10-21
+- [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Product-Security-Software-Engineer_R015259-1 | Aveva | Product Security Software Engineer | Philadelphia, Pennsylvania, United States of America | posted: 2026-10-21
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Backend-Developer_R-10404862 | Fiserv | Backend Developer | Berkeley Heights, New Jersey | posted: 2026-10-21
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/DevOps-Engineer_R-10404826 | Fiserv | DevOps Engineer | Berkeley Heights, New Jersey | posted: 2026-10-21
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033 | Ncr | Software Engineer – NCR Voyix for Department and Specialty Retail | ATLANTA, GA, USA | posted: 2026-10-21
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256 | Salesforce | Software Engineer, DNS & Cloud Infrastructure | 2 Locations | posted: 2026-10-21
+- [ ] https://jobs.smartrecruiters.com/sbtglobalinc/3743990016305607 | SBT Global | Java Back-end Developer | Plano, TX, United States | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/Applied%20Compute/18854a82-76df-4745-aeb9-47e4fff78e91 | Applied Compute | GTM AI Engineering | San Francisco | posted: 2026-10-21
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733 | Hitachi | Software Engineering Co-op | Liberty, South Carolina, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5458651008 | Quince | Software Engineer II - Growth | Palo Alto, California, United States | posted: 2026-10-21
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/In-Memory-Database-Platform-Engineer_R35646 | Allstate | In-Memory Database Platform Engineer | US - Remote | posted: 2026-10-21
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Experienced-Software-Engineer_JR2026523599 | Boeing | Experienced Software Engineer | 2 Locations | posted: 2026-10-21
+- [ ] https://kcura.wd1.myworkdayjobs.com/external_career_site/job/Illinois/Advanced-Software-Engineer_26-0320 | Relativity | Advanced Software Engineer | Illinois | posted: 2026-10-21
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662 | Motorola Solutions | Software Engineering - 2026 Spring Co-Op | Chicago, IL, More... | posted: 2026-10-21
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Huntsville-Alabama-United-States/Senior-MES-Software-Engineer_R26-4662 | Rockwell Automation | MES Software Engineer | Huntsville, Alabama, United States | posted: 2026-10-21
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030 | RTX | Software Engineer/Developer I (Onsite) | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | posted: 2026-10-21
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Software-Engineer-2_R-432908 | Humana | Software Engineer 2 | Remote Nationwide | posted: 2026-10-21
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-TN/Application-Developer-II_R186448 | Ryder | Application Developer II | USA - Remote TN | posted: 2026-10-21
+- [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1 | Etsy | Software Engineer I, Marketplace Makers | Brooklyn, New York | posted: 2026-10-21
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1 | Guidewire Software | Junior AI Engineer- Applied AI | United States - Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/astra/c34d486b-4fc9-4c24-8a18-577fcd6d5194 | Astra | Backend Engineer | Remote - US Only | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8 | Mach9 | Software Engineer - 3D Graphics | San Francisco | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/twinprime/7b46d12f-9538-4da6-8b20-775c7a19c067 | Twin Prime | AI Engineer | New York City, USA · Athens, Greece | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/future/jobs/4745515005 | Future | Applied AI Engineer | Remote · Remote | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/indigenouspactpbcinc/jobs/4745179005 | Indigenous Pact | Full Stack Developer, Digital Services | Seattle, Minneapolis, Denver, Charlotte | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/geotab/jobs/5453858008 | Geotab | Site Reliability Engineering | Atlanta, Georgia - USA; Detroit, Michigan - USA; Las Vegas, Nevada - USA | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/jordanparkgroup/jobs/6229011004 | Jordan Park Group | Associate - Software Developer | San Francisco, California, United States | posted: 2026-10-20
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-291661 | Mastercard | Software Engineer I | O'Fallon, Missouri | posted: 2026-10-21
+- [ ] https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309 | Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA, USA | posted: 2026-10-20
+
 ## Processed
