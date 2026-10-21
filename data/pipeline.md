@@ -1077,3 +1077,7 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b | perplexity | Software Engineer, Enterprise Knowledge Platform | San Francisco · Palo Alto · United States · Seattle · New York City | posted: 2026-10-21
 - [ ] https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004 | storable | Software Development Engineer | Seattle, WA | posted: 2026-10-21
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8304878 | doordashusa | Software Engineer, Reliability Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-21
+- [ ] https://job-boards.eu.greenhouse.io/remotepeople/jobs/5011829101 | remotepeople | Full Stack Engineer (China) | APAC or China (Remote) | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8 | mach9 | Software Engineer - 3D Graphics | San Francisco | posted: 2026-10-21
