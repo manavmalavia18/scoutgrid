@@ -538,4 +538,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/rivianvw.tech/45773489-7107-4942-92d0-3f9c48ef79e0 | Rivian and Volkswagen Group Technologies | Software Engineer, Edge AI | Palo Alto, California | posted: 2026-10-20
 - [ ] https://jobs.ashbyhq.com/unify/cf6a04a0-dd94-4345-aef2-168f38b50ae1 | Unify Technologies | Applied AI Engineer | San Francisco Office · New York Office · New York City · United States | posted: 2026-10-20
 
+- [ ] https://jobs.ashbyhq.com/openrouter/7bff9169-ffb2-4a03-a0ee-2a5e73c0c0dd | OpenRouter | Software Engineer, Money Platform | Remote (US) | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/openrouter/8930eaba-071f-4b08-b598-306cb691b0d4 | OpenRouter | Software Engineer, Identity Platform | Remote (US) | posted: 2026-10-20
+- [ ] https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Site-Reliability-Engineering-Strategy---Governance_JR1086206 | Broadridge | Site Reliability Engineering Strategy & Governance | New York, NY | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52 | Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/happyrobot.ai/019a38ba-756c-4c5c-8742-756f101b38c4 | HappyRobot | Software Engineer - Backend | San Francisco | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/onereach.ai/14b1d22f-02ca-40db-86ee-4ef873059edf | OneReach.ai | Platform Engineer (Node.js & DevOps) | USA, Remote | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/pumpcareers/jobs/5457861008 | Pump.co | Backend Engineer | San Francisco, CA | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/8304310 | Trace3 | Software Engineer (GAITS - Analyst Team) (26-386) | Colorado Springs, CO | posted: 2026-10-20
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/8304333 | Trace3 | Software Engineer / Scrum Master - PLNR (26-394) | Colorado Springs, CO | posted: 2026-10-20
+- [ ] https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Senior-RPG-Software-Engineer_R29538 | Taylor Corporation | RPG Software Engineer | MN Remote | posted: 2026-10-21
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-293589 | Mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-20
+
 ## Processed
