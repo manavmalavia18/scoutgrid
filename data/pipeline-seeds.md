@@ -982,4 +982,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8 | mach9 | Software Engineer - 3D Graphics | San Francisco | posted: 2026-10-21
 - [ ] https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b | perplexity | Software Engineer, Enterprise Knowledge Platform | San Francisco · Palo Alto · United States · Seattle · New York City | posted: 2026-10-21
 
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8306479 | mozilla | Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox | Remote Canada; Remote US | posted: 2026-10-21
+- [ ] https://www.esri.com/careers/5271179007?gh_jid=5271179007 | esri | Software Development Engineer II - Maritime | Vienna, Virginia, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/coconutsoftware/jobs/6224564004 | coconutsoftware | Intermediate DevOps Engineer | Canada - Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/mintmcp/0c4e7758-8da2-4fb0-8841-acb95e796b6f | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/sailorhealth/df9dbe7a-995d-4bfb-9bdd-08cab451e61a | sailorhealth | Software Engineer | USA · Remote | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8306042 | lendingtree | Platform Engineer | Seattle, Washington, United States | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/pennylane/b7c3bdef-92c8-44b3-a1f9-1b34698a862d | pennylane | DevOps Engineer W/M (remote) 🇪🇺 | Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c95ba0bd-5523-4ab7-86fd-d24363029afe | bjakcareer | Backend Developer | China · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c81168ce-4a20-4628-90dc-73c1294dafe3 | bjakcareer | Backend Developer | United States · Remote | posted: 2026-10-21
+
 ## Processed
