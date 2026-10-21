@@ -550,4 +550,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Senior-RPG-Software-Engineer_R29538 | Taylor Corporation | RPG Software Engineer | MN Remote | posted: 2026-10-21
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-293589 | Mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-20
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Systems--PMTS-_JR361238 | Salesforce | Software Engineer, AI Systems (PMTS) | 5 Locations | posted: 2026-10-21
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR359585 | Salesforce | Software Engineering, AI Systems (SMTS) | 3 Locations | posted: 2026-10-21
+
 ## Processed
