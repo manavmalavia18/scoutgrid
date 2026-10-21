@@ -1103,3 +1103,19 @@
 - [ ] https://www.esri.com/careers/5271179007?gh_jid=5271179007 | esri | Software Development Engineer II - Maritime | Vienna, Virginia, United States | posted: 2026-10-21
 - [ ] https://job-boards.greenhouse.io/coconutsoftware/jobs/6224564004 | coconutsoftware | Intermediate DevOps Engineer | Canada - Remote | posted: 2026-10-21
 - [ ] https://jobs.ashbyhq.com/mintmcp/0c4e7758-8da2-4fb0-8841-acb95e796b6f | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-21
+
+- [ ] https://jobs.ashbyhq.com/friendliai/372dbe1e-d6e6-4726-ae09-673ec8916d05 | friendliai | Software Engineer – Platform Security | San Francisco | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/automox/jobs/5454109008 | automox | Software Engineer - Agent Team | Remote - US | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259 | supabase | Software Engineer - Turso | Remote, Global | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8282746 | purestorage | Junior DevOps Engineer | Santa Clara, California | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/siftstack/a13a8413-86e4-46b3-a073-2a1f54bf689c | siftstack | Software Engineer, Developer Experience (AI Infrastructure) | Marina Del Rey, CA · San Francisco, CA · San Francisco · United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8039471003 | affirm | Analyst, Early Career (Full Stack) | New York, New York, United States; San Francisco, California, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/queracomputinginc/jobs/5460475008 | queracomputinginc | Scientific Software Engineer – Machine Programming | Boston, MA, USA | posted: 2026-10-21
+- [ ] https://synd.io/careers/?gh_jid=6231512004 | syndio | Software Engineer, Integrations (US + Calgary) | Calgary, Alberta, Canada; Remote Home Office - Greater Seattle or San Francisco Bay Area; Remote Home Office - Greater Seattle, San Francisco Bay Area or New York Metro; Remote Home Office - New York Metro; Remote Home Office - United States | posted: 2026-10-21
+- [ ] https://careers.airbnb.com/positions/8274152?gh_jid=8274152 | airbnb | Software Engineer, Payments | Remote, USA | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d | pinecone | Full-Stack Software Engineer, Experience | New York City | posted: 2026-10-21
+- [ ] https://www.smxtech.com/careers/?gh_jid=8040521003 | smxtech | Site Reliability Engineer (5757) | United States | posted: 2026-10-21
+- [ ] https://boards.greenhouse.io/supplyhouse/jobs/6208712004?gh_jid=6208712004 | supplyhouse | Backend Engineer | Remote, Remote, India | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/sandboxaq/753edb00-9eaa-4ccc-ac84-682f72f14fe7 | sandboxaq | AI Engineer | Canada · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca | sandboxaq | AI Engineer | United States · Remote | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/granum/jobs/8895452002 | granum | Software Engineer III | Remote · USA- Remote | posted: 2026-10-21
