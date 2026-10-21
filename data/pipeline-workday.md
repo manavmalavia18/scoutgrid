@@ -523,4 +523,34 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://danafarber.wd5.myworkdayjobs.com/dana-farbernonrecruit/job/Boston-Job-Posting-Location/Software-Engineer-II_JR-8548 | danafarber | Software Engineer II | Boston Job Posting Location | posted: 2026-10-21
 - [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Software-Developer-II_R0017455 | astreya | Software Developer II | Remote, India | posted: 2026-10-21
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer--SRE---US-Federal-_JR-0105392 | workday | Software Development Engineer, SRE (US Federal) | USA.VA.Reston | posted: 2026-10-21
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/BOSTON-MASSACHUSETTS/Software-Engineer---Java-Spring-boot-Engineer_R0076077 | tsys | Software Engineer – Java/Spring boot Engineer | 2 Locations | posted: 2026-10-21
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/CINCINNATI-OHIO/Software-Engineer-II_R0075310 | tsys | Software Engineer - Full Stack | CINCINNATI, OHIO | posted: 2026-10-21
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Huntsville-Alabama-United-States/Senior-MES-Software-Engineer_R26-4662 | rockwellautomation | MES Software Engineer | Huntsville, Alabama, United States | posted: 2026-10-21
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Machine-Learning-Engineer_REQ-12877 | q2ebanking | Machine Learning Engineer | Austin, TX | posted: 2026-10-21
+- [ ] https://oxford.wd5.myworkdayjobs.com/tommybahamaus/job/Corporate---SeattleWA/Associate-Front-End-Web-Developer_R49502 | oxford | Associate Front End Web Developer | Corporate - Seattle,WA | posted: 2026-10-21
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10257086 | ngc | Software Engineer (AHT) | United States-Ohio-Beavercreek | posted: 2026-10-21
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/Software-Engineers--Level-2-or-3-_R10241098 | ngc | Software Engineers (Level 2 or 3) AHT | United States-Virginia-Dulles | posted: 2026-10-21
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033 | ncr | Software Engineer – NCR Voyix for Department and Specialty Retail | ATLANTA, GA, USA | posted: 2026-10-21
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Massachusetts-Remote-Work/Command-Center-Solutions-Services--CCSS--Engineering-Organization---Software-Engineer_R69567 | motorolasolutions | Command Center Solutions Services (CCSS) Engineering Organization - Software Engineer | Massachusetts Remote Work, More... | posted: 2026-10-21
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662 | motorolasolutions | Software Engineering - 2026 Spring Co-Op | Chicago, IL, More... | posted: 2026-10-21
+- [ ] https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1 | mimecast | Software Engineer I, Endpoint Sensor | United States of America– Minnesota – Minneapolis | posted: 2026-10-21
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-291661 | mastercard | Software Engineer I | O'Fallon, Missouri | posted: 2026-10-21
+- [ ] https://intapp.wd1.myworkdayjobs.com/intapp/job/US-AL-Remote/Cloud-Platform-Engineer_R2025433-1 | intapp | Cloud Platform Engineer | US AL Remote | posted: 2026-10-21
+- [ ] https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571 | icf | Seasonal Associate, Full Stack Developer (Remote) | Reston, VA | posted: 2026-10-21
+- [ ] https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570 | icf | Seasonal Associate, Full Stack Developer (Remote) | Reston, VA | posted: 2026-10-21
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Software-Engineer-2_R-432908 | humana | Software Engineer 2 | Remote Nationwide | posted: 2026-10-21
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/Junior-AI-Engineer--Applied-AI_JR_15319-1 | guidewire | Junior AI Engineer- Applied AI | United States - Remote | posted: 2026-10-21
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030 | globalhr | Software Engineer/Developer I (Onsite) | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | posted: 2026-10-21
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Software-Development-Engineering---Advisor-I_R-10404829 | fiserv | Software Development Engineering - Advisor I | Alpharetta, Georgia | posted: 2026-10-21
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Backend-Developer_R-10404862 | fiserv | Backend Developer | Berkeley Heights, New Jersey | posted: 2026-10-21
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/DevOps-Engineer_R-10404826 | fiserv | DevOps Engineer | Berkeley Heights, New Jersey | posted: 2026-10-21
+- [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1 | etsy | Software Engineer I, Marketplace Makers | Brooklyn, New York | posted: 2026-10-21
+- [ ] https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Remote-USA/AI-Engineer-II_R-100714 | csiweb | AI Engineer II | Remote, USA | posted: 2026-10-21
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/999-REMOTE/AI-Engineer_333616 | caci | AI Engineer | 999 REMOTE | posted: 2026-10-21
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Experienced-Software-Engineer_JR2026523599 | boeing | Experienced Software Engineer | 2 Locations | posted: 2026-10-21
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---El-Segundo-CA/Experienced-Software-Engineer_JR2026523599-1 | boeing | Experienced Software Engineer | 2 Locations | posted: 2026-10-21
+- [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Product-Security-Software-Engineer_R015259-1 | aveva | Product Security Software Engineer | Philadelphia, Pennsylvania, United States of America | posted: 2026-10-21
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/In-Memory-Database-Platform-Engineer_R35646 | allstate | In-Memory Database Platform Engineer | US - Remote | posted: 2026-10-21
+
 ## Processed
