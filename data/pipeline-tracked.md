@@ -553,4 +553,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Systems--PMTS-_JR361238 | Salesforce | Software Engineer, AI Systems (PMTS) | 5 Locations | posted: 2026-10-21
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR359585 | Salesforce | Software Engineering, AI Systems (SMTS) | 3 Locations | posted: 2026-10-21
 
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8304878 | DoorDash | Software Engineer, Reliability Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-21
+
 ## Processed
