@@ -1081,3 +1081,9 @@
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8304878 | doordashusa | Software Engineer, Reliability Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-21
 - [ ] https://job-boards.eu.greenhouse.io/remotepeople/jobs/5011829101 | remotepeople | Full Stack Engineer (China) | APAC or China (Remote) | posted: 2026-10-21
 - [ ] https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8 | mach9 | Software Engineer - 3D Graphics | San Francisco | posted: 2026-10-21
+
+- [ ] https://jobs.ashbyhq.com/sailorhealth/df9dbe7a-995d-4bfb-9bdd-08cab451e61a | sailorhealth | Software Engineer | USA · Remote | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8306042 | lendingtree | Platform Engineer | Seattle, Washington, United States | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/pennylane/b7c3bdef-92c8-44b3-a1f9-1b34698a862d | pennylane | DevOps Engineer W/M (remote) 🇪🇺 | Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c95ba0bd-5523-4ab7-86fd-d24363029afe | bjakcareer | Backend Developer | China · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c81168ce-4a20-4628-90dc-73c1294dafe3 | bjakcareer | Backend Developer | United States · Remote | posted: 2026-10-21
