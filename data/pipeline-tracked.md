@@ -593,4 +593,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-291661 | Mastercard | Software Engineer I | O'Fallon, Missouri | posted: 2026-10-21
 - [ ] https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309 | Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA, USA | posted: 2026-10-20
 
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5271512007 | Radiclehealth | Junior Software Engineer (React) | Remote · Shared Services | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5271506007 | Radiclehealth | Junior Software Engineer (SQL) | Remote · Shared Services | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/siftstack/a13a8413-86e4-46b3-a073-2a1f54bf689c | Forward Deployed Engineer @ Sift Stack, Inc. | Software Engineer, Developer Experience (AI Infrastructure) | Marina Del Rey, CA · San Francisco, CA · San Francisco · United States | posted: 2026-10-21
+- [ ] https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1 | Mimecast | Software Engineer I, Endpoint Sensor | United States of America– Minnesota – Minneapolis | posted: 2026-10-21
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Software-Engineer-II_31164389-1 | Abbott | Software Engineer II | United States - Illinois - Abbott Park | posted: 2026-10-21
+- [ ] https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_UT_Salt-Lake-City/Software-Engineer-III_JR500774-1 | Everfox | Kubernetes and Linux Container Platform Engineer | USA_UT_Salt Lake City | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007 | True Anomaly | Software Engineer (II-III), Full Stack | Denver, CO; Long Beach, CA | posted: 2026-10-21
+- [ ] https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/CA---Irvine-5300-California-Ave-4thfloor/Machine-Learning-Engineer-Xumo_R445122 | Comcast | Machine Learning Engineer-Xumo | CA - Irvine, 5300 California Ave., 4th floor | posted: 2026-10-21
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Software-Engineer-3_R0077251 | eBay | Software Engineer 3 | Austin | posted: 2026-10-21
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Massachusetts-Remote-Work/Command-Center-Solutions-Services--CCSS--Engineering-Organization---Software-Engineer_R69567 | Motorola Solutions | Command Center Solutions Services (CCSS) Engineering Organization - Software Engineer | Massachusetts Remote Work, More... | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8039471003 | Affirm | Analyst, Early Career (Full Stack) | New York, New York, United States; San Francisco, California, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8282746 | Everpure | Junior DevOps Engineer | Santa Clara, California | posted: 2026-10-21
+- [ ] https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5005406101 | Veeam Software | Software Development Engineer III, MuleSoft | Remote, United States | posted: 2026-10-21
+
 ## Processed
