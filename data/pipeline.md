@@ -1074,3 +1074,6 @@
 - [ ] https://jobs.ashbyhq.com/openrouter/8930eaba-071f-4b08-b598-306cb691b0d4 | openrouter | Software Engineer, Identity Platform | Remote (US) | posted: 2026-10-20
 - [ ] https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714 | justworks | Software Engineer, Backend | New York, New York | posted: 2026-10-20
 - [ ] https://jobs.lever.co/bluecoding/253b096c-05d4-4815-a571-7a76206af724 | bluecoding | Web Developer (Marketing Sites) | Remote Latam | posted: 2026-10-20
+
+- [ ] https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b | perplexity | Software Engineer, Enterprise Knowledge Platform | San Francisco · Palo Alto · United States · Seattle · New York City | posted: 2026-10-21
+- [ ] https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004 | storable | Software Development Engineer | Seattle, WA | posted: 2026-10-21
