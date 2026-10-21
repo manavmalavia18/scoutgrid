@@ -10433,6 +10433,171 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "9fin"
+    careers_url: https://jobs.ashbyhq.com/9fin
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Astra"
+    careers_url: https://jobs.ashbyhq.com/astra
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Blumen Systems"
+    careers_url: https://jobs.ashbyhq.com/blumen
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Coder"
+    careers_url: https://jobs.ashbyhq.com/coder
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Illumio"
+    careers_url: https://jobs.ashbyhq.com/illumio
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Liquid AI"
+    careers_url: https://jobs.ashbyhq.com/liquid-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lumin Digital"
+    careers_url: https://jobs.ashbyhq.com/lumin-digital
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lunon"
+    careers_url: https://jobs.ashbyhq.com/lunon
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Mach9"
+    careers_url: https://jobs.ashbyhq.com/mach9
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Metamorphic"
+    careers_url: https://jobs.ashbyhq.com/metamorphic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Mysten Labs"
+    careers_url: https://jobs.ashbyhq.com/mystenlabs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Parafin"
+    careers_url: https://jobs.ashbyhq.com/parafin
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Profound"
+    careers_url: https://jobs.ashbyhq.com/Profound
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "ReadyOn"
+    careers_url: https://jobs.ashbyhq.com/readyon.ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sofar Ocean"
+    careers_url: https://jobs.ashbyhq.com/sofarocean
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Twin Prime"
+    careers_url: https://jobs.ashbyhq.com/twinprime
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Vals AI"
+    careers_url: https://jobs.ashbyhq.com/vals-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "DriveWealth"
+    careers_url: https://boards.greenhouse.io/drivewealth
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lantern"
+    careers_url: https://job-boards.greenhouse.io/employerdirecthealthcare
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Future"
+    careers_url: https://job-boards.greenhouse.io/future
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Geotab"
+    careers_url: https://job-boards.greenhouse.io/geotab
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Indigenous Pact"
+    careers_url: https://job-boards.greenhouse.io/indigenouspactpbcinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Insomniac Games"
+    careers_url: https://job-boards.greenhouse.io/insomniac
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Jordan Park Group"
+    careers_url: https://job-boards.greenhouse.io/jordanparkgroup
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Salient Motion"
+    careers_url: https://job-boards.greenhouse.io/salientmotion
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Sony Pictures Animation"
+    careers_url: https://job-boards.greenhouse.io/sonypicturesanimation
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Uare.ai"
+    careers_url: https://job-boards.greenhouse.io/uareai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Sony Interactive Entertainment"
+    careers_url: https://job-boards.greenhouse.io/usinternshipspubliccareerssite
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Diamond Foundry"
+    careers_url: https://jobs.lever.co/diamondfoundry
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Fresenius Medical Care"
+    careers_url: https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
