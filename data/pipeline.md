@@ -1066,3 +1066,11 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007 | andurilindustries | Classified Cloud & Platform Engineer | Costa Mesa, California, United States | posted: 2026-10-20
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269889007?gh_jid=5269889007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269886007?gh_jid=5269886007 | andurilindustries | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
+
+- [ ] https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2 | plaid | Software Engineer - Security Engineering | Seattle Office · New York City Office · Remote · United States · San Francisco HQ · San Francisco | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/referralsuseonly/jobs/8304770 | referralsuseonly | Software Engineer II (Networking) - Platform Infra | United States | posted: 2026-10-20
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806 | elastic | Software Engineer II (Networking) - Platform Infra | United States | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/openrouter/7bff9169-ffb2-4a03-a0ee-2a5e73c0c0dd | openrouter | Software Engineer, Money Platform | Remote (US) | posted: 2026-10-20
+- [ ] https://jobs.ashbyhq.com/openrouter/8930eaba-071f-4b08-b598-306cb691b0d4 | openrouter | Software Engineer, Identity Platform | Remote (US) | posted: 2026-10-20
+- [ ] https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714 | justworks | Software Engineer, Backend | New York, New York | posted: 2026-10-20
+- [ ] https://jobs.lever.co/bluecoding/253b096c-05d4-4815-a571-7a76206af724 | bluecoding | Web Developer (Marketing Sites) | Remote Latam | posted: 2026-10-20
