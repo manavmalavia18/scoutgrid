@@ -974,4 +974,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269889007?gh_jid=5269889007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269886007?gh_jid=5269886007 | andurilindustries | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-20
 
+- [ ] https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004 | storable | Software Development Engineer | Seattle, WA | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2 | plaid | Software Engineer - Security Engineering | Seattle Office · New York City Office · Remote · United States · San Francisco HQ · San Francisco | posted: 2026-10-21
+
 ## Processed
