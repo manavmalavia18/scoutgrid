@@ -1087,3 +1087,19 @@
 - [ ] https://jobs.ashbyhq.com/pennylane/b7c3bdef-92c8-44b3-a1f9-1b34698a862d | pennylane | DevOps Engineer W/M (remote) 🇪🇺 | Remote | posted: 2026-10-21
 - [ ] https://jobs.ashbyhq.com/bjakcareer/c95ba0bd-5523-4ab7-86fd-d24363029afe | bjakcareer | Backend Developer | China · Remote | posted: 2026-10-21
 - [ ] https://jobs.ashbyhq.com/bjakcareer/c81168ce-4a20-4628-90dc-73c1294dafe3 | bjakcareer | Backend Developer | United States · Remote | posted: 2026-10-21
+
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5271506007 | radiclehealth | Junior Software Engineer (SQL) | Remote · Shared Services | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5271512007 | radiclehealth | Junior Software Engineer (React) | Remote · Shared Services | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/blossom-health/769e371e-ce17-4595-b3de-5a6122ad925b | blossom-health | Software Engineer | New York City | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/blossom-health/3ac1c37a-3ea3-4451-8833-e2b6d163579d | blossom-health | Applied AI Engineer | New York City | posted: 2026-10-21
+- [ ] https://www.mks2.com/job/6231341004?gh_jid=6231341004 | mks2technologies | Software Engineer II | Colorado Springs, CO | posted: 2026-10-21
+- [ ] https://www.mks2.com/job/6231337004?gh_jid=6231337004 | mks2technologies | Software Engineer / Scrum Master | Colorado Springs, CO | posted: 2026-10-21
+- [ ] https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005?gh_jid=4745292005 | grahamcapitalmanagement | Trading Technology Software Developer | Norwalk, Connecticut, United States | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/linkup/015445e0-15d3-4425-b47c-2961c2379119 | linkup | DevOps Engineer | NYC (NY), San Francisco (CA) or Paris (FR) | posted: 2026-10-21
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5271233007?gh_jid=5271233007 | andurilindustries | Classified Cloud & Platform Engineer | Washington, District of Columbia, United States | posted: 2026-10-21
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5271092007?gh_jid=5271092007 | andurilindustries | Full Stack Software Engineer - Core Infrastructure | Atlanta, Georgia, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5458651008 | quince | Software Engineer II - Growth | Palo Alto, California, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8306479 | mozilla | Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox | Remote Canada; Remote US | posted: 2026-10-21
+- [ ] https://www.esri.com/careers/5271179007?gh_jid=5271179007 | esri | Software Development Engineer II - Maritime | Vienna, Virginia, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/coconutsoftware/jobs/6224564004 | coconutsoftware | Intermediate DevOps Engineer | Canada - Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/mintmcp/0c4e7758-8da2-4fb0-8841-acb95e796b6f | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-21
