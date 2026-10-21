@@ -992,4 +992,26 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bjakcareer/c95ba0bd-5523-4ab7-86fd-d24363029afe | bjakcareer | Backend Developer | China · Remote | posted: 2026-10-21
 - [ ] https://jobs.ashbyhq.com/bjakcareer/c81168ce-4a20-4628-90dc-73c1294dafe3 | bjakcareer | Backend Developer | United States · Remote | posted: 2026-10-21
 
+- [ ] https://jobs.ashbyhq.com/siftstack/a13a8413-86e4-46b3-a073-2a1f54bf689c | siftstack | Software Engineer, Developer Experience (AI Infrastructure) | Marina Del Rey, CA · San Francisco, CA · San Francisco · United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8039471003 | affirm | Analyst, Early Career (Full Stack) | New York, New York, United States; San Francisco, California, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8906750002 | Twitch | Software Engineer I | Seattle, WA | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/queracomputinginc/jobs/5460475008 | queracomputinginc | Scientific Software Engineer – Machine Programming | Boston, MA, USA | posted: 2026-10-21
+- [ ] https://synd.io/careers/?gh_jid=6231512004 | syndio | Software Engineer, Integrations (US + Calgary) | Calgary, Alberta, Canada; Remote Home Office - Greater Seattle or San Francisco Bay Area; Remote Home Office - Greater Seattle, San Francisco Bay Area or New York Metro; Remote Home Office - New York Metro; Remote Home Office - United States | posted: 2026-10-21
+- [ ] https://careers.airbnb.com/positions/8274152?gh_jid=8274152 | airbnb | Software Engineer, Payments | Remote, USA | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d | pinecone | Full-Stack Software Engineer, Experience | New York City | posted: 2026-10-21
+- [ ] https://www.smxtech.com/careers/?gh_jid=8040521003 | smxtech | Site Reliability Engineer (5757) | United States | posted: 2026-10-21
+- [ ] https://boards.greenhouse.io/supplyhouse/jobs/6208712004?gh_jid=6208712004 | supplyhouse | Backend Engineer | Remote, Remote, India | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5271506007 | radiclehealth | Junior Software Engineer (SQL) | Remote · Shared Services | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/radiclehealth/jobs/5271512007 | radiclehealth | Junior Software Engineer (React) | Remote · Shared Services | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/blossom-health/769e371e-ce17-4595-b3de-5a6122ad925b | blossom-health | Software Engineer | New York City | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/blossom-health/3ac1c37a-3ea3-4451-8833-e2b6d163579d | blossom-health | Applied AI Engineer | New York City | posted: 2026-10-21
+- [ ] https://www.mks2.com/job/6231341004?gh_jid=6231341004 | mks2technologies | Software Engineer II | Colorado Springs, CO | posted: 2026-10-21
+- [ ] https://www.mks2.com/job/6231337004?gh_jid=6231337004 | mks2technologies | Software Engineer / Scrum Master | Colorado Springs, CO | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/sandboxaq/753edb00-9eaa-4ccc-ac84-682f72f14fe7 | sandboxaq | AI Engineer | Canada · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca | sandboxaq | AI Engineer | United States · Remote | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/granum/jobs/8895452002 | granum | Software Engineer III | Remote · USA- Remote | posted: 2026-10-21
+- [ ] https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005?gh_jid=4745292005 | grahamcapitalmanagement | Trading Technology Software Developer | Norwalk, Connecticut, United States | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/linkup/015445e0-15d3-4425-b47c-2961c2379119 | linkup | DevOps Engineer | NYC (NY), San Francisco (CA) or Paris (FR) | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5458651008 | quince | Software Engineer II - Growth | Palo Alto, California, United States | posted: 2026-10-21
+
 ## Processed
