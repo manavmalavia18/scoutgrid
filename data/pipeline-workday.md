@@ -553,4 +553,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Product-Security-Software-Engineer_R015259-1 | aveva | Product Security Software Engineer | Philadelphia, Pennsylvania, United States of America | posted: 2026-10-21
 - [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/In-Memory-Database-Platform-Engineer_R35646 | allstate | In-Memory Database Platform Engineer | US - Remote | posted: 2026-10-21
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0110896 | workday | Site Reliability Engineer (US Federal) | USA.VA.Reston | posted: 2026-10-21
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Software-Engineer_JREQ204694 | thomsonreuters | Software Engineer | United States of America Eagan Minnesota | posted: 2026-10-21
+- [ ] https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055 | globalfoundries | AI Software Engineer (2027 New College Graduate) | 2 Locations | posted: 2026-10-21
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Software-Engineer--Core-CRM_R-140124 | coke | Software Engineer II - CRM | US - GA - Atlanta | posted: 2026-10-21
+- [ ] https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/AI-Engineer--R-D_R2026-15825 | churchdwight | AI Engineer, R&D | USA, Princeton, NJ | posted: 2026-10-21
+- [ ] https://aveva.wd3.myworkdayjobs.com/etap_careers/job/Irvine-California-United-States-of-America/Software-Engineer_R013326 | aveva | Software Engineer | Irvine, California, United States of America | posted: 2026-10-21
+- [ ] https://aveva.wd3.myworkdayjobs.com/etap_careers/job/Irvine-California-United-States-of-America/Software-Engineer_R013323 | aveva | Software Engineer | Irvine, California, United States of America | posted: 2026-10-21
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Software-Engineer-II_31164389-1 | abbott | Software Engineer II | United States - Illinois - Abbott Park | posted: 2026-10-21
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Software-Engineer-II_31164389 | abbott | Software Engineer II | United States - Illinois - Abbott Park | posted: 2026-10-21
+
 ## Processed
