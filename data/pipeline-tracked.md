@@ -657,4 +657,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/queracomputinginc/jobs/5460475008 | QuEra Computing | Scientific Software Engineer – Machine Programming | Boston, MA, USA | posted: 2026-10-21
 - [ ] https://job-boards.greenhouse.io/onestream/jobs/4452569009 | OneStream Software | Software Engineer II | United States | posted: 2026-10-21
 
+- [ ] https://jobs.ashbyhq.com/exa/d785f622-9b1c-4e27-9cb6-686546028576 | Exa | Software Engineer, Knowledge Engine – Query Engine | San Francisco, California | posted: 2026-10-22
+- [ ] https://careers.withwaymo.com/jobs?gh_jid=8212626 | Waymo | Machine Learning Engineer, Scenes | Mountain View, California, United States, San Francisco, California, United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56 | Cursor | Software Engineer, Compute Infra | San Francisco · New York · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/reliable-robotics/a6f1b619-bf51-44b7-9e1d-e1891a3b0602 | Reliable Robotics | DevOps Engineer, Flight Software | Mountain View, CA · San Diego, CA · San Diego · United States · Remote | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007 | True Anomaly | Software Engineer I, QA (New Grad) | Denver, CO; Long Beach, CA | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321 | Boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-22
+- [ ] https://lilly.wd115.myworkdayjobs.com/lly/job/US-USA-Remote/Software-Engineer--Oncology-Applications_R-110362 | Eli Lilly and Company | Software Engineer, Oncology Applications | 3 Locations | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/airspace-intelligence.com/fac87867-517e-4452-9d41-c74c7ccab3e9 | Airspace Intelligence | GNC Software Engineer (Civil Aviation) | Boston, US | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/airspace-intelligence.com/10ef9eff-876a-4bd8-a5b2-4853a988b0ca | Airspace Intelligence | Simulation Software Engineer (Civil Aviation) | Boston, US | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/airspace-intelligence.com/69ec2552-c05d-46ea-a876-e4768d43e95c | Airspace Intelligence | Optimization Software Engineer (Civil Aviation) | Boston, US | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/mistral.ai/60468d75-a3b9-4efa-ad9d-41f61592f427 | Mistral Ai | Software Engineer (Golang), Storage | Paris · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/mistral.ai/a94943c7-632f-4ae6-8076-1d7d57e2a3a5 | Mistral Ai | Software Engineer (Golang), Serverless Containers | Paris · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/mistral.ai/926f9306-c524-4161-8b06-21a85cd3bfd5 | Mistral Ai | Software Engineer (Golang), Fleet Delivery | Paris · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/mistral.ai/d23aec52-d08e-4a99-bc17-b7f98a6be0d4 | Mistral Ai | Software Engineer (Golang), Sandbox | Paris · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/mistral.ai/037f507d-f369-4d2a-a939-45bb740df644 | Mistral Ai | Software Engineer (Golang), Managed K8s | Paris · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/playerzero/e33d4c35-4132-4a6e-af0a-3fc6453c01c2 | PlayerZero | Site Reliability Engineer | Atlanta · San Francisco · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/playerzero/44738319-a3bc-4574-843b-27db31ecef9a | PlayerZero | Platform Engineer | Atlanta | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8642412002 | Qube Research & Technologies | Software Engineer – Site Reliability Engineering | New York | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/yext/jobs/8296161 | Yext | Software Engineer | New York, NY | posted: 2026-10-22
+
 ## Processed
