@@ -10888,6 +10888,91 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "AbbVie"
+    careers_url: https://jobs.smartrecruiters.com/AbbVie
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "ATR International"
+    careers_url: https://jobs.smartrecruiters.com/ATRInternational2
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "Bosch USA"
+    careers_url: https://jobs.smartrecruiters.com/BoschGroup
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "HomeXpress Mortgage Corp"
+    careers_url: https://jobs.smartrecruiters.com/HomeXpressMortgageCorp
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "LaunchCode"
+    careers_url: https://jobs.smartrecruiters.com/LaunchCode
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "Northwestern Mutual (SmartRecruiters)"
+    careers_url: https://jobs.smartrecruiters.com/NorthwesternMutual
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "SRI Tech Solutions Inc."
+    careers_url: https://jobs.smartrecruiters.com/SRITechSolutionsInc
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "TekWissen"
+    careers_url: https://jobs.smartrecruiters.com/TEKWISSENLLC
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "Trident Consulting"
+    careers_url: https://jobs.smartrecruiters.com/TridentConsultingInc2
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "Versant Media"
+    careers_url: https://jobs.smartrecruiters.com/Versant3
+    provider: smartrecruiters
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "BayCare Health System"
+    careers_url: https://app-baycaremedicalgroup.icims.com/jobs/search?ss=1
+    provider: icims
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "Benjamin Moore"
+    careers_url: https://careers-benjaminmoore.icims.com/jobs/search?ss=1
+    provider: icims
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "Consilio LLC"
+    careers_url: https://careers-consilio.icims.com/jobs/search?ss=1
+    provider: icims
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "General Dynamics Electric Boat"
+    careers_url: https://careers-gdeb.icims.com/jobs/search?ss=1
+    provider: icims
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22; will be filtered by requiresClearance() downstream
+  - name: "General Dynamics Mission Systems"
+    careers_url: https://careers-gdms.icims.com/jobs/search?ss=1
+    provider: icims
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22; will be filtered by requiresClearance() downstream
+  - name: "NV5"
+    careers_url: https://careers-nv5.icims.com/jobs/search?ss=1
+    provider: icims
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "Dymax"
+    careers_url: https://apply.workable.com/bce/
+    provider: workable
+    enabled: true
+    notes: LinkedIn sweep (Muse) 2026-10-22
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
