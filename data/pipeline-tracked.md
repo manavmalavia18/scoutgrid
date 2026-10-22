@@ -612,4 +612,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/tessera-labs/0b3dd840-8942-4f28-9452-b30f3698500a | Tessera Labs | Data Platform Engineer | Remote in the U.S. · San Jose Office (HQ) · San Jose · United States | posted: 2026-10-22
 - [ ] https://www.klaviyo.com/careers/jobs/8041054003?gh_jid=8041054003 | Klaviyo | Software Engineer, Conversational Products & Agent Workflows | Boston, MA | posted: 2026-10-22
 
+- [ ] https://jobs.ashbyhq.com/depthfirst/b63ec087-d499-46e0-a1eb-fa096ed1537c | depthfirst | Infrastructure Software Engineer | San Francisco | posted: 2026-10-22
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Engineer_JR0151296 | McKesson Corporation | Software Engineer | USA, TX, Irving | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/salmon-group/6c01b23d-bd5a-47fe-bc51-30de6b9c8ed4 | Salmon | Fullstack QA Engineer (MSME) | Remote | posted: 2026-10-22
+
 ## Processed
