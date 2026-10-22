@@ -626,4 +626,35 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Frontend-Software-Engineer---Secret_R187649 | Parsons | Frontend Software Engineer - Secret | US Remote Any Location
 - [ ] https://jobs.ashbyhq.com/clickhouse/40a07d4e-3b7e-49c0-afd4-2f4dff005d1a | ClickHouse | Full Stack Software Engineer, Support Operations | United States · Denver · Seattle · Austin · New York · Boston · San Francisco · Remote | posted: 2026-10-22
 
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145091004 | Sonyinteractiveentertainmentglobal | Software Development Engineer in Test II | United States, San Mateo, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/clera/9f91491d-03d1-4f13-89db-328d81b0007c | Clera | AI Software Engineer | remote | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/clera/dc03afd3-b3ed-4386-b180-6f5a2eddaa92 | Clera | Fullstack Engineer | San Francisco | posted: 2026-10-22
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195 | Entrust | Software Engineer II – C/C++ & Java | United States - Shakopee, MN (GHQ) | posted: 2026-10-22
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624 | Remitly | Fullstack Software Development Engineer I, Card | Arlington Virginia, United States | posted: 2026-10-22
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-II--Card_R_106623 | Remitly | Fullstack Software Development Engineer II, Card | Arlington Virginia, United States | posted: 2026-10-22
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096 | Salesforce | Software Engineering SMTS - Cloud Reliability | 2 Locations | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4463686009 | GRVTY | DevOps Engineer | Fort Belvoir, Virginia, United States; Fort Meade, Maryland, United States; Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4464126009 | GRVTY | Frontend Software Engineer | Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4463756009 | GRVTY | Platform Engineer | Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5 | Baseten | Software Engineer - Identity & Authorization | San Francisco · Toronto · Canada · New York · United States · Montreal · Seattle | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1 | Baseten | Software Engineer - Partner Platform | San Francisco · Toronto · Canada · New York · United States · Montreal · Seattle | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4 | Baseten | Product Platform: Backend Engineer | San Francisco · New York · United States · Seattle | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db | OpenAI | Software Engineer, Identity Infrastructure | San Francisco · New York City · New York · United States · Seattle | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce | Ramp | Software Engineer, Enterprise Product | New York, NY (HQ) · San Francisco, CA · San Fransisco · USA | posted: 2026-10-22
+- [ ] https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Software-Engineer_JR-12785-1 | Trane Technologies | Software Engineer | La Crosse, Wisconsin | posted: 2026-10-22
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-VA-Richmond/Software-Engineer---Pricing-Applications_JR0155807 | McKesson Corporation | Software Engineer – Pricing Applications | USA, VA, Richmond | posted: 2026-10-22
+- [ ] https://pwc.wd3.myworkdayjobs.com/us_experienced_careers/job/NY-New-York/Tax-Innovation---Software-Engineering---Experienced-Associate_767775WD | PwC | Tax Innovation - Software Engineering - Experienced Associate | 4 Locations | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5254820007 | CHAOS Industries | Flight Controls & Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5254819007 | CHAOS Industries | GNC Software Engineer | Los Angeles, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a | Zus Health | Platform Software Engineering Co-op | Boston, MA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/alchemi/0b6d993e-e29f-4102-a055-34db1f2797a0 | Alchemi | AI Engineer | NYC preferred | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/Linkup/015445e0-15d3-4425-b47c-2961c2379119 | Linkup | DevOps Engineer | NYC (NY), San Francisco (CA) or Paris (FR) | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca | SandboxAQ | AI Engineer | United States · Remote | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/vital-lyfe/a6849d83-933c-4105-8ac6-030e208f163d | Vital Lyfe | Software Engineer, Backend & Data | Los Angeles - Greater Area | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/automox/jobs/5454109008 | Automox | Software Engineer - Agent Team | Remote - US | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/granum/jobs/8895452002 | Granum | Software Engineer III | Remote · USA- Remote | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8306042 | LendingTree | Platform Engineer | Seattle, Washington, United States | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/queracomputinginc/jobs/5460475008 | QuEra Computing | Scientific Software Engineer – Machine Programming | Boston, MA, USA | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/onestream/jobs/4452569009 | OneStream Software | Software Engineer II | United States | posted: 2026-10-21
+
 ## Processed
