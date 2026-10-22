@@ -609,4 +609,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835 | OpenAI | Software Engineer, Privacy Engineering (Lawful Access) | San Francisco | posted: 2026-10-21
 
+- [ ] https://jobs.ashbyhq.com/tessera-labs/0b3dd840-8942-4f28-9452-b30f3698500a | Tessera Labs | Data Platform Engineer | Remote in the U.S. · San Jose Office (HQ) · San Jose · United States | posted: 2026-10-22
+- [ ] https://www.klaviyo.com/careers/jobs/8041054003?gh_jid=8041054003 | Klaviyo | Software Engineer, Conversational Products & Agent Workflows | Boston, MA | posted: 2026-10-22
+
 ## Processed
