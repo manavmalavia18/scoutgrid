@@ -566,4 +566,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://snapchat.wd1.myworkdayjobs.com/referral19/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-4_Q426SWEFS2-1 | snapchat | Software Engineer, Full Stack, Level 4 | 5 Locations | posted: 2026-10-22
 - [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-4_Q426SWEFS2-2 | snapchat | Software Engineer, Full Stack, Level 4 | 5 Locations | posted: 2026-10-22
 
+- [ ] https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary/job/New-York-NY/Software-Engineer_103606 | msk | Software Engineer | New York, NY | posted: 2026-10-22
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Engineer_JR0151296 | mckesson | Software Engineer | USA, TX, Irving | posted: 2026-10-22
+- [ ] https://magnitudesoftware.wd1.myworkdayjobs.com/external/job/India---Hyderabad---Remote/Software-Development-Engineer-in-Test_REQ001190 | magnitudesoftware | Software Development Engineer in Test | India - Hyderabad - Remote | posted: 2026-10-22
+- [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Remote---Austin-Metro/Back-End-Software-Engineer--Contractor-_2026-8654 | dimensional | Back-End Software Engineer (Contractor) | Remote - Austin Metro | posted: 2026-10-22
+- [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Remote---Other/Software-Engineer--Contractor-_2026-8917 | dimensional | Software Engineer (Contractor) | Remote - Other | posted: 2026-10-22
+- [ ] https://convatec.wd1.myworkdayjobs.com/convatec/job/India---Remote/Applied-AI-Engineer_JR00020781 | convatec | Applied AI Engineer | India - Remote | posted: 2026-10-22
+
 ## Processed
