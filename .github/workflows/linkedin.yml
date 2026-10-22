@@ -2,7 +2,7 @@ name: LinkedIn board-discovery leads
 
 on:
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '7,37 * * * *'
   workflow_dispatch: {}
 
 concurrency:
@@ -39,10 +39,14 @@ jobs:
           args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
 
       # Only 6 short, courtesy-delayed queries per run (see DEFAULT_QUERIES
-      # in fetch-linkedin-feed.py) and a 2-hour cadence — deliberately light
-      # touch given how aggressively LinkedIn throttles guest search.
+      # in fetch-linkedin-feed.py) and a 30-minute cadence — moderate touch;
+      # LinkedIn throttles guest search harder than any other board scoutgrid
+      # hits, and this runs through the user's own residential IP (via
+      # Tailscale), so an IP-level block here would also hit their normal
+      # LinkedIn browsing. If 429s start showing up in run logs, back this
+      # off to every 2 hours (the original cadence) or widen --sleep.
       - name: Run LinkedIn lead fetch
-        run: python3 fetch-linkedin-feed.py --results 25 --hours 24 --sleep 8
+        run: python3 fetch-linkedin-feed.py --results 25 --hours 24 --sleep 10
 
       - name: Disconnect from Tailscale exit node
         run: sudo tailscale down || true
