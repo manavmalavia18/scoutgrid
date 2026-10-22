@@ -589,4 +589,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Software-Engineer_JR2026511461 | boeing | Software Engineer | USA - Hazelwood, MO | posted: 2026-10-22
 - [ ] https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1 | autostore | Software Engineer | Atlanta, GA, USA | posted: 2026-10-22
 
+- [ ] https://web.wd1.myworkdayjobs.com/externalcareersite/job/Nova-Scotia-Canada---Remote/Software-Engineer_R15216 | web | Software Engineer | Nova Scotia, Canada - Remote | posted: 2026-10-22
+- [ ] https://umd.wd1.myworkdayjobs.com/umcp/job/University-of-Maryland-College-Park/DevOps-Engineer_JR105228 | umd | DevOps Engineer | University of Maryland College Park | posted: 2026-10-22
+- [ ] https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/M365-Platform-Engineer_R10013425 | racetrac | AI & M365 Platform Engineer | 200 Galleria Parkway SE Suite 900 Atlanta, GA 30339 | posted: 2026-10-22
+- [ ] https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Site-Reliability-Engineer_R143033 | northeastern | Site Reliability Engineer | Boston, MA (Main Campus) | posted: 2026-10-22
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-VA-Richmond/Software-Engineer---Pricing-Applications_JR0155807 | mckesson | Software Engineer – Pricing Applications | USA, VA, Richmond | posted: 2026-10-22
+- [ ] https://mastercard.wd1.myworkdayjobs.com/contractorconversion/job/OFallon-Missouri/Software-Engineer-II_R-294415 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-22
+- [ ] https://jj.wd5.myworkdayjobs.com/noncompetetivehiring/job/Remote-US/Endpoint---AI-Engineer-Mgr_R-105219 | jj | Endpoint & AI Engineer Mgr | Remote (US) | posted: 2026-10-22
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783 | guidehouse | Technical Associate Application Developer - Campus 2027 | US - IL, Chicago | posted: 2026-10-22
+- [ ] https://datasite.wd1.myworkdayjobs.com/datasite/job/PRT---Portugal-Work-from-Home/DevOps-Engineer--Europe--remote----Sherpany_R35842 | datasite | DevOps Engineer (Europe, remote) - Sherpany | PRT - Portugal Work from Home | posted: 2026-10-22
+- [ ] https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City---BlueFlame-AI--Grata/Senior-Backend-Engineer--Python-API----Hybrid-NYC--Blueflame-AI_R35807 | datasite | AI Engineer - NYC | USA - NY - New York City - BlueFlame AI / Grata | posted: 2026-10-22
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Minnesota-Remote/Software-Engineer-III_R49850 | chrobinson | Software Engineer III | 3 Locations | posted: 2026-10-22
+- [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9204 | cdk | Associate Software Engineer | Austin, TX, USA | posted: 2026-10-22
+- [ ] https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Remote-Location/Software-Developer-II---Pathology-Informatics_352653 | ccf | Software Developer II - Pathology Informatics | Remote Location | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Chantilly-VA/Software-Engineer--Associate-or-Experienced-_JR2026525287-1 | boeing | Software Engineer (Associate or Experienced) | USA - Chantilly, VA | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Software-Engineer--Associate-or-Experienced-_JR2026525287 | boeing | Software Engineer (Associate or Experienced) | USA - Chantilly, VA | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-22
+- [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineer-IV_R0008368 | availity | Software Engineer IV | Remote - United States | posted: 2026-10-22
+
 ## Processed
