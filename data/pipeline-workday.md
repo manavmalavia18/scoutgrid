@@ -573,4 +573,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Remote---Other/Software-Engineer--Contractor-_2026-8917 | dimensional | Software Engineer (Contractor) | Remote - Other | posted: 2026-10-22
 - [ ] https://convatec.wd1.myworkdayjobs.com/convatec/job/India---Remote/Applied-AI-Engineer_JR00020781 | convatec | Applied AI Engineer | India - Remote | posted: 2026-10-22
 
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Portugal---Remote/Software-Engineer--JavaScript--Nodejs-_R58040 | trimble | Software Engineer (JavaScript, Node.js) | 3 Locations | posted: 2026-10-22
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10338652 | toyota | Software Engineer | Plano, Texas | posted: 2026-10-22
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Backend--Level-5_Q426SWEB6-2 | snapchat | Software Engineer, Backend, Level 5 | 5 Locations | posted: 2026-10-22
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624 | remitly | Fullstack Software Development Engineer I, Card | Arlington Virginia, United States | posted: 2026-10-22
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-II--Card_R_106623 | remitly | Fullstack Software Development Engineer II, Card | Arlington Virginia, United States | posted: 2026-10-22
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/Cyber-Software-Engineer_R10242662 | ngc | Cyber Software Engineer | United States-Ohio-Cincinnati | posted: 2026-10-22
+- [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Remote/Software-Engineer-IV_JR103602 | modivcare | Software Engineer IV | Remote | posted: 2026-10-22
+- [ ] https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Remote-Location/Software-Developer-IV-for-Information-Services_R0013031 | liberty | Software Developer IV for Information Services | Remote Location | posted: 2026-10-22
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req194624 | homedepot | Software Engineer (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-22
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451 | globalhr | Part-Time Software Engineer Co-op(Remote) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | posted: 2026-10-22
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II_R004195 | entrust | Software Engineer II – C/C++ & Java | United States - Shakopee, MN (GHQ) | posted: 2026-10-22
+- [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---LA---NEW-ORLEANS/AI-Native-Python-Full-Stack-Engineering_51592346 | dxctechnology | AI-Native Python Full Stack Engineering | USA - LA - NEW ORLEANS | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Software-Engineer_JR2026511461-1 | boeing | Software Engineer | USA - Hazelwood, MO | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Software-Engineer_JR2026511461 | boeing | Software Engineer | USA - Hazelwood, MO | posted: 2026-10-22
+- [ ] https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1 | autostore | Software Engineer | Atlanta, GA, USA | posted: 2026-10-22
+
 ## Processed
