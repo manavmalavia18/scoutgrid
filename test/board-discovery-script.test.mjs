@@ -193,3 +193,33 @@ test('linkedin-feed.json is read as a source and only ATS-hosted urls promote', 
     rmSync(dir, { recursive: true, force: true });
   }
 });
+
+test('a16z-feed.json is read as a source and promotes direct ATS leads', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'scoutgrid-board-registry-a16z-'));
+  try {
+    seedPortals(dir, [
+      'title_filter:',
+      '  positive: []',
+      'tracked_companies:',
+      '',
+    ].join('\n'));
+    writeFileSync(join(dir, 'data/hiringcafe-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    writeFileSync(join(dir, 'data/nextplay-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    writeFileSync(join(dir, 'data/linkedin-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    writeFileSync(join(dir, 'data/a16z-feed.json'), JSON.stringify({
+      fetchedAt: new Date().toISOString(),
+      jobs: [
+        { url: 'https://jobs.ashbyhq.com/a16zfound/job-1/application', company: 'A16zFound Co', title: '' },
+        { url: 'https://jobs.ashbyhq.com/a16zfound/job-2/application', company: 'A16zFound Co', title: '' },
+      ],
+    }));
+
+    runDiscoverAgainst(dir);
+
+    const doc = yaml.load(readFileSync(join(dir, 'portals.yml'), 'utf8'));
+    assert.equal(doc.tracked_companies.length, 1, 'two leads for the same company must collapse to one board');
+    assert.equal(doc.tracked_companies[0].careers_url, 'https://jobs.ashbyhq.com/a16zfound');
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});

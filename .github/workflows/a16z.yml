@@ -1,0 +1,62 @@
+name: a16z portfolio board-discovery leads
+
+on:
+  schedule:
+    - cron: '27 */6 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: a16z-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --no-audit --no-fund
+
+      # jobs.a16z.com's company-level listing pages (jobs.a16z.com/jobs/<slug>)
+      # are plain server-rendered HTML — confirmed no login wall, no JS
+      # execution needed, no Cloudflare challenge via a normal browser UA.
+      # Unlike LinkedIn/HiringCafe this does NOT need the Tailscale exit
+      # node. ~673 companies at a 250ms courtesy delay each (see
+      # fetch-a16z-feed.mjs) takes a few minutes — 6-hour cadence is plenty
+      # since the portfolio company list itself barely changes day to day.
+      - name: Run a16z portfolio lead fetch
+        run: node fetch-a16z-feed.mjs
+
+      - name: Run board discovery (promote any direct-ATS a16z leads)
+        run: node discover-boards.mjs
+
+      - name: Commit results
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ portals.yml
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "a16z: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 3 attempts"
+              exit 1
+            fi
+          fi
