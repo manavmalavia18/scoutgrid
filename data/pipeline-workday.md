@@ -563,4 +563,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Software-Engineer-II_31164389-1 | abbott | Software Engineer II | United States - Illinois - Abbott Park | posted: 2026-10-21
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Software-Engineer-II_31164389 | abbott | Software Engineer II | United States - Illinois - Abbott Park | posted: 2026-10-21
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/referral19/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-4_Q426SWEFS2-1 | snapchat | Software Engineer, Full Stack, Level 4 | 5 Locations | posted: 2026-10-22
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-4_Q426SWEFS2-2 | snapchat | Software Engineer, Full Stack, Level 4 | 5 Locations | posted: 2026-10-22
+
 ## Processed
