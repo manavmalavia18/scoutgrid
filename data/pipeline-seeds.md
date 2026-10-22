@@ -1038,4 +1038,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/tessera-labs/0b3dd840-8942-4f28-9452-b30f3698500a | tessera-labs | Data Platform Engineer | Remote in the U.S. · San Jose Office (HQ) · San Jose · United States | posted: 2026-10-22
 - [ ] https://www.klaviyo.com/careers/jobs/8041054003?gh_jid=8041054003 | klaviyo | Software Engineer, Conversational Products & Agent Workflows | Boston, MA | posted: 2026-10-22
 
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5254818007 | chaosindustries | GNC Software Engineer | Hawthorne, California, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5254819007 | chaosindustries | GNC Software Engineer | Los Angeles, CA | posted: 2026-10-22
+- [ ] https://stripe.com/jobs/search?gh_jid=8314235 | stripe | Software Engineer, Resource Automation | South San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db | openai | Software Engineer, Identity Infrastructure | San Francisco · New York City · New York · United States · Seattle | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/instructure/09dbdc35-5e01-4131-b95f-1d8298f0e8e9 | instructure | AI Engineer, Marketing | US-REMOTE | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8642412002 | quberesearchandtechnologies | Software Engineer – Site Reliability Engineering | New York | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4723523006 | chainguard | Software Engineer, Sustaining Automation | Canada - Remote; United States - Remote | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/playerzero/e33d4c35-4132-4a6e-af0a-3fc6453c01c2 | playerzero | Site Reliability Engineer | Atlanta · San Francisco · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/playerzero/44738319-a3bc-4574-843b-27db31ecef9a | playerzero | Platform Engineer | Atlanta | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/mintmcp/b08a0215-5fe9-4473-8f45-b1b79593f595 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/arb-interactive/8db4b678-1df4-46e1-8592-10ef67fe4df4 | arb-interactive | Fullstack Software Engineer | United States · Remote | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8041395003 | darkwolfsolutions | DevOps Engineer | College Park, Maryland | posted: 2026-10-22
+- [ ] https://platform.sh/company/careers/job?gh_jid=8906524002 | platformsh | Software Engineer | Remote • UK, France, Spain, Germany or Canada | posted: 2026-10-22
+
 ## Processed
