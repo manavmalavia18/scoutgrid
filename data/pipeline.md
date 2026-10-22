@@ -1140,3 +1140,11 @@
 - [ ] https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | sierra | Software Engineer, Agent Runtime | San Francisco, CA | posted: 2026-10-22
 
 - [ ] https://jobs.ashbyhq.com/depthfirst/b63ec087-d499-46e0-a1eb-fa096ed1537c | depthfirst | Infrastructure Software Engineer | San Francisco | posted: 2026-10-22
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4723523006 | chainguard | Software Engineer, Sustaining Automation | Canada - Remote; United States - Remote | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/playerzero/e33d4c35-4132-4a6e-af0a-3fc6453c01c2 | playerzero | Site Reliability Engineer | Atlanta · San Francisco · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/playerzero/44738319-a3bc-4574-843b-27db31ecef9a | playerzero | Platform Engineer | Atlanta | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/mintmcp/b08a0215-5fe9-4473-8f45-b1b79593f595 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/arb-interactive/8db4b678-1df4-46e1-8592-10ef67fe4df4 | arb-interactive | Fullstack Software Engineer | United States · Remote | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8041395003 | darkwolfsolutions | DevOps Engineer | College Park, Maryland | posted: 2026-10-22
+- [ ] https://platform.sh/company/careers/job?gh_jid=8906524002 | platformsh | Software Engineer | Remote • UK, France, Spain, Germany or Canada | posted: 2026-10-22
