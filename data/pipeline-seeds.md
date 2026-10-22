@@ -1034,4 +1034,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259 | supabase | Software Engineer - Turso | Remote, Global | posted: 2026-10-21
 - [ ] https://job-boards.greenhouse.io/purestorage/jobs/8282746 | purestorage | Junior DevOps Engineer | Santa Clara, California | posted: 2026-10-21
 
+- [ ] https://jobs.ashbyhq.com/depthfirst/b63ec087-d499-46e0-a1eb-fa096ed1537c | depthfirst | Infrastructure Software Engineer | San Francisco | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/tessera-labs/0b3dd840-8942-4f28-9452-b30f3698500a | tessera-labs | Data Platform Engineer | Remote in the U.S. · San Jose Office (HQ) · San Jose · United States | posted: 2026-10-22
+- [ ] https://www.klaviyo.com/careers/jobs/8041054003?gh_jid=8041054003 | klaviyo | Software Engineer, Conversational Products & Agent Workflows | Boston, MA | posted: 2026-10-22
+
 ## Processed
