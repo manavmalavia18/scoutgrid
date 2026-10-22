@@ -616,4 +616,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-TX-Irving/Software-Engineer_JR0151296 | McKesson Corporation | Software Engineer | USA, TX, Irving | posted: 2026-10-22
 - [ ] https://jobs.ashbyhq.com/salmon-group/6c01b23d-bd5a-47fe-bc51-30de6b9c8ed4 | Salmon | Fullstack QA Engineer (MSME) | Remote | posted: 2026-10-22
 
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4723523006 | Chainguard | Software Engineer, Sustaining Automation | Canada - Remote; United States - Remote | posted: 2026-10-22
+- [ ] https://jobs.smartrecruiters.com/cityofnewyork/3743990016330346 | City of New York | Application Developer | New York City, NY, United States | posted: 2026-10-22
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Software-Engineer_JR2026511461 | Boeing | Software Engineer | USA - Hazelwood, MO | posted: 2026-10-22
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/AI-Native-Software-Engineer--Risk_R0077070 | eBay | AI Native Software Engineer, Risk | Austin | posted: 2026-10-22
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Software-Engineer---Traffic_R0076603 | eBay | Software Engineer - Traffic | Austin | posted: 2026-10-22
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Remote-_Req194624 | The Home Depot | Software Engineer (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-22
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Backend--Level-5_Q426SWEB6-2 | Snap Inc. | Software Engineer, Backend, Level 5 | 5 Locations | posted: 2026-10-22
+- [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Frontend-Software-Engineer---Secret_R187649 | Parsons | Frontend Software Engineer - Secret | US Remote Any Location
+- [ ] https://jobs.ashbyhq.com/clickhouse/40a07d4e-3b7e-49c0-afd4-2f4dff005d1a | ClickHouse | Full Stack Software Engineer, Support Operations | United States · Denver · Seattle · Austin · New York · Boston · San Francisco · Remote | posted: 2026-10-22
+
 ## Processed
