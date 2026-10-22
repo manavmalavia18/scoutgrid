@@ -1138,3 +1138,5 @@
 - [ ] https://jobs.ashbyhq.com/sierra/43fe3ab5-60ce-4d2c-b3bb-90c201968de2 | sierra | Software Engineer, Insights | San Francisco, CA | posted: 2026-10-22
 - [ ] https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d | sierra | Software Engineer, Agent Builder | San Francisco, CA | posted: 2026-10-22
 - [ ] https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | sierra | Software Engineer, Agent Runtime | San Francisco, CA | posted: 2026-10-22
+
+- [ ] https://jobs.ashbyhq.com/depthfirst/b63ec087-d499-46e0-a1eb-fa096ed1537c | depthfirst | Infrastructure Software Engineer | San Francisco | posted: 2026-10-22
