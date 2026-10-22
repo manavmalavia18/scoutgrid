@@ -607,4 +607,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/purestorage/jobs/8282746 | Everpure | Junior DevOps Engineer | Santa Clara, California | posted: 2026-10-21
 - [ ] https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5005406101 | Veeam Software | Software Development Engineer III, MuleSoft | Remote, United States | posted: 2026-10-21
 
+- [ ] https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835 | OpenAI | Software Engineer, Privacy Engineering (Lawful Access) | San Francisco | posted: 2026-10-21
+
 ## Processed
