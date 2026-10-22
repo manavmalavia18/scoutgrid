@@ -107,6 +107,7 @@ function main() {
     loadJsonFeed('nextplay-feed.json', 'nextplay'),
     loadJsonFeed('jr-board-fresh.json', 'jobright'),
     loadJsonFeed('wellfound-feed.json', 'wellfound'),
+    loadJsonFeed('linkedin-feed.json', 'linkedin'),
   ];
   const totalLeads = feeds.reduce((sum, f) => sum + f.jobs.length, 0);
 

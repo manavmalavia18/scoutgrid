@@ -1,0 +1,76 @@
+name: LinkedIn board-discovery leads
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: linkedin-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: npm ci --no-audit --no-fund
+      - run: pip install python-jobspy
+
+      # LinkedIn's guest jobs-guest endpoint rate-limits/blocks by IP harder
+      # than any other board jobspy hits (confirmed in jobfeed/README.md) —
+      # same reason HiringCafe/NextPlay route through the user's residential
+      # connection instead of GitHub's datacenter IP range.
+      - name: Connect to Tailscale exit node
+        uses: tailscale/github-action@v3
+        with:
+          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
+          args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
+
+      # Only 6 short, courtesy-delayed queries per run (see DEFAULT_QUERIES
+      # in fetch-linkedin-feed.py) and a 2-hour cadence — deliberately light
+      # touch given how aggressively LinkedIn throttles guest search.
+      - name: Run LinkedIn lead fetch
+        run: python3 fetch-linkedin-feed.py --results 25 --hours 24 --sleep 8
+
+      - name: Disconnect from Tailscale exit node
+        run: sudo tailscale down || true
+
+      - name: Run board discovery (promote any ATS-hosted LinkedIn leads)
+        run: node discover-boards.mjs
+
+      - name: Commit results
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ portals.yml
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "linkedin: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 3 attempts"
+              exit 1
+            fi
+          fi

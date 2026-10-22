@@ -157,3 +157,39 @@ test('registry state persists across runs so re-discovery does not duplicate pro
     rmSync(dir, { recursive: true, force: true });
   }
 });
+
+test('linkedin-feed.json is read as a source and only ATS-hosted urls promote', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'scoutgrid-board-registry-linkedin-'));
+  try {
+    seedPortals(dir, [
+      'title_filter:',
+      '  positive: []',
+      'tracked_companies:',
+      '',
+    ].join('\n'));
+    writeFileSync(join(dir, 'data/hiringcafe-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    writeFileSync(join(dir, 'data/nextplay-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    writeFileSync(join(dir, 'data/linkedin-feed.json'), JSON.stringify({
+      fetchedAt: new Date().toISOString(),
+      jobs: [
+        // Most LinkedIn guest-search rows are bare linkedin.com links — must
+        // be scanned (no crash) but never promoted, same as any other feed.
+        { url: 'https://www.linkedin.com/jobs/view/4455911528', company: 'Amazon Web Services', title: 'SWE' },
+        // The rare row that DOES carry a direct ATS-hosted url must promote
+        // exactly like a HiringCafe/Wellfound lead would.
+        { url: 'https://jobs.ashbyhq.com/linkedinfound/job-1', company: 'LinkedinFound Co', title: 'SWE' },
+      ],
+    }));
+
+    runDiscoverAgainst(dir);
+
+    const doc = yaml.load(readFileSync(join(dir, 'portals.yml'), 'utf8'));
+    assert.equal(doc.tracked_companies.length, 1, 'only the ATS-hosted LinkedIn lead should promote');
+    assert.equal(doc.tracked_companies[0].careers_url, 'https://jobs.ashbyhq.com/linkedinfound');
+
+    const heartbeat = JSON.parse(readFileSync(join(dir, 'data/heartbeat.json'), 'utf8'));
+    assert.equal(heartbeat.leadsScanned, 2, 'the bare linkedin.com lead must still count as scanned');
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});

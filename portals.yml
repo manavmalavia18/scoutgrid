@@ -10973,6 +10973,21 @@ tracked_companies:
     provider: workable
     enabled: true
     notes: LinkedIn sweep (Muse) 2026-10-22
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
