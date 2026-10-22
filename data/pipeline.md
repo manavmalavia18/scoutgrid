@@ -1170,3 +1170,12 @@
 - [ ] https://jobs.ashbyhq.com/instructure/09dbdc35-5e01-4131-b95f-1d8298f0e8e9 | instructure | AI Engineer, Marketing | US-REMOTE | posted: 2026-10-22
 - [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8642412002 | quberesearchandtechnologies | Software Engineer – Site Reliability Engineering | New York | posted: 2026-10-22
 - [ ] https://jobs.ashbyhq.com/gt-hq/7a479c20-47f3-4965-a103-e7a64243875e | gt-hq | DevOps Engineer / Live Entertainment Company | Ukraine - Remote · Remote (Europe-based candidates only) · Krakow · Poland | posted: 2026-10-22
+
+- [ ] https://www.esri.com/careers/5270046007?gh_jid=5270046007 | esri | Software Development Engineer | Vienna, Virginia, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/codepath/jobs/5273086007 | codepath | Adjunct Instructor, Applied AI Engineering - New Mexico State University - Spring 2027 (In-Person, Master’s Degree Preferred) | Las Cruces, NM, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/smartrent/jobs/6231158004 | smartrent | DevOps Engineer | Phoenix, Arizona | posted: 2026-10-22
+- [ ] https://www.qualtrics.com/careers/us/en/job/8279068?gh_jid=8279068 | qualtrics | Software Engineer II - Data Platform - Seattle | Seattle, Washington, United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/exa/d785f622-9b1c-4e27-9cb6-686546028576 | exa | Software Engineer, Knowledge Engine – Query Engine | San Francisco, California | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/commons/48fefa82-e2b7-4835-89e1-3ef91541ca51 | commons | Full Stack Engineer (Backend Focus) | Commons HQ & Remote · Canada · Mexico · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56 | cursor | Software Engineer, Compute Infra | San Francisco · New York · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce | ramp | Software Engineer, Enterprise Product | New York, NY (HQ) · San Francisco, CA · San Fransisco · USA | posted: 2026-10-22
