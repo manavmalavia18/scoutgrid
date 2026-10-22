@@ -1014,4 +1014,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/linkup/015445e0-15d3-4425-b47c-2961c2379119 | linkup | DevOps Engineer | NYC (NY), San Francisco (CA) or Paris (FR) | posted: 2026-10-21
 - [ ] https://job-boards.greenhouse.io/quince/jobs/5458651008 | quince | Software Engineer II - Growth | Palo Alto, California, United States | posted: 2026-10-21
 
+- [ ] https://jobs.ashbyhq.com/sierra/ae8a501d-7f79-4398-b858-3d793756dd25 | sierra | Software Engineer, Context Engine | San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/sierra/688d4d59-23d8-4100-9e2b-2fb11544753e | sierra | Software Engineer, Admin Experience | San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8 | pinecone | Applied AI Engineer (Full-Stack) | New York City · US Remote · USA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/sierra/0dfe7805-aa81-4b8c-88e0-f93a7f80ecee | sierra | Software Engineer, Horizon | San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/sierra/50ec6f9a-25f9-44b4-b8cc-50c897e698b3 | sierra | Software Engineer, Payments Infrastructure | San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/sierra/2f372b6b-d163-48bd-b5df-84f9bf2b4dbc | sierra | Software Engineer, Channels and Experiences | San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/sierra/43fe3ab5-60ce-4d2c-b3bb-90c201968de2 | sierra | Software Engineer, Insights | San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d | sierra | Software Engineer, Agent Builder | San Francisco, CA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | sierra | Software Engineer, Agent Runtime | San Francisco, CA | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/referralsuseonly/jobs/8311527 | referralsuseonly | Software Engineer II - Control Plane (Hosted Foundations / Applications) | United States | posted: 2026-10-22
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383 | elastic | Software Engineer II - Control Plane (Hosted Foundations / Applications) | United States | posted: 2026-10-22
+- [ ] https://careers.airbnb.com/positions/8280222?gh_jid=8280222 | airbnb | Software Engineer, DevAI | United States | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835 | openai | Software Engineer, Privacy Engineering (Lawful Access) | San Francisco | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/vital-lyfe/a6849d83-933c-4105-8ac6-030e208f163d | vital-lyfe | Software Engineer, Backend & Data | Los Angeles - Greater Area | posted: 2026-10-21
+- [ ] https://cribl.io/job-detail/?gh_jid=6226641004 | cribl | Software Engineer, Stream Integrations | Remote - Canada | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/friendliai/372dbe1e-d6e6-4726-ae09-673ec8916d05 | friendliai | Software Engineer – Platform Security | San Francisco | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/automox/jobs/5454109008 | automox | Software Engineer - Agent Team | Remote - US | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259 | supabase | Software Engineer - Turso | Remote, Global | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8282746 | purestorage | Junior DevOps Engineer | Santa Clara, California | posted: 2026-10-21
+
 ## Processed
