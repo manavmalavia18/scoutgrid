@@ -1052,4 +1052,30 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8041395003 | darkwolfsolutions | DevOps Engineer | College Park, Maryland | posted: 2026-10-22
 - [ ] https://platform.sh/company/careers/job?gh_jid=8906524002 | platformsh | Software Engineer | Remote • UK, France, Spain, Germany or Canada | posted: 2026-10-22
 
+- [ ] https://www.qualtrics.com/careers/us/en/job/8279068?gh_jid=8279068 | qualtrics | Software Engineer II - Data Platform - Seattle | Seattle, Washington, United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/exa/d785f622-9b1c-4e27-9cb6-686546028576 | exa | Software Engineer, Knowledge Engine – Query Engine | San Francisco, California | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/commons/48fefa82-e2b7-4835-89e1-3ef91541ca51 | commons | Full Stack Engineer (Backend Focus) | Commons HQ & Remote · Canada · Mexico · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56 | cursor | Software Engineer, Compute Infra | San Francisco · New York · United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce | ramp | Software Engineer, Enterprise Product | New York, NY (HQ) · San Francisco, CA · San Fransisco · USA | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/pear-vc/ef98f03b-a5dc-4abe-9a23-7e02b91b5ed9 | pear-vc | ML Software Engineer at Infi Robotics | San Francisco Bay Area | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4463989009 | grvty | Software Engineer | Fort Belvoir, Virginia, United States; Fort Meade, Maryland, United States; Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4463756009 | grvty | Platform Engineer | Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4463686009 | grvty | DevOps Engineer | Fort Belvoir, Virginia, United States; Fort Meade, Maryland, United States; Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4464126009 | grvty | Frontend Software Engineer | Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4 | baseten | Product Platform: Backend Engineer | San Francisco · New York · United States · Seattle | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1 | baseten | Software Engineer - Partner Platform | San Francisco · Toronto · Canada · New York · United States · Montreal · Seattle | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/duckworksmillworksolutions/jobs/4464170009 | duckworksmillworksolutions | Full Stack Developer | Santa cruz de la Sierra, Bolivia | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5 | baseten | Software Engineer - Identity & Authorization | San Francisco · Toronto · Canada · New York · United States · Montreal · Seattle | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/canals/441bb087-c46a-4e3b-a695-bbaca433a84e | canals | Machine Learning Engineer | Bogota · New York · United States · Sao Paulo · Brazil · San Francisco · Denver · Remote | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/canals/f5be2674-0d4b-406d-bc29-be5e657b8ac5 | canals | Junior Software Engineer | Colombia · Argentina · Buenos Aires · Brazil · Sao Paolo · Remote | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145091004 | sonyinteractiveentertainmentglobal | Software Development Engineer in Test II | United States, San Mateo, CA | posted: 2026-10-22
+- [ ] https://stripe.com/jobs/search?gh_jid=8314283 | stripe | Software Engineer | South San Francisco, CA | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5254820007 | chaosindustries | Flight Controls & Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/gt-hq/7a479c20-47f3-4965-a103-e7a64243875e | gt-hq | DevOps Engineer / Live Entertainment Company | Ukraine - Remote · Remote (Europe-based candidates only) · Krakow · Poland | posted: 2026-10-22
+- [ ] https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16 | hive | Software Engineer - Frontend | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.lever.co/hive/818e2024-c973-4cf7-84fd-7b14bd3a24f8 | hive | Software Engineer - Frontend | Seattle | posted: 2026-10-15
+- [ ] https://jobs.lever.co/hive/8977b31f-787d-4b17-ab00-5825764774fe | hive | Machine Learning Engineer | Seattle | posted: 2026-10-15
+- [ ] https://jobs.lever.co/hive/3a98cf1f-5f78-43a7-b160-da01d1127b0d | hive | Software Engineer - Backend | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.lever.co/hive/048a7a1a-b9c2-4d81-8b09-bb3a799588a6 | hive | Software Engineer - Backend | Seattle | posted: 2026-10-15
+
 ## Processed
