@@ -1119,3 +1119,10 @@
 - [ ] https://jobs.ashbyhq.com/sandboxaq/753edb00-9eaa-4ccc-ac84-682f72f14fe7 | sandboxaq | AI Engineer | Canada · Remote | posted: 2026-10-21
 - [ ] https://jobs.ashbyhq.com/sandboxaq/3b34aecf-e980-44f2-ab4b-b884a29297ca | sandboxaq | AI Engineer | United States · Remote | posted: 2026-10-21
 - [ ] https://job-boards.greenhouse.io/granum/jobs/8895452002 | granum | Software Engineer III | Remote · USA- Remote | posted: 2026-10-21
+
+- [ ] https://job-boards.greenhouse.io/referralsuseonly/jobs/8311527 | referralsuseonly | Software Engineer II - Control Plane (Hosted Foundations / Applications) | United States | posted: 2026-10-22
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383 | elastic | Software Engineer II - Control Plane (Hosted Foundations / Applications) | United States | posted: 2026-10-22
+- [ ] https://careers.airbnb.com/positions/8280222?gh_jid=8280222 | airbnb | Software Engineer, DevAI | United States | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835 | openai | Software Engineer, Privacy Engineering (Lawful Access) | San Francisco | posted: 2026-10-21
+- [ ] https://jobs.ashbyhq.com/vital-lyfe/a6849d83-933c-4105-8ac6-030e208f163d | vital-lyfe | Software Engineer, Backend & Data | Los Angeles - Greater Area | posted: 2026-10-21
+- [ ] https://cribl.io/job-detail/?gh_jid=6226641004 | cribl | Software Engineer, Stream Integrations | Remote - Canada | posted: 2026-10-21
