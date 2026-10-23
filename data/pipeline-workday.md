@@ -615,4 +615,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1215856-1 | hpe | Software Engineer | 2 Locations | posted: 2026-10-23
 - [ ] https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035 | abb | R&D Software Engineer | Greenville, South Carolina, United States of America | posted: 2026-10-23
 
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Bedford-MA/Software-Engineer--Full-Stack--III_JR_15221 | guidewire | Software Engineer (Full-Stack) III | United States - Bedford, MA | posted: 2026-10-23
+
 ## Processed
