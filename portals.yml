@@ -12173,6 +12173,86 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Instructure"
+    careers_url: https://jobs.ashbyhq.com/instructure
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pear VC"
+    careers_url: https://jobs.ashbyhq.com/pear-vc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Alvys"
+    careers_url: https://job-boards.greenhouse.io/alvys
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cloud Chamber"
+    careers_url: https://job-boards.greenhouse.io/cloudchamberen
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ivalua"
+    careers_url: https://boards.greenhouse.io/ivalua
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Keyfactor"
+    careers_url: https://job-boards.greenhouse.io/keyfactorinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "OpenSesame"
+    careers_url: https://boards.greenhouse.io/opensesame
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Prompt.io"
+    careers_url: https://job-boards.greenhouse.io/promptioinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Red Cell Partners"
+    careers_url: https://job-boards.greenhouse.io/redcellpartners
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rendezvous Robotics"
+    careers_url: https://job-boards.greenhouse.io/rendezvousrobotics
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "SoundExchange"
+    careers_url: https://job-boards.greenhouse.io/soundexchangeinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Multiply Labs"
+    careers_url: https://jobs.lever.co/multiplylabs
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Supermove"
+    careers_url: https://jobs.lever.co/supermove
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
