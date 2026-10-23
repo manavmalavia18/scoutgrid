@@ -721,4 +721,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/canals/441bb087-c46a-4e3b-a695-bbaca433a84e | Canals | Machine Learning Engineer | Bogota · New York · United States · Sao Paulo · Brazil · San Francisco · Denver · Remote | posted: 2026-10-22
 - [ ] https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Site-Reliability-Engineer_R143033 | Northeastern University | Site Reliability Engineer | Boston, MA (Main Campus) | posted: 2026-10-22
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8771512002 | Gitlab | Backend Engineer, Knowledge Graph (Rust) | Remote, Canada; Remote, United States | posted: 2026-10-23
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000157571919 | ServiceNow | Associate Software Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0 | Benchling | Software Engineer, Cloud Infrastructure | San Francisco, CA | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/swarmaero/1a5fe194-42ea-48df-ae66-1e3dd4237390 | Swarm Aero | DevOps Engineer | Remote | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419-2 | Boeing | Associate Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-23
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001578-1 | Capital One | Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) | 4 Locations | posted: 2026-10-23
+- [ ] https://www.itradenetwork.com/jobs/5455594008?gh_jid=5455594008 | iTradeNetwork, Inc. | Software Engineer | Charlotte, NC; Bay Area, CA | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6233910004 | Mercury Banking For Startups | Frontend Engineer - Design Systems | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/minerva/d6927c86-f616-427d-9d42-d1fd6c83c223 | Minerva | Backend Engineer, Data | New York City | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/minerva/6ea8cc3e-cafb-4c3d-bcd9-49336b368988 | Minerva | Data Platform Engineer, Ingestion | New York City | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4465184009 | BETA Technologies | Software Engineer - Customer Products, Digital Ops | South Burlington, Vermont, United States | posted: 2026-10-23
+- [ ] https://nbtbancorp.wd12.myworkdayjobs.com/epic/job/Rochester-New-York/Software-Engineer-I_JR5170 | NBT Bancorp | Software Engineer I | Rochester, New York | posted: 2026-10-23
+
 ## Processed
