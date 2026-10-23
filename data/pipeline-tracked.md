@@ -700,4 +700,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9204 | CDK Global | Associate Software Engineer | Austin, TX, USA | posted: 2026-10-22
 - [ ] https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Software-Development-Engineer-in-Test-II---Mobile-Applications_R-802239 | Medtronic | Software Development Engineer in Test II – Mobile Applications | Northridge, California, United States of America | posted: 2026-10-22
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8891836002 | Gitlab | Intermediate Fullstack Engineer (Ruby/Vue.js), Growth | Remote, United Kingdom | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/clera/e91ec243-acb4-4b95-84c7-5e65ddbed2b2 | Clera | Platform Engineer (Kubernetes) | San Francisco | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/clera/5e268976-cfd4-4518-af69-9f7210872667 | Clera | Applied AI Engineer | San Francisco | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/clera/d8366414-d411-4b2d-8f6d-fe37b37bbddc | Clera | Mid-Level AI Engineer | San Francisco | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/mirage/6fc84af9-2c9f-4814-88b3-9f60afd924a5 | Mirage | Software Engineer, 3D Rendering | Union Square, New York City | posted: 2026-10-23
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51015 | Bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-10-23
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Software-Engineer_2027875 | Cisco | Software Engineer | San Francisco, California, US | posted: 2026-10-23
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/AI-Engineer---Go-To-Market_R-1102754-1 | Verizon | AI Engineer - Go To Market | 3 Locations | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67 | OpenAI | Full Stack Software Engineer, Monetization Platform | San Francisco · New York City · New York · United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7 | OpenAI | Software Engineer | San Francisco | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/diracinc/jobs/4465706009 | Dirac, Inc. | Site Reliability Engineer | New York City | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-and-Mid-Level-Software-Engineers_JR2026520920 | Boeing | Associate and Mid-Level Software Engineers | USA - Berkeley, MO | posted: 2026-10-23
+- [ ] https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-II_R1318399-1 | Danaher Corporation | Software Engineer II | USA - Indianapolis - Lakeview Parkway - Multiple OpCo | posted: 2026-10-23
+- [ ] https://selinc.wd1.myworkdayjobs.com/sel/job/North-Carolina---Charlotte/Software-Engineer---Web-Applications---Full-Stack_2026-23734 | Schweitzer Engineering Laboratories | Software Engineer - Web Applications - Full Stack | North Carolina - Charlotte
+- [ ] https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848 | Veeva Systems | Software Engineer in Test | Massachusetts - Boston | posted: 2026-10-22
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_Q426SWE0-1 | Snap Inc. | Software Engineer, Backend, Level 3 | 5 Locations | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/confido/8ef7404b-8cf1-4de4-8f96-87c54679ac79 | Confido | DevOps Engineer | NYC Office | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/canals/f5be2674-0d4b-406d-bc29-be5e657b8ac5 | Canals | Junior Software Engineer | Colombia · Argentina · Buenos Aires · Brazil · Sao Paolo · Remote | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/canals/441bb087-c46a-4e3b-a695-bbaca433a84e | Canals | Machine Learning Engineer | Bogota · New York · United States · Sao Paulo · Brazil · San Francisco · Denver · Remote | posted: 2026-10-22
+- [ ] https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Site-Reliability-Engineer_R143033 | Northeastern University | Site Reliability Engineer | Boston, MA (Main Campus) | posted: 2026-10-22
+
 ## Processed
