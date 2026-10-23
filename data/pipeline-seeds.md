@@ -1106,4 +1106,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bjakcareer/d9d0e3d9-e6a2-47a3-8816-3dc104860451 | bjakcareer | Full Stack Engineer | United States · Remote | posted: 2026-10-23
 - [ ] https://slice.careers/careers-listing?gh_jid=8300434 | slice | Software Developer, DevEx (Stateful Systems) | Remote- Canada, UK, or North Macedonia | posted: 2026-10-23
 
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4723358006?gh_jid=4723358006 | accenturefederalservices | Search Software Engineer | Washington, DC | posted: 2026-10-23
+- [ ] https://jobs.lever.co/nextech/2ecefb89-cb71-46bd-812b-df7292097b7b | nextech | Software Engineer II (Remote in United States) | United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8891836002 | gitlab | Intermediate Fullstack Engineer (Ruby/Vue.js), Growth | Remote, United Kingdom | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8911684002 | gitlab | Intermediate Fullstack Engineer (Ruby/Vue.js), Growth | Remote, Poland | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/keycard-labs/cf6f7c72-3cad-4dd6-814d-dec537404518 | keycard-labs | Software Engineer, SDK | US - Remote · Canada - Remote · Canada | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6233238004 | mercury | Software Engineer - Mercury Command | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/horizon3ai/ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b | horizon3ai | Federal Platform Engineer | US, Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/weave/f3cf7c49-b575-43b4-90c3-274dd47a490e | weave | Software Engineer | India · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91 | kong | Software Engineer | Toronto, Canada · Washington, United States · Olympia · United States · California, United States · Sacramento | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8317967 | smartsheet | DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria) | -REMOTE, BULGARIA- | posted: 2026-10-23
+- [ ] https://sofi.com/careers/job/8042391003?gh_jid=8042391003 | sofi | Software Engineer, AML | WA - Seattle | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/mintmcp/3819e4c1-b327-451c-b5a5-3e010f2e25d9 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/489ecf14-84bf-404d-9554-52b9367a787f | bjakcareer | Mobile Application Developer - AI Neobank App | Sydney, Australia · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/0fd46651-ff73-4748-9e9f-3d93dfce5630 | bjakcareer | Mobile Application Developer - AI Neobank App | Austria · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/23dda88d-8e90-4fbf-9429-f7cc235e5263 | bjakcareer | Mobile Application Developer - AI Neobank App | China · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d73f6217-cf19-4d0e-a22a-95bb0a302348 | bjakcareer | Mobile Application Developer - AI Neobank App | Germany · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/026b2d1a-dcab-40ef-97cf-a50f5f5f5372 | bjakcareer | Mobile Application Developer - AI Neobank App | Hong Kong · Remote | posted: 2026-10-23
+
 ## Processed
