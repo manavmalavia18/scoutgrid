@@ -608,4 +608,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-22
 - [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineer-IV_R0008368 | availity | Software Engineer IV | Remote - United States | posted: 2026-10-22
 
+- [ ] https://trustage.wd1.myworkdayjobs.com/trustage/job/Grand-Rapids-MI/Software-Engineer-IV--Hybrid-Remote-_R-012203 | trustage | Software Engineer IV (Hybrid/Remote) | 2 Locations | posted: 2026-10-23
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Northridge/Principal-SrPrincipal-Software-Engineer-Level-3-4_R10257008 | ngc | C/C++ Software Engineer 3 or 4 (AHT) | United States-California-Northridge | posted: 2026-10-23
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1215856-2 | hpe | Software Engineer | 2 Locations | posted: 2026-10-23
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1215856 | hpe | Software Engineer | 2 Locations | posted: 2026-10-23
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1215856-1 | hpe | Software Engineer | 2 Locations | posted: 2026-10-23
+- [ ] https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035 | abb | R&D Software Engineer | Greenville, South Carolina, United States of America | posted: 2026-10-23
+
 ## Processed
