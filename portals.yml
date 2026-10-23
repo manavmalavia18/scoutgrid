@@ -12623,6 +12623,76 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Merge"
+    careers_url: https://jobs.ashbyhq.com/merge_fintech
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Minerva"
+    careers_url: https://jobs.ashbyhq.com/minerva
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "BETA Technologies"
+    careers_url: https://job-boards.greenhouse.io/betatechnologiesinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CreativeX"
+    careers_url: https://job-boards.greenhouse.io/creativex
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Clear Capital"
+    careers_url: https://jobs.lever.co/clearcapital
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "NBT Bancorp"
+    careers_url: https://nbtbancorp.wd12.myworkdayjobs.com/epic
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "National Geographic Society"
+    careers_url: https://ngs.wd1.myworkdayjobs.com/ngs_external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Old Republic Title"
+    careers_url: https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "The Jackson Laboratory"
+    careers_url: https://thejacksonlaboratory.wd503.myworkdayjobs.com/external_jax
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Truliant Federal Credit Union"
+    careers_url: https://truliantfcu.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "VSP Vision"
+    careers_url: https://vsp.wd1.myworkdayjobs.com/vspvisioncareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
