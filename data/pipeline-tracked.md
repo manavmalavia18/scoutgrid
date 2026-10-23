@@ -685,4 +685,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/pear-vc/ef98f03b-a5dc-4abe-9a23-7e02b91b5ed9 | Pear VC | ML Software Engineer at Infi Robotics | San Francisco Bay Area | posted: 2026-10-22
 - [ ] https://job-boards.greenhouse.io/promptioinc/jobs/4463863009 | Prompt.io | Software Engineer | USA & Canada | posted: 2026-10-22
 
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8317967 | Smartsheet | DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria) | -REMOTE, BULGARIA- | posted: 2026-10-23
+- [ ] https://sofi.com/careers/job/8042391003?gh_jid=8042391003 | SoFi | Software Engineer, AML | WA - Seattle | posted: 2026-10-23
+- [ ] https://jobs.smartrecruiters.com/aecom2/744000157508108 | AECOM | Application Developer | Remote | posted: 2026-10-23
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Brazil-Remote-Work/Mid-Level-DevOps-Engineer--Azure-_R68040 | Motorola Solutions | Mid-Level DevOps Engineer (Azure) | Brazil Remote Work | posted: 2026-10-23
+- [ ] https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Tempe-Arizona/Software-Developer_R255136 | Uhaul | Software Developer | Tempe, Arizona | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/horizon3ai/ec9a5ca0-2a2d-4e1a-b338-4264cce36a9b | Horizon3.ai | Federal Platform Engineer | US, Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/weave/f3cf7c49-b575-43b4-90c3-274dd47a490e | Weave | Software Engineer | India · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/keycard-labs/cf6f7c72-3cad-4dd6-814d-dec537404518 | Keycard | Software Engineer, SDK | US - Remote · Canada - Remote · Canada | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91 | Kong | Software Engineer | Toronto, Canada · Washington, United States · Olympia · United States · California, United States · Sacramento | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6233238004 | Mercury Banking For Startups | Software Engineer - Mercury Command | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/smartrent/jobs/6231158004 | SmartRent | DevOps Engineer | Phoenix, Arizona | posted: 2026-10-22
+- [ ] https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1 | AutoStore | Software Engineer | Atlanta, GA, USA | posted: 2026-10-22
+- [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9204 | CDK Global | Associate Software Engineer | Austin, TX, USA | posted: 2026-10-22
+- [ ] https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Software-Development-Engineer-in-Test-II---Mobile-Applications_R-802239 | Medtronic | Software Development Engineer in Test II – Mobile Applications | Northridge, California, United States of America | posted: 2026-10-22
+
 ## Processed
