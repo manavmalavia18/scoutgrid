@@ -637,4 +637,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51015 | bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-10-23
 - [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/DevOps-Engineer-IV--Infrastructure-_R0017263 | astreya | DevOps Engineer IV (Infrastructure) | Remote, India | posted: 2026-10-23
 
+- [ ] https://mwe.wd5.myworkdayjobs.com/mwe_careers/job/Chicago/Applied-AI-Solutions-Analyst--Legal-Practice-Groups_R-100930 | mwe | Applied AI Solutions Analyst, Legal Practice Groups | 15 Locations | posted: 2026-10-23
+- [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Milwaukee-Wisconsin-United-States-of-America/Ai-Engineer_WD30274340 | jci | Ai Engineer | Milwaukee-Wisconsin-United States of America | posted: 2026-10-23
+- [ ] https://creditacceptance.wd5.myworkdayjobs.com/credit_acceptance/job/California---San-Francisco-Bay-Area-Hybrid/Software-Engineer-II--Data_R13795-1 | creditacceptance | Software Engineer II, Data | 3 Locations | posted: 2026-10-23
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001578-1 | capitalone | Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) | 4 Locations | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Software-Engineer_JR2026526422-1 | boeing | Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Software-Engineer_JR2026526422 | boeing | Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419-2 | boeing | Associate Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-23
+- [ ] https://acrisure.wd1.myworkdayjobs.com/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer--Data--L2-_JR114405 | acrisure | Software Engineer, Data | 816 Congress Ave Ste 1800 - AUSTIN, TX | posted: 2026-10-23
+
 ## Processed
