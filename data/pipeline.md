@@ -1215,3 +1215,17 @@
 - [ ] https://jobs.ashbyhq.com/bjakcareer/a784dd4e-0638-444a-919f-b99cdd830dd6 | bjakcareer | Mobile Application Developer - AI Neobank App | Vietnam · Remote | posted: 2026-10-23
 - [ ] https://jobs.ashbyhq.com/bjakcareer/5683858a-9378-45dd-9be6-7b2b2584e25f | bjakcareer | Full Stack Engineer | China · Remote | posted: 2026-10-23
 - [ ] https://jobs.ashbyhq.com/bjakcareer/d9d0e3d9-e6a2-47a3-8816-3dc104860451 | bjakcareer | Full Stack Engineer | United States · Remote | posted: 2026-10-23
+
+- [ ] https://careers.roblox.com/jobs/8261393?gh_jid=8261393 | roblox | Software Engineer, Notifications | San Mateo, CA, United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7 | openai | Software Engineer | San Francisco | posted: 2026-10-23
+- [ ] https://careers.roblox.com/jobs/8283707?gh_jid=8283707 | roblox | Software Engineer, Reliability | San Mateo, CA, United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/onebrief/37b29b15-09e4-41fb-90ef-848d00f00f25 | onebrief | Platform Engineer | United States / Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67 | openai | Full Stack Software Engineer, Monetization Platform | San Francisco · New York City · New York · United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/mirage/6fc84af9-2c9f-4814-88b3-9f60afd924a5 | mirage | Software Engineer, 3D Rendering | Union Square, New York City | posted: 2026-10-23
+- [ ] https://jobs.lever.co/nextech/2ecefb89-cb71-46bd-812b-df7292097b7b | nextech | Software Engineer II (Remote in United States) | United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8891836002 | gitlab | Intermediate Fullstack Engineer (Ruby/Vue.js), Growth | Remote, United Kingdom | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8911684002 | gitlab | Intermediate Fullstack Engineer (Ruby/Vue.js), Growth | Remote, Poland | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/keycard-labs/cf6f7c72-3cad-4dd6-814d-dec537404518 | keycard-labs | Software Engineer, SDK | US - Remote · Canada - Remote · Canada | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6233238004 | mercury | Software Engineer - Mercury Command | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | posted: 2026-10-23
+- [ ] https://jobs.lever.co/veeva/fc5343d1-f637-4729-9ecb-aeb963619e01 | veeva | Software Engineer in Test | North Carolina - Raleigh | posted: 2026-10-22
+- [ ] https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848 | veeva | Software Engineer in Test | Massachusetts - Boston | posted: 2026-10-22
