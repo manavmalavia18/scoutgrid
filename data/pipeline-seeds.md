@@ -1124,4 +1124,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bjakcareer/d73f6217-cf19-4d0e-a22a-95bb0a302348 | bjakcareer | Mobile Application Developer - AI Neobank App | Germany · Remote | posted: 2026-10-23
 - [ ] https://jobs.ashbyhq.com/bjakcareer/026b2d1a-dcab-40ef-97cf-a50f5f5f5372 | bjakcareer | Mobile Application Developer - AI Neobank App | Hong Kong · Remote | posted: 2026-10-23
 
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462859008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4743812005 | rvohealth | Software Engineer, Red Platform | Charlotte, North Carolina, United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462846008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462845008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462844008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-23
+- [ ] https://pro.goodshuffle.com/careers/?gh_jid=4724472006 | goodshufflepro | Software Engineer III | Washington, D.C | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/sierra/4b28305d-e601-4328-a8f5-9f236bd718bd | sierra | Software Engineer, Cloud Infrastructure | San Francisco, CA | posted: 2026-10-23
+- [ ] https://careers.gofasti.com/job-application/6233771004?gh_jid=6233771004 | gofasti | 1182 - Junior Frontend Developer (Part-Time) | Remote · CLE | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/diracinc/jobs/4465706009 | diracinc | Site Reliability Engineer | New York City | posted: 2026-10-23
+- [ ] https://careers.roblox.com/jobs/8261393?gh_jid=8261393 | roblox | Software Engineer, Notifications | San Mateo, CA, United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7 | openai | Software Engineer | San Francisco | posted: 2026-10-23
+- [ ] https://careers.roblox.com/jobs/8283707?gh_jid=8283707 | roblox | Software Engineer, Reliability | San Mateo, CA, United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/onebrief/37b29b15-09e4-41fb-90ef-848d00f00f25 | onebrief | Platform Engineer | United States / Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67 | openai | Full Stack Software Engineer, Monetization Platform | San Francisco · New York City · New York · United States | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/mirage/6fc84af9-2c9f-4814-88b3-9f60afd924a5 | mirage | Software Engineer, 3D Rendering | Union Square, New York City | posted: 2026-10-23
+- [ ] https://jobs.lever.co/veeva/fc5343d1-f637-4729-9ecb-aeb963619e01 | veeva | Software Engineer in Test | North Carolina - Raleigh | posted: 2026-10-22
+- [ ] https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848 | veeva | Software Engineer in Test | Massachusetts - Boston | posted: 2026-10-22
+
 ## Processed
