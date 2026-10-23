@@ -1186,3 +1186,5 @@
 - [ ] https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0 | airwallex | Software Engineer, Infrastructure AI | US - Seattle · Remote | posted: 2026-10-22
 
 - [ ] https://www.kkr.com/careers/career-opportunities/post?gh_jid=6218844004 | stage | Software Engineer – Investment Systems | New York, New York, United States | posted: 2026-10-23
+
+- [ ] https://slice.careers/careers-listing?gh_jid=8300434 | slice | Software Developer, DevEx (Stateful Systems) | Remote- Canada, UK, or North Macedonia | posted: 2026-10-23
