@@ -1078,4 +1078,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/hive/3a98cf1f-5f78-43a7-b160-da01d1127b0d | hive | Software Engineer - Backend | San Francisco | posted: 2026-10-15
 - [ ] https://jobs.lever.co/hive/048a7a1a-b9c2-4d81-8b09-bb3a799588a6 | hive | Software Engineer - Backend | Seattle | posted: 2026-10-15
 
+- [ ] https://www.kkr.com/careers/career-opportunities/post?gh_jid=6218844004 | stage | Software Engineer – Investment Systems | New York, New York, United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746685005 | gleanwork | Software Engineer, Native Mobile | San Francisco Bay Area | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005 | gleanwork | AI Engineer - Quality and Post-Training | San Francisco Bay Area | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005 | gleanwork | AI Engineer - Data and Evals | San Francisco Bay Area | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0 | airwallex | Software Engineer, Infrastructure AI | US - Seattle · Remote | posted: 2026-10-22
+- [ ] https://www.esri.com/careers/5270046007?gh_jid=5270046007 | esri | Software Development Engineer | Vienna, Virginia, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/codepath/jobs/5273086007 | codepath | Adjunct Instructor, Applied AI Engineering - New Mexico State University - Spring 2027 (In-Person, Master’s Degree Preferred) | Las Cruces, NM, United States | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/smartrent/jobs/6231158004 | smartrent | DevOps Engineer | Phoenix, Arizona | posted: 2026-10-22
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5271233007?gh_jid=5271233007 | andurilindustries | Classified Cloud & Platform Engineer | Washington, District of Columbia, United States | posted: 2026-10-21
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5271092007?gh_jid=5271092007 | andurilindustries | Full Stack Software Engineer - Core Infrastructure | Atlanta, Georgia, United States | posted: 2026-10-21
+
 ## Processed
