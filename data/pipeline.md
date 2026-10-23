@@ -1184,3 +1184,5 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005 | gleanwork | AI Engineer - Quality and Post-Training | San Francisco Bay Area | posted: 2026-10-23
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005 | gleanwork | AI Engineer - Data and Evals | San Francisco Bay Area | posted: 2026-10-23
 - [ ] https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0 | airwallex | Software Engineer, Infrastructure AI | US - Seattle · Remote | posted: 2026-10-22
+
+- [ ] https://www.kkr.com/careers/career-opportunities/post?gh_jid=6218844004 | stage | Software Engineer – Investment Systems | New York, New York, United States | posted: 2026-10-23
