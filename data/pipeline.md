@@ -1229,3 +1229,18 @@
 - [ ] https://job-boards.greenhouse.io/mercury/jobs/6233238004 | mercury | Software Engineer - Mercury Command | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | posted: 2026-10-23
 - [ ] https://jobs.lever.co/veeva/fc5343d1-f637-4729-9ecb-aeb963619e01 | veeva | Software Engineer in Test | North Carolina - Raleigh | posted: 2026-10-22
 - [ ] https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848 | veeva | Software Engineer in Test | Massachusetts - Boston | posted: 2026-10-22
+
+- [ ] https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d | fuel-cycle | Associate AI Engineer | Los Angeles Office | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0 | benchling | Software Engineer, Cloud Infrastructure | San Francisco, CA | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462859008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4743812005 | rvohealth | Software Engineer, Red Platform | Charlotte, North Carolina, United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462846008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462845008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5462844008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-23
+- [ ] https://pro.goodshuffle.com/careers/?gh_jid=4724472006 | goodshufflepro | Software Engineer III | Washington, D.C | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/sierra/4b28305d-e601-4328-a8f5-9f236bd718bd | sierra | Software Engineer, Cloud Infrastructure | San Francisco, CA | posted: 2026-10-23
+- [ ] https://careers.gofasti.com/job-application/6233771004?gh_jid=6233771004 | gofasti | 1182 - Junior Frontend Developer (Part-Time) | Remote · CLE | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/diracinc/jobs/4465706009 | diracinc | Site Reliability Engineer | New York City | posted: 2026-10-23
+- [ ] https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5 | auw | AI Engineer - Data Science | New York, NY | posted: 2026-10-23
+- [ ] https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c | auw | AI Engineer - Application Development | New York, NY | posted: 2026-10-23
+- [ ] https://jobs.lever.co/auw/515a3498-4257-4e68-91ff-cf82e854f12d | auw | AI Engineer - Infrustructure | New York, NY | posted: 2026-10-23
