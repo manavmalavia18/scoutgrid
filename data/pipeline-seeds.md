@@ -1089,4 +1089,21 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5271233007?gh_jid=5271233007 | andurilindustries | Classified Cloud & Platform Engineer | Washington, District of Columbia, United States | posted: 2026-10-21
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5271092007?gh_jid=5271092007 | andurilindustries | Full Stack Software Engineer - Core Infrastructure | Atlanta, Georgia, United States | posted: 2026-10-21
 
+- [ ] https://jobs.ashbyhq.com/bjakcareer/08ebcf20-7a7f-4b77-ba1d-18034649ad67 | bjakcareer | Mobile Application Developer - AI Neobank App | Indonesia · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2cc71431-0ff0-4725-927b-823539431379 | bjakcareer | Mobile Application Developer - AI Neobank App | Ireland · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/52e6ebf5-c59c-480f-8953-3b71aa7cc44a | bjakcareer | Mobile Application Developer - AI Neobank App | Seoul, Korea · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/383716d3-155c-4241-8a52-564fae018c62 | bjakcareer | Mobile Application Developer - AI Neobank App | Netherlands · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1c4403a0-76e0-4ed1-bf7c-f44868801fb6 | bjakcareer | Mobile Application Developer - AI Neobank App | Philippines · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/764bfa41-da9f-4a89-8c38-cfe08cb46bf6 | bjakcareer | Mobile Application Developer - AI Neobank App | Poland · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/625a426b-6c7b-49c4-bd62-9526081f257e | bjakcareer | Mobile Application Developer - AI Neobank App | Portugal · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e28b1055-02f5-40b6-8e19-6dfdeea1574a | bjakcareer | Mobile Application Developer - AI Neobank App | Singapore · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/51db8569-5c83-4564-81d3-9354725f7502 | bjakcareer | Mobile Application Developer - AI Neobank App | Spain · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f8645392-1ea3-4bc0-8a6d-92abfebbacec | bjakcareer | Mobile Application Developer - AI Neobank App | Sweden · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/98ef2932-a69f-469f-9c75-5dc67ae1f75d | bjakcareer | Mobile Application Developer - AI Neobank App | Thailand · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d0d62656-9c04-433c-8581-47e4aeff801b | bjakcareer | Mobile Application Developer - AI Neobank App | United States · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a784dd4e-0638-444a-919f-b99cdd830dd6 | bjakcareer | Mobile Application Developer - AI Neobank App | Vietnam · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5683858a-9378-45dd-9be6-7b2b2584e25f | bjakcareer | Full Stack Engineer | China · Remote | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d9d0e3d9-e6a2-47a3-8816-3dc104860451 | bjakcareer | Full Stack Engineer | United States · Remote | posted: 2026-10-23
+- [ ] https://slice.careers/careers-listing?gh_jid=8300434 | slice | Software Developer, DevEx (Stateful Systems) | Remote- Canada, UK, or North Macedonia | posted: 2026-10-23
+
 ## Processed
