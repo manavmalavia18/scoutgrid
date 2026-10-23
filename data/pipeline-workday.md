@@ -617,4 +617,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Bedford-MA/Software-Engineer--Full-Stack--III_JR_15221 | guidewire | Software Engineer (Full-Stack) III | United States - Bedford, MA | posted: 2026-10-23
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CO-Boulder/Software-Development-Engineer---AI-Infrastructure-Development-Platform_JR-0110276 | workday | Software Development Engineer - AI Infrastructure Development Platform | 2 Locations | posted: 2026-10-23
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/AI-Engineer---Go-To-Market_R-1102754-1 | verizon | AI Engineer - Go To Market | 3 Locations | posted: 2026-10-23
+- [ ] https://umd.wd1.myworkdayjobs.com/umcp/job/University-of-Maryland-College-Park/IT-Software-Engineer_JR105257 | umd | IT Software Engineer | University of Maryland College Park | posted: 2026-10-23
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_Q426SWE0 | snapchat | Software Engineer, Backend, Level 3 | 5 Locations | posted: 2026-10-23
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_Q426SWE0-1 | snapchat | Software Engineer, Backend, Level 3 | 5 Locations | posted: 2026-10-23
+- [ ] https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103 | rsm | AI Machine Learning Engineer | 7 Locations | posted: 2026-10-23
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Brazil-Remote-Work/Mid-Level-DevOps-Engineer--Azure-_R68040 | motorolasolutions | Mid-Level DevOps Engineer (Azure) | Brazil Remote Work | posted: 2026-10-23
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Arlington-Virginia/Software-Engineer-II_R-294055 | mastercard | Software Engineer II | Arlington, Virginia | posted: 2026-10-23
+- [ ] https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/MEX--Estado-de-Mxico--Prol-de-la-Calle-2000-7-Mz-C-Lotes-4-y-5/Sn-Software-Engineer---Biligual---Remote_J0106500 | ironmountain | Sn. Software Engineer / Biligual / Remote | 6 Locations | posted: 2026-10-23
+- [ ] https://cree.wd108.myworkdayjobs.com/ext/job/Marcy-New-York/Test-Technician--Nights-_26-315 | cree | Test Technician (Front End Nights) | Marcy, New York | posted: 2026-10-23
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Software-Engineer_2027875 | cisco | Software Engineer | San Francisco, California, US | posted: 2026-10-23
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R49628 | chrobinson | Software Engineer III | Eden Prairie, MN United States of America | posted: 2026-10-23
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Minnesota-Remote/Software-Engineer-III_R48485 | chrobinson | Software Engineer III | Minnesota Remote | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Experienced-Software-Engineer_JR2026524478-1 | boeing | Experienced Software Engineer | 2 Locations | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Software-Engineer_JR2026524478 | boeing | Experienced Software Engineer | 2 Locations | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-and-Mid-Level-Software-Engineers_JR2026520920 | boeing | Associate and Mid-Level Software Engineers | USA - Berkeley, MO | posted: 2026-10-23
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Associate-and-Mid-Level-Software-Engineers_JR2026520920-1 | boeing | Associate and Mid-Level Software Engineers | USA - Berkeley, MO | posted: 2026-10-23
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51015 | bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-10-23
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/DevOps-Engineer-IV--Infrastructure-_R0017263 | astreya | DevOps Engineer IV (Infrastructure) | Remote, India | posted: 2026-10-23
+
 ## Processed
