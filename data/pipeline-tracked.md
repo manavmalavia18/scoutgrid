@@ -680,4 +680,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0 | Airwallex | Software Engineer, Infrastructure AI | US - Seattle · Remote | posted: 2026-10-22
 - [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783 | Guidehouse | Technical Associate Application Developer - Campus 2027 | US - IL, Chicago | posted: 2026-10-23
 
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Bedford-MA/Software-Engineer--Full-Stack--III_JR_15221 | Guidewire Software | Software Engineer (Full-Stack) III | United States - Bedford, MA | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/instructure/09dbdc35-5e01-4131-b95f-1d8298f0e8e9 | Instructure | AI Engineer, Marketing | US-REMOTE | posted: 2026-10-22
+- [ ] https://jobs.ashbyhq.com/pear-vc/ef98f03b-a5dc-4abe-9a23-7e02b91b5ed9 | Pear VC | ML Software Engineer at Infi Robotics | San Francisco Bay Area | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/promptioinc/jobs/4463863009 | Prompt.io | Software Engineer | USA & Canada | posted: 2026-10-22
+
 ## Processed
