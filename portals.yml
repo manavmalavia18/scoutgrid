@@ -12533,6 +12533,66 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Canals"
+    careers_url: https://jobs.ashbyhq.com/canals
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Doctronic"
+    careers_url: https://jobs.ashbyhq.com/doctronic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "KamiwazaAI"
+    careers_url: https://jobs.ashbyhq.com/kamiwazaai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Veeda"
+    careers_url: https://jobs.ashbyhq.com/veeda-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Workshop Ventures"
+    careers_url: https://jobs.ashbyhq.com/workshop-ventures-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Ivanti"
+    careers_url: https://job-boards.greenhouse.io/a3c41b8b71eff8c4
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Northeastern University"
+    careers_url: https://northeastern.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Roche"
+    careers_url: https://roche.wd3.myworkdayjobs.com/rog-a2o-gene
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Varsity Brands"
+    careers_url: https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from jobright
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
