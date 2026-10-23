@@ -1179,3 +1179,8 @@
 - [ ] https://jobs.ashbyhq.com/commons/48fefa82-e2b7-4835-89e1-3ef91541ca51 | commons | Full Stack Engineer (Backend Focus) | Commons HQ & Remote · Canada · Mexico · United States | posted: 2026-10-22
 - [ ] https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56 | cursor | Software Engineer, Compute Infra | San Francisco · New York · United States | posted: 2026-10-22
 - [ ] https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce | ramp | Software Engineer, Enterprise Product | New York, NY (HQ) · San Francisco, CA · San Fransisco · USA | posted: 2026-10-22
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746685005 | gleanwork | Software Engineer, Native Mobile | San Francisco Bay Area | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005 | gleanwork | AI Engineer - Quality and Post-Training | San Francisco Bay Area | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005 | gleanwork | AI Engineer - Data and Evals | San Francisco Bay Area | posted: 2026-10-23
+- [ ] https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0 | airwallex | Software Engineer, Infrastructure AI | US - Seattle · Remote | posted: 2026-10-22
