@@ -677,4 +677,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8642412002 | Qube Research & Technologies | Software Engineer – Site Reliability Engineering | New York | posted: 2026-10-22
 - [ ] https://job-boards.greenhouse.io/yext/jobs/8296161 | Yext | Software Engineer | New York, NY | posted: 2026-10-22
 
+- [ ] https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0 | Airwallex | Software Engineer, Infrastructure AI | US - Seattle · Remote | posted: 2026-10-22
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783 | Guidehouse | Technical Associate Application Developer - Campus 2027 | US - IL, Chicago | posted: 2026-10-23
+
 ## Processed
