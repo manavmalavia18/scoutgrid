@@ -734,4 +734,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4465184009 | BETA Technologies | Software Engineer - Customer Products, Digital Ops | South Burlington, Vermont, United States | posted: 2026-10-23
 - [ ] https://nbtbancorp.wd12.myworkdayjobs.com/epic/job/Rochester-New-York/Software-Engineer-I_JR5170 | NBT Bancorp | Software Engineer I | Rochester, New York | posted: 2026-10-23
 
+- [ ] https://jobs.ashbyhq.com/quindar/ab0f0994-3caf-4b52-b3c3-8bdaaf665134 | Quindar | Platform Engineer | Denver, CO · Seattle, WA · Seattle · United States · Washington, DC · Washington · San Francisco, CA · San Francisco · Los Angeles, CA · Los Angeles | posted: 2026-10-24
+
 ## Processed
