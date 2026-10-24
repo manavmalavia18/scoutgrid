@@ -1249,3 +1249,11 @@
 - [ ] https://job-boards.greenhouse.io/mercury/jobs/6233910004 | mercury | Frontend Engineer - Design Systems | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | posted: 2026-10-23
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8771512002 | gitlab | Backend Engineer, Knowledge Graph (Rust) | Remote, Canada; Remote, United States | posted: 2026-10-23
 - [ ] https://job-boards.greenhouse.io/calm/jobs/8912981002 | calm | Software Development Engineer in Test | Remote, United States | posted: 2026-10-23
+
+- [ ] https://a16z.com/about/jobs/?gh_jid=8043464003 | a16z | Software Engineer, Systems (Partner 16, Partner 18) | San Francisco, California, United States | posted: 2026-10-24
+- [ ] https://jobs.ashbyhq.com/quindar/ab0f0994-3caf-4b52-b3c3-8bdaaf665134 | quindar | Platform Engineer | Denver, CO · Seattle, WA · Seattle · United States · Washington, DC · Washington · San Francisco, CA · San Francisco · Los Angeles, CA · Los Angeles | posted: 2026-10-24
+- [ ] https://job-boards.greenhouse.io/vannevarlabs/jobs/5273908007 | vannevarlabs | DevOps Engineer | Remote; Washington, District of Columbia, United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007 | trueanomalyinc | Software Engineer I, QA (New Grad) | Denver, CO; Long Beach, CA | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8906750002 | twitch | Software Engineer I | Seattle, WA | posted: 2026-10-21
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007 | trueanomalyinc | Software Engineer (II-III), Full Stack | Denver, CO; Long Beach, CA | posted: 2026-10-21
+- [ ] https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5005406101 | veeamsoftware | Software Development Engineer III, MuleSoft | Remote, United States | posted: 2026-10-21
