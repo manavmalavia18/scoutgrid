@@ -659,4 +659,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR363304-1 | salesforce | Software Engineering SMTS | California - San Francisco | posted: 2026-10-23
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR363487 | salesforce | Software Engineering SMTS | California - San Francisco | posted: 2026-10-23
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer-Distributed-Systems-_JR-0109641 | workday | Software Development Engineer(Distributed Systems) | USA, CA, Pleasanton | posted: 2026-10-24
+
 ## Processed
