@@ -738,4 +738,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Data-Scientist--Software-Engineer-II_R-801953 | Medtronic | Software Development Engineer in Test II | Northridge, California, United States of America | posted: 2026-10-24
 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8319655 | Reddit | Software Engineer, Ad Signals | Remote - United States | posted: 2026-10-24
+
 ## Processed
