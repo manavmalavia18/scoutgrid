@@ -1244,3 +1244,8 @@
 - [ ] https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5 | auw | AI Engineer - Data Science | New York, NY | posted: 2026-10-23
 - [ ] https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c | auw | AI Engineer - Application Development | New York, NY | posted: 2026-10-23
 - [ ] https://jobs.lever.co/auw/515a3498-4257-4e68-91ff-cf82e854f12d | auw | AI Engineer - Infrustructure | New York, NY | posted: 2026-10-23
+
+- [ ] https://jobs.ashbyhq.com/workwhilejobs/e7053c92-1d02-436c-be4d-99bd2470d549 | workwhilejobs | Software Engineer, Fullstack | Toronto · New York · New York City · United States · San Francisco | posted: 2026-10-24
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6233910004 | mercury | Frontend Engineer - Design Systems | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8771512002 | gitlab | Backend Engineer, Knowledge Graph (Rust) | Remote, Canada; Remote, United States | posted: 2026-10-23
+- [ ] https://job-boards.greenhouse.io/calm/jobs/8912981002 | calm | Software Development Engineer in Test | Remote, United States | posted: 2026-10-23
