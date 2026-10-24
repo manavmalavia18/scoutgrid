@@ -736,4 +736,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/quindar/ab0f0994-3caf-4b52-b3c3-8bdaaf665134 | Quindar | Platform Engineer | Denver, CO · Seattle, WA · Seattle · United States · Washington, DC · Washington · San Francisco, CA · San Francisco · Los Angeles, CA · Los Angeles | posted: 2026-10-24
 
+- [ ] https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Data-Scientist--Software-Engineer-II_R-801953 | Medtronic | Software Development Engineer in Test II | Northridge, California, United States of America | posted: 2026-10-24
+
 ## Processed
