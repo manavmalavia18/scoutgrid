@@ -651,4 +651,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419 | boeing | Associate Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-24
 - [ ] https://acrisure.wd1.myworkdayjobs.com/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer--Data--L1-_JR113679 | acrisure | Software Engineer, Data | 816 Congress Ave Ste 1800 - AUSTIN, TX | posted: 2026-10-24
 
+- [ ] https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Tempe-Arizona/Software-Developer_R255136 | uhaul | Software Developer | Tempe, Arizona | posted: 2026-10-23
+- [ ] https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Phoenix-Arizona/Software-Developer_R256644 | uhaul | Software Developer | Phoenix, Arizona | posted: 2026-10-23
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Production-Support-Engineering---Cloud-DevOps-Engineer-SMTS_JR363299 | salesforce | Production Support Engineering - Cloud DevOps Engineer SMTS | California - San Francisco | posted: 2026-10-23
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR363396 | salesforce | Software Engineering SMTS | 2 Locations | posted: 2026-10-23
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS---PMTS---Software-Factory--REMOTE-_JR363371 | salesforce | Software Engineering LMTS / PMTS - Software Factory (REMOTE) | 2 Locations | posted: 2026-10-23
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR363304-1 | salesforce | Software Engineering SMTS | California - San Francisco | posted: 2026-10-23
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR363487 | salesforce | Software Engineering SMTS | California - San Francisco | posted: 2026-10-23
+
 ## Processed
