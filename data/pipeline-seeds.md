@@ -1154,4 +1154,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c | auw | AI Engineer - Application Development | New York, NY | posted: 2026-10-23
 - [ ] https://jobs.lever.co/auw/515a3498-4257-4e68-91ff-cf82e854f12d | auw | AI Engineer - Infrustructure | New York, NY | posted: 2026-10-23
 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8319655 | reddit | Software Engineer, Ad Signals | Remote - United States | posted: 2026-10-24
+- [ ] https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520 | supabase | Software Engineer - Storage | Remote, Global | posted: 2026-10-24
+- [ ] https://placer.ai/company/we-are-hiring/?gh_jid=8043836003 | placerlabs | Platform Engineer - AI Tools | Austin, Texas | posted: 2026-10-24
+
 ## Processed
