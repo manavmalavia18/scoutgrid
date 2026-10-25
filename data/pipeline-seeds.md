@@ -1160,4 +1160,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007 | andurilindustries | Software Engineer- Infrastructure | Waltham, Massachusetts, United States | posted: 2026-10-24
 
+- [ ] https://jobs.ashbyhq.com/momentic/9fdfdb6c-f74c-407d-92c3-a6b0bdb37ec1 | momentic | AI Engineer | San Francisco | posted: 2026-10-25
+
 ## Processed
