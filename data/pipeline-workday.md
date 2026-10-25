@@ -661,4 +661,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer-Distributed-Systems-_JR-0109641 | workday | Software Development Engineer(Distributed Systems) | USA, CA, Pleasanton | posted: 2026-10-24
 
+- [ ] https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary/job/New-York-NY/Bioinformatics-Software-Engineer-III--OncoKB_103087-1 | msk | Bioinformatics Software Engineer III, OncoKB | New York, NY | posted: 2026-10-25
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Cloud-Platform-Engineer_R26_0000002801 | bbinsurance | Cloud Platform Engineer | Plano, TX, USA | posted: 2026-10-25
+
 ## Processed
