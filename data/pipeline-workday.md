@@ -664,4 +664,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary/job/New-York-NY/Bioinformatics-Software-Engineer-III--OncoKB_103087-1 | msk | Bioinformatics Software Engineer III, OncoKB | New York, NY | posted: 2026-10-25
 - [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Cloud-Platform-Engineer_R26_0000002801 | bbinsurance | Cloud Platform Engineer | Plano, TX, USA | posted: 2026-10-25
 
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store1588-Lafayette-LA/Team-Captain-Endzone---Loyalty--Front-End-_202641410 | dickssportinggoods | Team Captain Endzone & Loyalty (Front End) | Store1588 Lafayette LA | posted: 2026-10-25
+
 ## Processed
