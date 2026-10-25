@@ -740,4 +740,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8319655 | Reddit | Software Engineer, Ad Signals | Remote - United States | posted: 2026-10-24
 
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Cloud-Platform-Engineer_R26_0000002801 | Brown & Brown, Inc. | Cloud Platform Engineer | Plano, TX, USA | posted: 2026-10-25
+
 ## Processed
