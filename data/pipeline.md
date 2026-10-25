@@ -1261,3 +1261,5 @@
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8319655 | reddit | Software Engineer, Ad Signals | Remote - United States | posted: 2026-10-24
 - [ ] https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520 | supabase | Software Engineer - Storage | Remote, Global | posted: 2026-10-24
 - [ ] https://placer.ai/company/we-are-hiring/?gh_jid=8043836003 | placerlabs | Platform Engineer - AI Tools | Austin, Texas | posted: 2026-10-24
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007 | andurilindustries | Software Engineer- Infrastructure | Waltham, Massachusetts, United States | posted: 2026-10-24
