@@ -1168,4 +1168,26 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mindly/ffbb73f1-634c-4a44-a045-7b046b776092 | mindly | Middle Software Engineer | Remote | posted: 2026-10-25
 - [ ] https://jobs.lever.co/controlup/00bc9e38-7be8-412e-b7df-7acdb9d8a42a | controlup | DevOps Engineer | USA West & Canada | posted: 2026-10-20
 
+- [ ] https://jobs.lever.co/tpgsi/1cb2b7f2-506b-4cb2-8d59-bc6e4771363f | tpgsi | AI-Assisted Full-Stack Engineer | Washington, DC | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007 | andurilindustries | Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007 | andurilindustries | Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007 | andurilindustries | Early Career Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5253712007 | chaosindustries | Mid-Career Software Engineer | El Segundo, California, United States | posted: 2026-10-26
+- [ ] https://jobs.lever.co/makpar/a5ed4b49-01ec-4e15-bba5-144b1cf34846 | makpar | ML Engineer | Remote, US-Based | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006 | gelbergroup | (Associate) Software Engineer- Trading Integrations Team | Chicago, IL | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/truelogic/b352a260-abed-42b0-83ee-2c502c76ed79 | truelogic | Mid-Level DevOps Engineer - Global Strategy Consultancy (LATAM) | LatAm · Remote | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/rainforest-pay/480b941b-96d1-48b6-a37e-b669d371cee3 | rainforest-pay | Software Engineer - Intelligence Team | Atlanta HQ | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/platformscience/jobs/8044805003 | platformscience | Software Development Engineer in Test II (SDET II) | Minnetonka, Minnesota, United States | posted: 2026-10-26
+- [ ] https://glginsights.com/careers/jobs/7828738003?gh_jid=7828738003 | gersonlehrmangroup | Software Engineer | New York | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8917377002 | Twitch | Software Engineer I | San Francisco, CA | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/mlbevents/jobs/8300925 | mlbevents | Associate Software Engineer (Seasonal) | New York, New York | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/relativity/jobs/8917327002?gh_jid=8917327002 | relativity | Front-End Software Engineer II | Long Beach, California, United States | posted: 2026-10-26
+- [ ] https://careers.roblox.com/jobs/8259453?gh_jid=8259453 | roblox | Software Engineer, Frontend - Economy | San Mateo, CA, United States | posted: 2026-10-26
+- [ ] https://www.kargo.com/careers/5274451007?gh_jid=5274451007 | kargo22 | Machine Learning Engineer | New York, New York, United States | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5253746007?gh_jid=5253746007 | andurilindustries | Site Reliability Engineer, Edge Devices | Irvine, California, United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c | madhive | Software Engineer, Financial Systems | Madhive HQ (New York, NY) | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/idme/jobs/8039485003 | idme | Software Engineer – Developer Experience & AI Platform | McLean, Virginia | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/mintmcp/099c3375-0175-4aee-b221-adbd4841292e | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/alan/3b78382c-b243-46c1-a22e-a67850b21821 | alan | Fullstack Software Engineer (x/f/m) - Agentic Platform | Anywhere in France, Belgium, Spain | posted: 2026-10-26
+
 ## Processed
