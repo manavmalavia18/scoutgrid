@@ -27,6 +27,7 @@ import {
   parseHiringCafeQueries,
   acceptHiringCafeJob,
 } from './lib/hiringcafe-query.mjs';
+import { httpLooksBlocked } from './lib/hiringcafe-http-blocked.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 // Overridable so the same script can run a second, independent feed (e.g.
@@ -62,12 +63,6 @@ const QUERIES = parseHiringCafeQueries(argVal(
 
 function jobKey(job) {
   return canonicalGhalKey(job.url) || String(job.url || '').toLowerCase();
-}
-
-function httpLooksBlocked(err) {
-  const blob = `${err?.status || ''} ${err?.message || ''} ${err?.body || ''} ${err?.cause?.message || ''}`;
-  return err?.status === 403
-    || /just a moment|cf-chl|challenge-platform|attention required|unexpected redirect|fetch failed/i.test(blob);
 }
 
 /** Exact searchState from the saved hiringcafe.com URL. */
