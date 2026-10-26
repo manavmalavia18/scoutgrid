@@ -742,4 +742,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Cloud-Platform-Engineer_R26_0000002801 | Brown & Brown, Inc. | Cloud Platform Engineer | Plano, TX, USA | posted: 2026-10-25
 
+- [ ] https://jobs.ashbyhq.com/brainco/01260568-d527-4fa7-a1e8-ce842f8d720d | Brain Co. | AI Platform Engineer, Developer Productivity | San Francisco Bay Area | posted: 2026-10-26
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---IBM-ACE---ETL_100874 | Nationwide | Specialist, Software Engineer – IBM ACE & ETL | Ohio Columbus Three Nationwide Plaza
+
 ## Processed
