@@ -711,4 +711,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Swansea-IL/Security-Software-Engineer_JR2026505728 | boeing | Security Software Engineer | USA - Swansea, IL | posted: 2026-10-26
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Platform-DevOps-Engineer_R0238777 | bah | Platform DevOps Engineer | 3 Locations | posted: 2026-10-26
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/San-Diego-California/Software-Engineer--Device-Security--Level-4_R0046833-1 | snapchat | Software Engineer, Device Security, Level 4 | 2 Locations | posted: 2026-10-26
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/San-Diego-California/Software-Engineer--Device-Security--Level-4_R0046833 | snapchat | Software Engineer, Device Security, Level 4 | 2 Locations | posted: 2026-10-26
+- [ ] https://sharecare.wd1.myworkdayjobs.com/sharecare_careers/job/Remote/AI-Engineer_R-102120 | sharecare | AI Engineer- Remote | Remote | posted: 2026-10-26
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Indiana---Indianapolis/Software-Engineer-SMTS_JR362101 | salesforce | Software Engineer SMTS | 2 Locations | posted: 2026-10-26
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Dallas/Software-Engineering-MTS_JR364682-1 | salesforce | Software Engineering MTS | Texas - Dallas | posted: 2026-10-26
+- [ ] https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Engineer-III_R11616 | clearwateranalytics | Software Development Engineer III | Office - Chicago | posted: 2026-10-26
+- [ ] https://bannerhealth.wd108.myworkdayjobs.com/careers/job/Remote-Arizona/DevOps-Engineer-II_R4457524 | bannerhealth | DevOps Engineer I | Remote Arizona | posted: 2026-10-26
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00354555 | asml | Optical Fabrication Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | posted: 2026-10-26
+- [ ] https://amerilife.wd5.myworkdayjobs.com/external/job/Remote-FL/Data---AI-Engineer_R5349 | amerilife | Data & AI Engineer | 48 Locations | posted: 2026-10-26
+
 ## Processed
