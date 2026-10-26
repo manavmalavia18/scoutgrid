@@ -666,4 +666,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store1588-Lafayette-LA/Team-Captain-Endzone---Loyalty--Front-End-_202641410 | dickssportinggoods | Team Captain Endzone & Loyalty (Front End) | Store1588 Lafayette LA | posted: 2026-10-25
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756 | globalhr | Part Time Software Platform Engineer Co-Op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | posted: 2026-10-26
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884752 | globalhr | Part Time Software Platform Engineer Co-Op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | posted: 2026-10-26
+- [ ] https://dupont.wd5.myworkdayjobs.com/jobs/job/Hemlock-Michigan/Site-Reliability-Engineer_249720W | dupont | Site Reliability Engineer | Hemlock, Michigan | posted: 2026-10-26
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Remote---Spain/Generative-AI-Engineer_R1134844 | dentsuaegis | Generative AI Engineer | Remote - Spain | posted: 2026-10-26
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Real-Time-Software-Engineers--Associate-or-Experienced-_JR2026507547 | boeing | Real-Time Software Engineers (Associate or Experienced) | USA - Saint Charles, MO | posted: 2026-10-26
+
 ## Processed
