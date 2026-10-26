@@ -1267,3 +1267,5 @@
 - [ ] https://jobs.ashbyhq.com/momentic/9fdfdb6c-f74c-407d-92c3-a6b0bdb37ec1 | momentic | AI Engineer | San Francisco | posted: 2026-10-25
 
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4723643006?gh_jid=4723643006 | accenturefederalservices | Cleared Full Stack Developer (Washington, DC) | Washington, DC | posted: 2026-10-25
+
+- [ ] https://jobs.ashbyhq.com/brainco/01260568-d527-4fa7-a1e8-ce842f8d720d | brainco | AI Platform Engineer, Developer Productivity | San Francisco Bay Area | posted: 2026-10-26
