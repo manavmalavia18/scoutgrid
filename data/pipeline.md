@@ -1271,3 +1271,19 @@
 - [ ] https://jobs.ashbyhq.com/brainco/01260568-d527-4fa7-a1e8-ce842f8d720d | brainco | AI Platform Engineer, Developer Productivity | San Francisco Bay Area | posted: 2026-10-26
 
 - [ ] https://jobs.ashbyhq.com/mindly/ffbb73f1-634c-4a44-a045-7b046b776092 | mindly | Middle Software Engineer | Remote | posted: 2026-10-25
+
+- [ ] https://job-boards.greenhouse.io/turing/jobs/6234874004 | turing | Platform Engineer - Enterprise AI | New York, New York, United States | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/platformscience/jobs/8044805003 | platformscience | Software Development Engineer in Test II (SDET II) | Minnetonka, Minnesota, United States | posted: 2026-10-26
+- [ ] https://glginsights.com/careers/jobs/7828738003?gh_jid=7828738003 | gersonlehrmangroup | Software Engineer | New York | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8917377002 | twitch | Software Engineer I | San Francisco, CA | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/mlbevents/jobs/8300925 | mlbevents | Associate Software Engineer (Seasonal) | New York, New York | posted: 2026-10-26
+- [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5016466101 | twinstream | DevOps Engineer (contract outside of IR35) | Remote · Remote | posted: 2026-10-26
+- [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5016455101 | twinstream | Java Software Engineer (contract outside of IR35) | Remote · Remote | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/relativity/jobs/8917327002?gh_jid=8917327002 | relativity | Front-End Software Engineer II | Long Beach, California, United States | posted: 2026-10-26
+- [ ] https://careers.roblox.com/jobs/8259453?gh_jid=8259453 | roblox | Software Engineer, Frontend - Economy | San Mateo, CA, United States | posted: 2026-10-26
+- [ ] https://www.kargo.com/careers/5274451007?gh_jid=5274451007 | kargo22 | Machine Learning Engineer | New York, New York, United States | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5253746007?gh_jid=5253746007 | andurilindustries | Site Reliability Engineer, Edge Devices | Irvine, California, United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c | madhive | Software Engineer, Financial Systems | Madhive HQ (New York, NY) | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/idme/jobs/8039485003 | idme | Software Engineer – Developer Experience & AI Platform | McLean, Virginia | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/mintmcp/099c3375-0175-4aee-b221-adbd4841292e | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/alan/3b78382c-b243-46c1-a22e-a67850b21821 | alan | Fullstack Software Engineer (x/f/m) - Agentic Platform | Anywhere in France, Belgium, Spain | posted: 2026-10-26
