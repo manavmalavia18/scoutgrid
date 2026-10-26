@@ -1,14 +1,29 @@
 {
-  "at": "2026-10-26T12:51:26.436Z",
-  "leadsScanned": 6309,
-  "totalBoardsKnown": 1642,
-  "alreadyTracked": 1638,
-  "newlyPromoted": 4,
+  "at": "2026-10-26T13:27:05.099Z",
+  "leadsScanned": 5527,
+  "totalBoardsKnown": 1625,
+  "alreadyTracked": 1617,
+  "newlyPromoted": 8,
   "newBoards": [
     {
-      "name": "WorkWhile",
-      "careers_url": "https://jobs.ashbyhq.com/workwhile",
+      "name": "Axiom Bio",
+      "careers_url": "https://jobs.ashbyhq.com/axiombio",
       "provider": "ashby"
+    },
+    {
+      "name": "Momentic",
+      "careers_url": "https://jobs.ashbyhq.com/momentic",
+      "provider": "ashby"
+    },
+    {
+      "name": "Parsec",
+      "careers_url": "https://job-boards.greenhouse.io/parsecautomationcorp",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Sofico",
+      "careers_url": "https://job-boards.eu.greenhouse.io/soficonv",
+      "provider": "greenhouse"
     },
     {
       "name": "CesiumAstro",
@@ -18,6 +33,11 @@
     {
       "name": "Montefiore Einstein Technology",
       "careers_url": "https://montefiore.wd12.myworkdayjobs.com/MMC",
+      "provider": "workday"
+    },
+    {
+      "name": "Memorial Sloan Kettering Cancer Center",
+      "careers_url": "https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary",
       "provider": "workday"
     },
     {

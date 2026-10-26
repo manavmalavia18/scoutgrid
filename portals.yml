@@ -13383,6 +13383,46 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Axiom Bio"
+    careers_url: https://jobs.ashbyhq.com/axiombio
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Momentic"
+    careers_url: https://jobs.ashbyhq.com/momentic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Parsec"
+    careers_url: https://job-boards.greenhouse.io/parsecautomationcorp
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sofico"
+    careers_url: https://job-boards.eu.greenhouse.io/soficonv
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Memorial Sloan Kettering Cancer Center"
+    careers_url: https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
