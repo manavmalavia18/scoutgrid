@@ -1287,3 +1287,18 @@
 - [ ] https://job-boards.greenhouse.io/idme/jobs/8039485003 | idme | Software Engineer – Developer Experience & AI Platform | McLean, Virginia | posted: 2026-10-26
 - [ ] https://jobs.ashbyhq.com/mintmcp/099c3375-0175-4aee-b221-adbd4841292e | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-26
 - [ ] https://jobs.ashbyhq.com/alan/3b78382c-b243-46c1-a22e-a67850b21821 | alan | Fullstack Software Engineer (x/f/m) - Agentic Platform | Anywhere in France, Belgium, Spain | posted: 2026-10-26
+
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4465487009 | grvty | Front-End Software Engineer | Chantilly, Virginia, United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/keycard-labs/4978734d-834d-4428-b3ac-aa6ca40c591d | keycard-labs | Software Engineer, Infrastructure | US - Remote · Canada - Remote · Canada | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/keycard-labs/0f3524bb-b20b-4513-9c8a-bf35d1078ba4 | keycard-labs | Software Engineer, Security | US - Remote · Canada - Remote · Canada | posted: 2026-10-26
+- [ ] https://jobs.lever.co/tpgsi/1cb2b7f2-506b-4cb2-8d59-bc6e4771363f | tpgsi | AI-Assisted Full-Stack Engineer | Washington, DC | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007 | andurilindustries | Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007 | andurilindustries | Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | posted: 2026-10-26
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007 | andurilindustries | Early Career Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5253712007 | chaosindustries | Mid-Career Software Engineer | El Segundo, California, United States | posted: 2026-10-26
+- [ ] https://jobs.lever.co/makpar/a5ed4b49-01ec-4e15-bba5-144b1cf34846 | makpar | ML Engineer | Remote, US-Based | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/telnyx54/jobs/8044090003 | telnyx54 | Software Engineer, Elixir - Telephony | Brazil; Argentina; Texas | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006 | gelbergroup | (Associate) Software Engineer- Trading Integrations Team | Chicago, IL | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/truelogic/b352a260-abed-42b0-83ee-2c502c76ed79 | truelogic | Mid-Level DevOps Engineer - Global Strategy Consultancy (LATAM) | LatAm · Remote | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/rainforest-pay/480b941b-96d1-48b6-a37e-b669d371cee3 | rainforest-pay | Software Engineer - Intelligence Team | Atlanta HQ | posted: 2026-10-26
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8186869 | toast | Software Engineer II (Fullstack), Digital Storefront | US (remote) | posted: 2026-10-23
