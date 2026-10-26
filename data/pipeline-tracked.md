@@ -748,4 +748,21 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Poland---Remote/Software-Engineering-PMTS---Data-Engineer_JR365092-1 | Salesforce | Software Engineering PMTS - Data Engineer | Poland - Remote | posted: 2026-10-26
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756 | RTX | Part Time Software Platform Engineer Co-Op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | posted: 2026-10-26
 
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Newton-Massachusetts-United-States-of-America/Software-Engineer-II---UI-UX--Qt-QML-_R65926 | Medtronic | Software Engineer II - UI/UX (Qt/QML) | 2 Locations | posted: 2026-10-26
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1 | Tmobile | Associate Software Engineer- Billing Platform | 3 Locations | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/alan/3b78382c-b243-46c1-a22e-a67850b21821 | Alan | Fullstack Software Engineer (x/f/m) - Agentic Platform | Anywhere in France, Belgium, Spain | posted: 2026-10-26
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Swansea-IL/Security-Software-Engineer_JR2026505728 | Boeing | Security Software Engineer | USA - Swansea, IL | posted: 2026-10-26
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Real-Time-Software-Engineers--Associate-or-Experienced-_JR2026507547 | Boeing | Real-Time Software Engineers (Associate or Experienced) | USA - Saint Charles, MO | posted: 2026-10-26
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Software-Engineer---External-Compute---Application-Software_JR-202623140 | General Motors | Software Engineer – External Compute & Application Software | Warren, Michigan, United States of America | posted: 2026-10-26
+- [ ] https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Phoenix-Arizona/Software-Developer_R256644 | Uhaul | Software Developer - Junior | Phoenix, Arizona | posted: 2026-10-26
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Front-end-Engineer-4_R1002096-1 | Capital One | Front-end Engineer 4 | 2 Locations | posted: 2026-10-26
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Web-developer_01884572 | RTX | Web developer | US-CT-REMOTE | posted: 2026-10-26
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Backend---Distributed-Systems--REMOTE-_Req197061 | The Home Depot | Software Engineer, Backend & Distributed Systems (REMOTE) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-26
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Kentucky/Software-Engineer_R-431316-1 | Humana | Software Engineer | Remote Kentucky | posted: 2026-10-26
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Platform-DevOps-Engineer_R0238777 | Booz Allen Hamilton | Platform DevOps Engineer | 3 Locations | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/momentic/9fdfdb6c-f74c-407d-92c3-a6b0bdb37ec1 | Momentic | AI Engineer | San Francisco | posted: 2026-10-25
+- [ ] https://job-boards.eu.greenhouse.io/soficonv/jobs/4929399101 | Sofico | Software Development Engineer in Test | Dallas, Texas, United States | posted: 2026-10-26
+- [ ] https://job-boards.eu.greenhouse.io/soficonv/jobs/4929413101 | Sofico | Software Engineer Agentic AI | Dallas, Texas, United States | posted: 2026-10-26
+- [ ] https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary/job/New-York-NY/Bioinformatics-Software-Engineer-III--OncoKB_103087-1 | Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer III, OncoKB | New York, NY | posted: 2026-10-25
+
 ## Processed
