@@ -13468,6 +13468,121 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Act Security"
+    careers_url: https://jobs.ashbyhq.com/act-security
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Astera Institute"
+    careers_url: https://jobs.ashbyhq.com/astera
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Greenboard"
+    careers_url: https://jobs.ashbyhq.com/greenboard
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lightsage"
+    careers_url: https://jobs.ashbyhq.com/lightsage
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "LPA"
+    careers_url: https://jobs.ashbyhq.com/lpadesignstudios
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Madhive"
+    careers_url: https://jobs.ashbyhq.com/madhive
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Openly"
+    careers_url: https://jobs.ashbyhq.com/openly
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Reach Security"
+    careers_url: https://jobs.ashbyhq.com/reach
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Salience Labs"
+    careers_url: https://jobs.ashbyhq.com/salience-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Stand Insurance"
+    careers_url: https://jobs.ashbyhq.com/standinsurance
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Bugcrowd"
+    careers_url: https://boards.greenhouse.io/bugcrowd
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "ID.me"
+    careers_url: https://job-boards.greenhouse.io/idme
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Sunbound"
+    careers_url: https://job-boards.greenhouse.io/sunbound
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Cyderes"
+    careers_url: https://jobs.lever.co/cyderes
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Welo Global"
+    careers_url: https://jobs.lever.co/weloglobal
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Analog Devices"
+    careers_url: https://analogdevices.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Plains All American Pipeline"
+    careers_url: https://plains.wd1.myworkdayjobs.com/plains
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "PTC"
+    careers_url: https://ptc.wd1.myworkdayjobs.com/ptc
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Wells Fargo"
+    careers_url: https://wf.wd1.myworkdayjobs.com/wellsfargojobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Western Governors University"
+    careers_url: https://wgu.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
