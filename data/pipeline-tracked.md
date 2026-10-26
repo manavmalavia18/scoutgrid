@@ -765,4 +765,26 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.eu.greenhouse.io/soficonv/jobs/4929413101 | Sofico | Software Engineer Agentic AI | Dallas, Texas, United States | posted: 2026-10-26
 - [ ] https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary/job/New-York-NY/Bioinformatics-Software-Engineer-III--OncoKB_103087-1 | Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer III, OncoKB | New York, NY | posted: 2026-10-25
 
+- [ ] https://jobs.ashbyhq.com/clera/98b9626a-9e6d-4285-947c-1e59ff4ebd0c | Clera | Platform Engineer | remote | posted: 2026-10-26
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/AI-ML-Software-Engineer_1217299-2 | Hewlett Packard Enterprise | AI/ML Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-26
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/AI-ML-Software-Engineer_1217299-1 | Hpe | AI/ML Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-26
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Indiana---Indianapolis/Software-Engineer-SMTS_JR362101 | Salesforce | Software Engineer SMTS | 2 Locations | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4465487009 | GRVTY | Front-End Software Engineer | Chantilly, Virginia, United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e | Quindar | Backend Engineer | Denver, CO · Seattle, WA · Seattle · United States · Washington, DC · Washington · San Francisco, CA · San Francisco | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006 | Gelber Group | (Associate) Software Engineer- Trading Integrations Team | Chicago, IL | posted: 2026-10-26
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452 | Boeing | Entry-level Software Engineer–Developers | USA - El Segundo, CA | posted: 2026-10-26
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Robot-Application-Software-Engineer_JR-202619550 | General Motors | Robot Application Software Engineer | Warren, Michigan, United States of America | posted: 2026-10-26
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Software-Developer-Configurator---OneStream-EPM-Development_JR-202623038 | General Motors | Software Developer/Configurator – OneStream/EPM Development | 2 Locations | posted: 2026-10-26
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Full-Stack-Angular-Oracle-GCP-Developer_J277921-1 | Highmark Health | Full Stack Angular/Oracle/GCP Developer | PA, Working at Home - Pennsylvania | posted: 2026-10-26
+- [ ] https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Java-Software-Engineer_JR-0098294-1 | KION Group | Java Software Engineer | 4 Locations | posted: 2026-10-26
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Full-Stack-Engineer_01884822 | RTX | Full Stack Engineer | US-CT-REMOTE | posted: 2026-10-26
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-AI-_R1004477-1 | Capital One | AI Engineer 4 (Gen AI Platform Services: Agentic AI) | 5 Locations | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5253712007 | CHAOS Industries | Mid-Career Software Engineer | El Segundo, California, United States | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/telnyx54/jobs/8044090003 | Telnyx | Software Engineer, Elixir - Telephony | Brazil; Argentina; Texas | posted: 2026-10-26
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/San-Diego-California/Software-Engineer--Device-Security--Level-4_R0046833-1 | Snap Inc. | Software Engineer, Device Security, Level 4 | 2 Locations | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/rivianvw.tech/7dc83f47-86a1-46df-9530-6b4b349884c5 | Rivian and Volkswagen Group Technologies | Software Engineer, ES&D Low Voltage | Irvine, California | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/keycard-labs/0f3524bb-b20b-4513-9c8a-bf35d1078ba4 | Keycard | Software Engineer, Security | US - Remote · Canada - Remote · Canada | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/keycard-labs/4978734d-834d-4428-b3ac-aa6ca40c591d | Keycard | Software Engineer, Infrastructure | US - Remote · Canada - Remote · Canada | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8 | Temporal Technologies | Software Engineer II, Cloud Applications | United States (Remote) | posted: 2026-10-26
+
 ## Processed
