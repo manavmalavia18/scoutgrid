@@ -745,4 +745,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/brainco/01260568-d527-4fa7-a1e8-ce842f8d720d | Brain Co. | AI Platform Engineer, Developer Productivity | San Francisco Bay Area | posted: 2026-10-26
 - [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---IBM-ACE---ETL_100874 | Nationwide | Specialist, Software Engineer – IBM ACE & ETL | Ohio Columbus Three Nationwide Plaza
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Poland---Remote/Software-Engineering-PMTS---Data-Engineer_JR365092-1 | Salesforce | Software Engineering PMTS - Data Engineer | Poland - Remote | posted: 2026-10-26
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756 | RTX | Part Time Software Platform Engineer Co-Op (Remote) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | posted: 2026-10-26
+
 ## Processed
