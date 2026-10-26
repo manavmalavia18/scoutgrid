@@ -1164,4 +1164,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4723643006?gh_jid=4723643006 | accenturefederalservices | Cleared Full Stack Developer (Washington, DC) | Washington, DC | posted: 2026-10-25
 
+- [ ] https://jobs.ashbyhq.com/brainco/01260568-d527-4fa7-a1e8-ce842f8d720d | brainco | AI Platform Engineer, Developer Productivity | San Francisco Bay Area | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/mindly/ffbb73f1-634c-4a44-a045-7b046b776092 | mindly | Middle Software Engineer | Remote | posted: 2026-10-25
+- [ ] https://jobs.lever.co/controlup/00bc9e38-7be8-412e-b7df-7acdb9d8a42a | controlup | DevOps Engineer | USA West & Canada | posted: 2026-10-20
+
 ## Processed
