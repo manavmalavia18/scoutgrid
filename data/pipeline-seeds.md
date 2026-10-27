@@ -1204,4 +1204,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/keycard-labs/4978734d-834d-4428-b3ac-aa6ca40c591d | keycard-labs | Software Engineer, Infrastructure | US - Remote · Canada - Remote · Canada | posted: 2026-10-26
 - [ ] https://jobs.ashbyhq.com/keycard-labs/0f3524bb-b20b-4513-9c8a-bf35d1078ba4 | keycard-labs | Software Engineer, Security | US - Remote · Canada - Remote · Canada | posted: 2026-10-26
 
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8918706002 | cannondesign | Intermediate Software Engineer | India - Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc | harvey | Software Engineer, Agents | San Francisco | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/assembledhq/25d50672-8e19-4c6d-b406-4222dea68ff2 | assembledhq | Software Engineer, Workforce Operations | United States · Remote | posted: 2026-10-27
+- [ ] https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003 | abnormalsecurity | Machine Learning Engineer 1 | Remote - Singapore | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d | baseten | Software Engineer, Storage Systems (Agent Infra) | San Francisco · New York · United States | posted: 2026-10-27
+
 ## Processed
