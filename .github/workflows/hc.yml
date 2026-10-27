@@ -19,8 +19,12 @@ jobs:
     # image until Patchright explicitly supports the newer runner.
     runs-on: ubuntu-24.04
     # Full HC runs can take 12+ minutes before commit/push; 13 minutes caused
-    # valid scrapes to be cancelled at the job boundary.
-    timeout-minutes: 25
+    # valid scrapes to be cancelled at the job boundary. Bumped 25->30 since
+    # the 25min budget also has to cover checkout/npm ci/patchright+Xvfb
+    # install/Tailscale connect+disconnect/commit-with-3-retries on top of
+    # the scrape itself — the scrape's own worst-case budget (16 queries x
+    # 60s patchright timeout, see fetch-hiringcafe-feed.mjs) is ~17min alone.
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

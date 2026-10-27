@@ -156,7 +156,21 @@ function fetchViaPatchright(query) {
     cwd: ROOT,
     encoding: 'utf8',
     env,
-    timeout: 300_000,
+    // Was 300_000 (5min). A healthy query normally finishes in ~15-30s (see
+    // scan-hc-heartbeat.json's elapsedSec for a full multi-query cycle).
+    // With DEFAULT_HIRINGCAFE_QUERIES/DEFAULT_DATA_QUERIES now at 13-16
+    // queries, letting even a handful of them legitimately run to a 5min
+    // ceiling could blow well past hc.yml/hc-data.yml's 25min job timeout —
+    // and a job-timeout kill is NOT a catchable JS error (unlike the
+    // per-query try/catch below), so it loses the ENTIRE cycle's progress,
+    // not just the slow query. Confirmed live 2026-10-27: a run got killed
+    // at exactly 25:00 mid-scrape, and the cancel-in-progress:false
+    // concurrency group then blocked every other scheduled trigger behind
+    // it for hours — this is what caused the "stale" report. 60s gives
+    // ~16x headroom over the normal case while keeping the worst-case total
+    // (all queries timing out) at ~16-17 minutes, comfortably inside the
+    // job budget.
+    timeout: 60_000,
   });
   if (r.stderr) process.stderr.write(r.stderr);
   if ((r.status ?? 1) !== 0) {
@@ -283,6 +297,14 @@ async function fetchFeed() {
     hours: KEEP_HOURS,
     truncated,
     transport,
+    // Visibility into how often the 60s per-query patchright timeout (see
+    // fetchViaPatchright) is actually clipping a legitimate slow query —
+    // there was previously no signal at all for this; a `queriesSkipped`
+    // that stays near 0 across real runs confirms 60s has enough headroom,
+    // a sustained nonzero count means it's too tight and needs raising.
+    queriesSkipped: transport === 'patchright'
+      ? Object.values(totals).filter((n) => n == null).length
+      : 0,
   }, null, 2));
 
   console.log(JSON.stringify({
