@@ -14,8 +14,12 @@ permissions:
 
 jobs:
   scan:
-    runs-on: ubuntu-latest
-    timeout-minutes: 13
+    # Patchright/Xvfb became unreliable when ubuntu-latest started migrating
+    # to Ubuntu 26 on 2026-10-19 — same fix applied to hc.yml/hc-data.yml.
+    runs-on: ubuntu-24.04
+    # Was 13min, same tight-margin issue fixed elsewhere — gives headroom
+    # for a slow Tailscale-relayed scrape + 3-attempt push retry.
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -29,7 +33,13 @@ jobs:
 
       - name: Install scrapling + patchright chromium
         run: |
-          pip install 'scrapling[fetchers]>=0.4.13'
+          # Upper-pinned: scrapling 0.5 (2026-10-27) removed the capture_xhr
+          # fetch param scrape-jobright.py depends on ("capture_xhr was
+          # removed; use record_requests=True and session.network"), which
+          # broke every jr-board fetch and stalled this feed. Pin below 0.5
+          # until scrape-jobright.py is migrated to the new NetworkRecorder
+          # API (session.network.search(...) instead of page.captured_xhr).
+          pip install 'scrapling[fetchers]>=0.4.13,<0.5'
           python3 -m patchright install chromium --with-deps
 
       # Cookie-based auth (JOBRIGHT_COOKIE secret, captured once from the
@@ -46,6 +56,13 @@ jobs:
         env:
           JOBRIGHT_COOKIE: ${{ secrets.JOBRIGHT_COOKIE }}
           HC_PYTHON: python3
+
+      - name: Disconnect from Tailscale exit node
+        # GitHub became unreachable through the residential exit node after
+        # long scrapes (DNS: "Could not resolve host: github.com") — same
+        # fix already applied to hc.yml/hc-data.yml/linkedin.yml; this
+        # workflow never had it, which was silently failing every push.
+        run: sudo tailscale down || true
 
       - name: Commit results
         run: |
