@@ -833,4 +833,39 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II---Decision-Management-Program_R-286598 | Mastercard | Software Engineer II - Decision Management Program | O'Fallon, Missouri | posted: 2026-10-27
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM_J-00353546 | ASML | Spindle Polishing Technician CWW Front End Nights, 6:00 PM – 6:00 AM | Wilton, CT, USA | posted: 2026-10-27
 
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199055004 | Sonyinteractiveentertainmentglobal | Full Stack Software Engineer II (Contract Role) | United States, Madison, WI | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8 | Cohere | Web Developer | Toronto · Calgary · Canada · Vancouver · Ottawa · Montreal · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/siftstack/b07cf371-0536-4b99-9331-a81668addeb8 | Forward Deployed Engineer @ Sift Stack, Inc. | Software Engineer, Frontend | San Francisco, CA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/siftstack/9abae03b-61c2-4bd6-8074-d3867be67bbd | Forward Deployed Engineer @ Sift Stack, Inc. | Software Engineer, Frontend (Agentic AI) | San Francisco, CA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/thinkingmachines/d6098644-7904-4423-9330-a1b7f5767fbc | Thinking Machines Lab | Software Engineer, Privacy & Data Governance | San Francisco | posted: 2026-10-27
+- [ ] https://jobs.smartrecruiters.com/LinkedIn3/744000158161003 | LinkedIn3 | Software Engineer, Systems and Infrastructure | Bellevue, WA, United States | posted: 2026-10-27
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer--Java_R0121000 | Truist | Software Engineer--Java | 2 Locations | posted: 2026-10-27
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000157900224 | ServiceNow | Software Engineer Graduate (AI/ML) - Moveworks | Mountain View, CALIFORNIA, United States | posted: 2026-10-26
+- [ ] https://carlyle.wd1.myworkdayjobs.com/carlyle/job/New-York-NY/Data---AI-Engineer_R-00117-1 | The Carlyle Group | Data & AI Engineer | New York, NY | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/af629fd3-1162-4a8c-bab6-0083bd7f20fc | Hadrian | All Levels: Frontend Software Engineer | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531 | Phantom | AI Engineer | Remote-US | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/scribe/d8e906b1-3f7f-4406-a313-c7b5b713709f | Scribe | Backend Engineer, Data Ingestion | San Francisco | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/mixpanel/jobs/8157627 | Mixpanel | Software Engineer, Growth | San Francisco, US (Hybrid) | posted: 2026-10-27
+- [ ] https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004 | SambaNova | Cloud Platform Engineer - New Grad | Austin, Texas, United States; San Jose, California, United States | posted: 2026-10-27
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/AI-Engineer_R0000401627-1 | Caterpillar Inc. | AI Engineer | 2 Locations | posted: 2026-10-27
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Illinois-Remote-Work/DevOps-Engineer--US-Remote-_R69983 | Motorola Solutions | DevOps Engineer (US Remote) | Illinois Remote Work, More... | posted: 2026-10-27
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-II---Software-Development-Environment-DevOps-Engineer--Onsite-_01885182 | RTX | Software Engineer II - Software Development Environment DevOps Engineer (Onsite) | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | posted: 2026-10-27
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4--Python--Typescript-_R1001274-2 | Capital One | Full-stack Engineer 4 (Python, Typescript) | New York, NY | posted: 2026-10-27
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4--Bank-Technology-_R1004522-1 | Capital One | Full-Stack Engineer 4 (Bank Technology) | New York, NY | posted: 2026-10-27
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Machine-Learning-Engineer-5--IC-_R1001512-1 | Capital One | Machine Learning Engineer 5 (IC) | 5 Locations | posted: 2026-10-27
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Remote-_Req196927 | The Home Depot | Software Engineer II (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728 | MERCOR | Software Engineer, Frontier Data Products | San Francisco | posted: 2026-10-27
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-Grove-St/Software-Engineer---Infrastructure_R187899 | Ryder | Software Engineer - Infrastructure | USA - San Francisco CA Grove St | posted: 2026-10-27
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Full-Stack-Software-Engineer_R0246949 | Booz Allen Hamilton | Full Stack Software Engineer | Washington, DC | posted: 2026-10-27
+- [ ] https://recar.wd108.myworkdayjobs.com/slatecareers/job/Remote/Frontend-SDE-II_JR101148 | Slate | Frontend SDE II | Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/assembledhq/25d50672-8e19-4c6d-b406-4222dea68ff2 | Assembled | Software Engineer, Workforce Operations | United States · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/openart/f025c87f-76ec-47f4-83c4-a7dfacab8668 | OpenArt AI | Software Engineer, GTM | San Carlos, California, USA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/lumos/37ecfa5a-f047-4b70-a29b-79cc885df706 | Lumos | Software Engineer, AI Agent Governance | United States · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/lumos/52e98603-8302-4bf1-9bdb-6ab829c8e701 | Lumos | Software Engineer, NHI Platform | United States · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/p-1%20ai/d34e1c45-e51d-47bf-a0ee-064e6ca3467b | P-1 AI | Platform Engineer | United States · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/raptive/6b02dbf6-4b43-41f5-bcd2-f50e9de2c830 | Raptive | Software Engineer II, Ad Code | United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/juullabs/jobs/8319432 | Juul Labs | Full Stack Software Engineer | Mountain View, California, United States; San Francisco, California, United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/verisign/jobs/8010830003 | Verisign | Site Reliability Engineer - AI Platform | Reston,Virginia,United States | posted: 2026-10-27
+- [ ] https://jobs.lever.co/crypto/5957a4b8-235b-490c-b4ad-86384baee628 | Crypto.com | Software Engineer, Prediction Markets Platform | San Francisco; New York; Chicago,IL; California | posted: 2026-10-27
+
 ## Processed
