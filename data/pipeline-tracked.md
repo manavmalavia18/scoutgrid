@@ -800,4 +800,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openly/49e7e0e1-23b9-4d4f-9505-3d6646f384a7 | Openly | Frontend Engineer II | Remote - United States | posted: 2026-10-26
 - [ ] https://job-boards.greenhouse.io/idme/jobs/8039485003 | ID.me | Software Engineer – Developer Experience & AI Platform | McLean, Virginia | posted: 2026-10-26
 
+- [ ] https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc | Harvey | Software Engineer, Agents | San Francisco | posted: 2026-10-27
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702-2 | Hewlett Packard Enterprise | Finance Transformation Data/AIML Engineer | Spring, Texas, United States of America | posted: 2026-10-27
+- [ ] https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003 | Abnormal AI | Machine Learning Engineer 1 | Remote - Singapore | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/yipitdata/jobs/8280705 | YipitData | Backend Engineer | India Remote | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/mlbevents/jobs/8300925 | Major League Baseball | Associate Software Engineer (Seasonal) | New York, New York | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/platformscience/jobs/8044805003 | Platform Science | Software Development Engineer in Test II (SDET II) | Minnetonka, Minnesota, United States | posted: 2026-10-26
+- [ ] https://jobs.lever.co/makpar/a5ed4b49-01ec-4e15-bba5-144b1cf34846 | Makpar | ML Engineer | Remote, US-Based | posted: 2026-10-26
+- [ ] https://amerilife.wd5.myworkdayjobs.com/external/job/Remote-FL/Data---AI-Engineer_R5349 | AmeriLife | Data & AI Engineer | 48 Locations | posted: 2026-10-27
+- [ ] https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1 | Ciena | Software Engineer (Security) - New Grad | Atlanta | posted: 2026-10-27
+- [ ] https://openlane.wd115.myworkdayjobs.com/openlane_careers/job/Remote-United-States/Software-Engineer--Remote-_R-255168 | OPENLANE | Software Engineer (Remote) | 2 Locations | posted: 2026-10-27
+- [ ] https://sharecare.wd1.myworkdayjobs.com/sharecare_careers/job/Remote/AI-Engineer_R-102120 | Sharecare | AI Engineer- Remote | Remote | posted: 2026-10-27
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00354555 | ASML | Optical Fabrication Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | posted: 2026-10-27
+
 ## Processed
