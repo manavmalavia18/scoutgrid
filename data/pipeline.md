@@ -1335,3 +1335,23 @@
 - [ ] https://job-boards.greenhouse.io/banyansoftware/jobs/5273485007 | banyansoftware | Software Engineer | United States | posted: 2026-10-27
 - [ ] https://jobs.lever.co/agile-defense/f73d0824-7fa2-4408-84f3-29ba715261ee | agile-defense | Full-Stack Software Engineer | Washington, D.C. | posted: 2026-10-27
 - [ ] https://job-boards.greenhouse.io/verisign/jobs/8010830003 | verisign | Site Reliability Engineer - AI Platform | Reston,Virginia,United States | posted: 2026-10-27
+
+- [ ] https://job-boards.greenhouse.io/effectual/jobs/8002667003 | effectual | DevOps Engineer | Remote · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531 | phantom | AI Engineer | Remote-US | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/skelar/5b7ec18a-e26c-44b6-a00d-b4c7560e0b1c | skelar | Front-End Engineer | Ukraine, Remote · Lviv · Ukraine · Kyiv | posted: 2026-10-27
+- [ ] https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004 | sambanovasystems | Cloud Platform Engineer - New Grad | Austin, Texas, United States; San Jose, California, United States | posted: 2026-10-27
+- [ ] https://imacorp.com/careers/openings/5275163007?gh_jid=5275163007 | imafinancialgroup | AI Engineer | Atlanta, GA; Bellevue, WA; Charlotte, NC; Chicago, IL; Cleveland, OH; Dallas, TX; Denver, CO; Houston, TX; New York City, NY; Overland Park, KS; Pasadena, CA; Pittsburgh, PA; Portland, OR; REMOTE; Salt Lake City, UT; Sarasota, FL; St. Petersburg, FL; Wallingford, CT; Wichita, KS | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/stream/82b37457-3d54-4f7a-8a0e-ae52c0b67362 | stream | Backend Engineer – Real-Time Video | Amsterdam office · Remote (EU) · European Union | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/siftstack/9abae03b-61c2-4bd6-8074-d3867be67bbd | siftstack | Software Engineer, Frontend (Agentic AI) | San Francisco, CA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/siftstack/b07cf371-0536-4b99-9331-a81668addeb8 | siftstack | Software Engineer, Frontend | San Francisco, CA | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/mixpanel/jobs/8157627 | mixpanel | Software Engineer, Fullstack | San Francisco, US (Hybrid) | posted: 2026-10-27
+- [ ] https://careers.roblox.com/jobs/8283641?gh_jid=8283641 | roblox | Software Engineer, Creator Services Communication | San Mateo, CA, United States | posted: 2026-10-27
+- [ ] https://careers.feedzai.com/job_description?gh_jid=8327805 | feedzai | Software Engineer - Customer Success | Atlanta, GA, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/retell-ai/8581013a-f981-47aa-84a0-de548976b2ef | retell-ai | Mandarin-speaking: Software Engineer (Contract) | Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/42dot/65bd0f6e-1e77-438f-9c52-5730922f132a | 42dot | Machine Learning Engineer, Driving Foundation Models | Sunnyvale, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/42dot/a3788235-4a51-492c-abfd-23b89d6dd411 | 42dot | Machine Learning Engineer, Autonomy | Sunnyvale, United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/juullabs/jobs/8319432 | juullabs | Full Stack Software Engineer | Mountain View, California, United States; San Francisco, California, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/doss/f698df9b-0fe0-49e6-88d1-f936f1aa301f | doss | Founding Applied AI Engineer | San Francisco | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8919666002 | quberesearchandtechnologies | Software Engineer - Data Lifecycle | New York | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232157004 | sonyinteractiveentertainmentglobal | Software Development Engineer in Test - Contractor | United States, San Mateo, CA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728 | mercor | Software Engineer, Frontier Data Products | San Francisco | posted: 2026-10-27
