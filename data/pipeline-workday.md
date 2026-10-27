@@ -755,4 +755,21 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/AI-Software-Engineer--Azure-AI--Java-Angular-Full-Stack-_JR-022995 | avnet | AI Software Engineer (Azure AI, Java/Angular Full-Stack) | 2 Locations | posted: 2026-10-27
 - [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988 | amgen | Associate AI Engineer, OI&A | US - California - Thousand Oaks | posted: 2026-10-27
 
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer--Java_R0121000 | truist | Software Engineer--Java | 2 Locations | posted: 2026-10-27
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer---CLOUD_R0118010-1 | truist | Software Engineer---CLOUD | 2 Locations | posted: 2026-10-27
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-Grove-St/Software-Engineer---Infrastructure_R187899 | ryder | Software Engineer - Infrastructure | USA - San Francisco CA Grove St | posted: 2026-10-27
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912 | ngc | Associate Software Engineer - Colorado Springs | United States-Colorado-Colorado Springs | posted: 2026-10-27
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908 | ngc | 2027 Associate Software Engineer - Boulder CO | United States-Colorado-Boulder | posted: 2026-10-27
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823 | ngc | Associate Software Engineer (BM/SRM) (26-464) | United States-Alabama-Huntsville | posted: 2026-10-27
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957 | ngc | 2027 Associate Software Engineer/Software Engineer | 4 Locations | posted: 2026-10-27
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Illinois-Remote-Work/DevOps-Engineer--US-Remote-_R69983 | motorolasolutions | DevOps Engineer (US Remote) | Illinois Remote Work, More... | posted: 2026-10-27
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Remote-_Req196927 | homedepot | Software Engineer II (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-27
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Software-Engineer_R0000401797 | cat | Software Engineer | 4 Locations | posted: 2026-10-27
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/AI-Engineer_R0000401627-1 | cat | AI Engineer | 2 Locations | posted: 2026-10-27
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4--Python--Typescript-_R1001274-2 | capitalone | Full-stack Engineer 4 (Python, Typescript) | New York, NY | posted: 2026-10-27
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4_R1003027-2 | capitalone | Full-stack Engineer 4 | New York, NY | posted: 2026-10-27
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Full-Stack-Software-Engineer_R0246953 | bah | Full Stack Software Engineer | Washington, DC | posted: 2026-10-27
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Full-Stack-Software-Engineer_R0246949 | bah | Full Stack Software Engineer | Washington, DC | posted: 2026-10-27
+- [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer---AI-ML-Platform-Operations---Hybrid_R8062 | aaaie | Software Engineer - AI/ML Platform Operations - Hybrid | Arizona - Home Teleworkers | posted: 2026-10-27
+
 ## Processed
