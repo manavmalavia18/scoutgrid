@@ -1302,3 +1302,16 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/b352a260-abed-42b0-83ee-2c502c76ed79 | truelogic | Mid-Level DevOps Engineer - Global Strategy Consultancy (LATAM) | LatAm · Remote | posted: 2026-10-26
 - [ ] https://jobs.ashbyhq.com/rainforest-pay/480b941b-96d1-48b6-a37e-b669d371cee3 | rainforest-pay | Software Engineer - Intelligence Team | Atlanta HQ | posted: 2026-10-26
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8186869 | toast | Software Engineer II (Fullstack), Digital Storefront | US (remote) | posted: 2026-10-23
+
+- [ ] https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d | baseten | Software Engineer, Storage Systems (Agent Infra) | San Francisco · New York · United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae | baseten | Software Engineer, Networking (Agent Infra) | San Francisco · New York · United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b | baseten | Software Engineer, Compute and Isolation | San Francisco · New York · United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/g2i/a5672c66-5fb8-4d5d-8984-e8c7a9edda1e | g2i | AI Engineer / LLM Engineer - G2i Talent Pool | Remote | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/g2i/e7f2a585-25b8-4fd2-9932-710de0317c21 | g2i | Full Stack Developer - G2i Talent Pool | Remote | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/g2i/9119e1e7-ece1-44dc-8139-9b4615b42909 | g2i | Backend Developer - G2i Talent Pool | Remote | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/g2i/3792a712-3703-4817-9882-26d65cf47485 | g2i | Frontend Developer - G2i Talent Pool | Remote | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/speak/8428825b-a10f-47e2-acc6-5e24d11d6137 | speak | Full-Stack Engineer - Enterprise | San Francisco | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/conversion/607e98df-430c-4eb6-a32a-261d988ca4e8 | conversion | Software Engineer (Infra) | San Francisco Office | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/turing/jobs/6235314004 | turing | Backend Engineer, Enterprise AI | New York, New York, United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/fluidstack/d6adcc24-25dc-4e11-ae95-8c4d02c3fe82 | fluidstack | Software Engineer, Networking | London · New York, NY · New York · United States · Austin, TX · Austin · Seattle, WA · Seattle | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783 | openai | Software Engineer, Physical Engineering | San Francisco | posted: 2026-10-26
