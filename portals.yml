@@ -13908,6 +13908,191 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Arceus"
+    careers_url: https://jobs.ashbyhq.com/arceus
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Assembled"
+    careers_url: https://jobs.ashbyhq.com/assembledhq
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright, nextplay
+  - name: "Chatbase"
+    careers_url: https://jobs.ashbyhq.com/chatbase
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Coastal Carbon"
+    careers_url: https://jobs.ashbyhq.com/coastal-carbon
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Compa"
+    careers_url: https://jobs.ashbyhq.com/compa
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Conveo"
+    careers_url: https://jobs.ashbyhq.com/conveo
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lumos"
+    careers_url: https://jobs.ashbyhq.com/lumos
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Maxinsights"
+    careers_url: https://jobs.ashbyhq.com/maxinsights
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, nextplay
+  - name: "MobileFirst"
+    careers_url: https://jobs.ashbyhq.com/mobilefirst
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "OpenArt AI"
+    careers_url: https://jobs.ashbyhq.com/openart
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "P-1 AI"
+    careers_url: https://jobs.ashbyhq.com/p-1%20ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Pandektes ApS"
+    careers_url: https://jobs.ashbyhq.com/pandektes-aps
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Primer"
+    careers_url: https://jobs.ashbyhq.com/primer.io
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Raptive"
+    careers_url: https://jobs.ashbyhq.com/raptive
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "7AI"
+    careers_url: https://jobs.ashbyhq.com/sevenai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sieve"
+    careers_url: https://jobs.ashbyhq.com/sieve
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "TRM Labs"
+    careers_url: https://jobs.ashbyhq.com/trm-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "Vantheon"
+    careers_url: https://jobs.ashbyhq.com/vantheon
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "VINCI"
+    careers_url: https://jobs.ashbyhq.com/vinci
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Definitive Healthcare"
+    careers_url: https://job-boards.greenhouse.io/definitivehc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "Forma.ai"
+    careers_url: https://job-boards.greenhouse.io/forma-ai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Juul Labs"
+    careers_url: https://job-boards.greenhouse.io/juullabs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Verisign"
+    careers_url: https://job-boards.greenhouse.io/verisign
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Crypto.com"
+    careers_url: https://jobs.lever.co/crypto
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Fehr & Peers"
+    careers_url: https://jobs.lever.co/fehrandpeers
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ABB"
+    careers_url: https://abb.wd3.myworkdayjobs.com/external_career_page
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Edwards Lifesciences"
+    careers_url: https://edwards.wd5.myworkdayjobs.com/edwardscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "IBC Bank"
+    careers_url: https://ibc.wd5.myworkdayjobs.com/ibc_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "JM Family Enterprises"
+    careers_url: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Kimball Electronics"
+    careers_url: https://kei.wd1.myworkdayjobs.com/globalkimballcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Ochsner Health"
+    careers_url: https://ochsner.wd1.myworkdayjobs.com/ochsner
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "PACS Group"
+    careers_url: https://pacs.wd108.myworkdayjobs.com/pacs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Sierra Space"
+    careers_url: https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "WSFS Bank"
+    careers_url: https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
