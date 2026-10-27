@@ -727,4 +727,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702-2 | hpe | Finance Transformation Data/AIML Engineer | Spring, Texas, United States of America | posted: 2026-10-26
 - [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-TX/Site-Reliability-Engineer---Vulnerability_R0018061 | astreya | Site Reliability Engineer - Vulnerability | Remote, TX | posted: 2026-10-26
 
+- [ ] https://westernunion.wd5.myworkdayjobs.com/westernunionjobs/job/USA-TX---Austin---11902-Burnet-Rd/Software-Engineer--AI---Cloud-Applications_JR0131525 | westernunion | Software Engineer, AI & Cloud Applications | USA TX - Austin - 11902 Burnet Rd | posted: 2026-10-27
+- [ ] https://pcg.wd1.myworkdayjobs.com/pcg_external_careers/job/United-States-Remote/Software-Engineer-2_JR102259-1 | pcg | Software Engineer 2 | United States (Remote) | posted: 2026-10-27
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768 | ngc | 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO | United States-Colorado-Colorado Springs | posted: 2026-10-27
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II--Onsite-_01885126 | globalhr | Software Engineer II (Onsite) | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-27
+
 ## Processed
