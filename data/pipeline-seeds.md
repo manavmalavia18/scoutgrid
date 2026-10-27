@@ -1210,4 +1210,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003 | abnormalsecurity | Machine Learning Engineer 1 | Remote - Singapore | posted: 2026-10-27
 - [ ] https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d | baseten | Software Engineer, Storage Systems (Agent Infra) | San Francisco · New York · United States | posted: 2026-10-27
 
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4469008009 | grvty | Software Developer (Systems Software) | Chantilly, Virginia, United States | posted: 2026-10-27
+- [ ] https://jobs.lever.co/crypto/5957a4b8-235b-490c-b4ad-86384baee628 | crypto | Software Engineer, Prediction Markets Platform | San Francisco; New York; Chicago,IL; California | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040394003 | affirm | Software Engineer II, Fullstack (Repayment UX) | Remote Spain | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040392003 | affirm | Software Engineer II, Fullstack (Repayment UX) | Remote Poland | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/banyansoftware/jobs/5273485007 | banyansoftware | Software Engineer | United States | posted: 2026-10-27
+- [ ] https://jobs.lever.co/agile-defense/f73d0824-7fa2-4408-84f3-29ba715261ee | agile-defense | Full-Stack Software Engineer | Washington, D.C. | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8906234002 | addepar1 | AI Engineer - AI Platform | New York, NY | posted: 2026-10-27
+
 ## Processed
