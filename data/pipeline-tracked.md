@@ -815,4 +815,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/addepar1/jobs/8906234002 | Addepar | AI Engineer - AI Platform | New York, NY | posted: 2026-10-27
 
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8267895 | Boxinc | Software Engineer III, GTOC | Redwood City, CA, United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232157004 | Sonyinteractiveentertainmentglobal | Software Development Engineer in Test - Contractor | United States, San Mateo, CA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/retell-ai/8581013a-f981-47aa-84a0-de548976b2ef | Retell AI | Mandarin-speaking: Software Engineer (Contract) | Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/thinkingmachines/7c8b01f8-8542-4cb4-9701-5578960cda3b | Thinking Machines Lab | Software Engineer, Security | San Francisco | posted: 2026-10-27
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988 | Amgen | Associate AI Engineer, OI&A | US - California - Thousand Oaks | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4469008009 | GRVTY | Software Developer (Systems Software) | Chantilly, Virginia, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/doss/f698df9b-0fe0-49e6-88d1-f936f1aa301f | DOSS.COM | Founding Applied AI Engineer | San Francisco | posted: 2026-10-27
+- [ ] https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/TX---Austin-6200-Bridge-Point-Pkwy/Cloud-Software-Engineer--Go---AWS-_R446446 | Comcast | Cloud Software Engineer (Go / AWS) | TX - Austin, 6200 Bridge Point Pkwy | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040753003 | Affirm | Software Engineer II - CIAM | Remote Canada | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040394003 | Affirm | Software Engineer II, Fullstack (Repayment UX) | Remote Spain | posted: 2026-10-27
+- [ ] https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer_2026-23435 | Schweitzer Engineering Laboratories | ERP Software Engineer | Washington - Pullman
+- [ ] https://tempus.wd5.myworkdayjobs.com/tempus_careers/job/Remote/Software-Engineer-II_JR202600801-1 | Tempus AI | Software Engineer II | Remote | posted: 2026-10-27
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/AI-Engineer--Applied-AI_JR_15195 | Guidewire Software | AI Engineer- Applied AI | United States - Remote | posted: 2026-10-27
+- [ ] https://jobs.smartrecruiters.com/AbbVie/3743990016430946 | AbbVie | Device Software Engineer | North Chicago, IL, United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8919666002 | Qube Research & Technologies | Software Engineer - Data Lifecycle | New York | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II---Decision-Management-Program_R-286598 | Mastercard | Software Engineer II - Decision Management Program | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM_J-00353546 | ASML | Spindle Polishing Technician CWW Front End Nights, 6:00 PM – 6:00 AM | Wilton, CT, USA | posted: 2026-10-27
+
 ## Processed
