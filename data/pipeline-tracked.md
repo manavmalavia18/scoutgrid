@@ -787,4 +787,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/keycard-labs/4978734d-834d-4428-b3ac-aa6ca40c591d | Keycard | Software Engineer, Infrastructure | US - Remote · Canada - Remote · Canada | posted: 2026-10-26
 - [ ] https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8 | Temporal Technologies | Software Engineer II, Cloud Applications | United States (Remote) | posted: 2026-10-26
 
+- [ ] https://jobs.ashbyhq.com/conversion/607e98df-430c-4eb6-a32a-261d988ca4e8 | Conversion | Software Engineer (Infra) | San Francisco Office | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b | Baseten | Software Engineer, Compute and Isolation | San Francisco · New York · United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae | Baseten | Software Engineer, Networking (Agent Infra) | San Francisco · New York · United States | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d | Baseten | Software Engineer, Storage Systems (Agent Infra) | San Francisco · New York · United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/fluidstack/d6adcc24-25dc-4e11-ae95-8c4d02c3fe82 | Fluidstack | Software Engineer, Networking | London · New York, NY · New York · United States · Austin, TX · Austin · Seattle, WA · Seattle | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783 | OpenAI | Software Engineer, Physical Engineering | San Francisco | posted: 2026-10-26
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Platform-Engineer--Java-Frameworks_R0076323 | eBay | Platform Engineer, Java Frameworks | Austin | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/rivianvw.tech/bede70c1-9c88-4772-aa0d-fccfc7b3994b | Rivian and Volkswagen Group Technologies | Software Engineer, Connectivity Cloud | Palo Alto, California | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/mistral.ai/98e96edd-e91f-4558-a248-4e0a2765845b | Mistral Ai | Site Reliability Engineer | New York | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c | Madhive | Software Engineer, Financial Systems | Madhive HQ (New York, NY) | posted: 2026-10-26
+- [ ] https://jobs.ashbyhq.com/openly/49e7e0e1-23b9-4d4f-9505-3d6646f384a7 | Openly | Frontend Engineer II | Remote - United States | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/idme/jobs/8039485003 | ID.me | Software Engineer – Developer Experience & AI Platform | McLean, Virginia | posted: 2026-10-26
+
 ## Processed
