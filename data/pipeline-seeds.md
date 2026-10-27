@@ -1218,4 +1218,37 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/agile-defense/f73d0824-7fa2-4408-84f3-29ba715261ee | agile-defense | Full-Stack Software Engineer | Washington, D.C. | posted: 2026-10-27
 - [ ] https://job-boards.greenhouse.io/addepar1/jobs/8906234002 | addepar1 | AI Engineer - AI Platform | New York, NY | posted: 2026-10-27
 
+- [ ] https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8 | cohere | Web Developer | Toronto · Calgary · Canada · Vancouver · Ottawa · Montreal · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/scribe/d8e906b1-3f7f-4406-a313-c7b5b713709f | scribe | Backend Engineer, Data Ingestion | San Francisco | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199055004 | sonyinteractiveentertainmentglobal | Full Stack Software Engineer II (Contract Role) | United States, Madison, WI | posted: 2026-10-27
+- [ ] https://www.abclegal.com/job-openings/job?id=8046763003&gh_jid=8046763003 | abclegalservices | DevOps Engineer | US, Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/af629fd3-1162-4a8c-bab6-0083bd7f20fc | hadrian-automation | All Levels: Frontend Software Engineer | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-10-27
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5277625007?gh_jid=5277625007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/effectual/jobs/8002667003 | effectual | DevOps Engineer | Remote · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531 | phantom | AI Engineer | Remote-US | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/skelar/5b7ec18a-e26c-44b6-a00d-b4c7560e0b1c | skelar | Front-End Engineer | Ukraine, Remote · Lviv · Ukraine · Kyiv | posted: 2026-10-27
+- [ ] https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004 | sambanovasystems | Cloud Platform Engineer - New Grad | Austin, Texas, United States; San Jose, California, United States | posted: 2026-10-27
+- [ ] https://imacorp.com/careers/openings/5275163007?gh_jid=5275163007 | imafinancialgroup | AI Engineer | Atlanta, GA; Bellevue, WA; Charlotte, NC; Chicago, IL; Cleveland, OH; Dallas, TX; Denver, CO; Houston, TX; New York City, NY; Overland Park, KS; Pasadena, CA; Pittsburgh, PA; Portland, OR; REMOTE; Salt Lake City, UT; Sarasota, FL; St. Petersburg, FL; Wallingford, CT; Wichita, KS | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/stream/82b37457-3d54-4f7a-8a0e-ae52c0b67362 | stream | Backend Engineer – Real-Time Video | Amsterdam office · Remote (EU) · European Union | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/siftstack/9abae03b-61c2-4bd6-8074-d3867be67bbd | siftstack | Software Engineer, Frontend (Agentic AI) | San Francisco, CA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/siftstack/b07cf371-0536-4b99-9331-a81668addeb8 | siftstack | Software Engineer, Frontend | San Francisco, CA | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/mixpanel/jobs/8157627 | mixpanel | Software Engineer, Growth | San Francisco, US (Hybrid) | posted: 2026-10-27
+- [ ] https://careers.roblox.com/jobs/8283641?gh_jid=8283641 | roblox | Software Engineer, Creator Services Communication | San Mateo, CA, United States | posted: 2026-10-27
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007 | andurilindustries | Mission Software Engineer, Ground | USA | posted: 2026-10-27
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007 | andurilindustries | Infra Software Engineer, Agentic Runtime | Washington, District of Columbia, United States | posted: 2026-10-27
+- [ ] https://careers.feedzai.com/job_description?gh_jid=8327805 | feedzai | Software Engineer - Customer Success | Atlanta, GA, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/retell-ai/8581013a-f981-47aa-84a0-de548976b2ef | retell-ai | Mandarin-speaking: Software Engineer (Contract) | Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/42dot/65bd0f6e-1e77-438f-9c52-5730922f132a | 42dot | Machine Learning Engineer, Driving Foundation Models | Sunnyvale, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/42dot/a3788235-4a51-492c-abfd-23b89d6dd411 | 42dot | Machine Learning Engineer, Autonomy | Sunnyvale, United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/juullabs/jobs/8319432 | juullabs | Full Stack Software Engineer | Mountain View, California, United States; San Francisco, California, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/doss/f698df9b-0fe0-49e6-88d1-f936f1aa301f | doss | Founding Applied AI Engineer | San Francisco | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8919666002 | quberesearchandtechnologies | Software Engineer - Data Lifecycle | New York | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232157004 | sonyinteractiveentertainmentglobal | Software Development Engineer in Test - Contractor | United States, San Mateo, CA | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8267895 | boxinc | Software Engineer III, GTOC | Redwood City, CA, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/generate/91d20c40-c3e8-46f2-bea8-a42b565e31c8 | generate | Software Engineer, Data | San Francisco, CA - Hybrid | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728 | mercor | Software Engineer, Frontier Data Products | San Francisco | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/second-front-systems/e75017ca-8bfb-4c2f-bdce-b0f0cc8bf4ef | second-front-systems | AI Software Engineer | Remote | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040751003 | affirm | Software Engineer II - CIAM | Remote US | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040753003 | affirm | Software Engineer II - CIAM | Remote Canada | posted: 2026-10-27
+
 ## Processed
