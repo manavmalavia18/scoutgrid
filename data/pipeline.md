@@ -1319,3 +1319,6 @@
 - [ ] https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc | harvey | Software Engineer, Agents | San Francisco | posted: 2026-10-27
 - [ ] https://jobs.ashbyhq.com/assembledhq/25d50672-8e19-4c6d-b406-4222dea68ff2 | assembledhq | Software Engineer, Workforce Operations | United States · Remote | posted: 2026-10-27
 - [ ] https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003 | abnormalsecurity | Machine Learning Engineer 1 | Remote - Singapore | posted: 2026-10-27
+
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8906234002 | addepar1 | AI Engineer - AI Platform | New York, NY | posted: 2026-10-27
+- [ ] http://www.cannondesign.com/careers/?gh_jid=8918706002 | cannondesign | Intermediate Software Engineer | India - Remote | posted: 2026-10-27
