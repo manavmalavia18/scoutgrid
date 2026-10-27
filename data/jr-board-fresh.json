@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-10-27T18:17:16.967Z",
+  "fetchedAt": "2026-10-27T22:24:35.064Z",
   "days": 2,
   "leadCount": 83,
-  "jobCount": 35,
+  "jobCount": 36,
   "boards": [
-    {
-      "key": "greenhouse:parallel",
-      "fetched": 20,
-      "kept": 0
-    },
     {
       "key": "greenhouse:yugabyte",
       "fetched": 14,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:parallel",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -20,8 +20,28 @@
       "kept": 2
     },
     {
+      "key": "greenhouse:motional",
+      "fetched": 83,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:affirm",
+      "fetched": 242,
+      "kept": 3
+    },
+    {
+      "key": "greenhouse:pinterest",
+      "fetched": 160,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:c3iot",
       "fetched": 91,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:onetrust",
+      "fetched": 78,
       "kept": 0
     },
     {
@@ -35,34 +55,24 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:motional",
-      "fetched": 83,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:definitivehc",
-      "fetched": 14,
+      "fetched": 13,
       "kept": 2
     },
     {
-      "key": "greenhouse:onetrust",
-      "fetched": 78,
+      "key": "greenhouse:constantcontact",
+      "fetched": 15,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:appian",
+      "fetched": 165,
       "kept": 0
     },
     {
       "key": "greenhouse:verisign",
       "fetched": 14,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:constantcontact",
-      "fetched": 16,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:axios",
-      "fetched": 35,
-      "kept": 0
     },
     {
       "key": "greenhouse:flexe",
@@ -75,18 +85,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:pinterest",
-      "fetched": 159,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:vulcanelements",
-      "fetched": 58,
+      "key": "greenhouse:axios",
+      "fetched": 35,
       "kept": 0
     },
     {
-      "key": "greenhouse:ab84831f4a49a1c630177c265efd3657",
-      "fetched": 0,
+      "key": "greenhouse:gotion",
+      "fetched": 149,
       "kept": 0
     },
     {
@@ -95,33 +100,28 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:ab84831f4a49a1c630177c265efd3657",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:en",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 240,
-      "kept": 3
-    },
-    {
-      "key": "greenhouse:appian",
-      "fetched": 167,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:gotion",
-      "fetched": 148,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:preciselyusjobs",
-      "fetched": 34,
+      "key": "greenhouse:vulcanelements",
+      "fetched": 57,
       "kept": 0
     },
     {
       "key": "greenhouse:diligentcorporation",
       "fetched": 22,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:preciselyusjobs",
+      "fetched": 33,
       "kept": 0
     },
     {
@@ -135,13 +135,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:imc",
-      "fetched": 168,
-      "kept": 0
+      "key": "greenhouse:juullabs",
+      "fetched": 10,
+      "kept": 1
     },
     {
-      "key": "greenhouse:sanjoseca",
-      "fetched": 0,
+      "key": "greenhouse:waymo",
+      "fetched": 369,
       "kept": 0
     },
     {
@@ -150,8 +150,13 @@
       "kept": 2
     },
     {
+      "key": "greenhouse:sanjoseca",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:rebuildmanufacturing",
-      "fetched": 130,
+      "fetched": 131,
       "kept": 0
     },
     {
@@ -161,22 +166,22 @@
     },
     {
       "key": "greenhouse:proconex",
-      "fetched": 15,
+      "fetched": 16,
       "kept": 0
     },
     {
-      "key": "greenhouse:michelscorporation",
-      "fetched": 605,
+      "key": "greenhouse:imc",
+      "fetched": 168,
       "kept": 0
     },
     {
       "key": "greenhouse:verkada",
-      "fetched": 331,
+      "fetched": 330,
       "kept": 0
     },
     {
-      "key": "greenhouse:waymo",
-      "fetched": 372,
+      "key": "greenhouse:michelscorporation",
+      "fetched": 601,
       "kept": 0
     },
     {
@@ -185,13 +190,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:hark",
-      "fetched": 54,
+      "key": "greenhouse:anthropic",
+      "fetched": 681,
       "kept": 0
     },
     {
+      "key": "greenhouse:esri",
+      "fetched": 508,
+      "kept": 1
+    },
+    {
       "key": "ashby:trm-labs",
-      "fetched": 116,
+      "fetched": 114,
       "kept": 1
     },
     {
@@ -211,7 +221,7 @@
     },
     {
       "key": "ashby:skydio",
-      "fetched": 175,
+      "fetched": 174,
       "kept": 2
     },
     {
@@ -220,13 +230,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:openai",
-      "fetched": 795,
-      "kept": 1
-    },
-    {
       "key": "ashby:confido",
       "fetched": 38,
+      "kept": 0
+    },
+    {
+      "key": "ashby:lambda",
+      "fetched": 98,
       "kept": 0
     },
     {
@@ -245,18 +255,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:old-mission-capital",
-      "fetched": 39,
-      "kept": 0
-    },
-    {
       "key": "ashby:tennr",
       "fetched": 29,
       "kept": 0
     },
     {
-      "key": "ashby:lambda",
-      "fetched": 99,
+      "key": "ashby:old-mission-capital",
+      "fetched": 39,
       "kept": 0
     },
     {
@@ -265,19 +270,29 @@
       "kept": 2
     },
     {
+      "key": "ashby:assembledhq",
+      "fetched": 16,
+      "kept": 1
+    },
+    {
       "key": "ashby:normalcomputing",
       "fetched": 37,
       "kept": 0
     },
     {
-      "key": "ashby:vantheon",
-      "fetched": 1,
+      "key": "ashby:arceus",
+      "fetched": 8,
       "kept": 0
     },
     {
-      "key": "ashby:p-1%20ai",
-      "fetched": 7,
+      "key": "ashby:joinpogo",
+      "fetched": 11,
       "kept": 1
+    },
+    {
+      "key": "ashby:vantheon",
+      "fetched": 1,
+      "kept": 0
     },
     {
       "key": "ashby:openart",
@@ -286,72 +301,32 @@
     },
     {
       "key": "ashby:maxinsights",
-      "fetched": 14,
+      "fetched": 15,
       "kept": 0
     },
     {
       "key": "ashby:flossy",
-      "fetched": 4,
+      "fetched": 6,
       "kept": 0
     },
     {
-      "key": "ashby:conversion",
-      "fetched": 15,
+      "key": "ashby:p-1%20ai",
+      "fetched": 7,
       "kept": 1
-    },
-    {
-      "key": "ashby:niantic-spatial",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "ashby:assembledhq",
-      "fetched": 16,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:equipmentsharecom",
-      "fetched": 1050,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:esri",
-      "fetched": 507,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:anthropic",
-      "fetched": 680,
-      "kept": 0
-    },
-    {
-      "key": "lever:reply",
-      "fetched": 46,
-      "kept": 0
     },
     {
       "key": "ashby:baseten",
-      "fetched": 109,
+      "fetched": 106,
       "kept": 3
     },
     {
-      "key": "lever:fehrandpeers",
-      "fetched": 35,
-      "kept": 0
-    },
-    {
-      "key": "lever:makpar",
-      "fetched": 8,
+      "key": "ashby:openai",
+      "fetched": 795,
       "kept": 1
     },
     {
-      "key": "lever:captivateiq",
-      "fetched": 24,
-      "kept": 0
-    },
-    {
-      "key": "lever:cyderes",
-      "fetched": 21,
+      "key": "lever:reply",
+      "fetched": 49,
       "kept": 0
     },
     {
@@ -360,13 +335,33 @@
       "kept": 2
     },
     {
-      "key": "lever:anchorage",
-      "fetched": 23,
+      "key": "lever:makpar",
+      "fetched": 8,
+      "kept": 1
+    },
+    {
+      "key": "lever:fehrandpeers",
+      "fetched": 35,
       "kept": 0
     },
     {
-      "key": "workday:stout.wd5.myworkdayjobs.com/stout-experienced-careers",
-      "fetched": 20,
+      "key": "lever:captivateiq",
+      "fetched": 24,
+      "kept": 0
+    },
+    {
+      "key": "lever:anchorage",
+      "fetched": 22,
+      "kept": 0
+    },
+    {
+      "key": "lever:cfsenergy",
+      "fetched": 129,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:equipmentsharecom",
+      "fetched": 1053,
       "kept": 0
     },
     {
@@ -375,8 +370,23 @@
       "kept": 2
     },
     {
+      "key": "workday:stout.wd5.myworkdayjobs.com/stout-experienced-careers",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:cyderes",
+      "fetched": 21,
+      "kept": 0
+    },
+    {
       "key": "workday:archgroup.wd1.myworkdayjobs.com/careers",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:palantir",
+      "fetched": 306,
       "kept": 0
     },
     {
@@ -386,12 +396,17 @@
     },
     {
       "key": "workday:cisco.wd5.myworkdayjobs.com/cisco_careers",
-      "fetched": 20,
+      "fetched": 40,
       "kept": 1
     },
     {
       "key": "workday:embryriddle.wd1.myworkdayjobs.com/adjunctfacultyopportunities",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:weloglobal",
+      "fetched": 467,
       "kept": 0
     },
     {
@@ -401,22 +416,7 @@
     },
     {
       "key": "workday:topgolf.wd501.myworkdayjobs.com/topgolfcareers",
-      "fetched": 60,
-      "kept": 0
-    },
-    {
-      "key": "lever:cfsenergy",
-      "fetched": 128,
-      "kept": 0
-    },
-    {
-      "key": "lever:palantir",
-      "fetched": 306,
-      "kept": 0
-    },
-    {
-      "key": "lever:weloglobal",
-      "fetched": 465,
+      "fetched": 80,
       "kept": 0
     }
   ],
@@ -440,46 +440,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "idme"
-    },
-    {
-      "title": "Senior Data Scientist, Applied AI",
-      "url": "https://job-boards.greenhouse.io/definitivehc/jobs/6232621004",
-      "company": "Definitive Healthcare",
-      "location": "Hybrid, MA (Framingham); Remote",
-      "postedAt": "2026-10-27T13:00:03.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "definitivehc"
-    },
-    {
-      "title": "Data Scientist, Applied AI",
-      "url": "https://job-boards.greenhouse.io/definitivehc/jobs/6231212004",
-      "company": "Definitive Healthcare",
-      "location": "Hybrid, MA (Framingham); Remote",
-      "postedAt": "2026-10-27T12:59:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "definitivehc"
-    },
-    {
-      "title": "Site Reliability Engineer - AI Platform",
-      "url": "https://job-boards.greenhouse.io/verisign/jobs/8010830003",
-      "company": "VERISIGN",
-      "location": "Reston,Virginia,United States",
-      "postedAt": "2026-10-27T12:50:30.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "verisign"
-    },
-    {
-      "title": "Staff Machine Learning Engineer",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
-      "company": "Pinterest",
-      "location": "San Francisco, CA, US; Remote, US",
-      "postedAt": "2026-10-26T19:44:30.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "pinterest"
     },
     {
       "title": "Software Engineer II - CIAM",
@@ -512,6 +472,56 @@
       "board": "affirm"
     },
     {
+      "title": "Staff Machine Learning Engineer",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
+      "company": "Pinterest",
+      "location": "San Francisco, CA, US; Remote, US",
+      "postedAt": "2026-10-26T19:44:30.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "pinterest"
+    },
+    {
+      "title": "Senior Data Scientist, Applied AI",
+      "url": "https://job-boards.greenhouse.io/definitivehc/jobs/6232621004",
+      "company": "Definitive Healthcare",
+      "location": "Hybrid, MA (Framingham); Remote",
+      "postedAt": "2026-10-27T13:00:03.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "definitivehc"
+    },
+    {
+      "title": "Data Scientist, Applied AI",
+      "url": "https://job-boards.greenhouse.io/definitivehc/jobs/6231212004",
+      "company": "Definitive Healthcare",
+      "location": "Hybrid, MA (Framingham); Remote",
+      "postedAt": "2026-10-27T12:59:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "definitivehc"
+    },
+    {
+      "title": "Site Reliability Engineer - AI Platform",
+      "url": "https://job-boards.greenhouse.io/verisign/jobs/8010830003",
+      "company": "VERISIGN",
+      "location": "Reston,Virginia,United States",
+      "postedAt": "2026-10-27T12:50:30.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "verisign"
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "url": "https://job-boards.greenhouse.io/juullabs/jobs/8319432",
+      "company": "Juul Labs",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "postedAt": "2026-10-27T16:53:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "juullabs"
+    },
+    {
       "title": "AI Engineer - AI Platform",
       "url": "https://job-boards.greenhouse.io/addepar1/jobs/8906234002",
       "company": "Addepar",
@@ -530,6 +540,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "addepar1"
+    },
+    {
+      "title": "DevOps Engineer I – Azure",
+      "url": "https://www.esri.com/careers/5262837007?gh_jid=5262837007",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "postedAt": "2026-10-27T16:08:17.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "esri"
     },
     {
       "title": "Senior Machine Learning Engineer, Knowledge Layer",
@@ -582,16 +602,6 @@
       "board": "skydio"
     },
     {
-      "title": "Software Engineer, Physical Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "postedAt": "2026-10-26T22:18:02.107Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "openai"
-    },
-    {
       "title": "Software Engineer, NHI Platform",
       "url": "https://jobs.ashbyhq.com/lumos/52e98603-8302-4bf1-9bdb-6ab829c8e701",
       "company": "Lumos",
@@ -612,14 +622,24 @@
       "board": "lumos"
     },
     {
-      "title": "Platform Engineer",
-      "url": "https://jobs.ashbyhq.com/p-1%20ai/d34e1c45-e51d-47bf-a0ee-064e6ca3467b",
-      "company": "P-1 AI",
+      "title": "Software Engineer, Workforce Operations",
+      "url": "https://jobs.ashbyhq.com/assembledhq/25d50672-8e19-4c6d-b406-4222dea68ff2",
+      "company": "Assembled",
       "location": "United States · Remote",
-      "postedAt": "2026-10-27T02:57:25.561Z",
+      "postedAt": "2026-10-27T05:02:52.894Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "p-1%20ai"
+      "board": "assembledhq"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/d331de7b-aaaa-435e-b06c-a43316a31111",
+      "company": "Pogo Technologies",
+      "location": "United States/Canada · Remote",
+      "postedAt": "2026-10-27T12:06:18.769Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "joinpogo"
     },
     {
       "title": "Senior Software Engineer, GTM",
@@ -642,34 +662,14 @@
       "board": "openart"
     },
     {
-      "title": "Software Engineer (Infra)",
-      "url": "https://jobs.ashbyhq.com/conversion/607e98df-430c-4eb6-a32a-261d988ca4e8",
-      "company": "Conversion",
-      "location": "San Francisco Office",
-      "postedAt": "2026-10-26T23:05:37.296Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "conversion"
-    },
-    {
-      "title": "Software Engineer, Workforce Operations",
-      "url": "https://jobs.ashbyhq.com/assembledhq/25d50672-8e19-4c6d-b406-4222dea68ff2",
-      "company": "Assembled",
+      "title": "Platform Engineer",
+      "url": "https://jobs.ashbyhq.com/p-1%20ai/d34e1c45-e51d-47bf-a0ee-064e6ca3467b",
+      "company": "P-1 AI",
       "location": "United States · Remote",
-      "postedAt": "2026-10-27T05:02:52.894Z",
+      "postedAt": "2026-10-27T02:57:25.561Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "assembledhq"
-    },
-    {
-      "title": "DevOps Engineer I – Azure",
-      "url": "https://www.esri.com/careers/5262837007?gh_jid=5262837007",
-      "company": "Esri",
-      "location": "Redlands, CA",
-      "postedAt": "2026-10-27T16:08:17.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "esri"
+      "board": "p-1%20ai"
     },
     {
       "title": "Software Engineer, Storage Systems (Agent Infra)",
@@ -702,14 +702,14 @@
       "board": "baseten"
     },
     {
-      "title": "ML Engineer",
-      "url": "https://jobs.lever.co/makpar/a5ed4b49-01ec-4e15-bba5-144b1cf34846",
-      "company": "Makpar",
-      "location": "Remote, US-Based",
-      "postedAt": "2026-10-26T18:49:47.775Z",
+      "title": "Founding Software Engineer, Physical Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "postedAt": "2026-10-26T22:18:02.107Z",
       "salary": "",
-      "ats": "Lever",
-      "board": "makpar"
+      "ats": "Ashby",
+      "board": "openai"
     },
     {
       "title": "Software Engineer, Prediction Markets Platform",
@@ -730,6 +730,16 @@
       "salary": "",
       "ats": "Lever",
       "board": "crypto"
+    },
+    {
+      "title": "ML Engineer",
+      "url": "https://jobs.lever.co/makpar/a5ed4b49-01ec-4e15-bba5-144b1cf34846",
+      "company": "Makpar",
+      "location": "Remote, US-Based",
+      "postedAt": "2026-10-26T18:49:47.775Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "makpar"
     },
     {
       "title": "Staff Software Engineer, Backend, Level 6",
