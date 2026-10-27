@@ -1,17 +1,12 @@
 {
-  "fetchedAt": "2026-10-26T21:51:30.155Z",
+  "fetchedAt": "2026-10-27T00:56:30.805Z",
   "days": 2,
   "leadCount": 68,
-  "jobCount": 34,
+  "jobCount": 32,
   "boards": [
     {
       "key": "greenhouse:candidate",
       "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:worldquant",
-      "fetched": 95,
       "kept": 0
     },
     {
@@ -20,13 +15,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:nuro",
-      "fetched": 97,
+      "key": "greenhouse:garnerhealth",
+      "fetched": 74,
       "kept": 0
     },
     {
-      "key": "greenhouse:garnerhealth",
-      "fetched": 76,
+      "key": "greenhouse:worldquant",
+      "fetched": 95,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:nuro",
+      "fetched": 97,
       "kept": 0
     },
     {
@@ -35,13 +35,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:figma",
-      "fetched": 140,
+      "key": "greenhouse:33737-san-francisco-bay-university",
+      "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:33737-san-francisco-bay-university",
-      "fetched": 0,
+      "key": "greenhouse:figma",
+      "fetched": 140,
       "kept": 0
     },
     {
@@ -55,13 +55,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:globalhealthcareexchangeinc",
-      "fetched": 40,
+      "key": "greenhouse:abnormalsecurity",
+      "fetched": 85,
       "kept": 0
     },
     {
-      "key": "greenhouse:abnormalsecurity",
-      "fetched": 85,
+      "key": "greenhouse:globalhealthcareexchangeinc",
+      "fetched": 40,
       "kept": 0
     },
     {
@@ -71,8 +71,13 @@
     },
     {
       "key": "greenhouse:lyft",
-      "fetched": 180,
+      "fetched": 179,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:twitch",
+      "fetched": 59,
+      "kept": 1
     },
     {
       "key": "greenhouse:1800contacts",
@@ -85,29 +90,19 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:twitch",
-      "fetched": 59,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:inmarket",
-      "fetched": 14,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 448,
+      "fetched": 15,
       "kept": 0
     },
     {
       "key": "greenhouse:bpcs",
-      "fetched": 26,
+      "fetched": 27,
       "kept": 0
     },
     {
-      "key": "greenhouse:point72",
-      "fetched": 211,
-      "kept": 0
+      "key": "greenhouse:relativity",
+      "fetched": 397,
+      "kept": 2
     },
     {
       "key": "greenhouse:bugcrowd",
@@ -115,13 +110,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:idme",
-      "fetched": 43,
-      "kept": 2
+      "key": "greenhouse:point72",
+      "fetched": 210,
+      "kept": 0
     },
     {
-      "key": "greenhouse:relativity",
-      "fetched": 397,
+      "key": "greenhouse:idme",
+      "fetched": 43,
       "kept": 2
     },
     {
@@ -130,14 +125,14 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:quberesearchandtechnologies",
-      "fetched": 193,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:parsecautomationcorp",
       "fetched": 9,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:quberesearchandtechnologies",
+      "fetched": 193,
+      "kept": 0
     },
     {
       "key": "greenhouse:explore",
@@ -155,23 +150,18 @@
       "kept": 2
     },
     {
-      "key": "ashby:decagon",
-      "fetched": 134,
-      "kept": 0
+      "key": "ashby:rivianvw.tech",
+      "fetched": 158,
+      "kept": 2
     },
     {
-      "key": "ashby:rivianvw.tech",
-      "fetched": 157,
-      "kept": 1
+      "key": "ashby:decagon",
+      "fetched": 133,
+      "kept": 0
     },
     {
       "key": "ashby:kayak",
       "fetched": 47,
-      "kept": 0
-    },
-    {
-      "key": "ashby:pureapp",
-      "fetched": 5,
       "kept": 0
     },
     {
@@ -180,23 +170,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:watershed",
-      "fetched": 38,
+      "key": "greenhouse:cloudflare",
+      "fetched": 461,
       "kept": 0
     },
     {
-      "key": "ashby:hyperexponential",
-      "fetched": 32,
-      "kept": 0
-    },
-    {
-      "key": "ashby:lpadesignstudios",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "ashby:lightsage",
-      "fetched": 6,
+      "key": "ashby:pureapp",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -205,8 +185,28 @@
       "kept": 0
     },
     {
+      "key": "ashby:watershed",
+      "fetched": 38,
+      "kept": 0
+    },
+    {
+      "key": "ashby:lpadesignstudios",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "ashby:hyperexponential",
+      "fetched": 32,
+      "kept": 0
+    },
+    {
       "key": "ashby:greenboard",
       "fetched": 8,
+      "kept": 0
+    },
+    {
+      "key": "ashby:lightsage",
+      "fetched": 6,
       "kept": 0
     },
     {
@@ -226,8 +226,8 @@
     },
     {
       "key": "ashby:mintmcp",
-      "fetched": 9,
-      "kept": 1
+      "fetched": 0,
+      "kept": 0
     },
     {
       "key": "ashby:joinpogo",
@@ -240,19 +240,9 @@
       "kept": 1
     },
     {
-      "key": "ashby:astera",
-      "fetched": 46,
-      "kept": 0
-    },
-    {
       "key": "ashby:axiombio",
       "fetched": 9,
       "kept": 0
-    },
-    {
-      "key": "ashby:momentic",
-      "fetched": 3,
-      "kept": 1
     },
     {
       "key": "ashby:perplexity",
@@ -260,9 +250,9 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 457,
-      "kept": 0
+      "key": "ashby:momentic",
+      "fetched": 3,
+      "kept": 1
     },
     {
       "key": "ashby:flowgen%20labs",
@@ -270,9 +260,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:spacex",
-      "fetched": 2817,
-      "kept": 1
+      "key": "ashby:astera",
+      "fetched": 46,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 447,
+      "kept": 0
     },
     {
       "key": "lever:cyderes",
@@ -280,8 +275,13 @@
       "kept": 0
     },
     {
-      "key": "lever:zoox",
-      "fetched": 232,
+      "key": "lever:anchorage",
+      "fetched": 23,
+      "kept": 0
+    },
+    {
+      "key": "lever:atomcomputing",
+      "fetched": 42,
       "kept": 0
     },
     {
@@ -290,18 +290,18 @@
       "kept": 1
     },
     {
-      "key": "workday:evolent.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "key": "workday:vantagedc.wd1.myworkdayjobs.com/vantage",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:atomcomputing",
-      "fetched": 42,
+      "key": "workday:evolent.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 232,
       "kept": 0
     },
     {
@@ -325,24 +325,24 @@
       "kept": 0
     },
     {
-      "key": "lever:anchorage",
-      "fetched": 23,
+      "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
+      "fetched": 80,
       "kept": 0
     },
     {
-      "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
-      "fetched": 79,
-      "kept": 0
+      "key": "greenhouse:spacex",
+      "fetched": 2828,
+      "kept": 1
     },
     {
       "key": "workday:salesforce.wd12.myworkdayjobs.com/external_career_site",
       "fetched": 80,
-      "kept": 4
+      "kept": 5
     },
     {
       "key": "greenhouse:andurilindustries",
-      "fetched": 2502,
-      "kept": 8
+      "fetched": 2504,
+      "kept": 5
     }
   ],
   "jobs": [
@@ -355,6 +355,26 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "twitch"
+    },
+    {
+      "title": "Staff Front-End Software Engineer",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8917347002?gh_jid=8917347002",
+      "company": "Relativity Space",
+      "location": "Long Beach, California, United States",
+      "postedAt": "2026-10-26T16:42:58.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "relativity"
+    },
+    {
+      "title": "Front-End Software Engineer II",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8917327002?gh_jid=8917327002",
+      "company": "Relativity Space",
+      "location": "Long Beach, California, United States",
+      "postedAt": "2026-10-26T16:40:52.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "relativity"
     },
     {
       "title": "Senior Full Stack Engineer ",
@@ -385,26 +405,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "idme"
-    },
-    {
-      "title": "Staff Front-End Software Engineer",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8917347002?gh_jid=8917347002",
-      "company": "Relativity Space",
-      "location": "Long Beach, California, United States",
-      "postedAt": "2026-10-26T16:42:58.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "relativity"
-    },
-    {
-      "title": "Front-End Software Engineer II",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8917327002?gh_jid=8917327002",
-      "company": "Relativity Space",
-      "location": "Long Beach, California, United States",
-      "postedAt": "2026-10-26T16:40:52.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "relativity"
     },
     {
       "title": "Software Engineer Agentic AI",
@@ -457,6 +457,16 @@
       "board": "skydio"
     },
     {
+      "title": "Software Engineer, Connectivity Cloud",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/bede70c1-9c88-4772-aa0d-fccfc7b3994b",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "location": "Palo Alto, California",
+      "postedAt": "2026-10-26T23:06:26.233Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "rivianvw.tech"
+    },
+    {
       "title": "Software Engineer, ES&D Low Voltage",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/7dc83f47-86a1-46df-9530-6b4b349884c5",
       "company": "Rivian and Volkswagen Group Technologies",
@@ -487,16 +497,6 @@
       "board": "openly"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/mintmcp/099c3375-0175-4aee-b221-adbd4841292e",
-      "company": "MintMCP",
-      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
-      "postedAt": "2026-10-26T13:06:17.101Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mintmcp"
-    },
-    {
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/joinpogo/0dad512a-a137-468d-a053-088d7d56b90a",
       "company": "Pogo Technologies",
@@ -517,16 +517,6 @@
       "board": "lunon"
     },
     {
-      "title": "AI Engineer",
-      "url": "https://jobs.ashbyhq.com/momentic/9fdfdb6c-f74c-407d-92c3-a6b0bdb37ec1",
-      "company": "Momentic",
-      "location": "San Francisco",
-      "postedAt": "2026-10-25T06:42:32.596Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "momentic"
-    },
-    {
       "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
       "url": "https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760",
       "company": "Perplexity AI",
@@ -535,6 +525,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "perplexity"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://jobs.ashbyhq.com/momentic/9fdfdb6c-f74c-407d-92c3-a6b0bdb37ec1",
+      "company": "Momentic",
+      "location": "San Francisco",
+      "postedAt": "2026-10-25T06:42:32.596Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "momentic"
     },
     {
       "title": "Staff Software Engineer",
@@ -547,6 +547,17 @@
       "board": "flowgen%20labs"
     },
     {
+      "title": "Software Engineer 1",
+      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Software-Engineer-1_R-6520",
+      "company": "Onto Innovation",
+      "location": "Milpitas-CA",
+      "postedAt": "2026-10-26T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "onto_careers",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Application Software Engineer, Launch Software",
       "url": "https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002",
       "company": "SpaceX",
@@ -557,14 +568,25 @@
       "board": "spacex"
     },
     {
-      "title": "Software Engineer 1",
-      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Software-Engineer-1_R-6520",
-      "company": "Onto Innovation",
-      "location": "Milpitas-CA",
+      "title": "DevOps Engineer, GovCloud Mid/Senior",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/New-York---New-York/DevOps-Engineer--GovCloud-Mid-Senior_JR333947",
+      "company": "Salesforce",
+      "location": "New York - New York",
       "postedAt": "2026-10-26T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
-      "board": "onto_careers",
+      "board": "external_career_site",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Distributed Systems Software Engineer, GovCloud - Senior/Lead",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Distributed-Systems-Software-Engineer--GovCloud---Senior-Lead_JR333480",
+      "company": "Salesforce",
+      "location": "4 Locations",
+      "postedAt": "2026-10-26T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "external_career_site",
       "postedAtSource": "workday-detail"
     },
     {
@@ -594,17 +616,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Dallas/Software-Engineering-MTS_JR364682-1",
       "company": "Salesforce",
       "location": "Texas - Dallas",
-      "postedAt": "2026-10-26T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "external_career_site",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "DevOps Engineer, GovCloud Mid/Senior",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/New-York---New-York/DevOps-Engineer--GovCloud-Mid-Senior_JR333947",
-      "company": "Salesforce",
-      "location": "New York - New York",
       "postedAt": "2026-10-26T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
@@ -657,36 +668,6 @@
       "company": "Anduril Industries",
       "location": "Irvine, California, United States",
       "postedAt": "2026-10-26T15:22:49.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "andurilindustries"
-    },
-    {
-      "title": "Senior Software Engineer- Machine Learning",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274648007?gh_jid=5274648007",
-      "company": "Anduril Industries",
-      "location": "Broomfield, Colorado, United States",
-      "postedAt": "2026-10-24T23:32:55.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "andurilindustries"
-    },
-    {
-      "title": "Software Engineer- Infrastructure ",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007",
-      "company": "Anduril Industries",
-      "location": "Waltham, Massachusetts, United States",
-      "postedAt": "2026-10-24T23:28:40.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "andurilindustries"
-    },
-    {
-      "title": "Senior Software Engineer- Infrastructure ",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274646007?gh_jid=5274646007",
-      "company": "Anduril Industries",
-      "location": "Broomfield, Colorado, United States",
-      "postedAt": "2026-10-24T23:27:26.000Z",
       "salary": "",
       "ats": "Greenhouse",
       "board": "andurilindustries"
