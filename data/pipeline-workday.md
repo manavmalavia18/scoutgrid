@@ -721,4 +721,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00354555 | asml | Optical Fabrication Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | posted: 2026-10-26
 - [ ] https://amerilife.wd5.myworkdayjobs.com/external/job/Remote-FL/Data---AI-Engineer_R5349 | amerilife | Data & AI Engineer | 48 Locations | posted: 2026-10-26
 
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-294517 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702-3 | hpe | Finance Transformation Data/AIML Engineer | Spring, Texas, United States of America | posted: 2026-10-27
+
 ## Processed
