@@ -1322,3 +1322,16 @@
 
 - [ ] https://job-boards.greenhouse.io/addepar1/jobs/8906234002 | addepar1 | AI Engineer - AI Platform | New York, NY | posted: 2026-10-27
 - [ ] http://www.cannondesign.com/careers/?gh_jid=8918706002 | cannondesign | Intermediate Software Engineer | India - Remote | posted: 2026-10-27
+
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8267895 | boxinc | Software Engineer III, GTOC | Redwood City, CA, United States | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/generate/91d20c40-c3e8-46f2-bea8-a42b565e31c8 | generate | Software Engineer, Data | San Francisco, CA - Hybrid | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/second-front-systems/e75017ca-8bfb-4c2f-bdce-b0f0cc8bf4ef | second-front-systems | AI Software Engineer | Remote | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4469008009 | grvty | Software Developer (Systems Software) | Chantilly, Virginia, United States | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040751003 | affirm | Software Engineer II - CIAM | Remote US | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040753003 | affirm | Software Engineer II - CIAM | Remote Canada | posted: 2026-10-27
+- [ ] https://jobs.lever.co/crypto/5957a4b8-235b-490c-b4ad-86384baee628 | crypto | Software Engineer, Prediction Markets Platform | San Francisco; New York; Chicago,IL; California | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040394003 | affirm | Software Engineer II, Fullstack (Repayment UX) | Remote Spain | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8040392003 | affirm | Software Engineer II, Fullstack (Repayment UX) | Remote Poland | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/banyansoftware/jobs/5273485007 | banyansoftware | Software Engineer | United States | posted: 2026-10-27
+- [ ] https://jobs.lever.co/agile-defense/f73d0824-7fa2-4408-84f3-29ba715261ee | agile-defense | Full-Stack Software Engineer | Washington, D.C. | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/verisign/jobs/8010830003 | verisign | Site Reliability Engineer - AI Platform | Reston,Virginia,United States | posted: 2026-10-27
