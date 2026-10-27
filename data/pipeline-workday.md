@@ -732,4 +732,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768 | ngc | 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO | United States-Colorado-Colorado Springs | posted: 2026-10-27
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II--Onsite-_01885126 | globalhr | Software Engineer II (Onsite) | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-27
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0110956 | workday | Software Development Engineer - Data Cloud | USA, CA, Pleasanton | posted: 2026-10-27
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Product-Engineering---Agent-Ready-APIs---Data_JR-0107997 | workday | Software Development Engineer, Product Engineering – Agent‑Ready APIs & Data | USA, CA, Pleasanton | posted: 2026-10-27
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer_R0119299 | truist | Software Engineer | Atlanta, GA | posted: 2026-10-27
+- [ ] https://tempus.wd5.myworkdayjobs.com/tempus_careers/job/Remote/Software-Engineer-II_JR202600801-1 | tempus | Software Engineer II | Remote | posted: 2026-10-27
+- [ ] https://tempus.wd5.myworkdayjobs.com/ambry_careers/job/Remote/Software-Engineer-II_JR202600801 | tempus | Software Engineer II | Remote | posted: 2026-10-27
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107108 | remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-10-27
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890 | ngc | 2027 Associate Software Engineer - Azusa CA | United States-California-Azusa | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II---Decision-Management-Program_R-286598 | mastercard | Software Engineer II - Decision Management Program | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-281530 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Arlington-Virginia/Software-Engineer-II_R-288574 | mastercard | Software Engineer II | Arlington, Virginia | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-288896 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-289342 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-289524-1 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-290657 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-27
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Arlington-Virginia/Software-Engineer-II_R-291095 | mastercard | Software Engineer II | Arlington, Virginia | posted: 2026-10-27
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/AI-Engineer--Applied-AI_JR_15195 | guidewire | AI Engineer- Applied AI | United States - Remote | posted: 2026-10-27
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-II---Software-Development-Environment-DevOps-Engineer--Onsite-_01885182 | globalhr | Software Engineer II - Software Development Environment DevOps Engineer (Onsite) | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | posted: 2026-10-27
+- [ ] https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Engineer--Commercial_R2026-15828-1 | churchdwight | AI Engineer, Commercial | USA, Ewing, NJ | posted: 2026-10-27
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4--Bank-Technology-_R1004522-1 | capitalone | Full-Stack Engineer 4 (Bank Technology) | New York, NY | posted: 2026-10-27
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Machine-Learning-Engineer-5--IC-_R1001512-1 | capitalone | Machine Learning Engineer 5 (IC) | 5 Locations | posted: 2026-10-27
+- [ ] https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/AI-Software-Engineer--Azure-AI--Java-Angular-Full-Stack-_JR-022995 | avnet | AI Software Engineer (Azure AI, Java/Angular Full-Stack) | 2 Locations | posted: 2026-10-27
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988 | amgen | Associate AI Engineer, OI&A | US - California - Thousand Oaks | posted: 2026-10-27
+
 ## Processed
