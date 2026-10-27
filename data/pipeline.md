@@ -1315,3 +1315,7 @@
 - [ ] https://job-boards.greenhouse.io/turing/jobs/6235314004 | turing | Backend Engineer, Enterprise AI | New York, New York, United States | posted: 2026-10-26
 - [ ] https://jobs.ashbyhq.com/fluidstack/d6adcc24-25dc-4e11-ae95-8c4d02c3fe82 | fluidstack | Software Engineer, Networking | London · New York, NY · New York · United States · Austin, TX · Austin · Seattle, WA · Seattle | posted: 2026-10-26
 - [ ] https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783 | openai | Software Engineer, Physical Engineering | San Francisco | posted: 2026-10-26
+
+- [ ] https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc | harvey | Software Engineer, Agents | San Francisco | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/assembledhq/25d50672-8e19-4c6d-b406-4222dea68ff2 | assembledhq | Software Engineer, Workforce Operations | United States · Remote | posted: 2026-10-27
+- [ ] https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003 | abnormalsecurity | Machine Learning Engineer 1 | Remote - Singapore | posted: 2026-10-27
