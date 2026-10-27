@@ -724,4 +724,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-294517 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-27
 - [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702-3 | hpe | Finance Transformation Data/AIML Engineer | Spring, Texas, United States of America | posted: 2026-10-27
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Finance-Transformation-Data-AIML-Engineer_1215702-2 | hpe | Finance Transformation Data/AIML Engineer | Spring, Texas, United States of America | posted: 2026-10-26
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-TX/Site-Reliability-Engineer---Vulnerability_R0018061 | astreya | Site Reliability Engineer - Vulnerability | Remote, TX | posted: 2026-10-26
+
 ## Processed
