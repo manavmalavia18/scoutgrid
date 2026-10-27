@@ -813,4 +813,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://sharecare.wd1.myworkdayjobs.com/sharecare_careers/job/Remote/AI-Engineer_R-102120 | Sharecare | AI Engineer- Remote | Remote | posted: 2026-10-27
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-CWW-Front-End-Days-6-am---6pm--Sunday--Monday--Tuesday--alternate-Wednesday-_J-00354555 | ASML | Optical Fabrication Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | posted: 2026-10-27
 
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8906234002 | Addepar | AI Engineer - AI Platform | New York, NY | posted: 2026-10-27
+
 ## Processed
