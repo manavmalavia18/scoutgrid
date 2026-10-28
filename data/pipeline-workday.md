@@ -807,4 +807,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51271 | bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-10-28
 - [ ] https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/DevOps-Engineer-I_R9496 | aspentech | DevOps Engineer I | Bedford, Massachusetts | posted: 2026-10-28
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Business-Process-Optimization_JR-0110820-1 | workday | Software Development Engineer, Business Process Optimization | USA, CA, Pleasanton | posted: 2026-10-28
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194 | workday | Software Development Engineer, Admin Central | USA, CA, Pleasanton | posted: 2026-10-28
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-4_Q426SWEB2-2 | snapchat | Software Engineer, Backend, Level 4 | 5 Locations | posted: 2026-10-28
+- [ ] https://snapchat.wd1.myworkdayjobs.com/referral19/job/Los-Angeles-California/Software-Engineer--Backend--Level-4_Q426SWEB2-3 | snapchat | Software Engineer, Backend, Level 4 | 5 Locations | posted: 2026-10-28
+- [ ] https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Software-Engineer---Integration-Center_JR3982 | shi | Software Engineer - Integration Center | Piscataway, NJ USA | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering--SMTS---Qualified_JR365458 | salesforce | Software Engineering, SMTS - Qualified | California - San Francisco | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR362119 | salesforce | Software Engineering SMTS | 3 Locations | posted: 2026-10-28
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Senior-Software-Engineer--Remitly-Business_R_106634 | remitly | Software Development Engineer II, Remitly Business | Seattle, Washington United States | posted: 2026-10-28
+- [ ] https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Junior-Software-Engineer_R5885 | priceline | Junior Software Engineer | New York | posted: 2026-10-28
+- [ ] https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Software-Engineer_R0138615 | paypal | Software Engineer | New York City, New York, United States of America | posted: 2026-10-28
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160 | ngc | Associate Software Engineer - Pathways Program - Aurora CO | United States-Colorado-Aurora | posted: 2026-10-28
+- [ ] https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/USA-NV-Las-Vegas-6655-Bermuda/Software-Engineer_R321117 | lnw | Software Engineer | USA-NV-Las Vegas-6655 Bermuda | posted: 2026-10-28
+- [ ] https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408-2 | jci | Software Engineering Co-Op | Burlington-Massachusetts-United States of America | posted: 2026-10-28
+- [ ] https://gsk.wd5.myworkdayjobs.com/gskcareers/job/USA---California---San-Francisco/AI-ML-Engineer_450418 | gsk | AI/ML Engineer | 2 Locations | posted: 2026-10-28
+- [ ] https://giorgiglobal.wd3.myworkdayjobs.com/canpack/job/Olyphant-Pennsylvania/Front-End-Technician_R4280 | giorgiglobal | Front End Technician | Olyphant, Pennsylvania | posted: 2026-10-28
+- [ ] https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Platform-Engineer_JR102322 | fullsteam | Platform Engineer | Remote - US | posted: 2026-10-28
+- [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Site-Reliability-Engineer-II_JR6069-1 | etsy | Site Reliability Engineer II | Brooklyn, New York | posted: 2026-10-28
+- [ ] https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Texas--Central-Time/Backend-Software-Engineer--Python-_R1122826 | dentsuaegis | Backend Software Engineer (Python) | USA – Remote – Texas – Central Time | posted: 2026-10-28
+- [ ] https://consertus.wd501.myworkdayjobs.com/consertuscareers/job/US-DE-Remote/DevOps-Engineer---Systems-Administrator_JR1702 | consertus | DevOps Engineer / Systems Administrator | 2 Locations | posted: 2026-10-28
+- [ ] https://consertus.wd501.myworkdayjobs.com/consertuscareers/job/US-WA-Remote/Mid-Level-Integration-Software-Developer_JR1699 | consertus | Mid-Level Integration/Software Developer | 5 Locations | posted: 2026-10-28
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/CX-Machine-Learning-Engineer_2024550 | cisco | CX Machine Learning Engineer | San Jose, California, US | posted: 2026-10-28
+- [ ] https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417 | ascensushr | Software Engineer | 12 Locations | posted: 2026-10-28
+
 ## Processed
