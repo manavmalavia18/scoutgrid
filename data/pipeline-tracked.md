@@ -877,4 +877,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/yipitdata/jobs/8327847 | YipitData | Software Engineer, AI | India - Remote | posted: 2026-10-28
 - [ ] https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Dallas-TX-USA/Front-End-Adjuster_R26_0000003499 | Brown & Brown, Inc. | Front End Adjuster | Dallas, TX, USA | posted: 2026-10-28
 
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4470580009 | GRVTY | Junior Software Engineer | Sterling, Virginia, United States | posted: 2026-10-28
+- [ ] https://jobs.smartrecruiters.com/cityofnewyork/3743990016456186 | City of New York | DevOps Engineer | New York City, NY, United States | posted: 2026-10-28
+- [ ] https://jobs.smartrecruiters.com/cityofnewyork/3743990016455096 | City of New York | DATABASE APPLICATION DEVELOPER/REPORT DESIGNER | New York, NY, United States | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/fluidstack/559542ae-2c39-450b-af41-cb87c97796c1 | Fluidstack | Software Engineer, Infrastructure Modelling | Austin, TX · Phoenix, AZ · Phoenix · United States · San Francisco, CA · San Francsisco · US · Seattle, WA · Seattle | posted: 2026-10-28
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371 | RTX | Software Engineer Co-op (January 2027) | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | posted: 2026-10-28
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-Systems-_R1004590-1 | Capital One | AI Engineer 4 (Gen AI Platform Services: Agentic Systems) | 5 Locations | posted: 2026-10-28
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4--Python--Kubernetes-_R1004535-1 | Capital One | Full-Stack Engineer 4 (Python, Kubernetes) | 3 Locations | posted: 2026-10-28
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/India---Remote/Software-Development-Engineer-1_R22748 | WEX | Software Development Engineer 1 | India - Remote | posted: 2026-10-28
+
 ## Processed
