@@ -1367,3 +1367,7 @@
 - [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232183004 | sonyinteractiveentertainmentglobal | Contract Software Development Engineer in Test - Subscription Platform | United States, San Diego, CA | posted: 2026-10-28
 - [ ] https://jobs.ashbyhq.com/nollahealth/b9ad4268-c1ec-44da-85f5-614e37424994 | nollahealth | Backend Engineer | New York City | posted: 2026-10-28
 - [ ] https://jobs.ashbyhq.com/avalanchefusion/bca717cc-5f91-446b-800b-9cfe405b8de6 | avalanchefusion | Research Software Engineer | Seattle, Washington | posted: 2026-10-26
+
+- [ ] https://jobs.ashbyhq.com/newxel/a66eff9d-672e-41bd-8322-b48257041230 | newxel | Linux Software Developer (NXJ-219) | Ukraine · Remote | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/patrianna/f4d83f5d-2bed-4cb5-ba51-54c248281afd | patrianna | Middle DevOps Engineer | Ukraine · Poland · Remote | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/startree/jobs/6235909004 | startree | Software Engineer I | US (Remote) | posted: 2026-10-28
