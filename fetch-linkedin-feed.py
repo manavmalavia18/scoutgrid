@@ -122,7 +122,7 @@ def main():
                 # existed. --results is kept modest (see linkedin.yml) to
                 # offset the added per-job request volume against LinkedIn's
                 # already-aggressive guest-endpoint rate limiting.
-                linkedin_fetch_description=True,
+                fetch_description=True,
             )
         except Exception as exc:  # noqa: BLE001 - one bad query must not kill the whole run
             errors.append(f"{query}: {exc}")
