@@ -112,7 +112,17 @@ def main():
                 location=args.location,
                 results_wanted=args.results,
                 hours_old=args.hours,
-                linkedin_fetch_description=False,
+                # Costs one extra request PER JOB (jobspy has to load the
+                # full detail page, not just the search-results card) to get
+                # job_url_direct — the employer's own apply link. Without
+                # this, "url" is always a linkedin.com/jobs/view/... page,
+                # which can never match RESOLVED_HOSTS below no matter what
+                # the posting actually is — confirmed live 2026-10-28:
+                # resolvedToKnownAts was 0 on every run since this script
+                # existed. --results is kept modest (see linkedin.yml) to
+                # offset the added per-job request volume against LinkedIn's
+                # already-aggressive guest-endpoint rate limiting.
+                linkedin_fetch_description=True,
             )
         except Exception as exc:  # noqa: BLE001 - one bad query must not kill the whole run
             errors.append(f"{query}: {exc}")
@@ -121,10 +131,18 @@ def main():
         if df is None or df.empty:
             continue
         for _, row in df.iterrows():
+            job_url = str(row.get("job_url") or "").strip()
+            job_url_direct = str(row.get("job_url_direct") or "").strip()
+            # Prefer the employer's own direct-apply link when jobspy found
+            # one AND it's a board discover-boards.mjs actually recognizes —
+            # falling back to LinkedIn's own page otherwise (same as before;
+            # still a usable lead, just one that needs manual board
+            # research rather than auto-verification).
+            url = job_url_direct if resolves_to_known_ats(job_url_direct) else job_url
             all_jobs.append({
                 "title": str(row.get("title") or "").strip(),
                 "company": str(row.get("company") or "").strip(),
-                "url": str(row.get("job_url") or "").strip(),
+                "url": url,
                 "location": str(row.get("location") or "").strip(),
                 "postedAt": iso(row.get("date_posted")),
             })

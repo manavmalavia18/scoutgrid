@@ -15,7 +15,7 @@ permissions:
 jobs:
   scan:
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 28
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -48,8 +48,18 @@ jobs:
       # now also catches regardless of whether errors were reported). This
       # runs through the user's own residential IP (via Tailscale), so an
       # IP-level block here also hits their normal LinkedIn browsing.
+      #
+      # --results dropped 25->12 on 2026-10-28 when linkedin_fetch_description
+      # was turned on in fetch-linkedin-feed.py: that flag costs ONE EXTRA
+      # REQUEST PER JOB (to get job_url_direct, the real employer apply
+      # link — without it the url is always a linkedin.com page that can
+      # never resolve to a known ATS board, which is why resolvedToKnownAts
+      # had been 0 on every run since this script existed). 12 results x 6
+      # queries = up to 72 extra detail-page fetches per run; watch
+      # scan-linkedin-heartbeat.json's elapsedSec and errors after this
+      # change — raise --results back up only if it stays reliable.
       - name: Run LinkedIn lead fetch
-        run: python3 fetch-linkedin-feed.py --results 25 --hours 24 --sleep 10
+        run: python3 fetch-linkedin-feed.py --results 12 --hours 24 --sleep 10
 
       - name: Disconnect from Tailscale exit node
         run: sudo tailscale down || true
