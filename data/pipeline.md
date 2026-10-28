@@ -1381,3 +1381,14 @@
 - [ ] https://jobs.ashbyhq.com/omni/b0e476d5-b222-46df-9250-b02c08562809 | omni | Frontend Engineer | San Francisco, CA · Santa Cruz, CA · Santa Cruz · United States · Denver, CO · Denver · Philadelphia, PA · Philadelphia · Seattle, WA · Seattle | posted: 2026-10-28
 - [ ] https://jobs.ashbyhq.com/fluidstack/559542ae-2c39-450b-af41-cb87c97796c1 | fluidstack | Software Engineer, Infrastructure Modelling | Austin, TX · Phoenix, AZ · Phoenix · United States · San Francisco, CA · San Francsisco · US · Seattle, WA · Seattle | posted: 2026-10-28
 - [ ] https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929 | zoox | Machine Learning Engineer - Vision Foundation Models | Foster City, CA; Boston, MA; Seattle, WA; San Diego, CA | posted: 2026-10-27
+
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8912699002 | addepar1 | Full Stack Software Engineer - Alts & Data Management | New York, NY | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/plaud/32fb0190-3a98-4615-9934-a4042dfb1497 | plaud | Backend Engineer - Palo Alto | San Francisco, CA | posted: 2026-10-28
+- [ ] https://careers.airbnb.com/positions/8332157?gh_jid=8332157 | airbnb | Software Engineer, Payments | Remote, USA | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8240487 | twilio | Machine Learning Engineer 2 | Remote - US | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8917790002 | alarmcom | Software Engineer II | Tysons, Virginia | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/attotrading/jobs/4471109009 | attotrading | Software Engineer C++ - Trading Platform | New York, New York, United States | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004 | galaxydigitalservices | Site Reliability Engineer (Data Centers) | Afton, Texas | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed | crusoe | Software Engineer I, Network | San Francisco, CA - US · Sunnyvale, CA - US · Sunnyvale · United States | posted: 2026-10-28
+- [ ] https://plata.careers/vacancy/details?id=5446334008&gh_jid=5446334008 | platacard | Software Engineer - Web Junior+ | Worldwide | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004 | extrahopnetworks | Software Engineer I / Cloud | Seattle, WA | posted: 2026-10-28
