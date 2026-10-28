@@ -14658,6 +14658,121 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "G2"
+    careers_url: https://jobs.ashbyhq.com/g2
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Astera Labs"
+    careers_url: https://job-boards.greenhouse.io/asteralabs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Authenticx"
+    careers_url: https://job-boards.greenhouse.io/authenticx
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Banyan Software"
+    careers_url: https://job-boards.greenhouse.io/banyansoftware
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Designed Conveyor Systems"
+    careers_url: https://job-boards.greenhouse.io/designedconveyorsystems
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ExtraHop"
+    careers_url: https://job-boards.greenhouse.io/extrahopnetworks
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Inspire Medical Systems"
+    careers_url: https://job-boards.greenhouse.io/inspiremedicalsystemsinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Vestmark"
+    careers_url: https://job-boards.greenhouse.io/internrecruiting
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Ace Hardware Home Services"
+    careers_url: https://acehardware.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Allegion"
+    careers_url: https://allegion.wd5.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Applied Industrial Technologies"
+    careers_url: https://applied.wd501.myworkdayjobs.com/applied
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Aspen Technology, Inc."
+    careers_url: https://aspentech.wd5.myworkdayjobs.com/aspentech
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cardinal Health"
+    careers_url: https://cardinalhealth.wd1.myworkdayjobs.com/ext
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Faith Technologies, Inc."
+    careers_url: https://faithtechnologies.wd1.myworkdayjobs.com/fti_office
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Federal Home Loan Bank of Indianapolis"
+    careers_url: https://fhlbi.wd1.myworkdayjobs.com/fhlbi_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GAF"
+    careers_url: https://gafsgi.wd5.myworkdayjobs.com/gaf_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Greystar"
+    careers_url: https://greystar.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Integral Ad Science"
+    careers_url: https://integralads.wd1.myworkdayjobs.com/iascareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Priceline"
+    careers_url: https://priceline.wd1.myworkdayjobs.com/priceline
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Regeneron Pharmaceuticals"
+    careers_url: https://regeneron.wd1.myworkdayjobs.com/us_only_university_relations_career
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
