@@ -872,4 +872,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-workflows--GraphRAG-_R1004621-1 | Capital One | AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG) | 5 Locations | posted: 2026-10-28
 - [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer---AI-ML-Platform-Operations---Hybrid_R8062 | CSAA Insurance Group | Software Engineer - AI/ML Platform Operations - Hybrid | Arizona - Home Teleworkers | posted: 2026-10-28
 
+- [ ] https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Remote---Iowa/Software-Developer-II_R20025 | Iowa State University | Software Developer II | Remote - Iowa | posted: 2026-10-28
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Software-Developer_01883676 | RTX | Software Developer | US-CT-REMOTE | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/yipitdata/jobs/8327847 | YipitData | Software Engineer, AI | India - Remote | posted: 2026-10-28
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Dallas-TX-USA/Front-End-Adjuster_R26_0000003499 | Brown & Brown, Inc. | Front End Adjuster | Dallas, TX, USA | posted: 2026-10-28
+
 ## Processed
