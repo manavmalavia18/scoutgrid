@@ -778,4 +778,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II_01884848 | globalhr | Software Engineer II | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-28
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-workflows--GraphRAG-_R1004621-1 | capitalone | AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG) | 5 Locations | posted: 2026-10-28
 
+- [ ] https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer---Data-Engineering-Platform--Python---SQL---PostGIS_JR3246 | woodmac | Software Engineer – Data Engineering Platform (Python _ SQL _ PostGIS | Boston, US | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Poland---Remote/Software-Engineering-PMTS---ML-Engineer_JR365090 | salesforce | Software Engineering PMTS - ML Engineer | Poland - Remote | posted: 2026-10-28
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-293377 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-28
+- [ ] https://magnitudesoftware.wd1.myworkdayjobs.com/external/job/India---Hyderabad---Remote/Software-Engineer--Frontend-_REQ001188 | magnitudesoftware | Software Engineer (Frontend) | India - Hyderabad - Remote | posted: 2026-10-28
+- [ ] https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Remote---Iowa/Software-Developer-II_R20025 | isu | Software Developer II | Remote - Iowa | posted: 2026-10-28
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Software-Developer_01883676 | globalhr | Software Developer | US-CT-REMOTE | posted: 2026-10-28
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Dallas-TX-USA/Front-End-Adjuster_R26_0000003499 | bbinsurance | Front End Adjuster | Dallas, TX, USA | posted: 2026-10-28
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992-1 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-27
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-27
+
 ## Processed
