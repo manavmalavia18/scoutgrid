@@ -155,11 +155,18 @@ def main():
 
     now_iso = datetime.now(timezone.utc).isoformat()
 
-    # A throttled/blocked run (every query errored, or every query came back
-    # empty) must NOT silently overwrite yesterday's good feed with zero
-    # leads — that would look identical to "nothing new on LinkedIn today"
-    # instead of "this run failed", and the CI job would still exit 0.
-    if not deduped and (errors or not queries):
+    # A throttled/blocked run must NOT silently overwrite yesterday's good
+    # feed with zero leads — that would look identical to "nothing new on
+    # LinkedIn today" instead of "this run failed", and the CI job would
+    # still exit 0. Originally this only triggered on an explicit error or
+    # an empty query list, which missed the real failure mode seen live
+    # 2026-10-28: all 6 queries completed cleanly (errors == []) but every
+    # single one came back with zero rows — a soft block/rate-limit that
+    # jobspy doesn't surface as an exception, just an empty result set.
+    # Historically every run finds 75+ leads across these 6 broad national
+    # queries, so "zero leads, however it happened" is itself the signal —
+    # check unconditionally rather than requiring errors to be non-empty.
+    if not deduped:
         HEARTBEAT.parent.mkdir(parents=True, exist_ok=True)
         HEARTBEAT.write_text(json.dumps({
             "at": now_iso,
@@ -169,7 +176,7 @@ def main():
             "errors": errors,
             "elapsedSec": round(time.time() - started, 1),
             "skippedWrite": True,
-            "reason": "zero leads across all queries — preserving last-known-good linkedin-feed.json instead of overwriting",
+            "reason": "zero leads across all queries (soft-block or real failure, no errors required) — preserving last-known-good linkedin-feed.json instead of overwriting",
         }, indent=2))
         print(
             f"::error::linkedin: 0 leads across {len(queries)} quer{'y' if len(queries) == 1 else 'ies'} "

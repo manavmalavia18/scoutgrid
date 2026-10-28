@@ -2,7 +2,7 @@ name: LinkedIn board-discovery leads
 
 on:
   schedule:
-    - cron: '7,37 * * * *'
+    - cron: '17 */2 * * *'
   workflow_dispatch: {}
 
 concurrency:
@@ -39,12 +39,15 @@ jobs:
           args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
 
       # Only 6 short, courtesy-delayed queries per run (see DEFAULT_QUERIES
-      # in fetch-linkedin-feed.py) and a 30-minute cadence — moderate touch;
-      # LinkedIn throttles guest search harder than any other board scoutgrid
-      # hits, and this runs through the user's own residential IP (via
-      # Tailscale), so an IP-level block here would also hit their normal
-      # LinkedIn browsing. If 429s start showing up in run logs, back this
-      # off to every 2 hours (the original cadence) or widen --sleep.
+      # in fetch-linkedin-feed.py). Dialed back 30min->2h on 2026-10-28:
+      # confirmed live via scan-linkedin-heartbeat.json history that the
+      # 30-minute cadence got this exit node soft-blocked by LinkedIn for
+      # ~14 hours straight (every query returning 0 rows with zero HTTP
+      # errors — jobspy doesn't surface a block as an exception, just an
+      # empty result set, which fetch-linkedin-feed.py's zero-leads guard
+      # now also catches regardless of whether errors were reported). This
+      # runs through the user's own residential IP (via Tailscale), so an
+      # IP-level block here also hits their normal LinkedIn browsing.
       - name: Run LinkedIn lead fetch
         run: python3 fetch-linkedin-feed.py --results 25 --hours 24 --sleep 10
 
