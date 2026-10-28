@@ -14803,6 +14803,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Otter.ai"
+    careers_url: https://job-boards.greenhouse.io/otterai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via LinkedIn-lead web search + live ATS verification (20 jobs confirmed)
+  - name: "Stripe"
+    careers_url: https://job-boards.greenhouse.io/stripe
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via LinkedIn-lead web search + live ATS verification (719 jobs confirmed)
+  - name: "Striveworks"
+    careers_url: https://job-boards.greenhouse.io/striveworks
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via LinkedIn-lead web search + live ATS verification (33 jobs confirmed)
+  - name: "Andreessen Horowitz"
+    careers_url: https://job-boards.greenhouse.io/a16z
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via LinkedIn-lead web search + live ATS verification (15 jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
