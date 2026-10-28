@@ -772,4 +772,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Full-Stack-Software-Engineer_R0246949 | bah | Full Stack Software Engineer | Washington, DC | posted: 2026-10-27
 - [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer---AI-ML-Platform-Operations---Hybrid_R8062 | aaaie | Software Engineer - AI/ML Platform Operations - Hybrid | Arizona - Home Teleworkers | posted: 2026-10-27
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Dallas/Software-Engineering-SMTS_JR363326 | salesforce | Software Engineering SMTS | 2 Locations | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Dallas/Software-Engineering-MTS_JR363327 | salesforce | Software Engineering MTS | 2 Locations | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598 | salesforce | Software Engineering MTS | 2 Locations | posted: 2026-10-28
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II_01884848 | globalhr | Software Engineer II | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-28
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-workflows--GraphRAG-_R1004621-1 | capitalone | AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG) | 5 Locations | posted: 2026-10-28
+
 ## Processed
