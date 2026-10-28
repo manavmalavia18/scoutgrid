@@ -1362,3 +1362,8 @@
 - [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199055004 | sonyinteractiveentertainmentglobal | Full Stack Software Engineer II (Contract Role) | United States, Madison, WI | posted: 2026-10-27
 - [ ] https://www.abclegal.com/job-openings/job?id=8046763003&gh_jid=8046763003 | abclegalservices | DevOps Engineer | US, Remote | posted: 2026-10-27
 - [ ] https://jobs.ashbyhq.com/hadrian-automation/af629fd3-1162-4a8c-bab6-0083bd7f20fc | hadrian-automation | All Levels: Frontend Software Engineer | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-10-27
+
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6237074004 | sonyinteractiveentertainmentglobal | Contract Software Development Engineer in Test - Subscription Platform | United States, Aliso Viejo, CA | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232183004 | sonyinteractiveentertainmentglobal | Contract Software Development Engineer in Test - Subscription Platform | United States, San Diego, CA | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/nollahealth/b9ad4268-c1ec-44da-85f5-614e37424994 | nollahealth | Backend Engineer | New York City | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/avalanchefusion/bca717cc-5f91-446b-800b-9cfe405b8de6 | avalanchefusion | Research Software Engineer | Seattle, Washington | posted: 2026-10-26
