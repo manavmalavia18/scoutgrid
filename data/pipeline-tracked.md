@@ -868,4 +868,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/verisign/jobs/8010830003 | Verisign | Site Reliability Engineer - AI Platform | Reston,Virginia,United States | posted: 2026-10-27
 - [ ] https://jobs.lever.co/crypto/5957a4b8-235b-490c-b4ad-86384baee628 | Crypto.com | Software Engineer, Prediction Markets Platform | San Francisco; New York; Chicago,IL; California | posted: 2026-10-27
 
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232183004 | Sonyinteractiveentertainmentglobal | Contract Software Development Engineer in Test - Subscription Platform | United States, San Diego, CA | posted: 2026-10-28
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-workflows--GraphRAG-_R1004621-1 | Capital One | AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG) | 5 Locations | posted: 2026-10-28
+- [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer---AI-ML-Platform-Operations---Hybrid_R8062 | CSAA Insurance Group | Software Engineer - AI/ML Platform Operations - Hybrid | Arizona - Home Teleworkers | posted: 2026-10-28
+
 ## Processed
