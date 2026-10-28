@@ -1261,4 +1261,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/startree/jobs/6235909004 | startree | Software Engineer I | US (Remote) | posted: 2026-10-28
 - [ ] https://jobs.ashbyhq.com/avalanchefusion/bca717cc-5f91-446b-800b-9cfe405b8de6 | avalanchefusion | Research Software Engineer | Seattle, Washington | posted: 2026-10-26
 
+- [ ] https://job-boards.greenhouse.io/attotrading/jobs/4471109009 | attotrading | Software Engineer C++ - Trading Platform | New York, New York, United States | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004 | galaxydigitalservices | Site Reliability Engineer (Data Centers) | Afton, Texas | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed | crusoe | Software Engineer I, Network | San Francisco, CA - US · Sunnyvale, CA - US · Sunnyvale · United States | posted: 2026-10-28
+- [ ] https://plata.careers/vacancy/details?id=5446334008&gh_jid=5446334008 | platacard | Software Engineer - Web Junior+ | Worldwide | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004 | extrahopnetworks | Software Engineer I / Cloud | Seattle, WA | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/boon/6cbeff98-b1a6-4d10-ad23-eb0d7a4b4e55 | boon | Senio Software Engineer | United States (Remote) | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8326088 | flexport | Software Engineer II, Autonomous Freight Technology | Bellevue, Washington, United States | posted: 2026-10-28
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5278136007?gh_jid=5278136007 | andurilindustries | Software Engineer, Space Special Programs | Chantilly, Virginia, United States; Herndon, Virginia, United States | posted: 2026-10-28
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5278027007?gh_jid=5278027007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4470580009 | grvty | Junior Software Engineer | Sterling, Virginia, United States | posted: 2026-10-28
+- [ ] https://www.smxtech.com/careers/?gh_jid=8047174003 | smxtech | Cleared AI/ML Engineer (5785) | United States | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/omni/2c10b34f-3274-48e9-8ff4-a0d3a0682c9f | omni | AI Engineer | United States · Remote | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/omni/b0e476d5-b222-46df-9250-b02c08562809 | omni | Frontend Engineer | San Francisco, CA · Santa Cruz, CA · Santa Cruz · United States · Denver, CO · Denver · Philadelphia, PA · Philadelphia · Seattle, WA · Seattle | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/fluidstack/559542ae-2c39-450b-af41-cb87c97796c1 | fluidstack | Software Engineer, Infrastructure Modelling | Austin, TX · Phoenix, AZ · Phoenix · United States · San Francisco, CA · San Francsisco · US · Seattle, WA · Seattle | posted: 2026-10-28
+- [ ] https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929 | zoox | Machine Learning Engineer - Vision Foundation Models | Foster City, CA; Boston, MA; Seattle, WA; San Diego, CA | posted: 2026-10-27
+
 ## Processed
