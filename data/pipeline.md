@@ -1371,3 +1371,13 @@
 - [ ] https://jobs.ashbyhq.com/newxel/a66eff9d-672e-41bd-8322-b48257041230 | newxel | Linux Software Developer (NXJ-219) | Ukraine · Remote | posted: 2026-10-28
 - [ ] https://jobs.ashbyhq.com/patrianna/f4d83f5d-2bed-4cb5-ba51-54c248281afd | patrianna | Middle DevOps Engineer | Ukraine · Poland · Remote | posted: 2026-10-28
 - [ ] https://job-boards.greenhouse.io/startree/jobs/6235909004 | startree | Software Engineer I | US (Remote) | posted: 2026-10-28
+
+- [ ] https://jobs.ashbyhq.com/boon/6cbeff98-b1a6-4d10-ad23-eb0d7a4b4e55 | boon | Senio Software Engineer | United States (Remote) | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8326088 | flexport | Software Engineer II, Autonomous Freight Technology | Bellevue, Washington, United States | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4470580009 | grvty | Junior Software Engineer | Sterling, Virginia, United States | posted: 2026-10-28
+- [ ] https://www.smxtech.com/careers/?gh_jid=8047174003 | smxtech | Cleared AI/ML Engineer (5785) | United States | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/omni/2c10b34f-3274-48e9-8ff4-a0d3a0682c9f | omni | AI Engineer | United States · Remote | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/omni/40c5ad19-2fa1-4787-b654-4f274989aa77 | omni | Frontend Engineer, Data Visualization | San Francisco, CA · Santa Cruz, CA · Santa Cruz · United States · Denver, CO · Denver · Philadelphia, PA · Philadelphia · Seattle, WA · Seattle | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/omni/b0e476d5-b222-46df-9250-b02c08562809 | omni | Frontend Engineer | San Francisco, CA · Santa Cruz, CA · Santa Cruz · United States · Denver, CO · Denver · Philadelphia, PA · Philadelphia · Seattle, WA · Seattle | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/fluidstack/559542ae-2c39-450b-af41-cb87c97796c1 | fluidstack | Software Engineer, Infrastructure Modelling | Austin, TX · Phoenix, AZ · Phoenix · United States · San Francisco, CA · San Francsisco · US · Seattle, WA · Seattle | posted: 2026-10-28
+- [ ] https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929 | zoox | Machine Learning Engineer - Vision Foundation Models | Foster City, CA; Boston, MA; Seattle, WA; San Diego, CA | posted: 2026-10-27
