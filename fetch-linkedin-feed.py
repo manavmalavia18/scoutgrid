@@ -112,17 +112,23 @@ def main():
                 location=args.location,
                 results_wanted=args.results,
                 hours_old=args.hours,
-                # Costs one extra request PER JOB (jobspy has to load the
-                # full detail page, not just the search-results card) to get
-                # job_url_direct — the employer's own apply link. Without
-                # this, "url" is always a linkedin.com/jobs/view/... page,
-                # which can never match RESOLVED_HOSTS below no matter what
-                # the posting actually is — confirmed live 2026-10-28:
-                # resolvedToKnownAts was 0 on every run since this script
-                # existed. --results is kept modest (see linkedin.yml) to
-                # offset the added per-job request volume against LinkedIn's
-                # already-aggressive guest-endpoint rate limiting.
-                fetch_description=True,
+                # DEAD END, confirmed live 2026-10-28 — do not re-enable
+                # without new evidence: fetch_description=True (the current
+                # name; linkedin_fetch_description is deprecated) costs one
+                # extra request PER JOB to try to populate job_url_direct
+                # (the employer's own apply link, which would let this
+                # resolve to a real ATS board). Tried it: the parameter
+                # activated correctly (no deprecation warning, requests did
+                # increase), but job_url_direct still came back EMPTY on
+                # 72/72 leads across two separate live runs — this matches
+                # a still-open upstream bug (speedyapply/JobSpy#370,
+                # "job_url_direct missing for linkedin"). Reverted to False
+                # to restore speed/safety; real-posting trust now comes
+                # from companyTitleKey+olderIso collapsing/repost-grounding
+                # in career-ops-dashboard's api/jobs.js instead (keeps the
+                # EARLIEST seen date across duplicate company+title
+                # postings, same mechanism already proven for JobRight).
+                fetch_description=False,
             )
         except Exception as exc:  # noqa: BLE001 - one bad query must not kill the whole run
             errors.append(f"{query}: {exc}")
@@ -131,18 +137,10 @@ def main():
         if df is None or df.empty:
             continue
         for _, row in df.iterrows():
-            job_url = str(row.get("job_url") or "").strip()
-            job_url_direct = str(row.get("job_url_direct") or "").strip()
-            # Prefer the employer's own direct-apply link when jobspy found
-            # one AND it's a board discover-boards.mjs actually recognizes —
-            # falling back to LinkedIn's own page otherwise (same as before;
-            # still a usable lead, just one that needs manual board
-            # research rather than auto-verification).
-            url = job_url_direct if resolves_to_known_ats(job_url_direct) else job_url
             all_jobs.append({
                 "title": str(row.get("title") or "").strip(),
                 "company": str(row.get("company") or "").strip(),
-                "url": url,
+                "url": str(row.get("job_url") or "").strip(),
                 "location": str(row.get("location") or "").strip(),
                 "postedAt": iso(row.get("date_posted")),
             })
