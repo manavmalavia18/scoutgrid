@@ -926,4 +926,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10257086 | Northrop Grumman | Software Engineer (AHT) | United States-Ohio-Beavercreek | posted: 2026-10-27
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO | United States-Colorado-Colorado Springs | posted: 2026-10-27
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8240487 | Twilio | Machine Learning Engineer 2 | Remote - US | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/plaud/32fb0190-3a98-4615-9934-a4042dfb1497 | Plaud | Backend Engineer - Palo Alto | San Francisco, CA | posted: 2026-10-28
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Senior-Software-Engineer--Remitly-Business_R_106634 | Remitly | Software Development Engineer II, Remitly Business | Seattle, Washington United States | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineering-MTS--Platform-Security_JR358577 | Salesforce | Software Engineering MTS- Platform Security | 2 Locations | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/GovCloud-Distributed-Systems-Software-Engineer_JR358776 | Salesforce | GovCloud Distributed Systems Software Engineer | 4 Locations | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineer--GovCloud_JR360200 | Salesforce | Software Engineer- GovCloud | 4 Locations | posted: 2026-10-28
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineer-II---Slack-Developer-Workspaces_JR366007-1 | Salesforce | Software Engineer II - Slack Developer Workspaces | California - San Francisco | posted: 2026-10-28
+- [ ] https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929 | Zoox | Machine Learning Engineer - Vision Foundation Models | Foster City, CA; Boston, MA; Seattle, WA; San Diego, CA | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3 | Render | Software Engineer, Network Infrastructure | Remote: United States · San Francisco HQ · San Francisco · United States · Remote: Canada · Canada | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8043351003 | The Pokémon Company International, Inc. | Software Development Engineer in Test (12-month Fixed Term) | Bellevue, Washington, United States | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8912699002 | Addepar | Full Stack Software Engineer - Alts & Data Management | New York, NY | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8917790002 | Alarm.com | Software Engineer II | Tysons, Virginia | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004 | ExtraHop | Software Engineer I / Cloud | Seattle, WA | posted: 2026-10-28
+- [ ] https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/DevOps-Engineer-I_R9496 | Aspen Technology, Inc. | DevOps Engineer I | Bedford, Massachusetts | posted: 2026-10-28
+- [ ] https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Junior-Software-Engineer_R5885 | Priceline | Junior Software Engineer | New York | posted: 2026-10-28
+- [ ] https://stripe.com/jobs/search?gh_jid=8332676 | Stripe | Software Engineer - Full stack | Seattle, WA | posted: 2026-10-28
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160 | Northrop Grumman | Associate Software Engineer - Pathways Program - Aurora CO | United States-Colorado-Aurora | posted: 2026-10-28
+- [ ] https://greystar.wd1.myworkdayjobs.com/external/job/Remote-United-States/Data-Platform-Engineer_R0196880 | Greystar | Data Platform Engineer | Remote, United States
+- [ ] https://greystar.wd1.myworkdayjobs.com/external/job/Remote-United-States/Cloud-Platform-Engineer_R0191955 | Greystar | Cloud Platform Engineer | Remote, United States
+
 ## Processed
