@@ -1355,3 +1355,10 @@
 - [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8919666002 | quberesearchandtechnologies | Software Engineer - Data Lifecycle | New York | posted: 2026-10-27
 - [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232157004 | sonyinteractiveentertainmentglobal | Software Development Engineer in Test - Contractor | United States, San Mateo, CA | posted: 2026-10-27
 - [ ] https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728 | mercor | Software Engineer, Frontier Data Products | San Francisco | posted: 2026-10-27
+
+- [ ] https://jobs.ashbyhq.com/thread-ai/6605fa39-a09d-45ba-a06c-a84cafe2980e | thread-ai | Applied AI Strategist, Federal | New York Office | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8 | cohere | Web Developer | Toronto · Calgary · Canada · Vancouver · Ottawa · Montreal · Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/scribe/d8e906b1-3f7f-4406-a313-c7b5b713709f | scribe | Backend Engineer, Data Ingestion | San Francisco | posted: 2026-10-27
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199055004 | sonyinteractiveentertainmentglobal | Full Stack Software Engineer II (Contract Role) | United States, Madison, WI | posted: 2026-10-27
+- [ ] https://www.abclegal.com/job-openings/job?id=8046763003&gh_jid=8046763003 | abclegalservices | DevOps Engineer | US, Remote | posted: 2026-10-27
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/af629fd3-1162-4a8c-bab6-0083bd7f20fc | hadrian-automation | All Levels: Frontend Software Engineer | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-10-27
