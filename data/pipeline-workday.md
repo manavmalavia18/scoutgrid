@@ -788,4 +788,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992-1 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-27
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992 | boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | posted: 2026-10-27
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Machine-Learning-Engineer--Generative-ML--Level-4_H226SWEGML3-1 | snapchat | Machine Learning Engineer, Generative ML, Level 4 | 3 Locations | posted: 2026-10-28
+- [ ] https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/Machine-Learning-Engineer--AI-Enablement-_202610-127752 | roche | Machine Learning Engineer (AI Enablement) | South San Francisco | posted: 2026-10-28
+- [ ] https://rfcuny.wd108.myworkdayjobs.com/rfcuny/job/New-York-NY/Application-Developer_JR1451 | rfcuny | Application Developer | New York, NY | posted: 2026-10-28
+- [ ] https://pwc.wd3.myworkdayjobs.com/us_entry_level_careers/job/DC-Washington/Washington-DC---Tax-LLM---Associate---Summer-Fall-2027_52926104EIB-1 | pwc | Washington DC - Tax LLM - Associate - Summer/Fall 2027 | DC-Washington | posted: 2026-10-28
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986 | ngc | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | United States-Alabama-Huntsville | posted: 2026-10-28
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---ML---AI--REMOTE-_Req186094-1 | homedepot | Software Engineer II / ML & AI (REMOTE) | GEORGIA - VIRTUAL - GA01 | posted: 2026-10-28
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J290413 | highmarkhealth | Software Engineer | PA, Working at Home - Pennsylvania | posted: 2026-10-28
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371 | globalhr | Software Engineer Co-op (January 2027) | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | posted: 2026-10-28
+- [ ] https://etsy.wd5.myworkdayjobs.com/depop_careers/job/Depop---Remote-UK/Platform-Engineer_JR6088 | etsy | Platform Engineer | Depop - Remote, UK | posted: 2026-10-28
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2028719 | cisco | Software Engineer | Milpitas, California, US | posted: 2026-10-28
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Positioning-and-Controls-Software-Engineer_R0000402154 | cat | Positioning and Controls Software Engineer | Mossville, Illinois | posted: 2026-10-28
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-Systems-_R1004590-1 | capitalone | AI Engineer 4 (Gen AI Platform Services: Agentic Systems) | 5 Locations | posted: 2026-10-28
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4--Python--Kubernetes-_R1004535-1 | capitalone | Full-Stack Engineer 4 (Python, Kubernetes) | 3 Locations | posted: 2026-10-28
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-4_R1002591-1 | capitalone | Full Stack Engineer 4 | 2 Locations | posted: 2026-10-28
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135 | boeing | Associate Software Engineer | USA - Huntsville, AL | posted: 2026-10-28
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135-2 | boeing | Associate Software Engineer | USA - Huntsville, AL | posted: 2026-10-28
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51271 | bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-10-28
+- [ ] https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/DevOps-Engineer-I_R9496 | aspentech | DevOps Engineer I | Bedford, Massachusetts | posted: 2026-10-28
+
 ## Processed
