@@ -1251,4 +1251,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8040751003 | affirm | Software Engineer II - CIAM | Remote US | posted: 2026-10-27
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8040753003 | affirm | Software Engineer II - CIAM | Remote Canada | posted: 2026-10-27
 
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6237074004 | sonyinteractiveentertainmentglobal | Contract Software Development Engineer in Test - Subscription Platform | United States, Aliso Viejo, CA | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232183004 | sonyinteractiveentertainmentglobal | Contract Software Development Engineer in Test - Subscription Platform | United States, San Diego, CA | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/nollahealth/b9ad4268-c1ec-44da-85f5-614e37424994 | nollahealth | Backend Engineer | New York City | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/thread-ai/6605fa39-a09d-45ba-a06c-a84cafe2980e | thread-ai | Applied AI Strategist, Federal | New York Office | posted: 2026-10-27
+
 ## Processed
