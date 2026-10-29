@@ -962,4 +962,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-Remote-Location-Manesar/Applications-Software-Engineer_4034180-2 | Agilent Technologies | Applications Software Engineer | 2 Locations | posted: 2026-10-29
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/AI-Engineer_J-00355214-1 | ASML | AI Engineer | San Diego, CA, USA | posted: 2026-10-28
 
+- [ ] https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157 | Exa | Software Engineer, Security | San Francisco, California | posted: 2026-10-29
+- [ ] https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Phoenix-Arizona/Software-Developer---Core-Services_R258471 | Uhaul | Software Developer - Core Services | Phoenix, Arizona | posted: 2026-10-29
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Ontario-Remote-Work/Senior-Full-Stack-Web-Developer_R65478 | Motorola Solutions | Full Stack Web Developer | Ontario Remote Work, More... | posted: 2026-10-29
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-4--GoLang-_R1001278-1 | Capital One | Full-stack Engineer 4 (GoLang) | 2 Locations | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/weave/d217b6b5-3ee1-4698-9168-50b4c3f73880 | Weave | Front End Developer - Marketing | Mexico · Remote | posted: 2026-10-29
+- [ ] https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/SQM-Infrastructure-Product-Development-AI-Engineer_R162658 | Northern Trust | SQM Infrastructure Product Development AI Engineer | Chicago, IL | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/assembledhq/a3900c2e-bf0f-4ba0-9844-5726e72b74d9 | Assembled | Software Engineer - Platform | New York City, NY | posted: 2026-10-29
+- [ ] https://jobs.lever.co/loftorbital/78ddafc0-4beb-44ef-949b-da6ac90d4fe6 | Loft Orbital | Backend Engineer - Oort | San Francisco, CA | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/banyansoftware/jobs/5278393007 | Banyan Software | Full Stack Software Engineer | United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/discernis/9c895c1a-95f6-4396-b5a7-f0a42d6d6ed4 | Discernis | Founding AI Engineer | New York City | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/discernis/53496201-b984-4e50-938e-19c21cf26667 | Discernis | Software Engineer | New York City | posted: 2026-10-28
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515 | Workday | Machine Learning Engineer III - Document Intelligence | 2 Locations | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/attotrading/jobs/4471109009 | Atto Trading | Software Engineer C++ - Trading Platform | New York, New York, United States | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004 | Galaxy Digital | Site Reliability Engineer (Data Centers) | Afton, Texas | posted: 2026-10-28
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/Simulation-Software-Engineer-Level-2-or-3_R10258292 | Northrop Grumman | Simulation Software Engineer Level 2 or 3 | United States-Virginia-Dulles | posted: 2026-10-29
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279 | Northrop Grumman | 2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO | United States-Colorado-Aurora | posted: 2026-10-29
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/Simulation-Software-Engineer-Level-3-or-4_R10246993 | Northrop Grumman | Simulation Software Engineer Level 3 or 4 | United States-Virginia-Dulles | posted: 2026-10-29
+
 ## Processed
