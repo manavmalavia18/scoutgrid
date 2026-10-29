@@ -882,4 +882,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/SME-Platform-Engineer_RQ226853 | gdit | SME Platform Engineer | USA VA Arlington | posted: 2026-10-29
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Platform---Software-Engineer_RQ226307 | gdit | Platform / Software Engineer | USA FL MacDill AFB | posted: 2026-10-29
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR365940 | salesforce | Software Engineering SMTS | California - San Francisco | posted: 2026-10-29
+- [ ] https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Machine-Learning-Engineer_JR_054695-1 | resmed | Machine Learning Engineer | San Diego, CA, United States | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Cloud-Developer_1215287 | hpe | Cloud Software Developer | Ft. Collins, Colorado, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215476-2 | hpe | Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Cloud-Developer_1215287-2 | hpe | Cloud Software Developer | Ft. Collins, Colorado, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215476 | hpe | Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Cloud-Developer_1215287-3 | hpe | Cloud Software Developer | Ft. Collins, Colorado, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215476-1 | hpe | Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | posted: 2026-10-29
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Applied-AI-Scientist-IV_R13786 | caresource | Applied AI Scientist IV - Healthcare, LLM/SLM, RAG experience | Remote | posted: 2026-10-29
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4_R1004419-1 | capitalone | Full Stack Engineer 4 | New York, NY | posted: 2026-10-29
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-5_R1004415-1 | capitalone | Full Stack Engineer 5 | New York, NY | posted: 2026-10-29
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/AI-Engineer_J-00355214-1 | asml | AI Engineer | San Diego, CA, USA | posted: 2026-10-29
+- [ ] https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-Remote-Location-Manesar/Applications-Software-Engineer_4034180-2 | agilent | Applications Software Engineer | 2 Locations | posted: 2026-10-29
+
 ## Processed
