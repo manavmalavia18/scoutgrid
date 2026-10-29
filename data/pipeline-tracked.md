@@ -957,4 +957,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://stripe.com/jobs/search?gh_jid=8332718 | Stripe | Software Engineer, Fraud System Interventions | South San Francisco, CA | posted: 2026-10-29
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Northridge/Principal-SrPrincipal-Software-Engineer-Level-3-4_R10257008 | Northrop Grumman | C/C++ Software Engineer 3 or 4 (AHT) | United States-California-Northridge | posted: 2026-10-29
 
+- [ ] https://jobs.ashbyhq.com/openai/b6e0d9c6-a5ad-4d27-ad67-fde760e277b6 | OpenAI | Software Engineer, Infranomics | San Francisco | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/openai/1d386acc-5fe0-44ed-b288-a6b1b891c9a8 | OpenAI | Software Engineer, Traffic Infrastructure | San Francisco | posted: 2026-10-29
+- [ ] https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-Remote-Location-Manesar/Applications-Software-Engineer_4034180-2 | Agilent Technologies | Applications Software Engineer | 2 Locations | posted: 2026-10-29
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/AI-Engineer_J-00355214-1 | ASML | AI Engineer | San Diego, CA, USA | posted: 2026-10-28
+
 ## Processed
