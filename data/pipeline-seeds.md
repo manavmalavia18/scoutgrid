@@ -1291,4 +1291,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.airbnb.com/positions/8332157?gh_jid=8332157 | airbnb | Software Engineer, Payments | Remote, USA | posted: 2026-10-28
 - [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8917790002 | alarmcom | Software Engineer II | Tysons, Virginia | posted: 2026-10-28
 
+- [ ] https://jobs.ashbyhq.com/openai/b6e0d9c6-a5ad-4d27-ad67-fde760e277b6 | openai | Software Engineer, Infranomics | San Francisco | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/openai/1d386acc-5fe0-44ed-b288-a6b1b891c9a8 | openai | Software Engineer, Traffic Infrastructure | San Francisco | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/bayesianhealth/3ea2fcfb-9a68-4b8d-a9aa-600a733ef655 | bayesianhealth | Software Engineer, Data & Analytics Platform | Remote - US Only | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b | openai | Software Engineer, IP Infrastructure | San Francisco | posted: 2026-10-29
+
 ## Processed
