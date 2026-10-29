@@ -896,4 +896,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/AI-Engineer_J-00355214-1 | asml | AI Engineer | San Diego, CA, USA | posted: 2026-10-29
 - [ ] https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-Remote-Location-Manesar/Applications-Software-Engineer_4034180-2 | agilent | Applications Software Engineer | 2 Locations | posted: 2026-10-29
 
+- [ ] https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Wheeling-Illinois/Software-Engineer_R-09759 | idexcorp | Software Engineer | Wheeling, Illinois | posted: 2026-10-29
+
 ## Processed
