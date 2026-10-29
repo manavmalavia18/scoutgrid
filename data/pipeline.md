@@ -1392,3 +1392,18 @@
 - [ ] https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed | crusoe | Software Engineer I, Network | San Francisco, CA - US · Sunnyvale, CA - US · Sunnyvale · United States | posted: 2026-10-28
 - [ ] https://plata.careers/vacancy/details?id=5446334008&gh_jid=5446334008 | platacard | Software Engineer - Web Junior+ | Worldwide | posted: 2026-10-28
 - [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004 | extrahopnetworks | Software Engineer I / Cloud | Seattle, WA | posted: 2026-10-28
+
+- [ ] https://jobs.ashbyhq.com/siftstack/28db223c-b2ce-4b40-b515-32d96062e6fa | siftstack | Software Engineer, Test Infrastructure (AI DevEx) | Marina Del Rey, CA · San Francisco, CA · San Francisco · United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/tessera-labs/eb150714-eeb2-44b4-8a23-c893be972bed | tessera-labs | AI Engineer | San Jose Office (HQ) · New York City Office · New York City · United States | posted: 2026-10-29
+- [ ] https://stripe.com/jobs/search?gh_jid=8332718 | stripe | Software Engineer, Fraud System Interventions | South San Francisco, CA | posted: 2026-10-29
+- [ ] https://stripe.com/jobs/search?gh_jid=8332676 | stripe | Software Engineer - Full stack | Seattle, WA | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/lazer/e20de413-49f1-4fef-a966-62fad8168e30 | lazer | Full Stack Engineer, Agentic AI | Canada · USA · US · Remote | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3 | render | Software Engineer, Network Infrastructure | Remote: United States · San Francisco HQ · San Francisco · United States · Remote: Canada · Canada | posted: 2026-10-28
+- [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8043351003 | pokemoncareers | Software Development Engineer in Test (12-month Fixed Term) | Bellevue, Washington, United States | posted: 2026-10-28
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002 | databricks | Software Engineer, Infrastructure | United States | posted: 2026-10-28
+- [ ] https://jobs.ashbyhq.com/truelogic/631bfc3c-8e41-47ab-a1f9-389eb8c36d00 | truelogic | Mid-Level Backend Engineer – Event-Driven SaaS Platform | LatAm · Remote | posted: 2026-10-28
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5278136007?gh_jid=5278136007 | andurilindustries | Software Engineer, Space Special Programs | Chantilly, Virginia, United States; Herndon, Virginia, United States | posted: 2026-10-28
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5278027007?gh_jid=5278027007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-28
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5277625007?gh_jid=5277625007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-27
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007 | andurilindustries | Chief Software Engineer, Space Ground Systems | Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States | posted: 2026-10-27
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007 | andurilindustries | Infra Software Engineer, Agentic Runtime | Washington, District of Columbia, United States | posted: 2026-10-27
