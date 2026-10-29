@@ -946,4 +946,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://greystar.wd1.myworkdayjobs.com/external/job/Remote-United-States/Data-Platform-Engineer_R0196880 | Greystar | Data Platform Engineer | Remote, United States
 - [ ] https://greystar.wd1.myworkdayjobs.com/external/job/Remote-United-States/Cloud-Platform-Engineer_R0191955 | Greystar | Cloud Platform Engineer | Remote, United States
 
+- [ ] https://jobs.ashbyhq.com/siftstack/28db223c-b2ce-4b40-b515-32d96062e6fa | Forward Deployed Engineer @ Sift Stack, Inc. | Software Engineer, Test Infrastructure (AI DevEx) | Marina Del Rey, CA · San Francisco, CA · San Francisco · United States | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Cloud-Developer_1215287-2 | Hewlett Packard Enterprise | Cloud Software Developer | Ft. Collins, Colorado, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215476 | Hewlett Packard Enterprise | Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Cloud-Developer_1215287-3 | Hpe | Cloud Software Developer | Ft. Collins, Colorado, United States of America | posted: 2026-10-29
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215476-1 | Hpe | Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b | OpenAI | Software Engineer, IP Infrastructure | San Francisco | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/tessera-labs/eb150714-eeb2-44b4-8a23-c893be972bed | Tessera Labs | AI Engineer | San Jose Office (HQ) · New York City Office · New York City · United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/bayesianhealth/3ea2fcfb-9a68-4b8d-a9aa-600a733ef655 | Bayesian Health | Software Engineer, Data & Analytics Platform | Remote - US Only | posted: 2026-10-29
+- [ ] https://stripe.com/jobs/search?gh_jid=8332718 | Stripe | Software Engineer, Fraud System Interventions | South San Francisco, CA | posted: 2026-10-29
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Northridge/Principal-SrPrincipal-Software-Engineer-Level-3-4_R10257008 | Northrop Grumman | C/C++ Software Engineer 3 or 4 (AHT) | United States-California-Northridge | posted: 2026-10-29
+
 ## Processed
