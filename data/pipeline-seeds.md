@@ -1296,4 +1296,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bayesianhealth/3ea2fcfb-9a68-4b8d-a9aa-600a733ef655 | bayesianhealth | Software Engineer, Data & Analytics Platform | Remote - US Only | posted: 2026-10-29
 - [ ] https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b | openai | Software Engineer, IP Infrastructure | San Francisco | posted: 2026-10-29
 
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8900284002 | alarmcom | Software Engineer | Needham, Massachusetts | posted: 2026-10-29
+- [ ] https://careers.hellofresh.com/global/en/job/8334705?gh_jid=8334705 | hellofresh | WMS Software Engineer \[OPERATIONS TECHNOLOGY\] | Aurora, IL, United States | posted: 2026-10-29
+- [ ] https://careers.hellofresh.com/global/en/job/8313385?gh_jid=8313385 | hellofresh | WMS Software Engineer \[OPERATIONS TECHNOLOGY\] | New York, NY, United States; Newark, NJ, United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/nimblerobotics/jobs/4472953009 | nimblerobotics | Software Engineer, Nimble Brain | San Francisco, CA | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/northwoodspace/09fb47fc-39e0-4fca-9bff-5d19d43f5a44 | northwoodspace | Software Engineer, Platform | Torrance, CA · Washington D.C. · USA | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/masabi/c541127b-7c4e-4faf-8121-2b98ce841653 | masabi | Software Engineer (Remote - Contractor) | Poland · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/masabi/7af5a6a6-bdbc-4c05-9f8b-69e5d781b068 | masabi | Software Engineer (Remote - Contractor) | Romania · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/distyl/6fa13a3b-dd2e-409a-881b-6c8beb85055a | distyl | AI Engineer (French Speaking) | New York | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157 | exa | Software Engineer, Security | San Francisco, California | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/n8n/1af7a193-334d-4d5c-b45d-250122d9c3f1 | n8n | Agentic Engineering Platform Engineer | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Moldova · Kosovo · Portugal · Poland · Serbia · Germany · Austria · Finland · Montenegro · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · Croatia · Spain · Greece · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/weave/d217b6b5-3ee1-4698-9168-50b4c3f73880 | weave | Front End Developer - Marketing | Mexico · Remote | posted: 2026-10-29
+- [ ] https://www.mlb.com/careers/jobs/league?gh_jid=8300924 | majorleaguebaseball | Software Engineer, Fan Identity | New York, New York | posted: 2026-10-29
+- [ ] https://www.mlb.com/careers/jobs/league?gh_jid=8300921 | majorleaguebaseball | Software Engineer, Baseball Enterprise | Boulder, Colorado | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/assembledhq/a3900c2e-bf0f-4ba0-9844-5726e72b74d9 | assembledhq | Software Engineer - Platform | New York City, NY | posted: 2026-10-29
+- [ ] https://jobs.dropbox.com/listing/7172701?gh_jid=7172701 | dropbox | Backend Product Software Engineer | Remote - Mexico | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/banyansoftware/jobs/5278393007 | banyansoftware | Full Stack Software Engineer | United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/kayak/97e3e4d8-ce11-4354-83f8-87a249da7019 | kayak | Apply for KAYAK Product, Design & Tech Opportunities at the SWE Conference | Cambridge Office · Concord Office · Concord · United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/moovx/fcf498d2-d2a7-458b-955b-39d895e24e10 | moovx | Backend Developer | Remote - LATAM | posted: 2026-10-29
+- [ ] https://job-boards.eu.greenhouse.io/nuitee/jobs/5020333101 | nuitee | Software Engineer, Flights | Europe (Remote) | posted: 2026-10-29
+- [ ] https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc | brillio-2 | FullStack Developer - R01573043 | Dallas, Texas, United States | posted: 2026-10-29
+
 ## Processed
