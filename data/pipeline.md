@@ -1422,3 +1422,24 @@
 - [ ] https://jobs.ashbyhq.com/moovx/fcf498d2-d2a7-458b-955b-39d895e24e10 | moovx | Backend Developer | Remote - LATAM | posted: 2026-10-29
 - [ ] https://job-boards.eu.greenhouse.io/nuitee/jobs/5020333101 | nuitee | Software Engineer, Flights | Europe (Remote) | posted: 2026-10-29
 - [ ] https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc | brillio-2 | FullStack Developer - R01573043 | Dallas, Texas, United States | posted: 2026-10-29
+
+- [ ] https://careers.hellofresh.com/global/en/job/8334962?gh_jid=8334962 | hellofresh | WMS Software Engineer \[OPERATIONS TECHNOLOGY\] | Goodyear, AZ, United States; Phoenix, AZ, United States | posted: 2026-10-29
+- [ ] https://careers.airbnb.com/positions/8334926?gh_jid=8334926 | airbnb | Backend Engineer, Profile & Community | United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/msfcareers/jobs/5467352008 | msfcareers | AI Engineer | New York, New York, United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/exa/a755737f-2181-45aa-8f33-f828dd0b0592 | exa | Software Engineer, Web Crawling | San Francisco, California | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8912709002 | gitlab | Backend Engineer, Source Code: Repository Services (Ruby) | Remote, United Kingdom | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4725832006 | mthreerecruitingportal | DevOps Engineer/ Production Support Analyst | USA | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/litify/jobs/8334694 | litify | Software Engineer (Time & Billing) | Anywhere, USA | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8900284002 | alarmcom | Software Engineer | Needham, Massachusetts | posted: 2026-10-29
+- [ ] https://careers.hellofresh.com/global/en/job/8334705?gh_jid=8334705 | hellofresh | WMS Software Engineer \[OPERATIONS TECHNOLOGY\] | Aurora, IL, United States; Boulder, Colorado, United States | posted: 2026-10-29
+- [ ] https://careers.hellofresh.com/global/en/job/8313385?gh_jid=8313385 | hellofresh | WMS Software Engineer \[OPERATIONS TECHNOLOGY\] | New York, NY, United States; Newark, NJ, United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/nimblerobotics/jobs/4472953009 | nimblerobotics | Software Engineer, Nimble Brain | San Francisco, CA | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/northwoodspace/09fb47fc-39e0-4fca-9bff-5d19d43f5a44 | northwoodspace | Software Engineer, Platform | Torrance, CA · Washington D.C. · USA | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/masabi/c541127b-7c4e-4faf-8121-2b98ce841653 | masabi | Software Engineer (Remote - Contractor) | Poland · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/masabi/7af5a6a6-bdbc-4c05-9f8b-69e5d781b068 | masabi | Software Engineer (Remote - Contractor) | Romania · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/distyl/6fa13a3b-dd2e-409a-881b-6c8beb85055a | distyl | AI Engineer (French Speaking) | New York | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157 | exa | Software Engineer, Security | San Francisco, California | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/n8n/1af7a193-334d-4d5c-b45d-250122d9c3f1 | n8n | Agentic Engineering Platform Engineer | Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Moldova · Kosovo · Portugal · Poland · Serbia · Germany · Austria · Finland · Montenegro · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · Croatia · Spain · Greece · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/weave/d217b6b5-3ee1-4698-9168-50b4c3f73880 | weave | Front End Developer - Marketing | Mexico · Remote | posted: 2026-10-29
+- [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5018760101 | twinstream | Site Reliability Engineer (contract outside of IR35) | Remote · Remote | posted: 2026-10-29
+- [ ] https://jobs.lever.co/loftorbital/78ddafc0-4beb-44ef-949b-da6ac90d4fe6 | loftorbital | Backend Engineer - Oort | San Francisco, CA | posted: 2026-10-29
