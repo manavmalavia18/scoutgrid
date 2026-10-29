@@ -1443,3 +1443,13 @@
 - [ ] https://jobs.ashbyhq.com/weave/d217b6b5-3ee1-4698-9168-50b4c3f73880 | weave | Front End Developer - Marketing | Mexico · Remote | posted: 2026-10-29
 - [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5018760101 | twinstream | Site Reliability Engineer (contract outside of IR35) | Remote · Remote | posted: 2026-10-29
 - [ ] https://jobs.lever.co/loftorbital/78ddafc0-4beb-44ef-949b-da6ac90d4fe6 | loftorbital | Backend Engineer - Oort | San Francisco, CA | posted: 2026-10-29
+
+- [ ] https://a16z.com/about/jobs/?gh_jid=8087931003 | a16z | Software Engineer, Platform (Partner 16, Partner 18) | San Francisco, California, United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/troveo/52258ed4-4506-4aab-91bb-4101be08c54e | troveo | Front End Engineer | Remote | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/asg/jobs/8919112002 | asg | AI/ML Software Engineer | Remote · ASG | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5269079007 | chaosindustries | Software Engineer, Sensing Systems | El Segundo, California, United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6239057004 | neuehealth | Frontend Software Engineer | Remote · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/xero/09fa178b-b997-4f48-ae19-b8a61919cef0 | xero | Engineer - SRE | AU: Sydney (45 Clarence St) · AU: Melbourne: (260 Burwood Rd) · Melbourne · Australia · AU: Queensland Remote Worker · AU: Remote · AU: New South Wales Remote Worker · AU: Brisbane (243 Edward St) · Brisbane · AU: Victoria Remote Worker | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8318475 | boxinc | Software Engineer III, Kubernetes | Redwood City, CA, United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8922427002 | gitlab | Backend Engineer, Source Code: Repository Services (Ruby) | Remote, Canada | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/broccoli/a10c5891-7359-4f22-bdb1-d9e7fdc70bb2 | broccoli | Founding Software Engineer, AI Support Systems | Lehi, Utah | posted: 2026-10-28
