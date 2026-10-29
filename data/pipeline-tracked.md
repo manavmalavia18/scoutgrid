@@ -980,4 +980,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279 | Northrop Grumman | 2027 Associate Cyber Software Engineer - Pathways Program - Aurora CO | United States-Colorado-Aurora | posted: 2026-10-29
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/Simulation-Software-Engineer-Level-3-or-4_R10246993 | Northrop Grumman | Simulation Software Engineer Level 3 or 4 | United States-Virginia-Dulles | posted: 2026-10-29
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8912709002 | Gitlab | Backend Engineer, Source Code: Repository Services (Ruby) | Remote, United Kingdom | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/exa/a755737f-2181-45aa-8f33-f828dd0b0592 | Exa | Software Engineer, Web Crawling | San Francisco, California | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/northwoodspace/09fb47fc-39e0-4fca-9bff-5d19d43f5a44 | Northwood Space | Software Engineer, Platform | Torrance, CA · Washington D.C. · USA | posted: 2026-10-29
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Workforce-AI-Engineer_R-51785 | Bcbst | Workforce AI Engineer | USA, TN, Chattanooga, Remote | posted: 2026-10-29
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Applied-AI-Engineer-II_R74076 | Blue Origin | Applied AI Engineer II | 2 Locations | posted: 2026-10-29
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026513995-1 | Boeing | Associate and Experienced Software Engineers - Secure Network & Protocols | USA - Oklahoma City, OK | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/nimblerobotics/jobs/4472953009 | Nimble Robotics | Software Engineer, Nimble Brain | San Francisco, CA | posted: 2026-10-29
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-New-York-New-York/Site-Reliability-Engineer--Reuters_JREQ204669 | Thomson Reuters | Site Reliability Engineer, Reuters | United States of America New York New York | posted: 2026-10-29
+- [ ] https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Software-Engineer_2026-24389 | Schweitzer Engineering Laboratories | Software Engineer | 2 Locations
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010 | Citi | Junior Application Developer | Tampa Florida United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/maintainx/d1dfc7d0-226a-4206-9c4d-4f50753b1341 | MaintainX | Full-Stack Developer - IAM | San Francisco | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/maintainx/fe3f938a-3d39-41df-b0ed-1510a6fb0ef1 | MaintainX | Site Reliability Engineer | Toronto · Montreal · Canada · Remote | posted: 2026-10-29
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Full-Stack-Developer_R0252593 | Booz Allen Hamilton | Full Stack Developer | Atlanta, GA | posted: 2026-10-29
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Specs-Lenses--Level-5_R0046666-2 | Snap Inc. | Software Engineer, Lenses Platform C++, Level 5 | Los Angeles, California | posted: 2026-10-29
+- [ ] https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108 | Morningstar | Associate Software Engineer (Central Tech AI) | Chicago | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/pointfive/7b694de3-94b3-4c7b-9b6b-b0b4a10ad80a | PointFive | AI Engineer, Support Automation | New York | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8900284002 | Alarm.com | Software Engineer | Needham, Massachusetts | posted: 2026-10-29
+- [ ] https://msk.wd108.myworkdayjobs.com/mskcc_careers_primary/job/New-York-NY/Bioinformatics-Software-Engineer-II--Integrated-Genomics_94268-1 | Memorial Sloan Kettering Cancer Center | Software Engineer II, Integrated Genomics | New York, NY | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/coinflow/f367c81e-aa74-4e09-8838-a9816178ae48 | Coinflow | Software Engineer | Chicago | posted: 2026-10-29
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-2---Space-AHT_R10248868 | Northrop Grumman | Software Engineer - Level 2 or 3 - Space AHT | United States-Alabama-Huntsville | posted: 2026-10-29
+
 ## Processed
