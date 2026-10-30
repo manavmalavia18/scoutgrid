@@ -1010,4 +1010,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://a16z.com/about/jobs/?gh_jid=8087931003 | Andreessen Horowitz | Software Engineer, Platform (Partner 16, Partner 18) | San Francisco, California, United States | posted: 2026-10-29 | trust: 85 company_domain_mismatch
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---Integration-Platform--US-Federal-_JR-0105495 | Workday | Software Development Engineer - Integration Platform (US Federal) | USA.VA.Reston | posted: 2026-10-30
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Augmented-Reality--Level-4_R0047390-1 | Snap Inc. | Software Engineer, Augmented Reality, Level 4 | 3 Locations | posted: 2026-10-29
+
 ## Processed
