@@ -1456,3 +1456,7 @@
 
 - [ ] https://jobs.ashbyhq.com/diagrid/06fdf2f3-fff0-4628-b58c-2c07d408e656 | diagrid | Fullstack Software Engineer | Remote India · Remote Bangalore · Bangalore · India | posted: 2026-10-30
 - [ ] https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003 | flyzipline | Software Engineer, Production Test | South San Francisco, California, USA | posted: 2026-10-30
+
+- [ ] https://jobs.ashbyhq.com/patrianna/6c4bc413-fd91-49a7-8886-c53ce23decd9 | patrianna | AI Full Stack Engineer | Poland · Georgia · Bulgaria · Romania · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/patrianna/e173f6ec-69cc-473e-bbb1-ce66d16a6985 | patrianna | AI DevOps and SRE Specialist | Poland · Georgia · Bulgaria · Romania · Remote | posted: 2026-10-30
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007 | andurilindustries | Software Engineer, ERP Applications & Development | Costa Mesa, California, United States | posted: 2026-10-29
