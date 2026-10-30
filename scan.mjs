@@ -49,6 +49,8 @@ import { withPipelineLock } from './pipeline-lock.mjs';
 import { flagValue, hasFlag } from './lib/cli-flags.mjs';
 import { withPortalHealthLock } from './portal-health-lock.mjs';
 import { compileKeyword, buildTitleFilter } from './lib/title-filter.mjs';
+import { groundWorkdayPostedDates } from './lib/workday-date-ground.mjs';
+import { fetchWorkdayJobPostedAt } from './providers/workday.mjs';
 
 export { compileKeyword, buildTitleFilter };
 
@@ -2365,6 +2367,21 @@ async function main() {
     offer.fingerprint = fingerprintText(offer.description);
   }
   const crossListings = findCrossListings(verifiedOffers, loadFingerprintHistory());
+
+  // 5.8. Ground Workday offers' list-level postedAt (unreliable, resets to
+  // "Posted Today" on every re-crawl — see lib/workday-date-ground.mjs)
+  // against the real job-detail date before it's written to scan-history.
+  // Scoped to brand-new offers only (this is the "added" write path) — not
+  // every Workday job on every 15-minute cycle, which would be one extra
+  // HTTP request per Workday posting across the entire tracked-company
+  // universe. Confirmed live 2026-10-30: a genuinely 15-day-old Zoom
+  // posting showed as "just now" on the dashboard because of exactly this.
+  if (verifiedOffers.length > 0) {
+    const { grounded, attempted } = await groundWorkdayPostedDates(verifiedOffers, fetchWorkdayJobPostedAt);
+    if (attempted > 0) {
+      console.log(`Grounded ${grounded}/${attempted} new Workday offer(s) against their real job-detail posted date.`);
+    }
+  }
 
   // 6. Write results
   if (!dryRun && verifiedOffers.length > 0) {
