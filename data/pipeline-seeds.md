@@ -1317,4 +1317,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.eu.greenhouse.io/nuitee/jobs/5020333101 | nuitee | Software Engineer, Flights | Europe (Remote) | posted: 2026-10-29
 - [ ] https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc | brillio-2 | FullStack Developer - R01573043 | Dallas, Texas, United States | posted: 2026-10-29
 
+- [ ] https://a16z.com/about/jobs/?gh_jid=8087931003 | a16z | Software Engineer, Platform (Partner 16, Partner 18) | San Francisco, California, United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/troveo/52258ed4-4506-4aab-91bb-4101be08c54e | troveo | Front End Engineer | Remote | posted: 2026-10-29
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007 | andurilindustries | Software Engineer, ERP Applications & Development | Costa Mesa, California, United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/asg/jobs/8919112002 | asg | AI/ML Software Engineer | Remote · ASG | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5269079007 | chaosindustries | Software Engineer, Sensing Systems | El Segundo, California, United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6239057004 | neuehealth | Frontend Software Engineer | Remote · Remote | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/xero/09fa178b-b997-4f48-ae19-b8a61919cef0 | xero | Engineer - SRE | AU: Sydney (45 Clarence St) · AU: Melbourne: (260 Burwood Rd) · Melbourne · Australia · AU: Queensland Remote Worker · AU: Remote · AU: New South Wales Remote Worker · AU: Brisbane (243 Edward St) · Brisbane · AU: Victoria Remote Worker | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8318475 | boxinc | Software Engineer III, Kubernetes | Redwood City, CA, United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8922427002 | gitlab | Backend Engineer, Source Code: Repository Services (Ruby) | Remote, Canada | posted: 2026-10-29
+- [ ] https://careers.hellofresh.com/global/en/job/8334962?gh_jid=8334962 | hellofresh | WMS Software Engineer \[OPERATIONS TECHNOLOGY\] | Goodyear, AZ, United States; Phoenix, AZ, United States | posted: 2026-10-29
+- [ ] https://careers.airbnb.com/positions/8334926?gh_jid=8334926 | airbnb | Backend Engineer, Profile & Community | United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/msfcareers/jobs/5467352008 | msfcareers | AI Engineer | New York, New York, United States | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/exa/a755737f-2181-45aa-8f33-f828dd0b0592 | exa | Software Engineer, Web Crawling | San Francisco, California | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8912709002 | gitlab | Backend Engineer, Source Code: Repository Services (Ruby) | Remote, United Kingdom | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4725832006 | mthreerecruitingportal | DevOps Engineer/ Production Support Analyst | USA | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/litify/jobs/8334694 | litify | Software Engineer (Time & Billing) | Anywhere, USA | posted: 2026-10-29
+- [ ] https://jobs.lever.co/loftorbital/78ddafc0-4beb-44ef-949b-da6ac90d4fe6 | loftorbital | Backend Engineer - Oort | San Francisco, CA | posted: 2026-10-29
+- [ ] https://jobs.ashbyhq.com/broccoli/a10c5891-7359-4f22-bdb1-d9e7fdc70bb2 | broccoli | Founding Software Engineer, AI Support Systems | Lehi, Utah | posted: 2026-10-28
+
 ## Processed
