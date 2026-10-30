@@ -938,4 +938,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Full-Stack-Developer_R0252593 | bah | Full Stack Developer | Atlanta, GA | posted: 2026-10-29
 - [ ] https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1 | argonne | Postbaccalaureate Appointee - Robotics Software Developer, Rapid Prototyping Laboratory | Lemont, IL USA | posted: 2026-10-29
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---Integration-Platform--US-Federal-_JR-0105495 | workday | Software Development Engineer - Integration Platform (US Federal) | USA.VA.Reston | posted: 2026-10-30
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-2--Java-_2026-0022330 | usbank | Software Engineer 2 (Java) | 2 Locations | posted: 2026-10-30
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Augmented-Reality--Level-4_R0047390-1 | snapchat | Software Engineer, Augmented Reality, Level 4 | 3 Locations | posted: 2026-10-30
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure--Level-5_R0046870-2 | snapchat | Software Engineer, ML Infrastructure, ML Data, Level 5 | 3 Locations | posted: 2026-10-30
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Augmented-Reality--Level-4_R0047390 | snapchat | Software Engineer, Augmented Reality, Level 4 | 3 Locations | posted: 2026-10-30
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure--Level-5_R0046870-1 | snapchat | Software Engineer, ML Infrastructure, ML Data, Level 5 | 3 Locations | posted: 2026-10-30
+
 ## Processed
