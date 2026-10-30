@@ -1001,4 +1001,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/coinflow/f367c81e-aa74-4e09-8838-a9816178ae48 | Coinflow | Software Engineer | Chicago | posted: 2026-10-29
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-2---Space-AHT_R10248868 | Northrop Grumman | Software Engineer - Level 2 or 3 - Space AHT | United States-Alabama-Huntsville | posted: 2026-10-29
 
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8318475 | Boxinc | Software Engineer III, Kubernetes | Redwood City, CA, United States | posted: 2026-10-29
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR362119 | Salesforce | Software Development Engineer in Test - SMTS | 3 Locations | posted: 2026-10-30
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-2--Java-_2026-0022330 | U.S. Bank | Software Engineer 2 (Java) | 2 Locations | posted: 2026-10-30
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Site-Reliability-Engineer_J290565 | Highmark Health | Site Reliability Engineer | 51 Locations | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5269079007 | CHAOS Industries | Software Engineer, Sensing Systems | El Segundo, California, United States | posted: 2026-10-29
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure--Level-5_R0046870-1 | Snap Inc. | Software Engineer, ML Infrastructure, ML Data, Level 5 | 3 Locations | posted: 2026-10-30
+- [ ] https://a16z.com/about/jobs/?gh_jid=8087931003 | Andreessen Horowitz | Software Engineer, Platform (Partner 16, Partner 18) | San Francisco, California, United States | posted: 2026-10-29 | trust: 85 company_domain_mismatch
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---Integration-Platform--US-Federal-_JR-0105495 | Workday | Software Development Engineer - Integration Platform (US Federal) | USA.VA.Reston | posted: 2026-10-30
+
 ## Processed
