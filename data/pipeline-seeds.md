@@ -1336,4 +1336,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/loftorbital/78ddafc0-4beb-44ef-949b-da6ac90d4fe6 | loftorbital | Backend Engineer - Oort | San Francisco, CA | posted: 2026-10-29
 - [ ] https://jobs.ashbyhq.com/broccoli/a10c5891-7359-4f22-bdb1-d9e7fdc70bb2 | broccoli | Founding Software Engineer, AI Support Systems | Lehi, Utah | posted: 2026-10-28
 
+- [ ] https://jobs.ashbyhq.com/patrianna/6c4bc413-fd91-49a7-8886-c53ce23decd9 | patrianna | AI Full Stack Engineer | Poland · Georgia · Bulgaria · Romania · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/patrianna/e173f6ec-69cc-473e-bbb1-ce66d16a6985 | patrianna | AI DevOps and SRE Specialist | Poland · Georgia · Bulgaria · Romania · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/diagrid/06fdf2f3-fff0-4628-b58c-2c07d408e656 | diagrid | Fullstack Software Engineer | Remote India · Remote Bangalore · Bangalore · India | posted: 2026-10-30
+- [ ] https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003 | flyzipline | Software Engineer, Production Test | South San Francisco, California, USA | posted: 2026-10-30
+
 ## Processed
