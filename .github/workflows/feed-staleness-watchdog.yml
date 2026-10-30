@@ -1,0 +1,40 @@
+name: Feed staleness watchdog (self-healing retriggers)
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: feed-staleness-watchdog
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # Checks every Tailscale-exit-node-dependent feed (hc, hc-data,
+      # jobright, nextplay, linkedin — see lib/feed-staleness.mjs) straight
+      # from the checked-out repo and automatically retriggers any
+      # workflow whose output has gone stale beyond its threshold. Built
+      # 2026-10-30 to replace manually noticing a stale feed and running
+      # `gh workflow run` by hand — the recurring root cause (Mac sleeping
+      # on battery mid-run, killing the exit-node connection) was fixed
+      # separately via `pmset -b sleep 0`, but this stays as a safety net
+      # for any other cause of a stuck/cancelled run. Runs on GitHub's own
+      # infra — no Tailscale connection needed for the CHECK itself, only
+      # for whatever it may retrigger.
+      - name: Check feed staleness and retrigger stuck workflows
+        run: node check-feed-staleness.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
