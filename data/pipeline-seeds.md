@@ -1364,4 +1364,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mapbox/2427850f-01c1-442d-b865-0f0238c94c44 | mapbox | Software Development Engineer III, Maps API | Mapbox Helsinki · Remote | posted: 2026-10-30
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8041815003 | affirm | Software Engineer II, Backend (Payments) | Remote UK | posted: 2026-10-30
 
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002 | pathrobotics | Software Engineer, C++ | Columbus, Ohio | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/motherduck/111fd8f5-a8ad-4aa4-937f-79da7c2184db | motherduck | Software Engineer - Database | New York City | posted: 2026-10-30
+- [ ] https://www.optiver.com/join-us/jobs/8925970002/?gh_jid=8925970002 | optiverus | Software Engineer | Austin, Texas, United States | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/polygon-labs/bd4f73d1-08b5-410a-9c7a-34a2f65ac45a | polygon-labs | Platform Engineer | EMEA - Remote | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8042399003 | affirm | Software Engineer II, Full Stack (Card Pre-Swipe Experience) | Remote Canada | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101 | horizon3ai | WebApp Offensive Security Software Engineer | US, Remote | posted: 2026-10-30
+- [ ] https://jobs.lever.co/great-gray-group/27f4e048-397b-4408-8735-1e630357a610 | great-gray-group | Legal & Compliance Extern (Unpaid) - Current JD or LLM Candidates Only | Wilmington, DE; Boston, MA | posted: 2026-10-30
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8925919002?gh_jid=8925919002 | pathrobotics | Machine Learning Engineer, Perception | Columbus, Ohio or Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/fluidstack/10215006-5bb7-423c-81be-2e41b84eff72 | fluidstack | Platform Engineer | U.S. Remote · New York, NY · New York · United States · San Francisco, CA · San Francsisco · US · Austin, TX · Austin · Seattle, WA · Seattle | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/ekumenlabs/0b7bf4a2-36df-4dda-bb7f-089ddd22aa43 | ekumenlabs | AR/VR Software Engineer | LATAM (Remote) | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4749545005 | getbuilt | Innovation Software Engineer 1 | Nashville, Tennessee, United States | posted: 2026-10-30
+
 ## Processed
