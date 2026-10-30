@@ -1489,3 +1489,12 @@
 - [ ] https://job-boards.greenhouse.io/bloomerang/jobs/4749457005 | bloomerang | Software Engineer (PDLC Tooling + Automation) | Remote, US | posted: 2026-10-30
 - [ ] https://job-boards.greenhouse.io/radixexperienced/jobs/8857316002 | radixexperienced | AI Engineer | Chicago, Illinois, United States; New York, New York, United States | posted: 2026-10-30
 - [ ] https://jobs.ashbyhq.com/centreforeffectivealtruism/ef7d451f-d44c-4a14-95ee-d9e1cea065ad | centreforeffectivealtruism | Software Engineer | Remote - Global | posted: 2026-10-30
+
+- [ ] https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7 | handshake | Software Engineer I, Promotions | San Francisco, CA | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c | freed | ML Engineer | San Francisco | posted: 2026-10-30
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002 | pathrobotics | Software Engineer, C++ | Columbus, Ohio | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/motherduck/111fd8f5-a8ad-4aa4-937f-79da7c2184db | motherduck | Software Engineer - Database | New York City | posted: 2026-10-30
+- [ ] https://www.optiver.com/join-us/jobs/8925970002/?gh_jid=8925970002 | optiverus | Software Engineer | Austin, Texas, United States | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/polygon-labs/bd4f73d1-08b5-410a-9c7a-34a2f65ac45a | polygon-labs | Platform Engineer | EMEA - Remote | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8042399003 | affirm | Software Engineer II, Full Stack (Card Pre-Swipe Experience) | Remote Canada | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101 | horizon3ai | WebApp Offensive Security Software Engineer | US, Remote | posted: 2026-10-30
