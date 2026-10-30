@@ -1453,3 +1453,6 @@
 - [ ] https://job-boards.greenhouse.io/boxinc/jobs/8318475 | boxinc | Software Engineer III, Kubernetes | Redwood City, CA, United States | posted: 2026-10-29
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8922427002 | gitlab | Backend Engineer, Source Code: Repository Services (Ruby) | Remote, Canada | posted: 2026-10-29
 - [ ] https://jobs.ashbyhq.com/broccoli/a10c5891-7359-4f22-bdb1-d9e7fdc70bb2 | broccoli | Founding Software Engineer, AI Support Systems | Lehi, Utah | posted: 2026-10-28
+
+- [ ] https://jobs.ashbyhq.com/diagrid/06fdf2f3-fff0-4628-b58c-2c07d408e656 | diagrid | Fullstack Software Engineer | Remote India · Remote Bangalore · Bangalore · India | posted: 2026-10-30
+- [ ] https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003 | flyzipline | Software Engineer, Production Test | South San Francisco, California, USA | posted: 2026-10-30
