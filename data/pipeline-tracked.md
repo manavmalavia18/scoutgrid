@@ -1056,4 +1056,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/bloomerang/jobs/4749457005 | Bloomerang | Software Engineer (PDLC Tooling + Automation) | Remote, US | posted: 2026-10-30
 - [ ] https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-AI-Engineer---AI-Verticals_R19444-1 | Zoom | AI Engineer - AI Verticals | 2 Locations | posted: 2026-10-30
 
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8925919002?gh_jid=8925919002 | Pathrobotics | Machine Learning Engineer, Perception | Columbus, Ohio or Remote | posted: 2026-10-30
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002 | Pathrobotics | Software Engineer, C++ | Columbus, Ohio | posted: 2026-10-30
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Software-Engineer--San-Jose--California-_1215655-2 | Hewlett Packard Enterprise | Cloud Software Engineer (San Jose, California) | 6 Locations | posted: 2026-10-30
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/San-Jose-California-United-States-of-America/Cloud-Software-Engineer--San-Jose--California-_1215655-1 | Hpe | Cloud Software Engineer (San Jose, California) | 6 Locations | posted: 2026-10-30
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Dallas/Software-Engineer--Full-Stack---AI-Native-Development--MTS-_JR365146 | Salesforce | Software Engineer, Full Stack & AI-Native Development (MTS) | Texas - Dallas | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/fluidstack/10215006-5bb7-423c-81be-2e41b84eff72 | Fluidstack | Platform Engineer | U.S. Remote · New York, NY · New York · United States · San Francisco, CA · San Francsisco · US · Austin, TX · Austin · Seattle, WA · Seattle | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8042399003 | Affirm | Software Engineer II, Full Stack (Card Pre-Swipe Experience) | Remote Canada | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101 | Horizon3.ai | WebApp Offensive Security Software Engineer | US, Remote | posted: 2026-10-30
+- [ ] https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/New-York-NY/Machine-Learning-Engineer_330832-2 | S&P Global Inc. | Machine Learning Engineer | New York, NY | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/MotherDuck/111fd8f5-a8ad-4aa4-937f-79da7c2184db | Motherduck | Software Engineer - Database | New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c | Freed | ML Engineer | San Francisco | posted: 2026-10-30
+
 ## Processed
