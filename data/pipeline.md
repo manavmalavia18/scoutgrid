@@ -1473,3 +1473,19 @@
 - [ ] https://jobs.ashbyhq.com/mapbox/f3e54856-4be3-48bf-b62a-2a305a1a631f | mapbox | Software Development Engineer III, Maps API | Mapbox UK · Remote | posted: 2026-10-30
 - [ ] https://jobs.ashbyhq.com/mapbox/2427850f-01c1-442d-b865-0f0238c94c44 | mapbox | Software Development Engineer III, Maps API | Mapbox Helsinki · Remote | posted: 2026-10-30
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8041815003 | affirm | Software Engineer II, Backend (Payments) | Remote UK | posted: 2026-10-30
+
+- [ ] https://jobs.lever.co/great-gray-group/27f4e048-397b-4408-8735-1e630357a610 | great-gray-group | Legal & Compliance Extern (Unpaid) - Current JD or LLM Candidates Only | Wilmington, DE; Boston, MA | posted: 2026-10-30
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8925919002?gh_jid=8925919002 | pathrobotics | Machine Learning Engineer, Perception | Columbus, Ohio or Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/fluidstack/10215006-5bb7-423c-81be-2e41b84eff72 | fluidstack | Platform Engineer | U.S. Remote · New York, NY · New York · United States · San Francisco, CA · San Francsisco · US · Austin, TX · Austin · Seattle, WA · Seattle | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/ekumenlabs/0b7bf4a2-36df-4dda-bb7f-089ddd22aa43 | ekumenlabs | AR/VR Software Engineer | LATAM (Remote) | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4749545005 | getbuilt | Innovation Software Engineer 1 | Nashville, Tennessee, United States | posted: 2026-10-30
+- [ ] https://careers.roblox.com/jobs/8304210?gh_jid=8304210 | roblox | Software Engineer, Discovery UX | San Mateo, CA, United States | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/e2f4b767-6e66-43fc-98bb-e2ebab6e5b9a | hadrian-automation | Software Engineer, Identity | Los Angeles, CA | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/g2i/72288763-ecb2-430b-8ec2-57a1ad35446b | g2i | Remote Full Stack Developer - G2i Talent Pool | Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/g2i/7d630888-4aac-4060-9dfb-bd544ff572f8 | g2i | AI Engineer / LLM Engineer - Talent Pool | Remote | posted: 2026-10-30
+- [ ] https://jobs.lever.co/foodsmart/c7bfeca7-7d45-472d-ba85-4461a261e129 | foodsmart | DevOps Engineer | Remote (US) | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/niantic-spatial/038011fd-5fe3-4b7f-863c-919b2af28597 | niantic-spatial | Software Engineer, Infrastructure | San Francisco, CA | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8924095002 | alarmcom | Software Engineer II | Needham, Massachusetts | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/bloomerang/jobs/4749457005 | bloomerang | Software Engineer (PDLC Tooling + Automation) | Remote, US | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/radixexperienced/jobs/8857316002 | radixexperienced | AI Engineer | Chicago, Illinois, United States; New York, New York, United States | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/centreforeffectivealtruism/ef7d451f-d44c-4a14-95ee-d9e1cea065ad | centreforeffectivealtruism | Software Engineer | Remote - Global | posted: 2026-10-30
