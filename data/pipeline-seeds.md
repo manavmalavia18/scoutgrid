@@ -1341,4 +1341,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/diagrid/06fdf2f3-fff0-4628-b58c-2c07d408e656 | diagrid | Fullstack Software Engineer | Remote India · Remote Bangalore · Bangalore · India | posted: 2026-10-30
 - [ ] https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003 | flyzipline | Software Engineer, Production Test | South San Francisco, California, USA | posted: 2026-10-30
 
+- [ ] https://careers.roblox.com/jobs/8304210?gh_jid=8304210 | roblox | Software Engineer, Discovery UX | San Mateo, CA, United States | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/e2f4b767-6e66-43fc-98bb-e2ebab6e5b9a | hadrian-automation | Software Engineer, Identity | Los Angeles, CA | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/g2i/72288763-ecb2-430b-8ec2-57a1ad35446b | g2i | Remote Full Stack Developer - G2i Talent Pool | Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/g2i/7d630888-4aac-4060-9dfb-bd544ff572f8 | g2i | AI Engineer / LLM Engineer - Talent Pool | Remote | posted: 2026-10-30
+- [ ] https://jobs.lever.co/foodsmart/c7bfeca7-7d45-472d-ba85-4461a261e129 | foodsmart | DevOps Engineer | Remote (US) | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/niantic-spatial/038011fd-5fe3-4b7f-863c-919b2af28597 | niantic-spatial | Software Engineer, Infrastructure | San Francisco, CA | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/alarmcom/jobs/8924095002 | alarmcom | Software Engineer II | Needham, Massachusetts | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/bloomerang/jobs/4749457005 | bloomerang | Software Engineer (PDLC Tooling + Automation) | Remote, US | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/radixexperienced/jobs/8857316002 | radixexperienced | AI Engineer | Chicago, Illinois, United States; New York, New York, United States | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8925237002 | gomotive | Software Engineer - Monitoring | Hybrid - Seattle | posted: 2026-10-30
+- [ ] https://jobs.lever.co/loftorbital/a2169637-9e0b-4b76-b128-ca4b93bd894f | loftorbital | Ground Software Engineer - Core | San Francisco, CA | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/latitude/jobs/8336818 | latitude | Software Engineer II - Offboard Python Application | Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mirage/08ca24dc-4527-4d40-9952-723474b20ce3 | mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mirage/2a113ad8-45b6-4c9e-aa01-3c3e2b884321 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mirage/d8528add-5d9f-4cac-9b0a-caf7c99d48ca | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/centreforeffectivealtruism/ef7d451f-d44c-4a14-95ee-d9e1cea065ad | centreforeffectivealtruism | Software Engineer | Remote - Global | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/the-flex/9b05b7f9-76b6-472b-86d8-64b4e734f299 | the-flex | Software Engineer - Algeria | Algiers · Bordj Bou Arréridj · Algeria · Skikda · Khenchela · Aflou · Ouargla · Tlemcen · Oran · Djelfa · El Aricha · El Kantara · Saïda · El Tarf · Mascara · Béni Abbès · Médéa · Laghouat · Chlef · M'Sila · Djanet · Béchar · Adrar · Messaad · Oum El Bouaghi · Barika · Aïn Témouchent · Tébessa · Aïn Defla · El Abiodh Sidi Cheikh · Aïn Oussera · Souk Ahras · Béjaïa · Jijel · Boumerdès · Sidi Bel Abbès · Touggourt · Tissemsilt · In Salah · Timimoun · Bir El Ater · Tizi Ouzou · Batna · Mila · Bouira · Bou Saâda · Biskra · Constantine · Ksar Chellala · El Oued · Ghardaïa · Ouled Djellal · Bordj Badji Mokhtar · Relizane · Tiaret · Tindouf · El M'Ghair · Guelma · Illizi · El Meniaa · Naâma · Anaba · El Bayadh · Sétif · Ksar El Boukhari · Blida · Tamanrasset · Tipaza · Mostaganem · In Guezzam · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/oyster/4f5d4a8a-59a8-4696-b499-c01e740795c1 | oyster | Software Engineer (Ruby on Rails, APIs) | EMEA · Remote | posted: 2026-10-30
+- [ ] https://jobs.dropbox.com/listing/7752226?gh_jid=7752226 | dropbox | Backend Product Software Engineer | Remote - Mexico | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mapbox/f3e54856-4be3-48bf-b62a-2a305a1a631f | mapbox | Software Development Engineer III, Maps API | Mapbox UK · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mapbox/2427850f-01c1-442d-b865-0f0238c94c44 | mapbox | Software Development Engineer III, Maps API | Mapbox Helsinki · Remote | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8041815003 | affirm | Software Engineer II, Backend (Payments) | Remote UK | posted: 2026-10-30
+
 ## Processed
