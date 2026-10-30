@@ -1031,4 +1031,29 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer_R19796-1 | Zoom | Machine Learning Engineer | Seattle (WA)
 - [ ] https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Software-Engineer_R19749-1 | Zoom | Software Engineer | Remote (US)
 
+- [ ] https://jobs.ashbyhq.com/mirage/08ca24dc-4527-4d40-9952-723474b20ce3 | Mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/whoop/29931bc1-508f-4b41-ad6a-aab97e4d8958 | Whoop | Software Engineer II (Fullstack, Business Systems) | Boston, MA | posted: 2026-10-30
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Burlington-Massachusetts/Cloud-Platform-Engineer---AuthN-Z_R-794567 | Statestreet | Cloud Platform Engineer - AuthN/Z | Burlington Massachusetts | posted: 2026-10-30
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/AI-Platform-Engineer_R-1101077-1 | Verizon | AI Platform Engineer | 7 Locations | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/latitude/jobs/8336818 | Latitude AI | Software Engineer II - Offboard Python Application | Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote | posted: 2026-10-30
+- [ ] https://jobs.smartrecruiters.com/Eurofins/744000158826904 | Eurofins | AI/ML Engineer | Groton, CT, United States | posted: 2026-10-30
+- [ ] https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Platform-Engineer-II_R202683983 | Cox Enterprises | Platform Engineer II | Austin TX | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/e2f4b767-6e66-43fc-98bb-e2ebab6e5b9a | Hadrian | Software Engineer, Identity | Los Angeles, CA | posted: 2026-10-30
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer---Career_J00179360 | Equifax | Site Reliability Engineer - Career | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-30
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Software-Engineer---Career_J00179346-1 | Equifax | Software Engineer - Career | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-30
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Software-Developer---Career_J00179354 | Equifax | Software Developer - Career | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-30
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Software-Engineer---Intermediate_J00179350 | Equifax | Software Engineer - Intermediate | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-30
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356 | RTX | Entry-Level Software Developer - Application Support & Sustainment (Remote) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | posted: 2026-10-30
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-Stack-Engineer-4--AI-Operations-MLX-Group-_R1004789-1 | Capital One | Full Stack Engineer 4 (AI Operations/MLX Group) | 3 Locations | posted: 2026-10-30
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/NY7---50-Hudson-Yards-New-York/Java-Developer--Software-Engineering--Associate--Regulatory-Reporting_R267007 | BlackRock | Java Developer, Software Engineering, Associate– Regulatory Reporting | NY7 - 50 Hudson Yards, New York | posted: 2026-10-30
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Illumio-Zero-Trust-Platform-Engineer_R0252547 | Booz Allen Hamilton | Illumio Zero Trust Platform Engineer | 4 Locations | posted: 2026-10-30
+- [ ] https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/New-York-NY/Software-Developer_330241-2 | S&P Global Inc. | Software Developer | New York, NY | posted: 2026-10-30
+- [ ] https://elevancehealth.wd1.myworkdayjobs.com/ant/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/AI-Native-Software-Engineer_JR211670 | Elevance Health | AI-Native Software Engineer | 5 Locations | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/niantic-spatial/038011fd-5fe3-4b7f-863c-919b2af28597 | Niantic Spatial | Software Engineer, Infrastructure | San Francisco, CA | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/hearst/jobs/4466214009 | Black Book | Application Developer | Carmel, IN, United States; Durham, NC, United States | posted: 2026-10-30
+- [ ] https://jobs.lever.co/loftorbital/a2169637-9e0b-4b76-b128-ca4b93bd894f | Loft Orbital | Ground Software Engineer - Core | San Francisco, CA | posted: 2026-10-30
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0109889 | Workday | Software Development Engineer | USA, CA, Pleasanton | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/bloomerang/jobs/4749457005 | Bloomerang | Software Engineer (PDLC Tooling + Automation) | Remote, US | posted: 2026-10-30
+- [ ] https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-AI-Engineer---AI-Verticals_R19444-1 | Zoom | AI Engineer - AI Verticals | 2 Locations | posted: 2026-10-30
+
 ## Processed
