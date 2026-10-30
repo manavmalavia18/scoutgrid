@@ -1012,4 +1012,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Augmented-Reality--Level-4_R0047390-1 | Snap Inc. | Software Engineer, Augmented Reality, Level 4 | 3 Locations | posted: 2026-10-29
 
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8041815003 | Affirm | Software Engineer II, Backend (Payments) | Remote UK | posted: 2026-10-30
+- [ ] https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/Software-Engineer--Professional-I_JR103835 | Zebra Technologies | Software Engineer, Professional I | Holtsville, New York | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/expensify/096ff7eb-2a55-4867-b0d1-b9c4743dc576 | Expensify | Full Stack Engineer | US Based - Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/kayak/97e3e4d8-ce11-4354-83f8-87a249da7019 | KAYAK | Apply for KAYAK Product, Design & Tech Opportunities at the SWE Conference | Cambridge Office · Concord Office · Concord · United States | posted: 2026-10-29
+- [ ] https://job-boards.greenhouse.io/litify/jobs/8334694 | Litify | Software Engineer (Time & Billing) | Anywhere, USA | posted: 2026-10-29
+- [ ] https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389 | DraftKings | Software Engineer (December 2026 Grads) | Boston, MA | posted: 2026-10-29
+- [ ] https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Engineer_0015013 | CCC Intelligent Solutions | AI Engineer | Chicago (Green St), IL | posted: 2026-10-29
+- [ ] https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Remote---Austin-Metro/Full-Stack-Software-Engineer_2026-9108 | Dimensional Fund Advisors | Full Stack Software Engineer | 2 Locations | posted: 2026-10-29
+- [ ] https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Applied-AI-Engineer_32367 | FICO | Applied AI Engineer | Work from Home, United States | posted: 2026-10-29
+- [ ] https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Software-Engineering---Data-Engineer--Python---Cloud-Databases-_32363 | FICO | Software Engineering – Data Engineer (Python & Cloud Databases) | Work from Home, United States | posted: 2026-10-29
+- [ ] https://mwe.wd5.myworkdayjobs.com/mwe_careers/job/Chicago/Applied-AI-Solutions-Analyst_R-100982 | McDermott Will & Emery | Applied AI Solutions Analyst | 17 Locations | posted: 2026-10-29
+- [ ] https://volarisgroup.wd3.myworkdayjobs.com/clickdimensions/job/Remote-Ireland/Junior-Software-Developer_R71306 | ClickDimensions | Junior Software Developer | Remote, Ireland | posted: 2026-10-29
+- [ ] https://volarisgroup.wd3.myworkdayjobs.com/clickdimensions/job/United-States---Atlanta-Peachtree-Dunwoody-Rd-GA/DevOps-Engineer_R72031 | ClickDimensions | DevOps Engineer | United States - Atlanta, Peachtree Dunwoody Rd, GA | posted: 2026-10-29
+- [ ] https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/Remote-Ireland/Junior-Software-Developer_R71306-1 | Volaris Group | Junior Software Developer | Remote, Ireland | posted: 2026-10-29
+- [ ] https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---Atlanta-Peachtree-Dunwoody-Rd-GA/DevOps-Engineer_R72031-1 | Volaris Group | DevOps Engineer | United States - Atlanta, Peachtree Dunwoody Rd, GA | posted: 2026-10-29
+- [ ] https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1 | Zoom | AI Engineer | Seattle (WA)
+- [ ] https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer_R19796-1 | Zoom | Machine Learning Engineer | Seattle (WA)
+- [ ] https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Software-Engineer_R19749-1 | Zoom | Software Engineer | Remote (US)
+
 ## Processed
