@@ -1460,3 +1460,16 @@
 - [ ] https://jobs.ashbyhq.com/patrianna/6c4bc413-fd91-49a7-8886-c53ce23decd9 | patrianna | AI Full Stack Engineer | Poland · Georgia · Bulgaria · Romania · Remote | posted: 2026-10-30
 - [ ] https://jobs.ashbyhq.com/patrianna/e173f6ec-69cc-473e-bbb1-ce66d16a6985 | patrianna | AI DevOps and SRE Specialist | Poland · Georgia · Bulgaria · Romania · Remote | posted: 2026-10-30
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007 | andurilindustries | Software Engineer, ERP Applications & Development | Costa Mesa, California, United States | posted: 2026-10-29
+
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8925237002 | gomotive | Software Engineer - Monitoring | Hybrid - Seattle | posted: 2026-10-30
+- [ ] https://jobs.lever.co/loftorbital/a2169637-9e0b-4b76-b128-ca4b93bd894f | loftorbital | Ground Software Engineer - Core | San Francisco, CA | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/latitude/jobs/8336818 | latitude | Software Engineer II - Offboard Python Application | Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mirage/08ca24dc-4527-4d40-9952-723474b20ce3 | mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mirage/2a113ad8-45b6-4c9e-aa01-3c3e2b884321 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mirage/d8528add-5d9f-4cac-9b0a-caf7c99d48ca | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/the-flex/9b05b7f9-76b6-472b-86d8-64b4e734f299 | the-flex | Software Engineer - Algeria | Algiers · Bordj Bou Arréridj · Algeria · Skikda · Khenchela · Aflou · Ouargla · Tlemcen · Oran · Djelfa · El Aricha · El Kantara · Saïda · El Tarf · Mascara · Béni Abbès · Médéa · Laghouat · Chlef · M'Sila · Djanet · Béchar · Adrar · Messaad · Oum El Bouaghi · Barika · Aïn Témouchent · Tébessa · Aïn Defla · El Abiodh Sidi Cheikh · Aïn Oussera · Souk Ahras · Béjaïa · Jijel · Boumerdès · Sidi Bel Abbès · Touggourt · Tissemsilt · In Salah · Timimoun · Bir El Ater · Tizi Ouzou · Batna · Mila · Bouira · Bou Saâda · Biskra · Constantine · Ksar Chellala · El Oued · Ghardaïa · Ouled Djellal · Bordj Badji Mokhtar · Relizane · Tiaret · Tindouf · El M'Ghair · Guelma · Illizi · El Meniaa · Naâma · Anaba · El Bayadh · Sétif · Ksar El Boukhari · Blida · Tamanrasset · Tipaza · Mostaganem · In Guezzam · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/oyster/4f5d4a8a-59a8-4696-b499-c01e740795c1 | oyster | Software Engineer (Ruby on Rails, APIs) | EMEA · Remote | posted: 2026-10-30
+- [ ] https://jobs.dropbox.com/listing/7752226?gh_jid=7752226 | dropbox | Backend Product Software Engineer | Remote - Mexico | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mapbox/f3e54856-4be3-48bf-b62a-2a305a1a631f | mapbox | Software Development Engineer III, Maps API | Mapbox UK · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/mapbox/2427850f-01c1-442d-b865-0f0238c94c44 | mapbox | Software Development Engineer III, Maps API | Mapbox Helsinki · Remote | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8041815003 | affirm | Software Engineer II, Backend (Payments) | Remote UK | posted: 2026-10-30
