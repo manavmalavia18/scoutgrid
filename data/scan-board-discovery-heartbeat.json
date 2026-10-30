@@ -1,64 +1,29 @@
 {
-  "at": "2026-10-30T13:44:59.442Z",
-  "leadsScanned": 6342,
-  "totalBoardsKnown": 1906,
-  "alreadyTracked": 1860,
-  "newlyPromoted": 46,
+  "at": "2026-10-30T18:38:35.987Z",
+  "leadsScanned": 6340,
+  "totalBoardsKnown": 1911,
+  "alreadyTracked": 1904,
+  "newlyPromoted": 7,
   "newBoards": [
     {
-      "name": "Expensify",
-      "careers_url": "https://jobs.ashbyhq.com/expensify",
+      "name": "Composio",
+      "careers_url": "https://jobs.ashbyhq.com/composio",
       "provider": "ashby"
     },
     {
-      "name": "Foley",
-      "careers_url": "https://jobs.ashbyhq.com/foley",
+      "name": "Fragment",
+      "careers_url": "https://jobs.ashbyhq.com/fragmentai",
       "provider": "ashby"
     },
     {
-      "name": "Freed",
-      "careers_url": "https://jobs.ashbyhq.com/freed",
+      "name": "lemlist",
+      "careers_url": "https://jobs.ashbyhq.com/lemlist",
       "provider": "ashby"
     },
     {
-      "name": "Genius AI",
-      "careers_url": "https://jobs.ashbyhq.com/geniusai",
+      "name": "Savvy",
+      "careers_url": "https://jobs.ashbyhq.com/savvy",
       "provider": "ashby"
-    },
-    {
-      "name": "KAYAK",
-      "careers_url": "https://jobs.ashbyhq.com/kayak",
-      "provider": "ashby"
-    },
-    {
-      "name": "Tapcart",
-      "careers_url": "https://jobs.ashbyhq.com/tapcart",
-      "provider": "ashby"
-    },
-    {
-      "name": "CARIAD",
-      "careers_url": "https://job-boards.greenhouse.io/cariadinc",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "Compeer Financial",
-      "careers_url": "https://job-boards.greenhouse.io/compeerfinancial",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "Litify",
-      "careers_url": "https://job-boards.greenhouse.io/litify",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "Thoughtworks",
-      "careers_url": "https://job-boards.greenhouse.io/thoughtworksreferral",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "Ubiquiti",
-      "careers_url": "https://job-boards.greenhouse.io/ubiquiti",
-      "provider": "greenhouse"
     },
     {
       "name": "CesiumAstro",
@@ -66,173 +31,13 @@
       "provider": "lever"
     },
     {
-      "name": "Amcor",
-      "careers_url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site",
-      "provider": "workday"
-    },
-    {
-      "name": "American National Standards Institute (ANSI)",
-      "careers_url": "https://ansi.wd1.myworkdayjobs.com/ansi_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Banner Health",
-      "careers_url": "https://bannerhealth.wd108.myworkdayjobs.com/careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Belkin International",
-      "careers_url": "https://belkin.wd5.myworkdayjobs.com/belkin_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "CareSource",
-      "careers_url": "https://caresource.wd1.myworkdayjobs.com/caresource",
-      "provider": "workday"
-    },
-    {
-      "name": "CCC Intelligent Solutions",
-      "careers_url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external",
-      "provider": "workday"
-    },
-    {
-      "name": "Dee Zee",
-      "careers_url": "https://deezee.wd108.myworkdayjobs.com/deezee_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Dimensional Fund Advisors",
-      "careers_url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "DraftKings",
-      "careers_url": "https://draftkings.wd1.myworkdayjobs.com/campus_career_portal",
-      "provider": "workday"
-    },
-    {
-      "name": "Draper",
-      "careers_url": "https://draper.wd5.myworkdayjobs.com/draper_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Emery Sapp & Sons",
-      "careers_url": "https://emerysapp.wd501.myworkdayjobs.com/ess",
-      "provider": "workday"
-    },
-    {
-      "name": "Emery Sapp & Sons",
-      "careers_url": "https://emerysapp.wd501.myworkdayjobs.com/essc",
-      "provider": "workday"
-    },
-    {
-      "name": "Exelixis",
-      "careers_url": "https://exelixis.wd1.myworkdayjobs.com/exel",
-      "provider": "workday"
-    },
-    {
-      "name": "FICO",
-      "careers_url": "https://fico.wd1.myworkdayjobs.com/external",
-      "provider": "workday"
-    },
-    {
-      "name": "General Dynamics Information Technology",
-      "careers_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site",
-      "provider": "workday"
-    },
-    {
-      "name": "Greene Tweed",
-      "careers_url": "https://gtweed.wd1.myworkdayjobs.com/careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Hanson Professional Services",
-      "careers_url": "https://hansoninc.wd501.myworkdayjobs.com/hps_student_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Hargrove",
-      "careers_url": "https://hargroveepc.wd12.myworkdayjobs.com/hargrove_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Iberdrola",
-      "careers_url": "https://iberdrola.wd3.myworkdayjobs.com/iberdrola",
-      "provider": "workday"
-    },
-    {
-      "name": "MaineGeneral Health",
-      "careers_url": "https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers",
-      "provider": "workday"
-    },
-    {
-      "name": "Marmon Holdings",
-      "careers_url": "https://marmon.wd501.myworkdayjobs.com/marmon_careers",
-      "provider": "workday"
-    },
-    {
       "name": "Montefiore Einstein Technology",
       "careers_url": "https://montefiore.wd12.myworkdayjobs.com/MMC",
       "provider": "workday"
     },
     {
-      "name": "McDermott Will & Emery",
-      "careers_url": "https://mwe.wd5.myworkdayjobs.com/mwe_careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Neuberger Berman",
-      "careers_url": "https://nb.wd1.myworkdayjobs.com/nbcareers",
-      "provider": "workday"
-    },
-    {
-      "name": "Onterris",
-      "careers_url": "https://onterris.wd1.myworkdayjobs.com/ont",
-      "provider": "workday"
-    },
-    {
-      "name": "Regal Rexnord",
-      "careers_url": "https://regalrexnord.wd1.myworkdayjobs.com/careers",
-      "provider": "workday"
-    },
-    {
       "name": "Elsevier",
       "careers_url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs",
-      "provider": "workday"
-    },
-    {
-      "name": "Rochester Institute of Technology (RIT)",
-      "careers_url": "https://rit.wd12.myworkdayjobs.com/careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Takeda",
-      "careers_url": "https://takeda.wd502.myworkdayjobs.com/external",
-      "provider": "workday"
-    },
-    {
-      "name": "TelevisaUnivision",
-      "careers_url": "https://univision.wd1.myworkdayjobs.com/external",
-      "provider": "workday"
-    },
-    {
-      "name": "Valmet",
-      "careers_url": "https://valmet.wd103.myworkdayjobs.com/external",
-      "provider": "workday"
-    },
-    {
-      "name": "ClickDimensions",
-      "careers_url": "https://volarisgroup.wd3.myworkdayjobs.com/clickdimensions",
-      "provider": "workday"
-    },
-    {
-      "name": "Volaris Group",
-      "careers_url": "https://volarisgroup.wd3.myworkdayjobs.com/volaris",
-      "provider": "workday"
-    },
-    {
-      "name": "Zoom",
-      "careers_url": "https://zoom.wd5.myworkdayjobs.com/zoom",
       "provider": "workday"
     }
   ]
