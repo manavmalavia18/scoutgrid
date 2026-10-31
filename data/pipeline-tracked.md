@@ -1068,4 +1068,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/MotherDuck/111fd8f5-a8ad-4aa4-937f-79da7c2184db | Motherduck | Software Engineer - Database | New York City | posted: 2026-10-30
 - [ ] https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c | Freed | ML Engineer | San Francisco | posted: 2026-10-30
 
+- [ ] https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002 | Chime | Software Engineer, Jade - AI Financial Partner | San Francisco, CA, USA | posted: 2026-10-31
+- [ ] https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002 | Chime | Software Engineer, Membership Experience | San Francisco, CA, USA | posted: 2026-10-31
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Software-Engineer--Autonomy-Services-_R0000380992 | Caterpillar Inc. | Software Engineer (Autonomy Services) | Irving, Texas | posted: 2026-10-30
+- [ ] https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-Remote/Software-Engineer--OpenShell_JR2020825 | NVIDIA | Software Engineer, OpenShell | US, Remote | posted: 2026-10-30
+
 ## Processed
