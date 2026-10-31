@@ -1383,4 +1383,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7 | handshake | Software Engineer I, Promotions | San Francisco, CA | posted: 2026-10-30
 - [ ] https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c | freed | ML Engineer | San Francisco | posted: 2026-10-30
 
+- [ ] https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11 | supabase | Software Engineer - AI Tooling Infrastructure | Remote, Global | posted: 2026-10-31
+- [ ] https://job-boards.greenhouse.io/telnyx54/jobs/8044090003 | telnyx54 | Software Engineer, Elixir - Telephony | Remote · Anywhere Remote | posted: 2026-10-26
+- [ ] https://job-boards.greenhouse.io/turing/jobs/6234874004 | turing | Platform Engineer - Enterprise AI | New York, New York, United States | posted: 2026-10-26
+
 ## Processed
