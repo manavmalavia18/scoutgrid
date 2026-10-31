@@ -1503,3 +1503,5 @@
 - [ ] https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002 | chime | Software Engineer, Membership Experience | San Francisco, CA, USA | posted: 2026-10-31
 - [ ] https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002 | chime | Software Engineer, Jade - AI Financial Partner | San Francisco, CA, USA | posted: 2026-10-31
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5280959007?gh_jid=5280959007 | andurilindustries | Site Reliability Engineer 2 - Production Engineering | Costa Mesa, California, United States | posted: 2026-10-30
+
+- [ ] https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11 | supabase | Software Engineer - AI Tooling Infrastructure | Remote, Global | posted: 2026-10-31
