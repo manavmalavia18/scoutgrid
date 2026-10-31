@@ -1085,4 +1085,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/uberfreight/jobs/5457920008 | Uber Freight | Software Engineer III (Fullstack) | Frisco, TX 75034, United States | posted: 2026-10-30
 - [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/AI-Engineer_JR116392 | ServiceTitan | AI Engineer | US Remote | posted: 2026-10-30
 
+- [ ] https://jobs.ashbyhq.com/clera/41e1b1d8-7ce5-423c-92ed-4d7f64bbf215 | Clera | Mid-Level Machine Learning Engineer | San Francisco | posted: 2026-10-31
+- [ ] https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7 | Handshake | Software Engineer I, Promotions | San Francisco, CA | posted: 2026-10-30
+
 ## Processed
