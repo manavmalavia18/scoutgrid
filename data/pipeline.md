@@ -1498,3 +1498,8 @@
 - [ ] https://jobs.ashbyhq.com/polygon-labs/bd4f73d1-08b5-410a-9c7a-34a2f65ac45a | polygon-labs | Platform Engineer | EMEA - Remote | posted: 2026-10-30
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8042399003 | affirm | Software Engineer II, Full Stack (Card Pre-Swipe Experience) | Remote Canada | posted: 2026-10-30
 - [ ] https://jobs.ashbyhq.com/horizon3ai/169d3dde-b8e7-4545-a5a4-cd5cc882c101 | horizon3ai | WebApp Offensive Security Software Engineer | US, Remote | posted: 2026-10-30
+
+- [ ] https://jobs.ashbyhq.com/3y-health/21a31658-0c58-4e60-b46f-4b668615410f | 3y-health | Full Stack Engineer | Remote - Buenos Aires | posted: 2026-10-31
+- [ ] https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002 | chime | Software Engineer, Membership Experience | San Francisco, CA, USA | posted: 2026-10-31
+- [ ] https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002 | chime | Software Engineer, Jade - AI Financial Partner | San Francisco, CA, USA | posted: 2026-10-31
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5280959007?gh_jid=5280959007 | andurilindustries | Site Reliability Engineer 2 - Production Engineering | Costa Mesa, California, United States | posted: 2026-10-30
