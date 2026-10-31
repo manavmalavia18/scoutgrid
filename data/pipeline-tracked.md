@@ -1073,4 +1073,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Software-Engineer--Autonomy-Services-_R0000380992 | Caterpillar Inc. | Software Engineer (Autonomy Services) | Irving, Texas | posted: 2026-10-30
 - [ ] https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-Remote/Software-Engineer--OpenShell_JR2020825 | NVIDIA | Software Engineer, OpenShell | US, Remote | posted: 2026-10-30
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Specs-Lenses-C----Level-5_R0047403 | Snap Inc. | Software Engineer, Specs Lenses C++, Level 5 | 4 Locations | posted: 2026-10-31
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018 | Northrop Grumman | Associate Software Engineer - Hollywood (MD) | United States-Maryland-Hollywood | posted: 2026-10-31
+
 ## Processed
