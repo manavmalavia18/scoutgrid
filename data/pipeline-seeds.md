@@ -1376,4 +1376,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ekumenlabs/0b7bf4a2-36df-4dda-bb7f-089ddd22aa43 | ekumenlabs | AR/VR Software Engineer | LATAM (Remote) | posted: 2026-10-30
 - [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4749545005 | getbuilt | Innovation Software Engineer 1 | Nashville, Tennessee, United States | posted: 2026-10-30
 
+- [ ] https://jobs.ashbyhq.com/3y-health/21a31658-0c58-4e60-b46f-4b668615410f | 3y-health | Full Stack Engineer | Remote - Buenos Aires | posted: 2026-10-31
+- [ ] https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002 | chime | Software Engineer, Membership Experience | San Francisco, CA, USA | posted: 2026-10-31
+- [ ] https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002 | chime | Software Engineer, Jade - AI Financial Partner | San Francisco, CA, USA | posted: 2026-10-31
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5280959007?gh_jid=5280959007 | andurilindustries | Site Reliability Engineer 2 - Production Engineering | Costa Mesa, California, United States | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7 | handshake | Software Engineer I, Promotions | San Francisco, CA | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c | freed | ML Engineer | San Francisco | posted: 2026-10-30
+
 ## Processed
