@@ -1076,4 +1076,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Specs-Lenses-C----Level-5_R0047403 | Snap Inc. | Software Engineer, Specs Lenses C++, Level 5 | 4 Locations | posted: 2026-10-31
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018 | Northrop Grumman | Associate Software Engineer - Hollywood (MD) | United States-Maryland-Hollywood | posted: 2026-10-31
 
+- [ ] https://jobs.smartrecruiters.com/cityofnewyork/3743990016543006 | City of New York | Appian Software Developer | New York, NY, United States | posted: 2026-10-31
+- [ ] https://jobs.ashbyhq.com/centreforeffectivealtruism/ef7d451f-d44c-4a14-95ee-d9e1cea065ad | Centre for Effective Altruism | Software Engineer | Remote - Global | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/swamp-club/0fdfb1a2-6ad3-4dc3-9b9b-b2769e3237ed | Swamp Club | Platform Engineer | Worldwide · Remote | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/tillster/a260ac75-06d4-49fb-8c27-42e906a16f63 | Tillster | SOFTWARE ENGINEER – BACK END | Atlanta | posted: 2026-10-30
+- [ ] https://jobs.ashbyhq.com/voleon/5bd49d48-7a84-478f-82de-6d302c705613 | The Voleon Group | Software Engineer, Platform Team | Remote, United States · Berkeley, CA · Berkeley · United States | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4749545005 | Built | Innovation Software Engineer 1 | Nashville, Tennessee, United States | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/uberfreight/jobs/5457920008 | Uber Freight | Software Engineer III (Fullstack) | Frisco, TX 75034, United States | posted: 2026-10-30
+- [ ] https://servicetitan.wd1.myworkdayjobs.com/servicetitan/job/US-Remote/AI-Engineer_JR116392 | ServiceTitan | AI Engineer | US Remote | posted: 2026-10-30
+
 ## Processed
