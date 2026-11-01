@@ -1387,4 +1387,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/telnyx54/jobs/8044090003 | telnyx54 | Software Engineer, Elixir - Telephony | Remote · Anywhere Remote | posted: 2026-10-26
 - [ ] https://job-boards.greenhouse.io/turing/jobs/6234874004 | turing | Platform Engineer - Enterprise AI | New York, New York, United States | posted: 2026-10-26
 
+- [ ] https://jobs.ashbyhq.com/axiombio/1d1084a2-3029-4557-9c3d-d6c1fe94b401 | axiombio | Software Engineer, Platform Infrastructure | South San Francisco | posted: 2026-11-01
+
 ## Processed
