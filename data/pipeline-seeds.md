@@ -1389,4 +1389,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/axiombio/1d1084a2-3029-4557-9c3d-d6c1fe94b401 | axiombio | Software Engineer, Platform Infrastructure | South San Francisco | posted: 2026-11-01
 
+- [ ] https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007 | thesiscareers | AI Engineer | New York, NY | posted: 2026-11-01
+
 ## Processed
