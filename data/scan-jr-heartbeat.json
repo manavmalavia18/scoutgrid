@@ -1,12 +1,14 @@
 {
-  "at": "2026-10-31T14:52:04.532Z",
+  "at": "2026-11-01T19:12:52.066Z",
   "exitCode": 0,
-  "elapsedSec": 88,
-  "newMatches": 240,
-  "companyCount": 240,
-  "boardLeadCount": 84,
-  "boardFreshCount": 43,
+  "elapsedSec": 244,
+  "newMatches": 69,
+  "companyCount": 69,
+  "boardLeadCount": 47,
+  "boardFreshCount": 0,
   "loginWall": false,
-  "apiErrors": [],
+  "apiErrors": [
+    "list/jobs pos=100: APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - → GET https://swan-api.jobright.ai/swan/recommend/list/jobs?refresh=false&sortCondition=1&position=100&count=20\n    - user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\n    - accept: application/json\n    - accept-encoding: gzip,deflate,br\n    - referer: https://jobright.ai/jobs/recommend\n    - accept-language: en-US,en;q=0.9\n    - origin: https://jobright.ai\n    - cookie: _gcl_au=1.1.638557969.1786379513; _gcl_au=1.1.638557969.1786379513; _ga=GA1.1.1884545722.1786379513; _ga=GA1.1.1884545722.1786379513; _tt_enable_cookie=1; _tt_enable_cookie=1; _ttp=01KZP88DCVNBXK3N8SFBW36NV5_.tt.1; _ttp=01KZP88DCVNBXK3N8SFBW36NV5_.tt.1; SESSION_ID=4e2facf2cb7344a2ae5b731577972ab8; SESSION_ID=4e2facf2cb7344a2ae5b731577972ab8; g_state={\"i_l\":0,\"i_ll\":1789158812691,\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1789158812691,\"i_b\":\"YJ6SHF95xfD3q3HRQtJoVgu+etY9gqDj23rItX3YEek\"}; g_state={\"i_l\":0,\"i_ll\":1789158812691,\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1789158812691,\"i_b\":\"YJ6SHF95xfD3q3HRQtJoVgu+etY9gqDj23rItX3YEek\"}; _fbp=fb.1.1791827498386.556759360590961717; _fbp=fb.1.1791827498386.556759360590961717; ttcsid_CM0IJ53C77U0797CAP10=1791827500676::8P2TPJQ98wvS2sJ5bcqk.7.1791827509831.1; ttcsid=1791827500677::SE0nyX7cN2DnUH2gBFl6.9.1791827509831.0::1.6618.8862::0.0.0.0::22469.18.0; _ga_ETKKWETCJD=GS2.1.s1791827497$o11$g1$t1791827539$j18$l0$h1395168473; _uetsid=92f1e1e0c66511f190adb16d75463846|hhqwpq|2|ga8|0|2476; _uetsid=92f1e1e0c66511f190adb16d75463846|hhqwpq|2|ga8|0|2476; _uetvid=94849630877611f1af8ae791a85298ea|1abp1rb|1791827540157|3|1|bat.bing.com/p/conversions/c/o; _uetvid=94849630877611f1af8ae791a85298ea|1abp1rb|1791827540157|3|1|bat.bing.com/p/conversions/c/o; _ga_2FQSKPZRE2=GS2.1.s1793560164$o1$g0$t1793560164$j60$l0$h1406663730; _ga_ETKKWETCJD=GS2.1.s1793560164$o12$g0$t1793560165$j59$l0$h892497891; ttcsid=1793560166383::BI55xA4GTSADaffuVHPu.10.1793560166600.0::1.-7982.0::0.0.0.0::0.0.0; ttcsid_CM0IJ53C77U0797CAP10=1793560166382::Wla5-Qio8WQAgtQ9GnFt.8.1793560166600.0\n"
+  ],
   "mode": "jr-companies"
 }
