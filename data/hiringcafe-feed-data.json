@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T15:22:56.644Z",
+  "fetchedAt": "2026-11-01T19:52:22.025Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -21,7 +21,7 @@
     "product analyst"
   ],
   "days": 2,
-  "pagesFetched": 0,
+  "pagesFetched": 1,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
@@ -34,13 +34,37 @@
     "business intelligence engineer": null,
     "business intelligence analyst": null,
     "analytics engineer": null,
-    "machine learning engineer": null,
+    "machine learning engineer": 1,
     "ai ml engineer": null,
     "data warehouse engineer": null,
     "product analyst": null
   },
   "count": 6,
   "jobs": [
+    {
+      "title": "New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)",
+      "url": "https://jobs.appliedmaterials.com/job/santa-clara/new-college-grad-computational-physics-and-agentic-ai-engineer-doctorate-degree-spring-2027/95/102671090432",
+      "company": "Applied Materials",
+      "location": "Santa Clara, California, United States",
+      "postedAt": 1793404800000,
+      "salary": "$138k-$190k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "MS or PhD in engineering, physics, or related field; demonstrated computational physics or multiphysics modeling experience; strong programming in Python and/or C++; machine learning experience; excellent communication; 10% travel.",
+      "tools": [
+        "Python",
+        "C++",
+        "ACE+",
+        "COMSOL",
+        "ANSYS Fluent",
+        "OpenFOAM"
+      ],
+      "company_tagline": "A global leader in materials science and engineering solutions for semiconductor chips and advanced displays.",
+      "ats_source": "talentbrew",
+      "discoveredAt": "2026-11-01T19:52:22.024Z",
+      "lastSeenAt": "2026-11-01T19:52:22.024Z"
+    },
     {
       "title": "Technical Support Analyst I",
       "url": "https://cotjobs.psft.talgov.com/psc/aplyonl/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=183644&PostingSeq=1&SiteId=1",
@@ -148,28 +172,6 @@
       ],
       "company_tagline": "A global leader in high temperature materials and engineered systems.",
       "ats_source": "smartrecruiters",
-      "discoveredAt": "2026-10-31T08:56:41.705Z",
-      "lastSeenAt": "2026-10-31T08:56:41.705Z"
-    },
-    {
-      "title": "Data Interface Analyst, Full Time, Remote",
-      "url": "https://recruiting2.ultipro.com/sum1013suhe/JobBoard/c5f1d684-0c5f-423f-ba5b-5b857397f32b/OpportunityDetail?opportunityId=f04d10bd-65d9-4221-bc85-99af88496adb",
-      "company": "Summit Healthcare",
-      "location": "Show Low, Arizona, United States",
-      "postedAt": 1793377831366,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years experience managing/programming interface engines; ability to diagnose hardware/software; knowledge of API technologies; English proficiency; may require varied hours for emergencies.",
-      "tools": [
-        "Corepoint",
-        "ELink",
-        "ISS",
-        "API"
-      ],
-      "company_tagline": "A healthcare system trusted to provide exceptional, compassionate care close to home.",
-      "ats_source": "ultipro",
       "discoveredAt": "2026-10-31T08:56:41.705Z",
       "lastSeenAt": "2026-10-31T08:56:41.705Z"
     }
