@@ -1,12 +1,19 @@
 {
-  "fetchedAt": "2026-11-01T19:12:52.065Z",
+  "fetchedAt": "2026-11-01T22:57:29.695Z",
   "scrapedAt": "2026-11-01T19:09:59.722142+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 69,
+  "companyCount": 58,
   "companies": [
+    {
+      "company": "Analog Devices",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:analogdevices.wd1.myworkdayjobs.com/external",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/external"
+    },
     {
       "company": "Applied Materials",
       "ats": "workday",
@@ -48,20 +55,6 @@
       "board": "",
       "key": "greenhouse-id:8337794",
       "url": "https://www.bluerivertechnology.com/job/?gh_jid=8337794"
-    },
-    {
-      "company": "Built",
-      "ats": "greenhouse",
-      "board": "getbuilt",
-      "key": "greenhouse:getbuilt",
-      "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005"
-    },
-    {
-      "company": "CAI",
-      "ats": "greenhouse",
-      "board": "explore",
-      "key": "greenhouse:explore",
-      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519857751016649?domain=coloradowfx.gov"
     },
     {
       "company": "Canonical",
@@ -127,13 +120,6 @@
       "url": "https://diamondbackenergy.wd12.myworkdayjobs.com/dbe"
     },
     {
-      "company": "Elevance Health",
-      "ats": "workday",
-      "board": "ANT",
-      "key": "workday:elevancehealth.wd1.myworkdayjobs.com/ANT",
-      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT"
-    },
-    {
       "company": "Engine",
       "ats": "greenhouse",
       "board": "engine",
@@ -183,25 +169,11 @@
       "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"
     },
     {
-      "company": "Fluidstack",
-      "ats": "ashby",
-      "board": "fluidstack",
-      "key": "ashby:fluidstack",
-      "url": "https://jobs.ashbyhq.com/fluidstack/10215006-5bb7-423c-81be-2e41b84eff72"
-    },
-    {
       "company": "Freed",
       "ats": "ashby",
       "board": "freed",
       "key": "ashby:freed",
       "url": "https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c"
-    },
-    {
-      "company": "Harvey",
-      "ats": "ashby",
-      "board": "harvey",
-      "key": "ashby:harvey",
-      "url": "https://jobs.ashbyhq.com/harvey/30df72cf-ee68-4194-864e-47745ca8b6e0"
     },
     {
       "company": "IC Railroad Construction Co.",
@@ -239,32 +211,11 @@
       "url": "https://lseg.wd3.myworkdayjobs.com/careers"
     },
     {
-      "company": "MaintainX",
-      "ats": "ashby",
-      "board": "maintainx",
-      "key": "ashby:maintainx",
-      "url": "https://jobs.ashbyhq.com/maintainx/8528517a-f231-48b0-9319-f7968f00ebe5"
-    },
-    {
       "company": "Nationwide",
       "ats": "workday",
       "board": "Nationwide_Career",
       "key": "workday:nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
       "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career"
-    },
-    {
-      "company": "Nintendo",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:4473568009",
-      "url": "https://careers.nintendo.com/?gh_jid=4473568009"
-    },
-    {
-      "company": "Nintendo",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:4473550009",
-      "url": "https://careers.nintendo.com/?gh_jid=4473550009"
     },
     {
       "company": "Notion",
@@ -314,13 +265,6 @@
       "board": "perseus-careers",
       "key": "workday:talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers",
       "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers"
-    },
-    {
-      "company": "Publicis Groupe",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:180461",
-      "url": "https://employees-publicisgroupe.icims.com/jobs/180461/senior%2c-development-engineer/job?in_iframe=1"
     },
     {
       "company": "Quantum Space",
@@ -400,13 +344,6 @@
       "url": "https://stjude.wd1.myworkdayjobs.com/stjude"
     },
     {
-      "company": "State of Washington",
-      "ats": "greenhouse",
-      "board": "washington",
-      "key": "greenhouse:washington",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5534868-0"
-    },
-    {
       "company": "Swamp Club",
       "ats": "ashby",
       "board": "swamp-club",
@@ -428,18 +365,11 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=tailscale&token=4733404005"
     },
     {
-      "company": "The New York Times",
-      "ats": "greenhouse",
-      "board": "thenewyorktimes",
-      "key": "greenhouse:thenewyorktimes",
-      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
-    },
-    {
-      "company": "Tillster",
+      "company": "Terac",
       "ats": "ashby",
-      "board": "tillster",
-      "key": "ashby:tillster",
-      "url": "https://jobs.ashbyhq.com/tillster/9a49dcde-1da3-4d6b-957a-cd245ea2ea8d"
+      "board": "terac",
+      "key": "ashby:terac",
+      "url": "https://jobs.ashbyhq.com/terac/16023584-39d7-4ed9-9331-ad5f25e8c3a1"
     },
     {
       "company": "Uber Freight",
@@ -482,13 +412,6 @@
       "board": "yuzu-health",
       "key": "ashby:yuzu-health",
       "url": "https://jobs.ashbyhq.com/yuzu-health/de100877-865a-4d3f-9b26-a074c296e54a/application"
-    },
-    {
-      "company": "Zefr",
-      "ats": "ashby",
-      "board": "zefr",
-      "key": "ashby:zefr",
-      "url": "https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640"
     }
   ]
 }
