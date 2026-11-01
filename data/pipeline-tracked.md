@@ -1091,4 +1091,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/axiombio/1d1084a2-3029-4557-9c3d-d6c1fe94b401 | Axiom Bio | Software Engineer, Platform Infrastructure | South San Francisco | posted: 2026-11-01
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366 | Northrop Grumman | 2027 Associate Software Engineer - Bellevue (NE) | United States-Alabama-Huntsville | posted: 2026-11-01
 
+- [ ] https://jobs.ashbyhq.com/yuzu-health/0c05695d-a823-4ba0-9ac0-243e44cf4277 | Yuzu Health | Platform Engineer | New York City- HQ | posted: 2026-11-01
+- [ ] https://jobs.ashbyhq.com/yuzu-health/de100877-865a-4d3f-9b26-a074c296e54a | Yuzu Health | Software Engineer (Backend) | New York City- HQ | posted: 2026-11-01
+
 ## Processed
