@@ -1088,4 +1088,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/clera/41e1b1d8-7ce5-423c-92ed-4d7f64bbf215 | Clera | Mid-Level Machine Learning Engineer | San Francisco | posted: 2026-10-31
 - [ ] https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7 | Handshake | Software Engineer I, Promotions | San Francisco, CA | posted: 2026-10-30
 
+- [ ] https://jobs.ashbyhq.com/axiombio/1d1084a2-3029-4557-9c3d-d6c1fe94b401 | Axiom Bio | Software Engineer, Platform Infrastructure | South San Francisco | posted: 2026-11-01
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366 | Northrop Grumman | 2027 Associate Software Engineer - Bellevue (NE) | United States-Alabama-Huntsville | posted: 2026-11-01
+
 ## Processed
