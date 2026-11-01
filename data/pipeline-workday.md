@@ -980,4 +980,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Illumio-Zero-Trust-Platform-Engineer_R0252547 | bah | Illumio Zero Trust Platform Engineer | 4 Locations | posted: 2026-10-30
 - [ ] https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/Kansas-City-Missouri/Software-Engineer_R0005685 | americancentury | Software Engineer Associate | Kansas City, Missouri | posted: 2026-10-30
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366 | ngc | 2027 Associate Software Engineer - Bellevue (NE) | United States-Alabama-Huntsville | posted: 2026-11-01
+
 ## Processed
