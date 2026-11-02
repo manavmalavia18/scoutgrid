@@ -1098,4 +1098,26 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Full-Stack-Developer--Agile-AI-ML-Software-Developer---multiple-positions--in-Chicago--IL_2026-0033976 | U.S. Bank | Full Stack Developer (Agile AI/ML Software Developer) (multiple positions) in Chicago, IL. | Chicago, IL | posted: 2026-11-02
 - [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Platform-Engineering_100906 | Nationwide | Consultant, Software Engineer - Platform Engineering | Ohio Columbus Three Nationwide Plaza | posted: 2026-11-02
 
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8328365 | Drweng | Software Engineer - Trading Operations | Chicago | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8319386 | Twilio | Software Engineer (L3) | Remote - India | posted: 2026-11-02
+- [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Scottsdale-Arizona-United-States-of-America/DevOps-Engineer--Cloud-Operations-and-Infrastructure_R015788-1 | Aveva | DevOps Engineer, Cloud Operations and Infrastructure | Scottsdale, Arizona, United States of America | posted: 2026-11-02
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II--Localization_R_107116 | Remitly | Software Development Engineer II, Localization | Seattle, Washington United States | posted: 2026-11-02
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Development-Engineer-II---Onsite_R78125 | Medtronic | Software Development Engineer II - Onsite | Fridley, Minnesota, United States of America | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/method/9eba8322-0e81-42db-9dcb-81ddcc7c907a | Method | Software Engineer | New York, NY · Washington D.C. · Washington · USA · Austin, TX · Austin | posted: 2026-11-02
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer_101190 | Nationwide | Consultant, Software Engineer | Ohio Columbus Three Nationwide Plaza | posted: 2026-11-02
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer_101189 | Nationwide | Specialist, Software Engineer | Ohio Columbus Three Nationwide Plaza | posted: 2026-11-02
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-5--Go--TypeScript-and-Angular-_R1001271-1 | Capital One | Full-stack Engineer 5 (Go, TypeScript and Angular) | Chicago, IL | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/truveta/jobs/6240727004 | Truveta | Software Engineer - Data Fulfillment | Seattle, WA | posted: 2026-11-02
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Full-Stack-Java-Developer_26992907 | Citi | Full Stack Java Developer | 2 Locations | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/tessera-labs/202be46b-0d9d-4277-b8b2-719c3321a352 | Tessera Labs | Software Engineer, Full Stack | San Jose Office (HQ) · New York City Office · New York City · United States · Seattle Office · Seattle | posted: 2026-11-02
+- [ ] https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180 | Royal Philips | Associate Data & AI Engineer - Medical Imaging (Bedford, MA) | Bedford, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://jobs.smartrecruiters.com/AbbVie/3743990016566346 | AbbVie | Associate Device Software Engineer | Pleasanton, CA, United States | posted: 2026-11-02
+- [ ] https://jobs.smartrecruiters.com/AbbVie/3743990016565806 | AbbVie | AI Engineer | North Chicago, IL, United States | posted: 2026-11-02
+- [ ] https://jobs.smartrecruiters.com/AbbVie/3743990016559236 | AbbVie | Software Engineer - AI Platform (Hybrid) | North Chicago, IL, United States | posted: 2026-11-02
+- [ ] https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Mexico/SAP-BI-BW-Developer_R-01365151 | Thermo Fisher Scientific | AI/ML Engineer | Remote, Mexico | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5280545007 | Verkada | Backend Software Engineer - University Graduate 2027 | San Mateo, CA United States | posted: 2026-11-02
+- [ ] https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/US-Field-Non-Sales-Remote-Workforce/Engineer--Software-Engineering_JR_054680 | ResMed | Engineer, Software Engineering | US Field Non-Sales (Remote Workforce) | posted: 2026-11-02
+- [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineer-II_R0008533 | Availity, L.L.C. | Software Engineer II | Remote - United States | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007 | Thesis | AI Engineer | New York, NY | posted: 2026-11-01
+
 ## Processed
