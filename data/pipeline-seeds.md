@@ -1403,4 +1403,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007 | andurilindustries | GNC Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-02
 - [ ] https://jobs.ashbyhq.com/mapbox/b4a45747-32b2-4187-878e-5e48ccb3c35b | mapbox | Machine Learning Engineer III, Routing Cost | Mapbox UK · Remote | posted: 2026-10-29
 
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8347710 | smartsheet | Software Engineer I (Remote Eligible) | -REMOTE, USA- | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/speak/607e0571-9459-487c-8c9d-03248993aae8 | speak | Backend Engineer, Payments | San Francisco | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8328365 | drweng | Software Engineer - Trading Operations | Chicago | posted: 2026-11-02
+- [ ] https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245 | qualtrics | Software Development Engineer I - Data Platform | Seattle, Washington, United States | posted: 2026-11-02
+- [ ] https://www.qualtrics.com/careers/us/en/job/8325680?gh_jid=8325680 | qualtrics | Software Engineer II - XMD | Seattle, Washington, United States | posted: 2026-11-02
+- [ ] https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652 | qualtrics | Software Engineer I - XMD | Seattle, Washington, United States | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/zed/a7ef7d02-306a-4108-aad8-4f267686e4eb | zed | Backend Engineer, Cloud | The Americas (North, Central, South) · Remote | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/truveta/jobs/6240727004 | truveta | Software Engineer - Data Fulfillment | Seattle, WA | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/method/9eba8322-0e81-42db-9dcb-81ddcc7c907a | method | Software Engineer | New York, NY · Washington D.C. · Washington · USA · Austin, TX · Austin | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/propublica/jobs/4726186006 | propublica | Product Engineer, Membership and Front-End | New York City, United States | posted: 2026-11-02
+- [ ] https://iex.io/careers/apply?gh_jid=8328308 | iex | Software Engineer for Test | New York | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/tessera-labs/202be46b-0d9d-4277-b8b2-719c3321a352 | tessera-labs | Software Engineer, Full Stack | San Jose Office (HQ) · New York City Office · New York City · United States · Seattle Office · Seattle | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4749610005 | tailscale | Front End Engineer | Remote (United States) | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4749592005 | tailscale | Front End Engineer | Remote (Canada) | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4475925009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/enumerate/jobs/4471039009 | enumerate | Full Stack Developer | Latin America - Remote | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/mirage/d6032f7a-1f0f-4e6d-ba00-3d86c18933f4 | mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/mirage/881f87a7-fbca-43ca-adee-cd87d838dc52 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/mirage/9e5835a2-5a70-4919-9a92-c7dc1b74163f | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-02
+- [ ] https://jobs.lever.co/bluecoding/456ce1b0-5a77-4a27-9a82-37d0074f14ec | bluecoding | Software Engineer (V) | Remote Latam | posted: 2026-10-28
+
 ## Processed
