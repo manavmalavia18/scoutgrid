@@ -1509,3 +1509,13 @@
 - [ ] https://jobs.ashbyhq.com/axiombio/1d1084a2-3029-4557-9c3d-d6c1fe94b401 | axiombio | Software Engineer, Platform Infrastructure | South San Francisco | posted: 2026-11-01
 
 - [ ] https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007 | thesiscareers | AI Engineer | New York, NY | posted: 2026-11-01
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281225007?gh_jid=5281225007 | andurilindustries | Software Engineer- Machine Learning | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007 | andurilindustries | Software Engineer- Infrastructure | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281222007?gh_jid=5281222007 | andurilindustries | Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281221007?gh_jid=5281221007 | andurilindustries | Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281217007?gh_jid=5281217007 | andurilindustries | Software Engineer, Rust | Waltham, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007 | andurilindustries | Software Engineer, Rust | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281215007?gh_jid=5281215007 | andurilindustries | Software Engineer, Battlespace Awareness | Waltham, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007 | andurilindustries | Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007 | andurilindustries | GNC Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-02
