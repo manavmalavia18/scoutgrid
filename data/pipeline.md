@@ -1521,3 +1521,21 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007 | andurilindustries | GNC Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-02
 
 - [ ] https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 | plaid | Machine Learning Engineer - Lendscore | New York City Office | posted: 2026-11-02
+
+- [ ] https://jobs.ashbyhq.com/zed/a7ef7d02-306a-4108-aad8-4f267686e4eb | zed | Backend Engineer, Cloud | The Americas (North, Central, South) · Remote | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6240736004 | vercel | Software Engineer, Compute | Hybrid - San Francisco | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/truveta/jobs/6240727004 | truveta | Software Engineer - Data Fulfillment | Seattle, WA | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/method/9eba8322-0e81-42db-9dcb-81ddcc7c907a | method | Software Engineer | New York, NY · Washington D.C. · Washington · USA · Austin, TX · Austin | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/propublica/jobs/4726186006 | propublica | Product Engineer, Membership and Front-End | New York City, United States | posted: 2026-11-02
+- [ ] https://iex.io/careers/apply?gh_jid=8328308 | iex | Software Engineer for Test | New York | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/tessera-labs/202be46b-0d9d-4277-b8b2-719c3321a352 | tessera-labs | Software Engineer, Full Stack | San Jose Office (HQ) · New York City Office · New York City · United States · Seattle Office · Seattle | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4749610005 | tailscale | Front End Engineer | Remote (United States) | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4749592005 | tailscale | Front End Engineer | Remote (Canada) | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4475925009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/focused/f83679d5-3fb0-45d8-86ab-7566cdb04306 | focused | Software Engineer | Austin, TX | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/enumerate/jobs/4471039009 | enumerate | Full Stack Developer | Latin America - Remote | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/mirage/d6032f7a-1f0f-4e6d-ba00-3d86c18933f4 | mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/mirage/881f87a7-fbca-43ca-adee-cd87d838dc52 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/mirage/9e5835a2-5a70-4919-9a92-c7dc1b74163f | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-02
+- [ ] https://job-boards.eu.greenhouse.io/ecosio/jobs/4868872101 | ecosio | Site Reliability Engineer (f/m/d) | Austria, Germany, UK, Italy, Hungary, Croatia, Poland - Remote | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8319386 | twilio | Software Engineer (L3) | Remote - India | posted: 2026-11-02
