@@ -1094,4 +1094,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/yuzu-health/0c05695d-a823-4ba0-9ac0-243e44cf4277 | Yuzu Health | Platform Engineer | New York City- HQ | posted: 2026-11-01
 - [ ] https://jobs.ashbyhq.com/yuzu-health/de100877-865a-4d3f-9b26-a074c296e54a | Yuzu Health | Software Engineer (Backend) | New York City- HQ | posted: 2026-11-01
 
+- [ ] https://jobs.ashbyhq.com/kraken.com/8768d39b-2600-432a-bf09-54b6ba73133f | Payward, Inc. | Fullstack Engineer - Payward Services - Custody | Romania · Brazil · Peru · Sweden · Colombia · Argentina · Cyprus · South Africa · Czech Republic · Hungary · Mexico · Chile · Poland · Bulgaria · Remote | posted: 2026-11-02
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Full-Stack-Developer--Agile-AI-ML-Software-Developer---multiple-positions--in-Chicago--IL_2026-0033976 | U.S. Bank | Full Stack Developer (Agile AI/ML Software Developer) (multiple positions) in Chicago, IL. | Chicago, IL | posted: 2026-11-02
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Platform-Engineering_100906 | Nationwide | Consultant, Software Engineer - Platform Engineering | Ohio Columbus Three Nationwide Plaza | posted: 2026-11-02
+
 ## Processed
