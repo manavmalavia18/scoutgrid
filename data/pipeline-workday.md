@@ -982,4 +982,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366 | ngc | 2027 Associate Software Engineer - Bellevue (NE) | United States-Alabama-Huntsville | posted: 2026-11-01
 
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Full-Stack-Developer--Agile-AI-ML-Software-Developer---multiple-positions--in-Chicago--IL_2026-0033976 | usbank | Full Stack Developer (Agile AI/ML Software Developer) (multiple positions) in Chicago, IL. | Chicago, IL | posted: 2026-11-02
+
 ## Processed
