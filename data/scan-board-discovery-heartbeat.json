@@ -1,14 +1,79 @@
 {
-  "at": "2026-11-02T15:45:04.321Z",
-  "leadsScanned": 5557,
-  "totalBoardsKnown": 1936,
-  "alreadyTracked": 1933,
-  "newlyPromoted": 3,
+  "at": "2026-11-02T20:23:22.251Z",
+  "leadsScanned": 5707,
+  "totalBoardsKnown": 1953,
+  "alreadyTracked": 1936,
+  "newlyPromoted": 17,
   "newBoards": [
+    {
+      "name": "Plaid",
+      "careers_url": "https://jobs.ashbyhq.com/plaid",
+      "provider": "ashby"
+    },
+    {
+      "name": "Tolmo",
+      "careers_url": "https://jobs.ashbyhq.com/tolmo",
+      "provider": "ashby"
+    },
+    {
+      "name": "Heartflow",
+      "careers_url": "https://job-boards.greenhouse.io/heartflowinc",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "ID.me",
+      "careers_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "ParetoHealth",
+      "careers_url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "ProPublica",
+      "careers_url": "https://job-boards.greenhouse.io/propublica",
+      "provider": "greenhouse"
+    },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
       "provider": "lever"
+    },
+    {
+      "name": "Lalamove",
+      "careers_url": "https://jobs.lever.co/lalamove",
+      "provider": "lever"
+    },
+    {
+      "name": "AdventHealth",
+      "careers_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site",
+      "provider": "workday"
+    },
+    {
+      "name": "FIS, Inc.",
+      "careers_url": "https://fis.wd5.myworkdayjobs.com/searchjobs",
+      "provider": "workday"
+    },
+    {
+      "name": "Genuine Parts Company",
+      "careers_url": "https://genpt.wd1.myworkdayjobs.com/careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Kardex",
+      "careers_url": "https://kardex.wd103.myworkdayjobs.com/kardex",
+      "provider": "workday"
+    },
+    {
+      "name": "Lifestyle Communities",
+      "careers_url": "https://lifestylecommunities.wd1.myworkdayjobs.com/lifestyle_communities_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Mars, Incorporated",
+      "careers_url": "https://mars.wd3.myworkdayjobs.com/bettertogether",
+      "provider": "workday"
     },
     {
       "name": "Montefiore Einstein Technology",
@@ -18,6 +83,11 @@
     {
       "name": "Elsevier",
       "careers_url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs",
+      "provider": "workday"
+    },
+    {
+      "name": "Roche",
+      "careers_url": "https://roche.wd3.myworkdayjobs.com/roche-ext",
       "provider": "workday"
     }
   ]

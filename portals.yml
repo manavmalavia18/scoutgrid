@@ -16088,6 +16088,91 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Plaid"
+    careers_url: https://jobs.ashbyhq.com/plaid
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tolmo"
+    careers_url: https://jobs.ashbyhq.com/tolmo
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Heartflow"
+    careers_url: https://job-boards.greenhouse.io/heartflowinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ID.me"
+    careers_url: https://job-boards.greenhouse.io/idmeuniversityrecruiting
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ParetoHealth"
+    careers_url: https://job-boards.greenhouse.io/paretocaptiveservicesllc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ProPublica"
+    careers_url: https://job-boards.greenhouse.io/propublica
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Lalamove"
+    careers_url: https://jobs.lever.co/lalamove
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "AdventHealth"
+    careers_url: https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "FIS, Inc."
+    careers_url: https://fis.wd5.myworkdayjobs.com/searchjobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Genuine Parts Company"
+    careers_url: https://genpt.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Kardex"
+    careers_url: https://kardex.wd103.myworkdayjobs.com/kardex
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lifestyle Communities"
+    careers_url: https://lifestylecommunities.wd1.myworkdayjobs.com/lifestyle_communities_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Mars, Incorporated"
+    careers_url: https://mars.wd3.myworkdayjobs.com/bettertogether
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Roche"
+    careers_url: https://roche.wd3.myworkdayjobs.com/roche-ext
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
