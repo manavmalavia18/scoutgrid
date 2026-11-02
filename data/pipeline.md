@@ -1519,3 +1519,5 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281215007?gh_jid=5281215007 | andurilindustries | Software Engineer, Battlespace Awareness | Waltham, Massachusetts, United States | posted: 2026-11-02
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007 | andurilindustries | Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States | posted: 2026-11-02
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007 | andurilindustries | GNC Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-02
+
+- [ ] https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 | plaid | Machine Learning Engineer - Lendscore | New York City Office | posted: 2026-11-02
