@@ -1391,4 +1391,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007 | thesiscareers | AI Engineer | New York, NY | posted: 2026-11-01
 
+- [ ] https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 | plaid | Machine Learning Engineer - Lendscore | New York City Office | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281225007?gh_jid=5281225007 | andurilindustries | Software Engineer- Machine Learning | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007 | andurilindustries | Software Engineer- Infrastructure | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281222007?gh_jid=5281222007 | andurilindustries | Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281221007?gh_jid=5281221007 | andurilindustries | Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281217007?gh_jid=5281217007 | andurilindustries | Software Engineer, Rust | Waltham, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007 | andurilindustries | Software Engineer, Rust | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281215007?gh_jid=5281215007 | andurilindustries | Software Engineer, Battlespace Awareness | Waltham, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007 | andurilindustries | Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States | posted: 2026-11-02
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007 | andurilindustries | GNC Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/mapbox/b4a45747-32b2-4187-878e-5e48ccb3c35b | mapbox | Machine Learning Engineer III, Routing Cost | Mapbox UK · Remote | posted: 2026-10-29
+
 ## Processed
