@@ -1,25 +1,25 @@
 {
-  "fetchedAt": "2026-11-02T09:44:07.261Z",
+  "fetchedAt": "2026-11-02T19:53:54.015Z",
   "scrapedAt": "2026-11-01T19:09:59.722142+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 42,
+  "companyCount": 58,
   "companies": [
+    {
+      "company": "Anthropic",
+      "ats": "greenhouse",
+      "board": "anthropic",
+      "key": "greenhouse:anthropic",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
+    },
     {
       "company": "Applied Materials",
       "ats": "workday",
       "board": "external",
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
       "url": "https://amat.wd1.myworkdayjobs.com/external"
-    },
-    {
-      "company": "Applied Materials",
-      "ats": "greenhouse",
-      "board": "explore",
-      "key": "greenhouse:explore",
-      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519823391358065?domain=coloradowfx.gov"
     },
     {
       "company": "Argonne National Laboratory",
@@ -92,6 +92,13 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=charlesriverassociates&token=7899272"
     },
     {
+      "company": "CrowdStrike",
+      "ats": "workday",
+      "board": "crowdstrikecareers",
+      "key": "workday:crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+    },
+    {
       "company": "Crusoe",
       "ats": "ashby",
       "board": "crusoe",
@@ -104,6 +111,20 @@
       "board": "dbe",
       "key": "workday:diamondbackenergy.wd12.myworkdayjobs.com/dbe",
       "url": "https://diamondbackenergy.wd12.myworkdayjobs.com/dbe"
+    },
+    {
+      "company": "Dynatrace",
+      "ats": "greenhouse",
+      "board": "careers",
+      "key": "greenhouse:careers",
+      "url": "https://www.dynatrace.com/careers/jobs/1446286500/"
+    },
+    {
+      "company": "Emory Healthcare",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:173563",
+      "url": "https://emory.jibeapply.com/jobs/173563"
     },
     {
       "company": "Esri",
@@ -127,6 +148,13 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=figma&token=5691911004"
     },
     {
+      "company": "FIS, Inc.",
+      "ats": "workday",
+      "board": "searchjobs",
+      "key": "workday:fis.wd5.myworkdayjobs.com/searchjobs",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs"
+    },
+    {
       "company": "impact.com",
       "ats": "greenhouse",
       "board": "impact",
@@ -141,6 +169,13 @@
       "url": "https://matthey.wd3.myworkdayjobs.com/Ext_Career_Site"
     },
     {
+      "company": "Kardex",
+      "ats": "workday",
+      "board": "kardex",
+      "key": "workday:kardex.wd103.myworkdayjobs.com/kardex",
+      "url": "https://kardex.wd103.myworkdayjobs.com/kardex"
+    },
+    {
       "company": "KnowBe4",
       "ats": "greenhouse",
       "board": "knowbe4",
@@ -148,11 +183,32 @@
       "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
     },
     {
+      "company": "Lalamove",
+      "ats": "lever",
+      "board": "lalamove",
+      "key": "lever:lalamove",
+      "url": "https://jobs.lever.co/lalamove/d19288b5-119c-477e-8409-81455f5a2211"
+    },
+    {
+      "company": "Lifestyle Communities",
+      "ats": "workday",
+      "board": "lifestyle_communities_careers",
+      "key": "workday:lifestylecommunities.wd1.myworkdayjobs.com/lifestyle_communities_careers",
+      "url": "https://lifestylecommunities.wd1.myworkdayjobs.com/lifestyle_communities_careers"
+    },
+    {
       "company": "LSEG",
       "ats": "workday",
       "board": "careers",
       "key": "workday:lseg.wd3.myworkdayjobs.com/careers",
       "url": "https://lseg.wd3.myworkdayjobs.com/careers"
+    },
+    {
+      "company": "Mars, Incorporated",
+      "ats": "workday",
+      "board": "bettertogether",
+      "key": "workday:mars.wd3.myworkdayjobs.com/bettertogether",
+      "url": "https://mars.wd3.myworkdayjobs.com/bettertogether"
     },
     {
       "company": "Notion",
@@ -167,6 +223,27 @@
       "board": "nvidiaexternalcareersite",
       "key": "workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite",
       "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite"
+    },
+    {
+      "company": "OpenAI",
+      "ats": "ashby",
+      "board": "openai",
+      "key": "ashby:openai",
+      "url": "https://jobs.ashbyhq.com/openai/a46ffc60-39c6-4b1e-bd0f-9c33a8b06703"
+    },
+    {
+      "company": "ParetoHealth",
+      "ats": "greenhouse",
+      "board": "paretocaptiveservicesllc",
+      "key": "greenhouse:paretocaptiveservicesllc",
+      "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006"
+    },
+    {
+      "company": "Parker Hannifin",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:18403954",
+      "url": "https://parkercareers.ttcportals.com/jobs/18403954"
     },
     {
       "company": "Pave",
@@ -190,6 +267,13 @@
       "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers"
     },
     {
+      "company": "Plaid",
+      "ats": "ashby",
+      "board": "plaid",
+      "key": "ashby:plaid",
+      "url": "https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4"
+    },
+    {
       "company": "Rainmaker Technology Corporation",
       "ats": "ashby",
       "board": "rainmaker",
@@ -209,6 +293,13 @@
       "board": "rhoda-ai",
       "key": "ashby:rhoda-ai",
       "url": "https://jobs.ashbyhq.com/rhoda-ai/d8be2d9b-bd2c-413d-92e8-75cf8112630f"
+    },
+    {
+      "company": "Roche",
+      "ats": "workday",
+      "board": "roche-ext",
+      "key": "workday:roche.wd3.myworkdayjobs.com/roche-ext",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext"
     },
     {
       "company": "Roku",
@@ -232,11 +323,25 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=spacex&token=8925985002"
     },
     {
+      "company": "SpotOn",
+      "ats": "ashby",
+      "board": "spoton",
+      "key": "ashby:spoton",
+      "url": "https://jobs.ashbyhq.com/spoton/0bdb530e-8332-4618-b102-5e86ef1add7c"
+    },
+    {
       "company": "St. Jude Children's Research Hospital",
       "ats": "workday",
       "board": "stjude",
       "key": "workday:stjude.wd1.myworkdayjobs.com/stjude",
       "url": "https://stjude.wd1.myworkdayjobs.com/stjude"
+    },
+    {
+      "company": "Stanley Consultants",
+      "ats": "greenhouse",
+      "board": "explore",
+      "key": "greenhouse:explore",
+      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768669545556?domain=coloradowfx.gov"
     },
     {
       "company": "Symbotic",
@@ -293,6 +398,13 @@
       "board": "verifiable",
       "key": "lever:verifiable",
       "url": "https://jobs.lever.co/verifiable/064c1777-ceec-4146-905a-46ee99c3c073/apply"
+    },
+    {
+      "company": "Yext",
+      "ats": "greenhouse",
+      "board": "yext",
+      "key": "greenhouse:yext",
+      "url": "https://job-boards.greenhouse.io/yext/jobs/8334973"
     },
     {
       "company": "Yuzu",
