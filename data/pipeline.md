@@ -1606,3 +1606,6 @@
 - [ ] https://job-boards.greenhouse.io/focused/jobs/8178474003 | focused | Platform Engineer, AI Infrastructure | Denver, Colorado, United States | posted: 2026-11-03
 - [ ] https://jobs.ashbyhq.com/writer/ce86adec-e8ce-4bbf-a706-43795a982de6 | writer | Software engineer, agents | New York City, NY · Seattle, WA · Seattle · United States · San Francisco, CA · San Francisco | posted: 2026-11-03
 - [ ] https://jobs.ashbyhq.com/mercor/5ece408b-0741-4917-a3f7-27d5acb25d57 | mercor | Software Engineer, Discovery | San Francisco | posted: 2026-11-03
+
+- [ ] https://jobs.ashbyhq.com/writer/2170c74d-7726-4d8f-910e-7f4ef7ac4fd1 | writer | Software engineer, generative AI | San Francisco, CA · Seattle, WA · Seattle · United States · New York City, NY · New York City | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/writer/47dd1728-97f7-4e0d-9a7a-39009aa212a5 | writer | Software engineer, connectors & MCP | San Francisco, CA · Seattle, WA · Seattle · United States · New York City, NY · New York City | posted: 2026-11-03
