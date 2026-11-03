@@ -1030,4 +1030,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bannerhealth.wd108.myworkdayjobs.com/careers/job/Remote-Arizona/DevOps-Engineer-IV_R4455321-1 | bannerhealth | DevOps Engineer IV | Remote Arizona | posted: 2026-11-03
 - [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/FHIR-Software-Engineer-IV_R0008580 | availity | FHIR Software Engineer IV | Remote - United States | posted: 2026-11-03
 
+- [ ] https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer_R-96465 | nike | Software Engineer | Beaverton, Oregon | posted: 2026-11-03
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Frontend-Web-Developer_R0146882 | hitachi | Frontend Web Developer | Remote - India | posted: 2026-11-03
+
 ## Processed
