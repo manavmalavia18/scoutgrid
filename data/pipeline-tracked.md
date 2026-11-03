@@ -1232,4 +1232,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/ServiceNow/744000159509479 | ServiceNow | Software Engineer, Agent Eval Platform | Mountain View, CALIFORNIA, United States | posted: 2026-11-03
 - [ ] https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/San-Diego-California-United-States-of-America/Software-Engineer-II---Mobile-Apps_R-801743 | Medtronic | Software Engineer II - Mobile Apps | 2 Locations | posted: 2026-11-03
 
+- [ ] https://job-boards.greenhouse.io/charterup/jobs/5471369008 | CharterUP | Software Engineer II - Full Stack | Austin, TX | posted: 2026-11-03
+
 ## Processed
