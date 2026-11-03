@@ -1539,3 +1539,19 @@
 - [ ] https://jobs.ashbyhq.com/mirage/9e5835a2-5a70-4919-9a92-c7dc1b74163f | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-02
 - [ ] https://job-boards.eu.greenhouse.io/ecosio/jobs/4868872101 | ecosio | Site Reliability Engineer (f/m/d) | Austria, Germany, UK, Italy, Hungary, Croatia, Poland - Remote | posted: 2026-11-02
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8319386 | twilio | Software Engineer (L3) | Remote - India | posted: 2026-11-02
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8302899 | planetlabs | Site Reliability Engineer | San Francisco, CA | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/kaizenlabs/f7374a31-bb36-4aef-8a9f-58f9ff67b51a | kaizenlabs | Software Engineer | Washington, D.C. · New York, NY · New York · USA | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8337444 | reddit | Software Engineer, Infrastructure Engineering | Remote - United States | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/factory/48962b15-6796-4f34-a4ca-4cebe142103d | factory | Software Engineer, Federal | Remote | posted: 2026-11-02
+- [ ] https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8 | palantir | Software Engineer - Applied AI, Defense Applications | Washington, D.C. | posted: 2026-11-02
+- [ ] https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a | palantir | Software Engineer - Applied AI, Defense Applications | New York, NY | posted: 2026-11-02
+- [ ] https://coreweave.com/careers/job?4719916006&board=coreweave&gh_jid=4719916006 | coreweave | Software and AI Engineer | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8347710 | smartsheet | Software Engineer I (Remote Eligible) | -REMOTE, USA- | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/speak/607e0571-9459-487c-8c9d-03248993aae8 | speak | Backend Engineer, Payments | San Francisco | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8328365 | drweng | Software Engineer - Trading Operations | Chicago | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/twosixtechnologies/jobs/6239541004 | twosixtechnologies | Software Engineer | Arlington, Virginia | posted: 2026-11-02
+- [ ] https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245 | qualtrics | Software Development Engineer I - Data Platform | Seattle, Washington, United States | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5280545007 | verkada | Backend Software Engineer - University Graduate 2027 | San Mateo, CA United States | posted: 2026-11-02
+- [ ] https://www.qualtrics.com/careers/us/en/job/8325680?gh_jid=8325680 | qualtrics | Software Engineer II - XMD | Seattle, Washington, United States | posted: 2026-11-02
+- [ ] https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652 | qualtrics | Software Engineer I - XMD | Seattle, Washington, United States | posted: 2026-11-02
