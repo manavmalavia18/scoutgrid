@@ -16768,6 +16768,111 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Clover Sonoma"
+    careers_url: https://jobs.ashbyhq.com/clover-sonoma
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Engelhart Commodities Trading Partners"
+    careers_url: https://job-boards.greenhouse.io/engelhart
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pallet"
+    careers_url: https://job-boards.greenhouse.io/pallet
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Paperless Parts"
+    careers_url: https://job-boards.greenhouse.io/paperlessparts
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Airgas"
+    careers_url: https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Arrowstreet Capital"
+    careers_url: https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Bristol Myers Squibb"
+    careers_url: https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CDW"
+    careers_url: https://cdw.wd5.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "NorthMark Strategies"
+    careers_url: https://northmark.wd108.myworkdayjobs.com/nms
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Palo Alto Networks"
+    careers_url: https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Skidmore, Owings & Merrill"
+    careers_url: https://som.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sulzer"
+    careers_url: https://sulzer.wd502.myworkdayjobs.com/sulzerjobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Options Clearing Corporation"
+    careers_url: https://theocc.wd5.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "TIAA"
+    careers_url: https://tiaa.wd1.myworkdayjobs.com/Search
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Trintech"
+    careers_url: https://trintech.wd501.myworkdayjobs.com/trintech
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "United Therapeutics"
+    careers_url: https://vhr-unither.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Watts Water Technologies"
+    careers_url: https://wattswater.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "X-energy"
+    careers_url: https://xenergy.wd5.myworkdayjobs.com/x-energyus
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
