@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T22:14:50.798Z",
+  "fetchedAt": "2026-11-03T23:16:08.369Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -24,29 +24,175 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 0,
+  "pagesFetched": 9,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
     "software engineer": null,
     "software developer": null,
     "backend engineer": null,
-    "frontend engineer": null,
+    "frontend engineer": 15,
     "full stack engineer": null,
-    "full stack developer": null,
+    "full stack developer": 116,
     "platform engineer": null,
-    "devops engineer": null,
+    "devops engineer": 48,
     "site reliability engineer": null,
     "data engineer": null,
-    "machine learning engineer": null,
-    "mobile engineer": null,
+    "machine learning engineer": 30,
+    "mobile engineer": 20,
     "ios engineer": null,
-    "android engineer": null,
-    "qa automation engineer": null,
+    "android engineer": 11,
+    "qa automation engineer": 8,
     "security engineer": null
   },
-  "count": 968,
+  "count": 1059,
   "jobs": [
+    {
+      "title": "Business Applications Developer",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=64b85cdf-e793-428c-847d-3c083156603d&ccId=9151418234962_3719&jobId=577759&lang=en_US",
+      "company": "Hygiena",
+      "location": "Nevada, United States",
+      "postedAt": 1793744408140,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Computer Science or related field or equivalent experience; 3+ years building production solutions on Microsoft Power Platform; Dynamics 365 configuration experience; Azure DevOps experience; ability to gather requirements and test solutions.",
+      "tools": [
+        "Microsoft Power Platform",
+        "Power Apps",
+        "Power Automate",
+        "Dataverse",
+        "Dynamics 365",
+        "Azure DevOps",
+        "JavaScript",
+        "Power BI"
+      ],
+      "company_tagline": "A provider of rapid microbiology diagnostic tests and solutions for food safety and other mission-critical processes.",
+      "ats_source": "adp",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "AI Solutions Engineer",
+      "url": "https://jobs.wisc.edu/jobs/ai-solutions-engineer-madison-wisconsin-united-states",
+      "company": "University of Wisconsin–Madison",
+      "location": "United States or Madison",
+      "postedAt": 1793742632000,
+      "salary": "$110k-$130k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Demonstrated experience with Python, Go, or Rust; cloud infrastructure (AWS, Azure, GCP) and Terraform; CI/CD and DevOps; Kubernetes; monitoring and security; hybrid platforms; bachelor's degree preferred; U.S. work authorization without sponsorship.",
+      "tools": [
+        "Python",
+        "Go",
+        "Rust",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Terraform",
+        "Kubernetes",
+        "GitHub Copilot",
+        "Claude Code",
+        "Microsoft Foundry",
+        "Google Cloud"
+      ],
+      "company_tagline": "A public research university providing education and research, with a division of information technology supporting campus and statewide services.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Battery Algorithm ML Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200692554-0836/battery-algorithm-ml-engineer",
+      "company": "Apple",
+      "location": "Cupertino, California, United States",
+      "postedAt": 1793742267020,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "MS degree in Computer Science, Electrical Engineering, Mechanical Engineering, or related field; experience in machine learning and deep learning; programming in Python and C++.",
+      "tools": [
+        "Python",
+        "C++"
+      ],
+      "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Wi-Fi /BT/Thread Stability QA Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200692763-3543/wi-fi-bt-thread-stability-qa-engineer-wireless-technologies-ecosystems",
+      "company": "Apple",
+      "location": "San Diego, California, United States",
+      "postedAt": 1793739226518,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience in wireless testing (WiFi/Bluetooth), automation in C/C++/Python/shell, SQA methodologies, OS concepts, test strategy development, and a Bachelor's degree in Computer Science, Electronics, or Telecommunications Engineering.",
+      "tools": [
+        "C",
+        "C++",
+        "Python",
+        "Shell"
+      ],
+      "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Automation Engineer",
+      "url": "https://jobs.workable.com/view/biJrADEoyCXBufCkBTmwRt/automation-engineer-in-lexington-at-psi",
+      "company": "PSI Law Firm",
+      "location": "Lexington, Kentucky, United States",
+      "postedAt": 1793736777867,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's or master's in robotics, computer science, data science, electrical or mechanical engineering; demonstrated manufacturing automation experience; robotics, AI/ML, or advanced automation; Python, C++, ROS; computer vision, machine learning, or robotics.",
+      "tools": [
+        "Python",
+        "C++",
+        "ROS"
+      ],
+      "company_tagline": "A strategic partner connecting professionals in legal, engineering, and healthcare with career-defining opportunities.",
+      "ats_source": "workable",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Software Engineer, Full Stack",
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8678619002",
+      "company": "Pendo.io",
+      "location": "Raleigh, North Carolina, United States",
+      "postedAt": 1793736168000,
+      "salary": "$108k-$131k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2+ years software engineering experience building production web apps; full-stack with strong frontend in JavaScript/TypeScript and component framework; daily AI tool use; testing strategies; communication; Bachelor's in Computer Science or equivalent.",
+      "tools": [
+        "Vue",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Angular",
+        "Go",
+        "GCP",
+        "MCP",
+        "LLM"
+      ],
+      "company_tagline": "A software company that helps customers understand and improve their product experiences.",
+      "ats_source": "grnhse",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
     {
       "title": "Software Engineer Intern (SDS e-Commerce Team)",
       "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/requisitions/job/77133",
@@ -75,7 +221,52 @@
       "company_tagline": "A business-to-business retailer offering office products and services.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Camera Algorithms Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200693185-0836/camera-algorithms-engineer",
+      "company": "Apple",
+      "location": "Cupertino, California, United States",
+      "postedAt": 1793732914623,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "MS degree in Electrical Engineering, Computer Science, Math, Physics or similar; hands-on runtime ISP algorithm development; ISP HW pipeline knowledge; camera module optical stack and CMOS Bayer sensor knowledge.",
+      "tools": [
+        "Apple Neural Engine"
+      ],
+      "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Software Engineer II - Full Stack",
+      "url": "https://job-boards.greenhouse.io/charterup/jobs/5471369008",
+      "company": "CharterUP",
+      "location": "Austin or Arizona or Florida or Georgia or Hawaii or Mississippi or Missouri or North Carolina or New Hampshire or Nevada or New York or Oklahoma or South Dakota or Tennessee or Texas or Utah or Washington or Wyoming",
+      "postedAt": 1793732307000,
+      "salary": "$120k-$135k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2+ years professional software engineering experience; frontend skills in Vue, React, or Angular; backend in Java, Kotlin, C#; familiarity with AWS, automated testing, and AI-assisted development tools.",
+      "tools": [
+        "JavaScript",
+        "Vue",
+        "React",
+        "Java",
+        "AWS",
+        "Angular",
+        "Kotlin",
+        "C#"
+      ],
+      "company_tagline": "An AI-native platform powering modern charter, shuttle, and autonomous vehicle operations.",
+      "ats_source": "grnhse",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Systems Security Engineer - Night Shift (Multiple Offices)",
@@ -149,6 +340,25 @@
       "lastSeenAt": "2026-11-03T20:54:57.012Z"
     },
     {
+      "title": "Corporate IT Full Stack Development Intern",
+      "url": "https://secure.entertimeonline.com/ta/kpay1001560.careers?ShowJob=906113668",
+      "company": "Fareway Stores",
+      "location": "Johnston, Iowa, United States",
+      "postedAt": 1793732188890,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "Current college/university student or recent graduate in Computer Science, IT, Software Development or related field; foundational programming and web development knowledge; strong communication and organizational skills.",
+      "tools": [
+        "GitHub"
+      ],
+      "company_tagline": "A grocery retailer with a corporate headquarters in Johnston, Iowa, offering an IT internship program.",
+      "ats_source": "saashr",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
       "title": "Site Reliability Engineer",
       "url": "https://treasury.tn.gov/Portals/0/Documents/Human%20Resources/Site_Reliability_Engineer.pdf",
       "company": "Tennessee Department of Treasury",
@@ -176,7 +386,7 @@
       "company_tagline": "A state government department managing financial operations and providing public-serving programs for Tennesseans.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer",
@@ -201,6 +411,131 @@
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
       "lastSeenAt": "2026-11-03T20:54:57.012Z"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://recruiting.ultipro.com/chi1001chim/JobBoard/b028c638-a40c-4430-b28c-b4904e06b9aa/OpportunityDetail?opportunityId=d32b2db0-4a6e-42bf-b64a-1b5224da80e4",
+      "company": "Chimes",
+      "location": "United States or Los Angeles or Washington or Baltimore or New Castle or Dallas or Orlando",
+      "postedAt": 1793730564629,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years in software engineering, data engineering, machine learning, or AI; hands-on production AI experience; Python, SQL, cloud, containers preferred; legal authorization to work in the US without sponsorship.",
+      "tools": [
+        "Python",
+        "SQL",
+        "LangChain",
+        "LlamaIndex",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "company_tagline": "A non-profit organization that designs, builds, and deploys AI solutions for mission-critical work.",
+      "ats_source": "ultipro",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://recruiting.ultipro.com/chi1001chim/JobBoard/b5094327-4f49-4cf1-86f3-fc4c2553cf11/OpportunityDetail?opportunityId=d32b2db0-4a6e-42bf-b64a-1b5224da80e4",
+      "company": "Chimes",
+      "location": "United States or Los Angeles or Washington or Baltimore or New Castle or Dallas or Orlando",
+      "postedAt": 1793730564629,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years in software engineering, data engineering, machine learning, or AI; hands-on production AI experience; Python, SQL, cloud, containers preferred; US work authorization required; no visa sponsorship.",
+      "tools": [
+        "Python",
+        "SQL",
+        "LangChain",
+        "LlamaIndex",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "company_tagline": "A non-profit organization that designs and deploys AI solutions for mission-critical work.",
+      "ats_source": "ultipro",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://recruiting.ultipro.com/chi1001chim/JobBoard/39e926fb-d9d0-42e8-badd-7edf4e231550/OpportunityDetail?opportunityId=d32b2db0-4a6e-42bf-b64a-1b5224da80e4",
+      "company": "Chimes",
+      "location": "United States or Los Angeles or Washington or Baltimore or New Castle or Dallas or Orlando",
+      "postedAt": 1793730564629,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years in software engineering, data engineering, machine learning, or AI; hands-on experience putting models or AI services into production; Python, SQL, cloud, and containers preferred; legally authorized to work in the US.",
+      "tools": [
+        "LangChain",
+        "LlamaIndex",
+        "Python",
+        "SQL",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "company_tagline": "A non-profit organization that designs, builds, and deploys AI solutions for mission-critical work.",
+      "ats_source": "ultipro",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://recruiting.ultipro.com/chi1001chim/JobBoard/962517aa-c5dd-4b75-922d-2a2d1dbadebe/OpportunityDetail?opportunityId=d32b2db0-4a6e-42bf-b64a-1b5224da80e4",
+      "company": "Chimes",
+      "location": "United States or Los Angeles or Washington or Baltimore or New Castle or Dallas or Orlando",
+      "postedAt": 1793730564629,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years in software engineering, data engineering, machine learning, or AI; hands-on experience putting models or AI services into production; Python, SQL, cloud, and containers are a plus; legally authorized to work in the US.",
+      "tools": [
+        "Python",
+        "SQL",
+        "LangChain",
+        "LlamaIndex",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "company_tagline": "A non-profit organization that designs, builds, and deploys AI solutions for mission-critical work.",
+      "ats_source": "ultipro",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://recruiting.ultipro.com/chi1001chim/JobBoard/f9e14e70-5672-4197-98d7-8863bec7c6ff/OpportunityDetail?opportunityId=d32b2db0-4a6e-42bf-b64a-1b5224da80e4",
+      "company": "Chimes",
+      "location": "United States or Los Angeles or Washington or Baltimore or New Castle or Dallas or Orlando",
+      "postedAt": 1793730564629,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years in software engineering, data engineering, machine learning, or AI; hands-on experience putting models or AI services into production; Python, SQL, cloud, and containers are a plus; legally authorized to work in the US.",
+      "tools": [
+        "Python",
+        "SQL",
+        "LangChain",
+        "LlamaIndex",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "company_tagline": "A non-profit organization that designs, builds, and deploys AI solutions for mission-critical work.",
+      "ats_source": "ultipro",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer Advanced",
@@ -337,7 +672,7 @@
       "company_tagline": "An innovative Managed Security Service Provider protecting customer data and making technology available, productive, and secure.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Civil Engineer II or Senior Civil Engineer",
@@ -499,6 +834,36 @@
       "ats_source": "adp",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
       "lastSeenAt": "2026-11-03T20:54:57.012Z"
+    },
+    {
+      "title": "Full Stack Application Developer",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/2628221",
+      "company": "Sherwin-Williams",
+      "location": "Cleveland, Ohio, United States",
+      "postedAt": 1793726425000,
+      "salary": "$97k-$124k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Must be 18+, legally authorized to work without sponsorship, US citizen or Green Card holder, bachelor's in computer science or 3 years experience, 2+ years software development, Java/C++/Python/Ruby, Git/Jenkins, 5% travel.",
+      "tools": [
+        "Java",
+        "C++",
+        "Python",
+        "Ruby",
+        "Git",
+        "Jenkins",
+        "Oracle SQL",
+        "PL/SQL",
+        "JEE",
+        "Jakarta EE",
+        "REST",
+        "SOAP"
+      ],
+      "company_tagline": "A company that colors and protects what matters through paints, coatings, and innovative solutions.",
+      "ats_source": "oraclecloud",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Forward Deployed Engineer",
@@ -891,7 +1256,7 @@
       "company_tagline": "A digital gaming company building online sportsbook, casino, and social gaming products.",
       "ats_source": "recruitee",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Substation Physical Designer",
@@ -1134,6 +1499,23 @@
       "lastSeenAt": "2026-11-03T21:22:51.594Z"
     },
     {
+      "title": "Manufacturing Engineer",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4636183",
+      "company": "Wasco Switches & Sensors",
+      "location": "Emmett, Idaho, United States",
+      "postedAt": 1793721334000,
+      "salary": "$73k-$86k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor of Science in Engineering; 2-4 years relevant experience preferred; advanced knowledge of equipment maintenance, GD&T, tolerance stack-up, SPC, DOE, Cpk; ability to lift 50 lbs; occasional travel.",
+      "tools": [],
+      "company_tagline": "A manufacturer of switches and sensors.",
+      "ats_source": "paylocity",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
       "title": "Intern, Firmware",
       "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c66a3387ef016a468ba9d104e6&id=8a7887a8a18473d601a19dc4631d64a5&source=&lang=en",
       "company": "Ayar Labs",
@@ -1236,7 +1618,7 @@
       "company_tagline": "A provider of secure, cloud-based IT solutions for enterprises and government agencies.",
       "ats_source": "paycor",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Traction Power Project Engineer",
@@ -1338,7 +1720,7 @@
       "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Structural Engineer",
@@ -1386,7 +1768,7 @@
       "company_tagline": "An AI-native financial operating system for health systems, providing real-time visibility into margin risk and actionable plans.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer II",
@@ -1467,7 +1849,7 @@
       "company_tagline": "An end-to-end technology and business services platform simplifying the real estate lifecycle for consumers and agents.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Remote Python/Typescript Engineer",
@@ -1766,7 +2148,7 @@
       "company_tagline": "A leading financial services firm helping households and small businesses achieve their financial goals.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "System Protection & Studies Engineer",
@@ -1965,7 +2347,7 @@
       "company_tagline": "A Fortune 500 technology solutions provider helping organizations achieve what's possible through technology.",
       "ats_source": "ttcportals",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Incident Response Product Security Engineer II",
@@ -2297,7 +2679,7 @@
       "company_tagline": "A company building an enterprise AI SaaS product.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer",
@@ -2385,7 +2767,7 @@
       "company_tagline": "A research and development center for Hyundai MOBIS, a Tier 1 supplier of automotive components.",
       "ats_source": "paylocity",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Information Security Engineer (DevSecOps)",
@@ -2836,7 +3218,160 @@
       "company_tagline": "A telecommunications company that powers and empowers how people live, work, and play by connecting them to what brings them joy.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-151",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793706832080,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong architecture, design, debugging, and code review skills; excellent communication; must be based in US, Canada, or UK, Netherlands, Italy, Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C",
+        "C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer - Rust",
+      "url": "https://turing.betterteam.com/remote-software-engineer-rust-87",
+      "company": "Turing",
+      "location": "United States or Canada or Austria or Belgium or France or Germany",
+      "postedAt": 1793704963969,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software expertise; deep understanding of architecture, design, development, debugging, and code quality; excellent communication; must be based in US, Canada, or specified Western European countries.",
+      "tools": [
+        "Rust",
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote C# Developer",
+      "url": "https://turing.betterteam.com/remote-c-developer-16",
+      "company": "Turing",
+      "location": "United States or Canada or Europe",
+      "postedAt": 1793704961749,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software expertise; deep understanding of software architecture, design, development, debugging, and code quality; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "C#",
+        "C++",
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer (C++)",
+      "url": "https://turing.betterteam.com/remote-software-engineer-%28c-%29-15",
+      "company": "Turing",
+      "location": "United States or Canada or Austria or Belgium or France or Germany",
+      "postedAt": 1793704959568,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, or specified Western European countries.",
+      "tools": [
+        "C++",
+        "C",
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Java Developer",
+      "url": "https://turing.betterteam.com/remote-java-developer-94",
+      "company": "Turing",
+      "location": "United States or Canada or Europe",
+      "postedAt": 1793704957210,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, or Western Europe; AI video interview required.",
+      "tools": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Python Developer",
+      "url": "https://turing.betterteam.com/remote-python-developer-96",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793704952135,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States; AI video interview required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer, Data, AI & UX",
@@ -2929,6 +3464,32 @@
       "lastSeenAt": "2026-11-03T20:54:57.012Z"
     },
     {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-109",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793702567032,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
       "title": "Software Engineering, YouTube Ads Marketplace Optimization",
       "url": "https://careers.google.com/jobs/results/113412361280201414-software-engineering/",
       "company": "Google",
@@ -2943,7 +3504,789 @@
       "company_tagline": "A video-sharing platform that develops advertising and machine learning technologies.",
       "ats_source": "google",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-106",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793700150766,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development and scalable deployment; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-105",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793700148182,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-104",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793700145753,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-103",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793700143105,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-102",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793700140597,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-101",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793700137808,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Backend Engineer (Python/FastAPI)",
+      "url": "https://turing.betterteam.com/remote-backend-engineer-%28python-fastapi%29-100",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793700134450,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Engineer",
+      "url": "https://turing.betterteam.com/remote-full-stack-engineer-19",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699708342,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Engineer",
+      "url": "https://turing.betterteam.com/remote-full-stack-engineer-18",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699699450,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Engineer",
+      "url": "https://turing.betterteam.com/remote-full-stack-engineer-17",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699696760,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Engineer",
+      "url": "https://turing.betterteam.com/remote-full-stack-engineer-16",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699693541,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development experience; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Engineer",
+      "url": "https://turing.betterteam.com/remote-full-stack-engineer-15",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699690691,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Engineer",
+      "url": "https://turing.betterteam.com/remote-full-stack-engineer-13",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699684242,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States; AI video interview required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Engineer",
+      "url": "https://turing.betterteam.com/remote-full-stack-engineer-11",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699678334,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract · Part Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality assessment; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-19",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699675339,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality assessment; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-18",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699672484,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-17",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699668044,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States; AI video interview required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-16",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699664142,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development experience; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-15",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699661480,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development and scalable deployment; software architecture and code quality; excellent communication; US-based; contractor role.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-14",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699658654,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-13",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699655617,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development and scalable deployment; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-12",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699652654,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-11",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793699649681,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development and scalable deployment; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-19",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699645741,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software expertise; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, UK, Netherlands, Italy, or Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-18",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699643209,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong communication; must be based in US, Canada, UK, Netherlands, Italy, or Germany; minimum 10 hrs/week with partial PST overlap.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-16",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699637378,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, or Western Europe; partial PST overlap required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-15",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699634845,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack development and production-grade software skills; deep understanding of software architecture, design, debugging, and code quality; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-13",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699629488,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, or Western Europe; partial PST overlap required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-12",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699626633,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, UK, Netherlands, Italy, or Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-11",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699624208,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack development and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer ($200/hr)",
+      "url": "https://turing.betterteam.com/remote-software-developer-%28-200-hr%29-10",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793699621290,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong software architecture and code quality assessment; excellent communication; must be based in US, Canada, UK, Netherlands, Italy, or Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Process Control Engineer",
@@ -2985,6 +4328,782 @@
       "lastSeenAt": "2026-11-03T20:54:57.012Z"
     },
     {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-94",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698617334,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States; AI video interview required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-93",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698614745,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C",
+        "C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-92",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698611847,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-91",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698609445,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development and scalable deployment; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-90",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698606621,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-89",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698604296,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality assessment; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-88",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698601450,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-87",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698599086,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-86",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793698596656,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-155",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698593987,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong software architecture and code quality assessment; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-154",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698591864,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong architecture, design, debugging, and code review skills; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-153",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698589566,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong software architecture and code quality assessment; excellent communication; must be based in US, Canada, or Western Europe; minimum 10 hrs/week.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-152",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698587184,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong architecture, design, debugging, and code review skills; excellent communication; must be based in US, Canada, or UK, Netherlands, Italy, Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-151",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698584953,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, or Western Europe (UK, Netherlands, Italy, Germany).",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-150",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698582653,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong software architecture and code quality assessment; excellent communication; must be based in US, Canada, or Western Europe; partial PST overlap required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-149",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698580487,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, UK, Netherlands, Italy, or Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-148",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698578166,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong architecture, design, debugging, and code review skills; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-147",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698576002,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-150",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698573737,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, or Western Europe; minimum 10 hrs/week.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-149",
+      "company": "Turing",
+      "location": "Vancouver or United States or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698571427,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and scalable production-grade software skills; deep understanding of software architecture, design, development, debugging, and code quality; excellent communication; must be based in US, Canada, or Western European countries.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-148",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698569173,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong architecture, design, debugging, and code review skills; excellent communication; must be based in US, Canada, or UK, Netherlands, Italy, Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-147",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698566994,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and production-grade software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-146",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698563198,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, or UK, Netherlands, Italy, Germany; partial PST overlap.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-145",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698560416,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, or Western Europe; partial PST overlap required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-144",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698557179,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and scalable production-grade software skills; deep understanding of software architecture, design, development, debugging, and code quality; excellent communication; must be based in US, Canada, or Western Europe.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-143",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698554665,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and scalable production-grade development; deep software architecture and code quality understanding; excellent communication; must be based in US, Canada, or Western Europe; partial PST overlap required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-142",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793698551103,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; expertise in full-stack development and scalable production software; strong software architecture and code quality skills; excellent communication; must be based in US, Canada, or Western Europe (UK, Netherlands, Italy, Germany).",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Full Stack Developer",
+      "url": "https://turing.betterteam.com/remote-full-stack-developer-10",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793697849924,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; experience building full-stack applications; deep understanding of software architecture and code quality; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "url": "https://turing.betterteam.com/remote-senior-software-developer-85",
+      "company": "Turing",
+      "location": "United States",
+      "postedAt": 1793697847339,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong Python expertise; full-stack development; software architecture and code quality assessment; excellent communication; must be based in the United States.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Developer",
+      "url": "https://turing.betterteam.com/remote-software-developer-146",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793697844494,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and scalable production-grade software skills; deep understanding of software architecture, design, development, debugging, and code quality; excellent communication; must be based in US, Canada, or UK, Netherlands, Italy, Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Remote Software Engineer",
+      "url": "https://turing.betterteam.com/remote-software-engineer-141",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1793697842228,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, or Western Europe; partial PST overlap required.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
       "title": "Software Engineer II",
       "url": "https://www.atlassian.com/company/careers/details/27346",
       "company": "Atlassian",
@@ -3005,7 +5124,33 @@
       "company_tagline": "A software company that builds products to help teams collaborate and work together.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Front End Development Engineer, DASH",
+      "url": "https://www.amazon.jobs/en/jobs/10594886/front-end-development-engineer-dash",
+      "company": "Amazon",
+      "location": "Redmond, Washington, United States",
+      "postedAt": 1793695768207,
+      "salary": "$144k-$194k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years professional front-end development experience; knowledge of software engineering best practices; experience with RESTful APIs, WebSocket, and asynchronous programming; AI fluency; U.S. citizenship, permanent residence, refugee, or asylum status required.",
+      "tools": [
+        "React",
+        "Angular",
+        "Vue.js",
+        "HTML5",
+        "CSS3",
+        "TypeScript",
+        "RESTful APIs",
+        "WebSocket"
+      ],
+      "company_tagline": "An Amazon subsidiary focused on manufacturing and developing satellite-based internet services.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Designer-Billings",
@@ -3137,7 +5282,7 @@
       "company_tagline": "A hard-tech company developing innovative systems to reshape the physical world through engineering, robotics, and automation.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Full Stack Web Developer",
@@ -3167,7 +5312,7 @@
       "company_tagline": "A company building intelligent robotic systems to terraform the Earth, supporting climate resilience and disaster recovery.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Mechanical Engineer, Satellites (Starlink)",
@@ -3236,7 +5381,7 @@
       "company_tagline": "A life insurance society offering financial security and community support.",
       "ats_source": "dayforce",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "2027 Summer Quality Assurance Intern",
@@ -3344,6 +5489,30 @@
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
       "lastSeenAt": "2026-11-03T21:22:51.594Z"
+    },
+    {
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job?in_iframe=1",
+      "company": "Charter Communications",
+      "location": "Englewood, Colorado, United States",
+      "postedAt": 1793682000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time · Internship",
+      "yoe": "",
+      "summary": "Rising senior with expected graduation Dec 2027-May 2028; enrolled in bachelor's degree in computer science, data science, electrical/computer engineering, computer information systems, or IT; 3.0+ GPA; U.S. work authorization without sponsorship.",
+      "tools": [
+        "Python",
+        "C",
+        "Java",
+        "Android",
+        "AI",
+        "ML"
+      ],
+      "company_tagline": "A connectivity company serving millions of customers nationwide.",
+      "ats_source": "icims2",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer II - Marketplace Efficiency (Bidding)",
@@ -3566,7 +5735,7 @@
       "company_tagline": "A technology company that designs and develops consumer electronics, software, and online services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "AI Application Developer",
@@ -3690,6 +5859,29 @@
       "lastSeenAt": "2026-11-03T21:22:51.594Z"
     },
     {
+      "title": "Manufacturing Engineer",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4547a279-92be-4f71-9676-d4a7f4791677&ccId=9200508194749_2&jobId=599760&lang=en_US",
+      "company": "HBD Industries",
+      "location": "Valencia, California, United States",
+      "postedAt": 1793676122570,
+      "salary": "$105k-$120k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2+ years in production CNC machining (VMC, HMC, 5-axis, lathe); 1+ year MRP/ERP experience; continuous improvement and 5S; Microsoft Office; CAD/3D modeling; tolerance stack-up; GD&T per ASME Y14.5.",
+      "tools": [
+        "Microsoft Office",
+        "CAD",
+        "SolidWorks",
+        "ERP",
+        "MRP"
+      ],
+      "company_tagline": "An industrial manufacturing company focused on precision machining and process improvement.",
+      "ats_source": "adp",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
       "title": "Software Engineer III- iOS Mobile Development",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210803234",
       "company": "JPMorgan Chase",
@@ -3717,7 +5909,7 @@
       "company_tagline": "A global financial institution offering innovative solutions to consumers, businesses, and institutional clients.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "EDA Cloud & Developer Infrastructure Engineer",
@@ -3786,7 +5978,32 @@
       "company_tagline": "A global healthcare organization delivering care aided by technology to improve health outcomes.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "AI Software Developer",
+      "url": "https://www.3ds.com/careers/jobs/ai-software-developer-550730",
+      "company": "Dassault Systèmes",
+      "location": "Waltham, Massachusetts, United States",
+      "postedAt": 1793671892000,
+      "salary": "$110k-$130k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Fundamental AI/ML knowledge, strong C# or Java, CI tools like Jenkins, scripting in PowerShell/Python/JavaScript, machine learning, test frameworks, API testing, SCM tools like GIT.",
+      "tools": [
+        "C#",
+        "Java",
+        "Jenkins",
+        "PowerShell",
+        "Python",
+        "JavaScript",
+        "GIT"
+      ],
+      "company_tagline": "A software company providing 3D design and cloud-connected product development solutions.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Materials & Failure Analysis Technician",
@@ -4140,7 +6357,7 @@
       "company_tagline": "A company developing space technologies to enable human life on Mars and operating the Starlink broadband internet system.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Research Engineer, Benchmarks & Evaluation",
@@ -4291,7 +6508,7 @@
       "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Refrigeration Designer II",
@@ -4343,7 +6560,7 @@
       "company_tagline": "A leading online employment marketplace connecting job seekers and businesses through AI-driven smart matching technology.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer, Big Data, Tech Enablement",
@@ -4376,6 +6593,92 @@
       "lastSeenAt": "2026-11-03T01:20:51.199Z"
     },
     {
+      "title": "Software Developer – Full Stack (Internal Applications) - Kennesaw, GA",
+      "url": "https://unitedcs.applicantpro.com/jobs/4265112",
+      "company": "United Contractor Services",
+      "location": "Kennesaw, Georgia, United States",
+      "postedAt": 1793664000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years full-stack development experience; proficiency in C#, Python, or JavaScript/Node; front-end skills in HTML, CSS, JavaScript with React, Angular, or Vue; strong SQL and REST/JSON API integration; Git; on-site daily in Kennesaw, GA.",
+      "tools": [
+        "Viewpoint Vista",
+        "Procore",
+        "ADP",
+        "Paylocity",
+        "Microsoft 365",
+        "Microsoft Entra ID",
+        "Microsoft Teams",
+        "Microsoft Power Platform",
+        "Microsoft Azure",
+        "ManageEngine ServiceDesk",
+        "Freshservice",
+        "C#"
+      ],
+      "company_tagline": "A national specialty contractor delivering commercial interior scopes including metal framing, drywall, and acoustical ceilings.",
+      "ats_source": "applicantpro",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Software Engineer 2 ( Full Stack - Java, Spring Boot, React)",
+      "url": "https://careers.usbank.com/global/en/job/2026-0033537/Software-Engineer-2-Full-Stack-Java-Spring-Boot-React",
+      "company": "U.S. Bank",
+      "location": "Irving or Atlanta or Minneapolis or Charlotte",
+      "postedAt": 1793664000000,
+      "salary": "$105k-$124k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree or equivalent work experience; 3-5 years relevant experience; strong full-stack development skills with React, Next.js, TypeScript, Java Spring Boot, and cloud platforms.",
+      "tools": [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "HTML5",
+        "CSS",
+        "Node.js",
+        "Python",
+        "Java Spring Boot",
+        "Redux",
+        "AWS",
+        "Azure"
+      ],
+      "company_tagline": "A financial institution helping customers and businesses make better financial decisions.",
+      "ats_source": "phenompeople",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
+      "title": "Power Integrity Engineer",
+      "url": "https://amphenol-tcs.acquiretm.com/job_details_clean.aspx?ID=9179",
+      "company": "Amphenol Corporation",
+      "location": "Valley Green, Pennsylvania, United States",
+      "postedAt": 1793664000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Electrical Engineering or related field (Master's preferred); 3+ years experience in power integrity, signal integrity, or hardware design; proficiency with PDN simulation tools, SPICE, and PCB stack-up design.",
+      "tools": [
+        "Keysight PIPro",
+        "ANSYS Q3D",
+        "HFSS",
+        "SIwave",
+        "Cadence Sigrity PowerSI",
+        "SPICE",
+        "MATLAB",
+        "Python"
+      ],
+      "company_tagline": "A world leader in interconnect solutions for communications, mobile, RF, optics, and commercial electronics markets.",
+      "ats_source": "acquiretm",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
       "title": "HPC Hardware Engineer, Firmware Management",
       "url": "https://northmark.wd108.myworkdayjobs.com/nms/job/Dallas-TX/HPC-Hardware-Engineer--Firmware-Management_R13404",
       "company": "NorthMark Strategies",
@@ -4403,7 +6706,7 @@
       "company_tagline": "A technology company operating at the bleeding edge of high-performance computing and cloud infrastructure.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "IT Cloud Engineer",
@@ -4433,7 +6736,7 @@
       "company_tagline": "A leading membership warehouse club offering unbeatable value and convenience to millions of members.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "IT Applications Developer (Robotic Process Automation)",
@@ -4457,7 +6760,7 @@
       "company_tagline": "A state agency providing health and human services to Nebraskans.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Security Engineer II",
@@ -4703,7 +7006,7 @@
       "company_tagline": "A Boston-based systematic investment firm managing global equity portfolios for institutional investors.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Engineer, Propulsion System Diagnostic Software Validation",
@@ -5440,7 +7743,7 @@
       "company_tagline": "A national specialty subcontractor and Top 50 Walls and Ceilings contractor in North America.",
       "ats_source": "applicantpro",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Full Stack Developer - Kennesaw, GA",
@@ -5470,7 +7773,7 @@
       "company_tagline": "A construction services company providing contractor solutions and project management.",
       "ats_source": "applicantpro",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Business Systems Developer - Ecommerce & Business Systems",
@@ -5622,7 +7925,7 @@
       "company_tagline": "A telecommunications company that powers and empowers how people live, work, and play by connecting them to what brings them joy.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Integration Engineer 4 (Oracle Database)",
@@ -5678,7 +7981,7 @@
       "company_tagline": "A technology company developing cross-platform computer vision and embedded systems.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "C++ Engineer (Computer Vision/Embedded Systems)",
@@ -5997,7 +8300,7 @@
       "company_tagline": "The world's largest home improvement specialty retailer operating over 2,200 retail stores across North America.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "VDC Manager",
@@ -6190,7 +8493,7 @@
       "company_tagline": "A global entertainment company creating magical viewing experiences and transforming its media business.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "SOFTWARE DEVELOPER ADVANCED - 11032026- 82501",
@@ -6241,7 +8544,7 @@
       "company_tagline": "A global professional services organization helping clients shape the future with confidence through assurance, consulting, tax, strategy, and transactions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Mechatronics Engineer I",
@@ -6291,7 +8594,7 @@
       "company_tagline": "An award-winning provider of cloud-based HR and payroll software solutions for the modern workforce.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer (Sunnyvale, CA)",
@@ -6434,7 +8737,7 @@
       "company_tagline": "A global healthcare organization delivering care aided by technology to help people live healthier lives.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer, Infrastructure Engineering",
@@ -6492,7 +8795,7 @@
       "company_tagline": "A technology company behind the PlayStation brand, delivering hardware, network services, and entertainment experiences.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Engineer II, Product Development Design, Air Manufacturing Innovation",
@@ -6535,7 +8838,7 @@
       "company_tagline": "An early-stage deep-tech AI startup building helpful AI experiences.",
       "ats_source": "workable",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Bid & Proposal Engineer",
@@ -6806,7 +9109,7 @@
       "company_tagline": "A sports and entertainment company operating the Vegas Golden Knights and other sports, venue, and hospitality entities.",
       "ats_source": "paylocity",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Engineering Internship - Summer 2027",
@@ -6924,7 +9227,7 @@
       "company_tagline": "A technology company delivering business software solutions.",
       "ats_source": "adp",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer",
@@ -7080,7 +9383,7 @@
       "company_tagline": "A company creating digital experiences for medical education and healthcare outcomes.",
       "ats_source": "breezy",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "APPLICATION DEVELOPER",
@@ -7127,7 +9430,7 @@
       "company_tagline": "A company creating digital experiences for medical education and healthcare improvement.",
       "ats_source": "breezy",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Drafter 1st  Shift",
@@ -7260,7 +9563,7 @@
       "company_tagline": "A mission-critical design enablement partner for organizations solving complex engineering challenges.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Design Mechanical Engineer",
@@ -7668,7 +9971,7 @@
       "company_tagline": "An AI company building autonomous 1:1 marketing solutions for brands.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Mechanical Design Engineer",
@@ -8168,7 +10471,7 @@
       "company_tagline": "A major airline building the best airline in history with cutting-edge technology.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience",
@@ -8305,7 +10608,7 @@
       "company_tagline": "A global financial institution offering innovative financial solutions to consumers, businesses, and institutional clients.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T01:20:51.199Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "GNC Engineering Intern",
@@ -8739,7 +11042,7 @@
       "company_tagline": "A good neighbor helping people, investing in communities, and making the world a better place.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Embedded Software Engineer",
@@ -8899,7 +11202,7 @@
       "company_tagline": "An on-demand expert network connecting organizations with trusted experts for advisory work, projects, and AI model training.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Site Reliability Engineer",
@@ -8926,7 +11229,7 @@
       "company_tagline": "A financial technology company providing a personalized financial toolset to accelerate cash flow and optimize working capital for businesses.",
       "ats_source": "adp",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "CAD Drafter",
@@ -9350,7 +11653,7 @@
       "company_tagline": "A premier post-trade market infrastructure for the global financial services industry, automating and standardizing financial transaction processing.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "CDS Intern - Quality Engineer - Costco Travel",
@@ -9465,7 +11768,7 @@
       "company_tagline": "A connected, adaptive GRC platform that unifies processes, data, and teams across the enterprise.",
       "ats_source": "adp",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Forward Deployed Engineer",
@@ -9655,7 +11958,7 @@
       "company_tagline": "A global leader in robotic-assisted surgery and minimally invasive care, transforming how care is delivered for millions of patients worldwide.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "AI/ML Engineer Intern",
@@ -9882,7 +12185,7 @@
       "company_tagline": "A legal and financial technology company that streamlines personal injury litigation and provides pre-settlement funding.",
       "ats_source": "workable",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer",
@@ -9932,7 +12235,7 @@
       "company_tagline": "A company building autonomous factories to reindustrialize America, combining AI, software, robotics, and manufacturing for aerospace and defense.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Development Engineer I - Data Platform",
@@ -10073,7 +12376,7 @@
       "company_tagline": "A global financial services company with a 175-year history of innovation and customer service.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Track Lead (Support & Operations) (188517)",
@@ -10279,7 +12582,7 @@
       "company_tagline": "A charter city providing municipal services including public works, transportation, and community services.",
       "ats_source": "governmentjobs",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer: Internship Opportunities",
@@ -10644,7 +12947,7 @@
       "company_tagline": "A state department responsible for transportation and development, including traffic operations and engineering.",
       "ats_source": "governmentjobs",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Design Engineer",
@@ -10669,7 +12972,7 @@
       "company_tagline": "A developer-first financial connectivity platform that connects consumer financial accounts and enables instant payments.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "C/C++ Software Development Engineer II - Data Management",
@@ -10785,7 +13088,7 @@
       "company_tagline": "A leading provider of autism and IDD care software for ABA, multidisciplinary therapy, and special education.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "AI Engineer",
@@ -10845,7 +13148,7 @@
       "company_tagline": "An independent nonprofit newsroom producing investigative journalism in the public interest.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "AI SECURITY ENGINEER",
@@ -10980,7 +13283,7 @@
       "company_tagline": "A global leader in smart home and building solutions, developing products for comfort, security, and connectivity.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer III - DevOps",
@@ -11010,7 +13313,7 @@
       "company_tagline": "A workforce operating platform that provides workforce insights and people-first AI to help organizations solve challenges.",
       "ats_source": "eightfold",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Network Engineer",
@@ -11198,7 +13501,7 @@
       "company_tagline": "A global financial institution offering innovative financial solutions to consumers, businesses, and institutions.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T01:20:51.199Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "AI Engineer II",
@@ -11520,7 +13823,7 @@
       "company_tagline": "A technology company focused on software quality assurance.",
       "ats_source": "hiringthing",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Research Engineer, AI Security",
@@ -12018,7 +14321,7 @@
       "company_tagline": "A technology company providing software and infrastructure solutions.",
       "ats_source": "dover",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "IT Engineer",
@@ -12071,7 +14374,7 @@
       "company_tagline": "A technology company providing software and infrastructure solutions.",
       "ats_source": "dover",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Photonic Engineer, Platforms Infrastructure",
@@ -12266,7 +14569,7 @@
       "company_tagline": "A cybersecurity company building AI security agents to continuously attack production systems and deliver validated findings.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Member of the Technical Staff, Security Engineer",
@@ -12471,7 +14774,7 @@
       "company_tagline": "A technology company developing cross-platform mobile applications.",
       "ats_source": "dover",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer - Intern",
@@ -12666,7 +14969,7 @@
       "company_tagline": "A technology company building enterprise AI SaaS products.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Large Industrial Energy Advisor",
@@ -13128,6 +15431,29 @@
       "lastSeenAt": "2026-11-03T20:54:57.012Z"
     },
     {
+      "title": "L1 Field Engineer USA, Henderson",
+      "url": "https://indigotgweb.eploy.net/vacancies/600/l1-field-engineer-usa-henderson.html",
+      "company": "Indigo Telecom Group",
+      "location": "Henderson, Nevada, United States",
+      "postedAt": 1793620800000,
+      "salary": "$60k-$70k/yr",
+      "workplace": "Field",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience installing and maintaining telecoms/network/data centre infrastructure; hands-on rack and stack, structured cabling, fibre optic; test equipment like LSPM; Cisco/Juniper knowledge; Microsoft Office 365; valid US driving licence; 24/7 on-call rota and travel.",
+      "tools": [
+        "Microsoft Office 365",
+        "Cisco",
+        "Juniper",
+        "LSPM",
+        "OTDR"
+      ],
+      "company_tagline": "A strategic operational partner for critical digital infrastructure, providing design, deployment, support, and scaling services.",
+      "ats_source": "eploy",
+      "discoveredAt": "2026-11-03T23:16:08.358Z",
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
+    },
+    {
       "title": "DevOps Engineer I",
       "url": "https://jobs.genpt.com/job/birmingham/devops-engineer-i/505/102769384432",
       "company": "Genuine Parts Company",
@@ -13155,7 +15481,7 @@
       "company_tagline": "A distributor of automotive and industrial replacement parts.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Clinical Engineering Med Device Network Engineer",
@@ -13393,7 +15719,7 @@
       "company_tagline": "A global travel company connecting travelers, partners, and advertisers through consumer brands, B2B network, and travel advertising.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "HR Systems Forward Deployed Engineer",
@@ -13445,7 +15771,7 @@
       "company_tagline": "A global technology company focused on e-commerce, cloud computing, and digital services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer",
@@ -13795,7 +16121,7 @@
       "company_tagline": "A technology company developing self-driving systems to improve safety and efficiency in mobility and logistics.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Forward Deployed Engineer",
@@ -13908,7 +16234,7 @@
       "company_tagline": "A cloud platform provider offering enterprise support and technical account management services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Info Sec Engineering Analyst I",
@@ -14052,7 +16378,7 @@
       "company_tagline": "An information technology company focused on software development and technology solutions.",
       "ats_source": "dover",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T01:20:51.199Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Backend Software Engineer",
@@ -14103,7 +16429,7 @@
       "company_tagline": "A technology company focused on software development and modern web applications.",
       "ats_source": "dover",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T01:20:51.199Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer",
@@ -14130,7 +16456,7 @@
       "company_tagline": "An enterprise agentic marketing platform built on a structured data platform for local businesses.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "RPA Intern",
@@ -14312,7 +16638,7 @@
       "company_tagline": "A clinical-stage health technology company combining nanotechnology for rapid tissue analysis and data solutions to advance precision cancer care.",
       "ats_source": "breezy",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Development Engineer",
@@ -14399,7 +16725,7 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Google SecOps Platform Engineer",
@@ -16112,7 +18438,7 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer II, Early Career",
@@ -16137,7 +18463,7 @@
       "company_tagline": "A technology company developing next-generation software and internet services.",
       "ats_source": "google",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Information Technology Software Engineer I-Information Technology Department",
@@ -16281,7 +18607,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T01:20:51.199Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "SW Engineer Intern, AI Engineering",
@@ -16359,7 +18685,7 @@
       "company_tagline": "A leading government contractor furthering missions in space, public health, and defense, and a top veteran employer.",
       "ats_source": "dayforce",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Fire Alarm CAD Drafter",
@@ -16458,7 +18784,7 @@
       "company_tagline": "A financial technology company building tools and experiences for developers to connect financial accounts to apps and services.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "BI Developer",
@@ -16636,7 +18962,7 @@
       "company_tagline": "A learning science company that unlocks the full potential of every learner through innovative educational products and services.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Development Engineer in Test (Emerging Careers)",
@@ -16943,7 +19269,7 @@
       "company_tagline": "A fully integrated, non-bank mortgage company with a subservicing portfolio of approximately 100,000 loans.",
       "ats_source": "dayforce",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "QA Automation Engineer",
@@ -16971,7 +19297,7 @@
       "company_tagline": "An A+ rated nationwide property and casualty insurer backed by Berkshire Hathaway, offering supportive leadership and growth opportunities.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Engineer, Platform Engineering",
@@ -17287,7 +19613,7 @@
       "company_tagline": "A regional airline and wholly owned subsidiary of American Airlines Group, providing regional flight service under the American Eagle brand.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-02T08:19:26.644Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Research Engineer / Scientist, Pre-training",
@@ -17309,7 +19635,7 @@
       "company_tagline": "A public benefit corporation developing safe, interpretable, and steerable AI systems.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Site Reliability Engineer",
@@ -17671,7 +19997,7 @@
       "company_tagline": "A global professional services firm providing consulting, assurance, tax, and transaction services.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "DevOps Technical Engineer",
@@ -17701,7 +20027,7 @@
       "company_tagline": "A leading U.S. supplier of industrial, medical and specialty gases, hardgoods, and safety products.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Systems Engineer Sr - E3",
@@ -17729,7 +20055,7 @@
       "company_tagline": "A global aerospace and defense company that develops advanced technology solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Flutter Developer",
@@ -17749,7 +20075,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "React Native Developer",
@@ -17775,7 +20101,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "iOS Developer",
@@ -17823,7 +20149,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T21:22:51.594Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Security Awareness & Learning Content Developer",
@@ -18074,7 +20400,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Appium Automation Engineer",
@@ -18104,7 +20430,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Cypress Automation Engineer",
@@ -18128,7 +20454,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T20:54:57.012Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Field Engineer In Training",
@@ -18165,7 +20491,7 @@
       "company_tagline": "A global professional services firm providing consulting, assurance, tax, and transaction services.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "APPLICATION DEVELOPER",
@@ -18513,7 +20839,7 @@
       "company_tagline": "A leading international developer and manufacturer of advanced hearing aids under brands like ReSound, Beltone, and Interton.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Frontend Engineer",
@@ -18539,7 +20865,7 @@
       "company_tagline": "A technology company delivering intelligent hearing, audio, video, and gaming solutions.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer II",
@@ -18674,7 +21000,7 @@
       "company_tagline": "A major airline focused on delivering digital products and technical excellence.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer in Test",
@@ -18704,7 +21030,7 @@
       "company_tagline": "A privately held financial services company making financial expertise broadly accessible and effective.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Lead C++ Software Engineer - Palladium Emulation  Platform",
@@ -19142,7 +21468,7 @@
       "company_tagline": "A privately owned company that designs and develops audio products and experiences.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "AI Engineer II",
@@ -19446,7 +21772,7 @@
       "company_tagline": "A premier specialty contractor delivering critical infrastructure services to utility and energy markets.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Data Engineer 2",
@@ -19529,7 +21855,7 @@
       "company_tagline": "A global edge-to-cloud company helping organizations connect, protect, analyze, and act on data and applications.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Compiler Verification Engineer, Compute Performance – GPU",
@@ -19806,7 +22132,7 @@
       "company_tagline": "A bank-owned industry utility operating U.S.-based payment networks and providing infrastructure for safe, reliable, and efficient payments.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Site Reliability Engineer III",
@@ -19836,7 +22162,7 @@
       "company_tagline": "A provider of information-based analytics and decision tools for risk evaluation and operational efficiency.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Cloud Platform Engineer I",
@@ -19892,7 +22218,7 @@
       "company_tagline": "A large automotive club and insurance organization providing services to members.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Intern, Full Stack Engineer",
@@ -19922,7 +22248,7 @@
       "company_tagline": "A leading international producer and marketer of beer, wine, and spirits.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "HR Systems Forward Deployed Engineer",
@@ -19982,7 +22308,7 @@
       "company_tagline": "A leading global provider of hyper pure polysilicon for the semiconductor and solar industries.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Seasonal Engineering Assistant- Construction Intern",
@@ -20269,7 +22595,7 @@
       "company_tagline": "A diversified automotive company focused on vehicle distribution, processing, finance, insurance, and retail sales.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Product Engineering Technician",
@@ -20289,7 +22615,7 @@
       "company_tagline": "A technology company providing device support and repair services.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer",
@@ -20730,7 +23056,7 @@
       "company_tagline": "A global leader in aerospace and national security providing innovative solutions for connected protection.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer (AI/ML) Intern",
@@ -20863,7 +23189,7 @@
       "company_tagline": "A healthcare company focused on improving health outcomes and providing comprehensive benefits.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "2027 Summer Internship (US) - Software Engineer",
@@ -20923,7 +23249,7 @@
       "company_tagline": "A technology company providing intelligent operations solutions with a focus on innovation and employee development.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Engineering Applications Software Engineer l",
@@ -21450,7 +23776,7 @@
       "company_tagline": "A government-sponsored enterprise that makes home possible by providing mortgage capital and liquidity.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Packaging Engineer - Columbus, OH",
@@ -21752,7 +24078,7 @@
       "company_tagline": "A global leader in laboratory services providing insights and answers for healthcare providers, patients, researchers, and pharmaceutical companies.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Co-op - Agentic AI Developer",
@@ -21854,7 +24180,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Docker Engineer",
@@ -21874,7 +24200,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Snowflake Developer",
@@ -22074,7 +24400,7 @@
       "company_tagline": "A global financial services company offering banking, investment, and technology solutions.",
       "ats_source": "eightfold",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Cloud Developer III",
@@ -22176,7 +24502,7 @@
       "company_tagline": "A global leader in industrial software, providing solutions for energy, infrastructure, chemicals, and minerals.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Frontend Engineer",
@@ -22232,7 +24558,7 @@
       "company_tagline": "A privately held financial services company making financial expertise accessible and effective.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Sr. Associate - Solutions Engineer",
@@ -22262,7 +24588,7 @@
       "company_tagline": "A global healthcare company focused on improving future healthcare and transforming millions of lives.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Application Developer Sr",
@@ -22292,7 +24618,7 @@
       "company_tagline": "A distributor of MROP products and services providing innovative pumping solutions, metal working, supply chain services, and service centers.",
       "ats_source": "inforhcm",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Application Developer Sr",
@@ -22471,7 +24797,7 @@
       "company_tagline": "A company specializing in the design, development, licensing, and management of typefaces and font technologies.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "0162 - IS Dev Ops Engineer-3",
@@ -23226,7 +25552,7 @@
       "company_tagline": "A financial services company focused on digital commerce and innovation.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Software Engineer - Stack (AWS, Java, JavaScript, TypeScript)",
@@ -23256,7 +25582,7 @@
       "company_tagline": "A financial services company leveraging technology to empower customers financially.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "DevOps Engineer I",
@@ -23379,7 +25705,7 @@
       "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Mechanical Engineer",
@@ -23399,7 +25725,7 @@
       "company_tagline": "A full-service provider of project management, engineering, and manufacturing for large mobile equipment.",
       "ats_source": "isolvedhire",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Identity & Access Management Analyst II",
@@ -23811,7 +26137,7 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-03T21:22:51.594Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     },
     {
       "title": "Detection Engineer, Falcon Complete (Remote)",
@@ -23978,51 +26304,7 @@
       "company_tagline": "A financial institution helping customers and businesses make better financial decisions.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-02T08:19:26.644Z",
-      "lastSeenAt": "2026-11-03T20:54:57.012Z"
-    },
-    {
-      "title": "IT Desktop Engineer",
-      "url": "https://jobs.dayforcehcm.com/en-US/intouchcx/candidateportal/jobs/19410",
-      "company": "IntouchCX",
-      "location": "United States",
-      "postedAt": 1793574000000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "1+ YOE",
-      "summary": "Post-secondary degree or certificate in computer-related field; 1+ year call center or technical environment experience; knowledge of Windows, macOS, iOS, Android, Linux; strong English communication; ability to work shifts including evenings and holidays.",
-      "tools": [
-        "Windows",
-        "macOS",
-        "iOS",
-        "Android",
-        "Linux",
-        "LAN",
-        "WAN"
-      ],
-      "company_tagline": "A global leader in digital customer experience management, back office processing, trust and safety solutions, and AI services.",
-      "ats_source": "dayforce",
-      "discoveredAt": "2026-11-02T18:33:26.376Z",
-      "lastSeenAt": "2026-11-02T20:01:46.489Z"
-    },
-    {
-      "title": "Mechanical Engineer",
-      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519823391358065?domain=coloradowfx.gov",
-      "company": "Applied Materials",
-      "location": "Tempe, Arizona, United States",
-      "postedAt": 1793573720793,
-      "salary": "$108k-$149k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "4+ YOE",
-      "summary": "Bachelor's degree; 4-7 years of experience; demonstrated experience with CAD software, thermodynamics, sheet metal design, material selection, manufacturing methods, GD&T, flow analysis, and Design for Excellence principles.",
-      "tools": [
-        "CAD"
-      ],
-      "company_tagline": "",
-      "ats_source": "eightfold",
-      "discoveredAt": "2026-11-02T08:19:26.644Z",
-      "lastSeenAt": "2026-11-02T18:33:26.376Z"
+      "lastSeenAt": "2026-11-03T23:16:08.358Z"
     }
   ]
 }
