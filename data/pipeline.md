@@ -1594,3 +1594,5 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471696008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-03
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471682008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-03
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471681008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-03
+
+- [ ] https://job-boards.greenhouse.io/stacklok/jobs/5275130007 | stacklok | Software Engineer II - Cloud-Native Agent Harness (Mecatl) | Remote: North America - East | posted: 2026-11-03
