@@ -1219,4 +1219,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Python-Software-Engineer-Level-2-or-3--AHT-_R10254137-1 | Northrop Grumman | Python Software Engineer Level 2 or 3 (AHT) | United States-Colorado-Aurora | posted: 2026-11-03
 - [ ] https://magna.wd3.myworkdayjobs.com/magna/job/Troy-Michigan-US/Software-Engineer_R00267835 | Magna International | Software Engineer | 6 Locations | posted: 2026-11-03
 
+- [ ] https://jobs.ashbyhq.com/speak/607e0571-9459-487c-8c9d-03248993aae8 | Speak | Backend Engineer, Payments | San Francisco | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/gotion/jobs/8928924002 | Gotion Inc. | Machine Learning Engineer | Fremont, California | posted: 2026-11-03
+
 ## Processed
