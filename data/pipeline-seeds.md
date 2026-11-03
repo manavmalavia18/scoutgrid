@@ -1424,4 +1424,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mirage/9e5835a2-5a70-4919-9a92-c7dc1b74163f | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-02
 - [ ] https://jobs.lever.co/bluecoding/456ce1b0-5a77-4a27-9a82-37d0074f14ec | bluecoding | Software Engineer (V) | Remote Latam | posted: 2026-10-28
 
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5282402007 | pallet | Software Engineer, Agent Delivery | New York | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/reducto/66e1299c-aaa9-4bee-b326-26afbd8b86ea | reducto | Backend/AI Engineer | San Francisco Office | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8302899 | planetlabs | Site Reliability Engineer | San Francisco, CA | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/kaizenlabs/f7374a31-bb36-4aef-8a9f-58f9ff67b51a | kaizenlabs | Software Engineer | Washington, D.C. · New York, NY · New York · USA | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8337444 | reddit | Software Engineer, Infrastructure Engineering | Remote - United States | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/factory/48962b15-6796-4f34-a4ca-4cebe142103d | factory | Software Engineer, Federal | Remote | posted: 2026-11-02
+- [ ] https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8 | palantir | Software Engineer - Applied AI, Defense Applications | Washington, D.C. | posted: 2026-11-02
+- [ ] https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a | palantir | Software Engineer - Applied AI, Defense Applications | New York, NY | posted: 2026-11-02
+- [ ] https://coreweave.com/careers/job?4719916006&board=coreweave&gh_jid=4719916006 | coreweave | Software and AI Engineer | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | posted: 2026-11-02
+
 ## Processed
