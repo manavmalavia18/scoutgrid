@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T08:03:46.520Z",
+  "fetchedAt": "2026-11-03T09:52:22.977Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -24,28 +24,28 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 28,
+  "pagesFetched": 2,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 731,
-    "software developer": 687,
+    "software engineer": null,
+    "software developer": null,
     "backend engineer": null,
     "frontend engineer": null,
     "full stack engineer": null,
     "full stack developer": null,
     "platform engineer": null,
     "devops engineer": null,
-    "site reliability engineer": 9,
+    "site reliability engineer": null,
     "data engineer": null,
-    "machine learning engineer": 15,
-    "mobile engineer": 16,
-    "ios engineer": null,
-    "android engineer": 6,
+    "machine learning engineer": null,
+    "mobile engineer": null,
+    "ios engineer": 8,
+    "android engineer": null,
     "qa automation engineer": 4,
     "security engineer": null
   },
-  "count": 734,
+  "count": 732,
   "jobs": [
     {
       "title": "AI Engineer",
@@ -311,7 +311,7 @@
       "company_tagline": "A global financial institution offering innovative solutions to consumers, businesses, and institutional clients.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "EDA Cloud & Developer Infrastructure Engineer",
@@ -611,34 +611,6 @@
       "lastSeenAt": "2026-11-03T08:03:46.498Z"
     },
     {
-      "title": "Software QA Engineer 2",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232171004",
-      "company": "Sony Interactive Entertainment",
-      "location": "San Mateo, California, United States",
-      "postedAt": 1793667991000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Strong Python and C++ programming, PyTest and GTest frameworks, experience with Windows and Linux, excellent communication, self-directed, and ability to build and debug software.",
-      "tools": [
-        "Python",
-        "C++",
-        "PyTest",
-        "GTest",
-        "Windows",
-        "Linux",
-        "Docker",
-        "Kubernetes",
-        "Unity",
-        "Unreal Engine"
-      ],
-      "company_tagline": "A technology company behind the PlayStation brand, delivering gaming hardware and network services.",
-      "ats_source": "paradox",
-      "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
-    },
-    {
       "title": "Research Engineer, Benchmarks & Evaluation",
       "url": "https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361",
       "company": "Ramp",
@@ -867,7 +839,7 @@
       "company_tagline": "A global entertainment company creating magical viewing experiences and transforming its media business.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "SOFTWARE DEVELOPER ADVANCED - 11032026- 82501",
@@ -1142,6 +1114,34 @@
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
       "lastSeenAt": "2026-11-03T08:03:46.498Z"
+    },
+    {
+      "title": "Software QA Engineer 2",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232171004",
+      "company": "Sony Interactive Entertainment",
+      "location": "San Mateo, California, United States",
+      "postedAt": 1793661708000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Strong programming in Python and C++, experience with PyTest and GTest, building and debugging in Windows and Linux, excellent communication, self-directed, and passion for automation.",
+      "tools": [
+        "Python",
+        "C++",
+        "PyTest",
+        "GTest",
+        "Windows",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Unity",
+        "Unreal Engine"
+      ],
+      "company_tagline": "A technology company behind the PlayStation brand, delivering hardware, network services, and entertainment experiences.",
+      "ats_source": "grnhse",
+      "discoveredAt": "2026-11-03T01:20:51.199Z",
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Engineer II, Product Development Design, Air Manufacturing Innovation",
@@ -2006,6 +2006,36 @@
       "lastSeenAt": "2026-11-03T08:03:46.498Z"
     },
     {
+      "title": "Network Engineer II",
+      "url": "https://vizi.vizirecruiter.com/aholddelhaizeusa-4547/423267/index.html",
+      "company": "Ahold Delhaize USA",
+      "location": "Salisbury, North Carolina, United States",
+      "postedAt": 1793655530981,
+      "salary": "$101k-$152k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree or equivalent practical experience; 3+ years enterprise network operations or engineering in multi-site environment; hands-on Cisco IOS-XE, HPE/Aruba, Fortinet FortiGate, enterprise wireless; strong TCP/IP, VLANs, routing, VPN; ServiceNow experience.",
+      "tools": [
+        "Cisco IOS-XE",
+        "HPE/Aruba",
+        "Fortinet FortiGate",
+        "Aruba wireless",
+        "ClearPass/NAC",
+        "SolarWinds",
+        "Datadog",
+        "FortiAnalyzer",
+        "SNMP",
+        "syslog",
+        "NetFlow",
+        "Infoblox"
+      ],
+      "company_tagline": "A division of global food retailer Ahold Delhaize, supporting omnichannel grocery brands with technology and services.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-03T09:52:22.970Z",
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
+    },
+    {
       "title": "Controls Integration Engineer",
       "url": "https://myjobs.adp.com/stellantisexternalcx/cx/job-details?reqId=5001235179006",
       "company": "Stellantis",
@@ -2804,7 +2834,7 @@
       "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Manufacturing Engineering - Intern",
@@ -6032,7 +6062,7 @@
       "company_tagline": "A technology company focused on software quality assurance.",
       "ats_source": "hiringthing",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Research Engineer, AI Security",
@@ -6433,7 +6463,7 @@
       "company_tagline": "A pest control company dedicated to building rewarding careers in pest control and home services.",
       "ats_source": "adprecruiting",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Product Engineer",
@@ -6983,7 +7013,7 @@
       "company_tagline": "A technology company developing cross-platform mobile applications.",
       "ats_source": "dover",
       "discoveredAt": "2026-11-02T20:01:46.489Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Software Engineer - Intern",
@@ -8099,7 +8129,7 @@
       "company_tagline": "A privately held financial services company making financial expertise accessible and effective.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Software Engineer – WMS Integration and Reporting (Hybrid)",
@@ -11410,7 +11440,7 @@
       "company_tagline": "An A+ rated nationwide property and casualty insurer backed by Berkshire Hathaway, offering supportive leadership and growth opportunities.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-03T01:20:51.199Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Engineer, Platform Engineering",
@@ -12088,6 +12118,26 @@
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-02T18:33:26.376Z",
       "lastSeenAt": "2026-11-02T20:01:46.489Z"
+    },
+    {
+      "title": "Field Engineer In Training",
+      "url": "https://pegllc.bamboohr.com/careers/1014",
+      "company": "PEG, LLC",
+      "location": "Manassas, Virginia, United States",
+      "postedAt": 1793577600000,
+      "salary": "$48k/yr",
+      "workplace": "Field",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "High school diploma or GED or vocational certificate in skilled trades; valid driver's license; reliable transportation; ability to lift 50 lbs, climb ladders, work in confined spaces; willingness to obtain HERS Rater certification; background check and drug testing.",
+      "tools": [
+        "iPhone",
+        "iPad"
+      ],
+      "company_tagline": "A diverse energy efficiency, engineering, environmental, and management consulting firm delivering construction compliance services.",
+      "ats_source": "bamboohr",
+      "discoveredAt": "2026-11-03T09:52:22.970Z",
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Architecture System Administrator - Staff",
@@ -14228,7 +14278,7 @@
       "company_tagline": "A technology company providing device support and repair services.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-03T08:03:46.498Z",
-      "lastSeenAt": "2026-11-03T08:03:46.498Z"
+      "lastSeenAt": "2026-11-03T09:52:22.970Z"
     },
     {
       "title": "Software Engineer",
@@ -18147,113 +18197,6 @@
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-02T08:19:26.644Z",
       "lastSeenAt": "2026-11-02T18:33:26.376Z"
-    },
-    {
-      "title": "Application Developer II",
-      "url": "https://www.cnd.nd.gov/psc/recruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=3034022&PostingSeq=1&SiteId=11000",
-      "company": "State of North Dakota",
-      "location": "North Dakota or Moorhead or East Grand Forks or Bismarck or Fargo",
-      "postedAt": 1793521741309,
-      "salary": "$74k-$81k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3 years progressive Java programming and system analysis, or Associate degree in Computer Science/related field plus 1 year experience; must live in North Dakota or border community; legally authorized to work in the US.",
-      "tools": [
-        "Java"
-      ],
-      "company_tagline": "A state IT department developing and maintaining applications for North Dakota agencies.",
-      "ats_source": "oraclepeoplesoft",
-      "discoveredAt": "2026-11-02T08:19:26.644Z",
-      "lastSeenAt": "2026-11-02T18:33:26.376Z"
-    },
-    {
-      "title": "ETL Developer (Remote)",
-      "url": "https://app.dover.com/apply/aecbf436-adb4-4ff0-92fb-ff8313ce7c45/a81b1534-5dd2-4ed8-bc83-ac76382e7b23",
-      "company": "EdgeQ Technologies Private Limited",
-      "location": "United States or Chicago",
-      "postedAt": 1793521472454,
-      "salary": "$100k-$145k/yr",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3-9 years ETL/Java development experience; strong Java, Spring Boot, SQL, unit testing; authorized to work in the US; reside in Chicago, Illinois; strong communication skills.",
-      "tools": [
-        "Java",
-        "Spring Boot",
-        "SQL",
-        "Git",
-        "JUnit",
-        "Mockito",
-        "Maven",
-        "Gradle",
-        "Oracle",
-        "PostgreSQL",
-        "MySQL",
-        "SQL Server"
-      ],
-      "company_tagline": "A technology company specializing in data integration and backend development solutions.",
-      "ats_source": "dover",
-      "discoveredAt": "2026-11-02T08:19:26.644Z",
-      "lastSeenAt": "2026-11-02T18:33:26.376Z"
-    },
-    {
-      "title": "AI Engineer (Remote)",
-      "url": "https://app.dover.com/apply/aecbf436-adb4-4ff0-92fb-ff8313ce7c45/e746144c-48b7-4726-abb9-8555a7466b0e",
-      "company": "EdgeQ Technologies Private Limited",
-      "location": "United States or Austin",
-      "postedAt": 1793521088266,
-      "salary": "$110k-$150k/yr",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "1+ YOE",
-      "summary": "1-5 years professional experience in AI/Cloud/DevOps; hands-on AWS or Azure; Terraform; Docker; monitoring tools; CI/CD; authorized to work in US; reside in Austin, TX.",
-      "tools": [
-        "AWS",
-        "Microsoft Azure",
-        "Terraform",
-        "Docker",
-        "Kubernetes",
-        "Prometheus",
-        "Grafana",
-        "Datadog",
-        "CloudWatch",
-        "Python",
-        "Git",
-        "CI/CD"
-      ],
-      "company_tagline": "A technology company building and managing AI-powered applications and cloud infrastructure.",
-      "ats_source": "dover",
-      "discoveredAt": "2026-11-02T08:19:26.644Z",
-      "lastSeenAt": "2026-11-02T20:01:46.489Z"
-    },
-    {
-      "title": "DevOps Engineer (Remote)",
-      "url": "https://app.dover.com/apply/aecbf436-adb4-4ff0-92fb-ff8313ce7c45/4a5406e7-7b33-4a3d-a8f7-731c45e886d1",
-      "company": "EdgeQ Technologies Private Limited",
-      "location": "United States or San Francisco",
-      "postedAt": 1793520335202,
-      "salary": "$110k-$150k/yr",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "2-7 years professional experience in DevOps, data engineering, or related; strong SQL, data modeling, ETL, data quality; Git; authorized to work in the US; reside in San Francisco, CA.",
-      "tools": [
-        "SQL",
-        "Git",
-        "PostgreSQL",
-        "MySQL",
-        "Microsoft SQL Server",
-        "AWS",
-        "Microsoft Azure",
-        "Google Cloud Platform",
-        "Apache Airflow",
-        "Python"
-      ],
-      "company_tagline": "A technology company providing engineering and data solutions.",
-      "ats_source": "dover",
-      "discoveredAt": "2026-11-01T19:53:22.406Z",
-      "lastSeenAt": "2026-11-02T20:01:46.489Z"
     }
   ]
 }
