@@ -1007,4 +1007,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Scottsdale-Arizona-United-States-of-America/DevOps-Engineer--Cloud-Operations-and-Infrastructure_R015788-1 | aveva | DevOps Engineer, Cloud Operations and Infrastructure | Scottsdale, Arizona, United States of America | posted: 2026-11-02
 - [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineer-II_R0008533 | availity | Software Engineer II | Remote - United States | posted: 2026-11-02
 
+- [ ] https://taxwell.wd1.myworkdayjobs.com/taxwellcareers/job/Remote---Texas/Software-Engineer-I_R0003951 | taxwell | Software Engineer I | Remote - Texas | posted: 2026-11-03
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS_JR366664 | salesforce | Software Engineering SMTS | 7 Locations | posted: 2026-11-03
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Front-End-SMTS-Software-Engineer---MeshMesh_JR366553 | salesforce | Front End SMTS Software Engineer - MeshMesh | 2 Locations | posted: 2026-11-03
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Colorado---Denver/Software-Engineer_JR366483 | salesforce | Software Engineer | Colorado - Denver | posted: 2026-11-03
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Washington---Bellevue/Software-Engineering-SMTS_JR366247-1 | salesforce | Software Engineering SMTS | Washington - Bellevue | posted: 2026-11-03
+- [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107133 | remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-11-03
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer_R10254398 | ngc | Software Engineer | United States-Maryland-Hollywood | posted: 2026-11-03
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-El-Segundo/Mission-Autonomy-Software-Developer_R10236655 | ngc | Mission Autonomy Software Developer | United States-California-El Segundo | posted: 2026-11-03
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-III_1215819-3 | hpe | Systems/Software Engineer III | Sunnyvale, California, United States of America | posted: 2026-11-03
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-III_1215819 | hpe | Systems/Software Engineer III | Sunnyvale, California, United States of America | posted: 2026-11-03
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-III_1215819-2 | hpe | Systems/Software Engineer III | Sunnyvale, California, United States of America | posted: 2026-11-03
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Remote/AI-Engineer-II_JR_15359 | guidewire | AI Engineer II | United States - Remote | posted: 2026-11-03
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer-Mid_RQ231361-2 | gdit | Software Engineer-Mid | USA FL MacDill AFB | posted: 2026-11-03
+- [ ] https://gn.wd3.myworkdayjobs.com/gn-careers/job/Home-Office-North-America/Frontend-Engineer_R30471-1 | gn | Frontend Engineer | Home Office (North America) | posted: 2026-11-03
+- [ ] https://gn.wd3.myworkdayjobs.com/jabracareers/job/Home-Office-North-America/Frontend-Engineer_R30471 | gn | Frontend Engineer | Home Office (North America) | posted: 2026-11-03
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Java-Full-Stack-Developer_RQ231601-1 | gdit | Java Full Stack Developer | Any Location / Remote | posted: 2026-11-03
+- [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---TX---FORT-WORTH/Full-Stack-Java-Developer_51589706 | dxctechnology | Full Stack Java Developer | USA - TX - FORT WORTH | posted: 2026-11-03
+- [ ] https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10160173 | disney | Product Software Engineer II | New York, NY, USA | posted: 2026-11-03
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Cloud-Platform-Engineer-I_1671976 | centene | Cloud Platform Engineer I | 28 Locations | posted: 2026-11-03
+- [ ] https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/United-States-Work-from-Home/Machine-Learning---AI-Engineer_R29361 | boseallaboutme | Machine Learning / AI Engineer | United States, Work from Home | posted: 2026-11-03
+- [ ] https://bannerhealth.wd108.myworkdayjobs.com/careers/job/Remote-Arizona/DevOps-Engineer-IV_R4455321-1 | bannerhealth | DevOps Engineer IV | Remote Arizona | posted: 2026-11-03
+- [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/FHIR-Software-Engineer-IV_R0008580 | availity | FHIR Software Engineer IV | Remote - United States | posted: 2026-11-03
+
 ## Processed
