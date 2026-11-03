@@ -1558,3 +1558,10 @@
 
 - [ ] https://job-boards.greenhouse.io/pallet/jobs/5282402007 | pallet | Software Engineer, Agent Delivery | New York | posted: 2026-11-03
 - [ ] https://jobs.ashbyhq.com/reducto/66e1299c-aaa9-4bee-b326-26afbd8b86ea | reducto | Backend/AI Engineer | San Francisco Office | posted: 2026-11-03
+
+- [ ] https://jobs.ashbyhq.com/ekumenlabs/05c05d1b-4ea0-41ea-a237-459d68eb99a8 | ekumenlabs | Full Stack Engineer | Argentina · Chile · Peru · Remote | posted: 2026-11-03
+- [ ] https://job-boards.eu.greenhouse.io/saasgroup/jobs/5020634101 | saasgroup | Backend Engineer | Remote · 3D Ai Studio | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/paperlessparts/jobs/4748131005 | paperlessparts | Platform Engineer | Boston, MA | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/6241755004 | 66degrees | Full Stack Engineer, Contract | Remote, Mexico | posted: 2026-11-03
+- [ ] https://job-boards.eu.greenhouse.io/evoplaygames/jobs/5025630101 | evoplaygames | Software Engineer (SRE) | Remote · Limassol | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/alan/cb1d045d-6b64-4864-96f1-d28d753b7132 | alan | Fullstack Software Engineer (x/f/m) - Backend Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-03
