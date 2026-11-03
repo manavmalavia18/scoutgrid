@@ -1599,3 +1599,5 @@
 
 - [ ] https://jobs.ashbyhq.com/e2b/657ce888-be70-46cf-975f-ca7788694fdc | e2b | Site Reliability Engineer | San Francisco | posted: 2026-11-03
 - [ ] https://job-boards.greenhouse.io/censys/jobs/8846269002 | censys | Software Engineer II (Backend) | Remote (US/Canada) | posted: 2026-11-03
+
+- [ ] https://jobs.ashbyhq.com/writer/93fbe5ce-2ce9-41ea-a998-a433c0f7f085 | writer | AI engineer | San Francisco, CA · New York City, NY · New York City · United States | posted: 2026-11-03
