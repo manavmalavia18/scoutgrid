@@ -1228,4 +1228,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://sunlife.wd3.myworkdayjobs.com/campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1 | Sun Life | Business Operations Software Engineer - 2027 Co-op | 5 Locations | posted: 2026-11-03
 
+- [ ] https://jobs.smartrecruiters.com/nbcuniversal3/744000159511839 | NBCUniversal3 | Software Engineer, Roku | Universal City, CALIFORNIA, United States | posted: 2026-11-03
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000159509479 | ServiceNow | Software Engineer, Agent Eval Platform | Mountain View, CALIFORNIA, United States | posted: 2026-11-03
+- [ ] https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/San-Diego-California-United-States-of-America/Software-Engineer-II---Mobile-Apps_R-801743 | Medtronic | Software Engineer II - Mobile Apps | 2 Locations | posted: 2026-11-03
+
 ## Processed
