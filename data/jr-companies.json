@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-03T21:09:26.791Z",
+  "fetchedAt": "2026-11-03T21:32:30.212Z",
   "scrapedAt": "2026-11-03T20:38:59.574108+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 285,
+  "companyCount": 294,
   "companies": [
     {
       "company": "2K",
@@ -50,11 +50,25 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=airbnb&token=8074955"
     },
     {
+      "company": "Airgas",
+      "ats": "workday",
+      "board": "airgasexternalcareer",
+      "key": "workday:airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer"
+    },
+    {
       "company": "Alarm.com",
       "ats": "greenhouse",
       "board": "alarmcom",
       "key": "greenhouse:alarmcom",
       "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8923631002"
+    },
+    {
+      "company": "Alpaca",
+      "ats": "greenhouse",
+      "board": "alpaca",
+      "key": "greenhouse:alpaca",
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6241656004"
     },
     {
       "company": "Alvarez & Marsal",
@@ -125,6 +139,13 @@
       "board": "campus_careers",
       "key": "workday:arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers",
       "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers"
+    },
+    {
+      "company": "Artemis",
+      "ats": "ashby",
+      "board": "artemis",
+      "key": "ashby:artemis",
+      "url": "https://jobs.ashbyhq.com/artemis/e6268f64-1819-41e8-ad66-8861419d68f1"
     },
     {
       "company": "AstraZeneca",
@@ -393,6 +414,13 @@
       "url": "https://brookfield.wd5.myworkdayjobs.com/bpandc"
     },
     {
+      "company": "Clover Sonoma",
+      "ats": "ashby",
+      "board": "clover-sonoma",
+      "key": "ashby:clover-sonoma",
+      "url": "https://jobs.ashbyhq.com/clover-sonoma/df3141dc-ce53-415a-8da3-d7f3e4ea9a4f"
+    },
+    {
       "company": "Cognizant",
       "ats": "greenhouse",
       "board": "global-en",
@@ -559,6 +587,13 @@
       "board": "esri",
       "key": "greenhouse:esri",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=esri&token=5261447007"
+    },
+    {
+      "company": "Esri",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:5282912007",
+      "url": "https://www.esri.com/careers/5282912007?gh_jid=5282912007"
     },
     {
       "company": "Esri",
@@ -967,6 +1002,13 @@
       "url": "https://careers.leidos.com/jobs/18431813"
     },
     {
+      "company": "Lennar",
+      "ats": "workday",
+      "board": "lennar_jobs",
+      "key": "workday:lennar.wd1.myworkdayjobs.com/lennar_jobs",
+      "url": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs"
+    },
+    {
       "company": "Lifestyle Communities",
       "ats": "workday",
       "board": "lifestyle_communities_careers",
@@ -1070,6 +1112,13 @@
       "board": "norm-ai",
       "key": "ashby:norm-ai",
       "url": "https://jobs.ashbyhq.com/norm-ai/f8363384-d2c6-41c9-870b-56f04387e930"
+    },
+    {
+      "company": "NorthMark Strategies",
+      "ats": "workday",
+      "board": "nms",
+      "key": "workday:northmark.wd108.myworkdayjobs.com/nms",
+      "url": "https://northmark.wd108.myworkdayjobs.com/nms"
     },
     {
       "company": "Northwestern Mutual",
@@ -1623,6 +1672,20 @@
       "board": "louisiana",
       "key": "greenhouse:louisiana",
       "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5536416-0"
+    },
+    {
+      "company": "State of Nebraska",
+      "ats": "workday",
+      "board": "nebraskastatecareers",
+      "key": "workday:son.wd108.myworkdayjobs.com/nebraskastatecareers",
+      "url": "https://son.wd108.myworkdayjobs.com/nebraskastatecareers"
+    },
+    {
+      "company": "Stripe",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8328323",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328323"
     },
     {
       "company": "Sulzer",
