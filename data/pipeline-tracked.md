@@ -1222,4 +1222,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/speak/607e0571-9459-487c-8c9d-03248993aae8 | Speak | Backend Engineer, Payments | San Francisco | posted: 2026-11-02
 - [ ] https://job-boards.greenhouse.io/gotion/jobs/8928924002 | Gotion Inc. | Machine Learning Engineer | Fremont, California | posted: 2026-11-03
 
+- [ ] https://job-boards.greenhouse.io/paperlessparts/jobs/4748131005 | Paperless Parts | Platform Engineer | Boston, MA | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5282402007 | Pallet | Software Engineer, Agent Delivery | New York | posted: 2026-11-03
+- [ ] https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Software-Engineer-II-Data_R26_00003240 | CDW | Software Engineer II Data | Remote – USA | posted: 2026-11-03
+
 ## Processed
