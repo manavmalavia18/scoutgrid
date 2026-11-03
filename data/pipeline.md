@@ -1586,3 +1586,5 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6242244004 | vercel | Software Engineer, Connect | Hybrid - San Francisco | posted: 2026-11-03
 - [ ] https://www.eqvilent.com/careers?gh_jid=5026505101 | eqvilentjobs | Software Developer (Market Setup) | Remote · Remote | posted: 2026-11-03
 - [ ] https://jobs.ashbyhq.com/midstream/000b0038-c337-427b-ae31-3bbbb9229a37 | midstream | Applied AI Researcher | Remote / US | posted: 2026-11-03
+
+- [ ] https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005 | preciselyusjobs | Associate Software Engineer (Python AI) | United States | posted: 2026-11-03
