@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T21:53:49.620Z",
+  "fetchedAt": "2026-11-03T22:14:50.798Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -24,7 +24,7 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 5,
+  "pagesFetched": 0,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
@@ -36,16 +36,16 @@
     "full stack developer": null,
     "platform engineer": null,
     "devops engineer": null,
-    "site reliability engineer": 9,
+    "site reliability engineer": null,
     "data engineer": null,
-    "machine learning engineer": 22,
-    "mobile engineer": 20,
+    "machine learning engineer": null,
+    "mobile engineer": null,
     "ios engineer": null,
-    "android engineer": 10,
-    "qa automation engineer": 7,
+    "android engineer": null,
+    "qa automation engineer": null,
     "security engineer": null
   },
-  "count": 969,
+  "count": 968,
   "jobs": [
     {
       "title": "Software Engineer Intern (SDS e-Commerce Team)",
@@ -24023,36 +24023,6 @@
       "ats_source": "eightfold",
       "discoveredAt": "2026-11-02T08:19:26.644Z",
       "lastSeenAt": "2026-11-02T18:33:26.376Z"
-    },
-    {
-      "title": "Applied Machine Learning Engineer Senior Consultant II (Software Engineering Focus)",
-      "url": "https://click.appcast.io/t/QMf50oz7qZttWotxHj-El1RfmfJwjlWDCNoo968UDbllCntX4sACwAsmRmRE9tiS",
-      "company": "Allstate",
-      "location": "Illinois City, Illinois, United States",
-      "postedAt": 1793491200000,
-      "salary": "$120k-$194k/yr",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years experience; strong Java 17+ and Spring Boot 4.x+; Python; experience deploying GenAI/ML systems; CI/CD pipelines (Jenkins, GitHub Actions); MongoDB; authentication (OAuth, OIDC, SSO); production support and monitoring.",
-      "tools": [
-        "Java",
-        "Spring Boot",
-        "Python",
-        "Jenkins",
-        "GitHub Actions",
-        "MongoDB",
-        "OAuth",
-        "OIDC",
-        "SSO",
-        "AWS",
-        "Azure",
-        "GCP"
-      ],
-      "company_tagline": "An insurance company protecting families and belongings through innovative technology and customer-focused solutions.",
-      "ats_source": "appcast_sponsored",
-      "discoveredAt": "2026-11-03T21:53:49.607Z",
-      "lastSeenAt": "2026-11-03T21:53:49.607Z"
     }
   ]
 }
