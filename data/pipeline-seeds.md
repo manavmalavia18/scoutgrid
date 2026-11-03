@@ -1440,4 +1440,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.eu.greenhouse.io/evoplaygames/jobs/5025630101 | evoplaygames | Software Engineer (SRE) | Remote · Limassol | posted: 2026-11-03
 - [ ] https://jobs.ashbyhq.com/alan/cb1d045d-6b64-4864-96f1-d28d753b7132 | alan | Fullstack Software Engineer (x/f/m) - Backend Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-03
 
+- [ ] https://jobs.ashbyhq.com/mercor/861df396-2508-4ede-97b8-51a85bbc98e2 | mercor | Software Engineer, Discovery | San Francisco | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8350702 | purestorage | Software Engineer | Santa Clara, California | posted: 2026-11-03
+- [ ] https://careers.roblox.com/jobs/8325759?gh_jid=8325759 | roblox | Software Engineer, Engine Productivity | San Mateo, CA, United States | posted: 2026-11-03
+- [ ] https://boards.greenhouse.io/apptronik/jobs/6240627004?gh_jid=6240627004 | apptronik | Software Engineer - Humanoid Sim-to-Real | Austin, TX | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/openrouter/dcc05e06-39fa-4860-a50c-5e2f8d57263a | openrouter | Software Engineer, Developer Products | Remote (US) | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/gotion/jobs/8928924002 | gotion | Machine Learning Engineer | Fremont, California | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/charterup/jobs/5471369008 | charterup | Software Engineer II - Full Stack | Austin, TX | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/e2b/ad6febd3-7e17-403a-9449-fef78a8bb163 | e2b | Backend Software Engineer - Enterprise | San Francisco | posted: 2026-11-03
+- [ ] https://www.digitalhands.com/careers?gh_jid=5283173007 | digitalhands | Associate DevOps Engineer | Tampa, Florida, United States | posted: 2026-11-03
+- [ ] https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004 | sambanovasystems | Machine Learning Engineer - New Grad | Austin, Texas, United States; San Jose, California, United States | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4750594005 | tailscale | Documentation Platform Engineer | Remote (United States) | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4750580005 | tailscale | Documentation Platform Engineer | Remote (Canada) | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/st-labs/130945cf-1e78-4211-940e-e639d74e0a3d | st-labs | Software Engineer, Agents | NYC, NY | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/vizcom/43c0b685-4d62-4fa5-a83b-2bc05030fa0f | vizcom | Site Reability Engineer (SRE) | San Francisco | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8922249002 | gitlab | Intermediate Fullstack Engineer, Subscription Lifecycle | Remote, Canada; Remote, United States | posted: 2026-11-03
+- [ ] https://www.eqvilent.com/careers?gh_jid=5026505101 | eqvilentjobs | Software Developer (Market Setup) | Remote · Remote | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/ekumenlabs/05c05d1b-4ea0-41ea-a237-459d68eb99a8 | ekumenlabs | Full Stack Engineer | Argentina · Chile · Peru · Remote | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/midstream/000b0038-c337-427b-ae31-3bbbb9229a37 | midstream | Applied AI Researcher | Remote / US | posted: 2026-11-03
+
 ## Processed
