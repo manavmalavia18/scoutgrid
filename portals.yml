@@ -16398,6 +16398,106 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Endeavor AI"
+    careers_url: https://jobs.ashbyhq.com/endeavorai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GenMD"
+    careers_url: https://jobs.ashbyhq.com/genmd
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Karman Industries"
+    careers_url: https://jobs.ashbyhq.com/karman%20industries
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ginkgo Bioworks"
+    careers_url: https://job-boards.greenhouse.io/ginkgobioworks
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Academy of Art University"
+    careers_url: https://academyofartuniversity.wd5.myworkdayjobs.com/academy_of_art
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Anoka County"
+    careers_url: https://anokacounty.wd1.myworkdayjobs.com/anoka_county_career_opportunities
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Constellation Brands"
+    careers_url: https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cincinnati Children's Hospital Medical Center"
+    careers_url: https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Great American Insurance Group"
+    careers_url: https://gaig.wd1.myworkdayjobs.com/not_posted_gaig
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GN Store Nord A/S"
+    careers_url: https://gn.wd3.myworkdayjobs.com/gn-careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Intermountain Health"
+    careers_url: https://imh.wd108.myworkdayjobs.com/intermountaincareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Intapp"
+    careers_url: https://intapp.wd1.myworkdayjobs.com/intapp
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "MITER Brands"
+    careers_url: https://miwd.wd108.myworkdayjobs.com/miter_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "ONEOK"
+    careers_url: https://oneok.wd1.myworkdayjobs.com/oneok
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pentair"
+    careers_url: https://pentair.wd5.myworkdayjobs.com/pentair_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Primoris Services Corporation"
+    careers_url: https://prim.wd108.myworkdayjobs.com/primoris
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Trimble"
+    careers_url: https://trimble.wd1.myworkdayjobs.com/trimblecareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
