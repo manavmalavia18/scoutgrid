@@ -1226,4 +1226,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/pallet/jobs/5282402007 | Pallet | Software Engineer, Agent Delivery | New York | posted: 2026-11-03
 - [ ] https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Software-Engineer-II-Data_R26_00003240 | CDW | Software Engineer II Data | Remote – USA | posted: 2026-11-03
 
+- [ ] https://sunlife.wd3.myworkdayjobs.com/campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1 | Sun Life | Business Operations Software Engineer - 2027 Co-op | 5 Locations | posted: 2026-11-03
+
 ## Processed
