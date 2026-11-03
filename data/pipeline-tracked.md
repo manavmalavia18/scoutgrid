@@ -1166,4 +1166,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Engineering-SME---CTO_RQ208715-1 | General Dynamics Information Technology | Software Engineering SME - IRAD/CTO | USA VA Herndon | posted: 2026-11-02
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/System-Software-Engineer_RQ220222 | General Dynamics Information Technology | System Software Engineer (Up to $30,000 sign on bonus available) | USA MD Hanover | posted: 2026-11-02
 
+- [ ] https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer_R-96465 | Nike | Software Engineer | Beaverton, Oregon | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/alan/cb1d045d-6b64-4864-96f1-d28d753b7132 | Alan | Fullstack Software Engineer (x/f/m) - Backend Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-03
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Frontend-Web-Developer_R0146882 | Hitachi | Frontend Web Developer | Remote - India | posted: 2026-11-03
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-El-Segundo/Mission-Autonomy-Software-Developer_R10236655 | Northrop Grumman | Mission Autonomy Software Developer | United States-California-El Segundo | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/factory/48962b15-6796-4f34-a4ca-4cebe142103d | Factory | Software Engineer, Federal | Remote | posted: 2026-11-02
+- [ ] https://jobs.ashbyhq.com/manifold-industries/4e9235ae-5a74-4f09-be9f-56a2c41fab48 | Manifold Industries | Software Engineer - Backend | San Francisco · D.C. Metro · Arlington · United States · New York City · New York | posted: 2026-11-02
+- [ ] https://job-boards.greenhouse.io/ziprecruiter/jobs/8338245 | ZipRecruiter | Software Engineer, Big Data, Tech Enablement | Remote · Remote · Santa Monica | posted: 2026-11-03
+- [ ] https://gn.wd3.myworkdayjobs.com/jabracareers/job/Home-Office-North-America/Frontend-Engineer_R30471 | GN Store Nord A/S | Frontend Engineer | Home Office (North America) | posted: 2026-11-02
+- [ ] https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Jacksonville-Florida/Software-Developer_R-26-0038930 | Kemper | Software Developer | Jacksonville, Florida | posted: 2026-11-02
+- [ ] https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Software-Engineer---Fern_JR1000037 | Postman | Software Engineer - Fern | NYC, NY, US | posted: 2026-11-02
+
 ## Processed
