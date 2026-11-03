@@ -1588,3 +1588,5 @@
 - [ ] https://jobs.ashbyhq.com/midstream/000b0038-c337-427b-ae31-3bbbb9229a37 | midstream | Applied AI Researcher | Remote / US | posted: 2026-11-03
 
 - [ ] https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005 | preciselyusjobs | Associate Software Engineer (Python AI) | United States | posted: 2026-11-03
+
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8334794 | toast | Software Engineer II, Backend | Remote US | posted: 2026-11-03
