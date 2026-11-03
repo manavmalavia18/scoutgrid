@@ -1434,4 +1434,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a | palantir | Software Engineer - Applied AI, Defense Applications | New York, NY | posted: 2026-11-02
 - [ ] https://coreweave.com/careers/job?4719916006&board=coreweave&gh_jid=4719916006 | coreweave | Software and AI Engineer | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | posted: 2026-11-02
 
+- [ ] https://job-boards.eu.greenhouse.io/saasgroup/jobs/5020634101 | saasgroup | Backend Engineer | Remote · 3D Ai Studio | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/paperlessparts/jobs/4748131005 | paperlessparts | Platform Engineer | Boston, MA | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/6241755004 | 66degrees | Full Stack Engineer, Contract | Remote, Mexico | posted: 2026-11-03
+- [ ] https://job-boards.eu.greenhouse.io/evoplaygames/jobs/5025630101 | evoplaygames | Software Engineer (SRE) | Remote · Limassol | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/alan/cb1d045d-6b64-4864-96f1-d28d753b7132 | alan | Fullstack Software Engineer (x/f/m) - Backend Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-03
+
 ## Processed
