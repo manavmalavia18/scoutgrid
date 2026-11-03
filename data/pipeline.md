@@ -1555,3 +1555,6 @@
 - [ ] https://job-boards.greenhouse.io/verkada/jobs/5280545007 | verkada | Backend Software Engineer - University Graduate 2027 | San Mateo, CA United States | posted: 2026-11-02
 - [ ] https://www.qualtrics.com/careers/us/en/job/8325680?gh_jid=8325680 | qualtrics | Software Engineer II - XMD | Seattle, Washington, United States | posted: 2026-11-02
 - [ ] https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652 | qualtrics | Software Engineer I - XMD | Seattle, Washington, United States | posted: 2026-11-02
+
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5282402007 | pallet | Software Engineer, Agent Delivery | New York | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/reducto/66e1299c-aaa9-4bee-b326-26afbd8b86ea | reducto | Backend/AI Engineer | San Francisco Office | posted: 2026-11-03
