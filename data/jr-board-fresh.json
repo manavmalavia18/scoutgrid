@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T20:40:48.014Z",
+  "fetchedAt": "2026-11-03T20:46:52.194Z",
   "days": 2,
   "leadCount": 80,
   "jobCount": 53,
@@ -15,18 +15,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:pendo",
-      "fetched": 26,
-      "kept": 2
-    },
-    {
       "key": "greenhouse:picarroinc",
       "fetched": 18,
       "kept": 0
     },
     {
+      "key": "greenhouse:gotion",
+      "fetched": 142,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:emergenceai",
       "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:rubrik",
+      "fetched": 155,
       "kept": 0
     },
     {
@@ -50,11 +55,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:gotion",
-      "fetched": 142,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:vercel",
       "fetched": 89,
       "kept": 3
@@ -65,19 +65,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:rubrik",
-      "fetched": 155,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:place",
       "fetched": 24,
       "kept": 1
     },
     {
-      "key": "greenhouse:global-en",
-      "fetched": 0,
-      "kept": 0
+      "key": "greenhouse:boxinc",
+      "fetched": 133,
+      "kept": 2
     },
     {
       "key": "greenhouse:drweng",
@@ -85,14 +80,19 @@
       "kept": 3
     },
     {
+      "key": "greenhouse:global-en",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:pendo",
+      "fetched": 26,
+      "kept": 2
+    },
+    {
       "key": "greenhouse:samsara",
       "fetched": 331,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:boxinc",
-      "fetched": 133,
-      "kept": 2
     },
     {
       "key": "greenhouse:zoominfo",
@@ -130,13 +130,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:ziprecruiter",
-      "fetched": 50,
-      "kept": 2
+      "key": "greenhouse:xai",
+      "fetched": 300,
+      "kept": 0
     },
     {
-      "key": "greenhouse:reddit",
-      "fetched": 163,
+      "key": "greenhouse:ziprecruiter",
+      "fetched": 50,
       "kept": 2
     },
     {
@@ -160,8 +160,18 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:xai",
-      "fetched": 300,
+      "key": "greenhouse:rocketlab",
+      "fetched": 555,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:samsungsemiconductor",
+      "fetched": 73,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:2k",
+      "fetched": 84,
       "kept": 0
     },
     {
@@ -170,13 +180,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:smartsheet",
-      "fetched": 75,
-      "kept": 1
+      "key": "greenhouse:reddit",
+      "fetched": 163,
+      "kept": 2
     },
     {
-      "key": "greenhouse:samsungsemiconductor",
-      "fetched": 73,
+      "key": "ashby:engramme",
+      "fetched": 10,
       "kept": 0
     },
     {
@@ -185,29 +195,9 @@
       "kept": 1
     },
     {
-      "key": "ashby:engramme",
-      "fetched": 10,
-      "kept": 0
-    },
-    {
       "key": "ashby:speak",
       "fetched": 35,
       "kept": 1
-    },
-    {
-      "key": "ashby:traversal",
-      "fetched": 31,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:flagshippioneeringinc",
-      "fetched": 92,
-      "kept": 0
-    },
-    {
-      "key": "ashby:lambda",
-      "fetched": 96,
-      "kept": 0
     },
     {
       "key": "ashby:tillster",
@@ -215,8 +205,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:2k",
-      "fetched": 86,
+      "key": "ashby:lambda",
+      "fetched": 95,
       "kept": 0
     },
     {
@@ -225,14 +215,19 @@
       "kept": 0
     },
     {
-      "key": "ashby:midstream",
-      "fetched": 8,
+      "key": "ashby:commure",
+      "fetched": 84,
+      "kept": 0
+    },
+    {
+      "key": "ashby:traversal",
+      "fetched": 31,
       "kept": 1
     },
     {
-      "key": "ashby:terranova",
-      "fetched": 13,
-      "kept": 0
+      "key": "ashby:midstream",
+      "fetched": 8,
+      "kept": 1
     },
     {
       "key": "ashby:rescale",
@@ -240,23 +235,23 @@
       "kept": 0
     },
     {
-      "key": "ashby:endeavorai",
-      "fetched": 5,
-      "kept": 0
-    },
-    {
-      "key": "ashby:commure",
-      "fetched": 84,
-      "kept": 0
-    },
-    {
-      "key": "ashby:genmd",
-      "fetched": 7,
-      "kept": 0
-    },
-    {
       "key": "ashby:profound",
       "fetched": 82,
+      "kept": 0
+    },
+    {
+      "key": "ashby:terranova",
+      "fetched": 13,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:smartsheet",
+      "fetched": 75,
+      "kept": 1
+    },
+    {
+      "key": "ashby:endeavorai",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -270,8 +265,13 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:rocketlab",
-      "fetched": 557,
+      "key": "ashby:genmd",
+      "fetched": 7,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:flagshippioneeringinc",
+      "fetched": 92,
       "kept": 0
     },
     {
@@ -290,24 +290,19 @@
       "kept": 0
     },
     {
-      "key": "ashby:office-hours",
-      "fetched": 11,
+      "key": "ashby:pear-vc",
+      "fetched": 107,
       "kept": 0
     },
     {
-      "key": "ashby:pear-vc",
-      "fetched": 107,
+      "key": "ashby:office-hours",
+      "fetched": 11,
       "kept": 0
     },
     {
       "key": "ashby:aurora-operations-inc",
       "fetched": 93,
       "kept": 1
-    },
-    {
-      "key": "ashby:hadrian-automation",
-      "fetched": 159,
-      "kept": 0
     },
     {
       "key": "ashby:northwoodspace",
@@ -320,13 +315,13 @@
       "kept": 0
     },
     {
-      "key": "lever:spotify",
-      "fetched": 86,
+      "key": "ashby:hadrian-automation",
+      "fetched": 159,
       "kept": 0
     },
     {
-      "key": "lever:onboarded",
-      "fetched": 7,
+      "key": "lever:spotify",
+      "fetched": 86,
       "kept": 0
     },
     {
@@ -340,8 +335,8 @@
       "kept": 0
     },
     {
-      "key": "lever:wachter",
-      "fetched": 151,
+      "key": "lever:onboarded",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -360,18 +355,18 @@
       "kept": 2
     },
     {
-      "key": "workday:carrier.wd5.myworkdayjobs.com/jobs",
-      "fetched": 80,
-      "kept": 0
-    },
-    {
-      "key": "workday:ttmtech.wd5.myworkdayjobs.com/jobs",
-      "fetched": 20,
+      "key": "lever:wachter",
+      "fetched": 151,
       "kept": 0
     },
     {
       "key": "workday:analogdevices.wd1.myworkdayjobs.com/external",
       "fetched": 60,
+      "kept": 0
+    },
+    {
+      "key": "workday:ttmtech.wd5.myworkdayjobs.com/jobs",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -382,6 +377,11 @@
     {
       "key": "workday:blueorigin.wd5.myworkdayjobs.com/blueorigin",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:carrier.wd5.myworkdayjobs.com/jobs",
+      "fetched": 80,
       "kept": 0
     },
     {
@@ -406,26 +406,6 @@
     }
   ],
   "jobs": [
-    {
-      "title": "Sr. Software Engineer, Backend",
-      "url": "https://job-boards.greenhouse.io/pendo/jobs/8929128002",
-      "company": "Pendo.io",
-      "location": "Raleigh, NC",
-      "postedAt": "2026-11-03T20:21:52.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "pendo"
-    },
-    {
-      "title": "Software Engineer, Full Stack",
-      "url": "https://job-boards.greenhouse.io/pendo/jobs/8678619002",
-      "company": "Pendo.io",
-      "location": "Raleigh, NC",
-      "postedAt": "2026-11-03T20:02:48.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "pendo"
-    },
     {
       "title": "Machine Learning Engineer",
       "url": "https://job-boards.greenhouse.io/gotion/jobs/8928924002",
@@ -477,6 +457,26 @@
       "board": "place"
     },
     {
+      "title": "Senior Software Engineer, Reliability",
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318473",
+      "company": "Box",
+      "location": "Redwood City, CA, United States",
+      "postedAt": "2026-11-03T18:32:51.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "boxinc"
+    },
+    {
+      "title": "Senior Software Engineer, Application Security",
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318858",
+      "company": "Box",
+      "location": "Redwood City, CA",
+      "postedAt": "2026-11-02T15:45:06.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "boxinc"
+    },
+    {
       "title": "Senior Software Engineer, Platform Services",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7943130",
       "company": "DRW",
@@ -507,6 +507,26 @@
       "board": "drweng"
     },
     {
+      "title": "Sr. Software Engineer, Backend",
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8929128002",
+      "company": "Pendo.io",
+      "location": "Raleigh, NC",
+      "postedAt": "2026-11-03T20:21:52.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "pendo"
+    },
+    {
+      "title": "Software Engineer, Full Stack",
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8678619002",
+      "company": "Pendo.io",
+      "location": "Raleigh, NC",
+      "postedAt": "2026-11-03T20:02:48.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "pendo"
+    },
+    {
       "title": "Sr. Software Engineer I",
       "url": "https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175",
       "company": "Samsara",
@@ -515,26 +535,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "samsara"
-    },
-    {
-      "title": "Senior Software Engineer, Reliability",
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318473",
-      "company": "Box",
-      "location": "Redwood City, CA, United States",
-      "postedAt": "2026-11-03T18:32:51.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "boxinc"
-    },
-    {
-      "title": "Senior Software Engineer, Application Security",
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318858",
-      "company": "Box",
-      "location": "Redwood City, CA",
-      "postedAt": "2026-11-02T15:45:06.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "boxinc"
     },
     {
       "title": "Senior Software Engineer, Marketing Technology",
@@ -577,26 +577,6 @@
       "board": "ziprecruiter"
     },
     {
-      "title": "Senior Software Engineer, GRC ",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8350749",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "postedAt": "2026-11-03T20:11:18.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "reddit"
-    },
-    {
-      "title": "Software Engineer, Infrastructure Engineering",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "postedAt": "2026-11-02T23:28:32.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "reddit"
-    },
-    {
       "title": "C/C++ Software Development Engineer II - Data Management  ",
       "url": "https://www.esri.com/careers/5279677007?gh_jid=5279677007",
       "company": "Esri",
@@ -617,14 +597,24 @@
       "board": "sonyinteractiveentertainmentglobal"
     },
     {
-      "title": "Software Engineer I (Remote Eligible) ",
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
-      "company": "Smartsheet",
-      "location": " -REMOTE, USA-",
-      "postedAt": "2026-11-02T20:37:51.000Z",
+      "title": "Senior Software Engineer, GRC ",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8350749",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "postedAt": "2026-11-03T20:11:18.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "smartsheet"
+      "board": "reddit"
+    },
+    {
+      "title": "Software Engineer, Infrastructure Engineering",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "postedAt": "2026-11-02T23:28:32.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "reddit"
     },
     {
       "title": "Software and AI Engineer",
@@ -647,16 +637,6 @@
       "board": "speak"
     },
     {
-      "title": "AI Engineer - Forward Deployed Engineer",
-      "url": "https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd",
-      "company": "Traversal",
-      "location": "New York",
-      "postedAt": "2026-11-03T18:27:05.839Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "traversal"
-    },
-    {
       "title": "SOFTWARE ENGINEER – BACK END (PAYMENTS)",
       "url": "https://jobs.ashbyhq.com/tillster/010be492-8a9c-4f42-84a8-cbe63af0a327",
       "company": "Tillster",
@@ -667,6 +647,16 @@
       "board": "tillster"
     },
     {
+      "title": "AI Engineer - Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd",
+      "company": "Traversal",
+      "location": "New York",
+      "postedAt": "2026-11-03T18:27:05.839Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "traversal"
+    },
+    {
       "title": "Applied AI Researcher",
       "url": "https://jobs.ashbyhq.com/midstream/000b0038-c337-427b-ae31-3bbbb9229a37",
       "company": "Midstream Health",
@@ -675,6 +665,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "midstream"
+    },
+    {
+      "title": "Software Engineer I (Remote Eligible) ",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
+      "company": "Smartsheet",
+      "location": " -REMOTE, USA-",
+      "postedAt": "2026-11-02T20:37:51.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "smartsheet"
     },
     {
       "title": "Senior Software Engineer",
