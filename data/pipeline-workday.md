@@ -1033,4 +1033,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer_R-96465 | nike | Software Engineer | Beaverton, Oregon | posted: 2026-11-03
 - [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Frontend-Web-Developer_R0146882 | hitachi | Frontend Web Developer | Remote - India | posted: 2026-11-03
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer---Document-Intelligence_JR-0107516 | workday | Software Development Engineer - Document Intelligence | USA, CA, Pleasanton | posted: 2026-11-03
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Engineer---Full-Stack_R-1103369-1 | verizon | Engineer - Full Stack | 3 Locations | posted: 2026-11-03
+- [ ] https://omnissa.wd501.myworkdayjobs.com/omnissa_external_career_site/job/Mountain-View-California-Office/Software-Engineer--C-C----Cloud-Networking-_R-101716 | omnissa | Software Engineer, C/C++ (Cloud/Networking) | Mountain View, California Office | posted: 2026-11-03
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/Software-Engineer--Level-3-4-_R10258964 | ngc | Software Engineer (Level 3/4) | 2 Locations | posted: 2026-11-03
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Site-Reliability-Engineer_R0158645 | ncr | Site Reliability Engineer | ATLANTA, GA, USA | posted: 2026-11-03
+- [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Denver-CO/Software-Engineer-III---React-Native_JR104030 | modivcare | Software Engineer III - React/Native | Denver, CO | posted: 2026-11-03
+- [ ] https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Jacksonville-Florida/Devops-Engineer_R-26-0039000 | kemper | DevOps Engineer | 2 Locations | posted: 2026-11-03
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Software-Development-Engineering---Advisor-I_R-10382096 | fiserv | Software Development Engineering - Advisor I | 2 Locations | posted: 2026-11-03
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/POL---Poland-Remote-Office/Software-Engineer---Front-End_R0035109 | epiqsystems | Software Engineer - Front End | 2 Locations | posted: 2026-11-03
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/POL---Poland-Remote-Office/Software-Engineer_R0035112 | epiqsystems | Software Engineer | POL - Poland Remote Office | posted: 2026-11-03
+- [ ] https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Engineer_0015013 | cccis | AI Engineer | Chicago (Green St), IL | posted: 2026-11-03
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-5---Intelligent-Foundations-and-Experiences--IFX-_R1005018-1 | capitalone | Full-stack Engineer 5 - Intelligent Foundations and Experiences (IFX) | 3 Locations | posted: 2026-11-03
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-4_R1004508-1 | capitalone | Full-stack Engineer 4 | Chicago, IL | posted: 2026-11-03
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Machine-Learning-Engineer-5_R1001829-1 | capitalone | Machine Learning Engineer 5 | 5 Locations | posted: 2026-11-03
+
 ## Processed
