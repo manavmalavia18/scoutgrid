@@ -1177,4 +1177,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Jacksonville-Florida/Software-Developer_R-26-0038930 | Kemper | Software Developer | Jacksonville, Florida | posted: 2026-11-02
 - [ ] https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Software-Engineer---Fern_JR1000037 | Postman | Software Engineer - Fern | NYC, NY, US | posted: 2026-11-02
 
+- [ ] https://omnissa.wd501.myworkdayjobs.com/omnissa_external_career_site/job/Mountain-View-California-Office/Software-Engineer--C-C----Cloud-Networking-_R-101716 | Omnissa | Software Engineer, C/C++ (Cloud/Networking) | Mountain View, California Office | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8922249002 | Gitlab | Intermediate Fullstack Engineer, Subscription Lifecycle | Remote, Canada; Remote, United States | posted: 2026-11-03
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Site-Reliability-Engineer_R0158645 | Ncr | Site Reliability Engineer | ATLANTA, GA, USA | posted: 2026-11-03
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Engineer---Full-Stack_R-1103369-1 | Verizon | Engineer - Full Stack | 3 Locations | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/vizcom/43c0b685-4d62-4fa5-a83b-2bc05030fa0f | Vizcom | Site Reability Engineer (SRE) | San Francisco | posted: 2026-11-03
+- [ ] https://imeg.wd1.myworkdayjobs.com/imeg_careers/job/Las-Vegas-NV/Full-Stack-Software-Engineer---Las-Vegas--NV--Remote_R-16427 | IMEG | Full Stack Software Engineer / Las Vegas, NV/ Remote | 9 Locations | posted: 2026-11-03
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Machine-Learning-Engineer-5_R1001829-1 | Capital One | Machine Learning Engineer 5 | 5 Locations | posted: 2026-11-03
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-5---Intelligent-Foundations-and-Experiences--IFX-_R1005018-1 | Capital One | Full-stack Engineer 5 - Intelligent Foundations and Experiences (IFX) | 3 Locations | posted: 2026-11-03
+- [ ] https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Platform-Engineer---Marketing_R-096948-2 | Johnson & Johnson | Platform Engineer - Marketing | 51 Locations | posted: 2026-11-03
+- [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Software-Engineer-I---Top-Secret_R188151 | Parsons | Software Engineer I - Top Secret | US Remote Any Location | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/midstream/000b0038-c337-427b-ae31-3bbbb9229a37 | Midstream Health | Applied AI Researcher | Remote / US | posted: 2026-11-03
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer---Document-Intelligence_JR-0107516 | Workday | Software Development Engineer - Document Intelligence | USA, CA, Pleasanton | posted: 2026-11-03
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/Software-Engineer--Level-3-4-_R10258964 | Northrop Grumman | Software Engineer (Level 3/4) | 2 Locations | posted: 2026-11-03
+- [ ] https://magna.wd3.myworkdayjobs.com/magna/job/Troy-Michigan-US/AI-Engineer_R00268543 | Magna International | AI Engineer | Troy, Michigan, US | posted: 2026-11-03
+- [ ] https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Jacksonville-Florida/Devops-Engineer_R-26-0039000 | Kemper | DevOps Engineer | 2 Locations | posted: 2026-11-03
+- [ ] https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736 | Cincinnati Children's Hospital Medical Center | Student II - Software Engineering Developer (A) | Remote | posted: 2026-11-02
+- [ ] https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743 | Cincinnati Children's Hospital Medical Center | Student II - Software Engineering Developer (B) | Remote | posted: 2026-11-02
+
 ## Processed
