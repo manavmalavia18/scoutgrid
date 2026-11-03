@@ -1073,4 +1073,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-II_R-51813 | bcbst | Associate Software Engineer II | USA, TN, Chattanooga, Remote | posted: 2026-11-03
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Full-Stack-Modeling-and-Simulation-Software-Engineer_R0252901 | bah | Full Stack Modeling and Simulation Software Engineer | Colorado Springs, CO | posted: 2026-11-03
 
+- [ ] https://sunlife.wd3.myworkdayjobs.com/experienced/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-2 | sunlife | Business Operations Software Engineer - 2027 Co-op | 5 Locations | posted: 2026-11-03
+- [ ] https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846 | sunlife | Business Operations Software Engineer - 2027 Co-op | 5 Locations | posted: 2026-11-03
+- [ ] https://sunlife.wd3.myworkdayjobs.com/campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1 | sunlife | Business Operations Software Engineer - 2027 Co-op | 5 Locations | posted: 2026-11-03
+
 ## Processed
