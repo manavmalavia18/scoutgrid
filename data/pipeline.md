@@ -1596,3 +1596,6 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471681008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-03
 
 - [ ] https://job-boards.greenhouse.io/stacklok/jobs/5275130007 | stacklok | Software Engineer II - Cloud-Native Agent Harness (Mecatl) | Remote: North America - East | posted: 2026-11-03
+
+- [ ] https://jobs.ashbyhq.com/e2b/657ce888-be70-46cf-975f-ca7788694fdc | e2b | Site Reliability Engineer | San Francisco | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8846269002 | censys | Software Engineer II (Backend) | Remote (US/Canada) | posted: 2026-11-03
