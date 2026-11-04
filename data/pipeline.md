@@ -1613,3 +1613,5 @@
 - [ ] https://boards.greenhouse.io/relativity/jobs/8929521002?gh_jid=8929521002 | relativity | Software Engineer II, Front-End Platforms | Long Beach, California, United States | posted: 2026-11-04
 
 - [ ] https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009 | atomicmachines | Applied AI Engineer, People | Emeryville, or Santa Clara, California | posted: 2026-11-04
+
+- [ ] https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0 | nooks | Software Engineer | Seattle | posted: 2026-11-04
