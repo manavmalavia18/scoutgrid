@@ -1241,4 +1241,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/New-York-NY/Platform-Engineer--R37-_R260000008134 | R1 RCM | Platform Engineer (R37) | 2 Locations | posted: 2026-11-03
 - [ ] https://valeris.wd108.myworkdayjobs.com/valeris/job/Remote-Kentucky/Software-Engineer_JR784 | Valeris | Software Engineer | Remote, Kentucky | posted: 2026-11-03
 
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8846269002 | Censys | Software Engineer II (Backend) | Remote (US/Canada) | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/onyxodds/jobs/4477834009 | Onyx Odds | Full-Stack Software Engineer | New York, New York | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4750580005 | Tailscale | Documentation Platform Engineer | Remote (Canada) | posted: 2026-11-03
+
 ## Processed
