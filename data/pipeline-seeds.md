@@ -1486,4 +1486,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0 | loftorbital | Flight Dynamics Software Engineer | San Francisco, CA | posted: 2026-11-04
 
+- [ ] https://navan.com/careers/openings?gh_jid=8350952 | tripactions | Site Reliability Engineer II | Palo Alto, CA or San Francisco, CA | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/axon/jobs/8195568003 | axon | Site Reliability Engineer II | Boston, Massachusetts, United States | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/axon/jobs/8034173003 | axon | Site Reliability Engineer II | Seattle, Washington, United States | posted: 2026-11-04
+- [ ] https://www.agilityrobotics.com/about/job-post?gh_jid=6242659004 | agilityrobotics | Software Engineer III, Simulation | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Hybrid- Fremont, CA; Remote | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002 | quberesearchandtechnologies | Production Support Engineer - LLM Platform | New York, Chicago | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/mirage/f15795b7-58c7-4855-a6d1-911c9928ed3d | mirage | Software Engineer, AI Developer Productivity | Union Square, New York City | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/kalshi/37afb8e0-2db4-4342-b479-f526bb860e42 | kalshi | Software Engineer, Growth | New York Office | posted: 2026-11-04
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5284428007?gh_jid=5284428007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-04
+- [ ] https://jobs.lever.co/hatchit/0f8ce440-1324-4cc1-85d0-f0c95cf587cc | hatchit | DevOps Engineer | Washington, DC | posted: 2026-11-04
+
 ## Processed
