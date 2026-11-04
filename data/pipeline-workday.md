@@ -1113,4 +1113,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1 | guidewire | Software Engineer | United States - Exton, PA | posted: 2026-11-04
 - [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1 | guidewire | Software Engineer | United States - Exton, PA | posted: 2026-11-04
 
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055 | usbank | Software engineer 1 – AI/ML Engineer (MLOps) | 4 Locations | posted: 2026-11-04
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis-Junction/Cyber-Software-Engineer--J-_R10259217 | ngc | Cyber Software Engineer (J) | United States-Maryland-Annapolis Junction | posted: 2026-11-04
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Software-Engineer-Level-3-or-4--AHT-_R10246403 | ngc | Software Engineer Level 3 or 4 (AHT) | 2 Locations | posted: 2026-11-04
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/AI-Engineer---_R-278791 | mastercard | AI Engineer // | O'Fallon, Missouri | posted: 2026-11-04
+
 ## Processed
