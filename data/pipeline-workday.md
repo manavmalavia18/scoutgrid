@@ -1143,4 +1143,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Software-Engineer---Battery---High-Voltage_JR-202616693 | generalmotors | Software Engineer - Battery & High Voltage | Milford, Michigan, United States of America | posted: 2026-11-04
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Continuous-Polishing-Technician---Front-End-Days---6-00-AM---6-00-PM---Sunday---Monday--Tuesday-and-every-other-Wednesday-_J-00354979 | asml | Continuous Polishing Technician - Front End Days , 6:00 AM – 6:00 PM (Sunday , Monday Tuesday and every other Wednesday) | Wilton, CT, USA | posted: 2026-11-04
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300-1 | boeing | Software Engineer–Developer, Phantom Works Weapons (Associate or Experienced) | 2 Locations | posted: 2026-11-04
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300 | boeing | Software Engineer–Developer, Phantom Works Weapons (Associate or Experienced) | 2 Locations | posted: 2026-11-04
+
 ## Processed
