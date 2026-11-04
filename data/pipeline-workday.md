@@ -1095,4 +1095,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10259196 | ngc | Software Engineer (AHT) | United States-Ohio-Beavercreek | posted: 2026-11-04
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0110178 | workday | Software Development Engineer, SRE (US Federal) | USA.VA.Reston | posted: 2026-11-04
+- [ ] https://situsamc.wd1.myworkdayjobs.com/situsamc/job/Remote/SR-Platform-Engineer---Remote-US_JR02900 | situsamc | Platform Engineer - Remote | Remote | posted: 2026-11-04
+- [ ] https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Phoenix-AZ-USA/Backend-Engineer_R-70457 | kyndryl | Backend Engineer | Phoenix, AZ, USA | posted: 2026-11-04
+- [ ] https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Phoenix-AZ-USA/Frontend-Engineer_R-70458 | kyndryl | Frontend Engineer | Phoenix, AZ, USA | posted: 2026-11-04
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Senior-Software-Engineer--Cloud-Services_3165859-1 | hp | Software Engineer, Cloud Services | San Francisco, California, United States of America | posted: 2026-11-04
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Senior-Software-Engineer--Cloud-Services_3165859 | hp | Software Engineer, Cloud Services | San Francisco, California, United States of America | posted: 2026-11-04
+
 ## Processed
