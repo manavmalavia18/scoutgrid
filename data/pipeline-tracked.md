@@ -1269,4 +1269,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/Java-Full-Stack-Developer_R260400150-2 | TIAA | Java Full Stack Developer | 4 Locations | posted: 2026-11-04
 
+- [ ] https://job-boards.greenhouse.io/citian/jobs/5472833008 | Citian | AI Engineer - Data Success | Washington D.C. | posted: 2026-11-04
+
 ## Processed
