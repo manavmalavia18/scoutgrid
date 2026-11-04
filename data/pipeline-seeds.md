@@ -1477,4 +1477,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005 | preciselyusjobs | Associate Software Engineer (Python AI) | United States | posted: 2026-11-03
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283529007?gh_jid=5283529007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-03
 
+- [ ] https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009 | atomicmachines | Applied AI Engineer, People | Emeryville, or Santa Clara, California | posted: 2026-11-04
+- [ ] https://boards.greenhouse.io/relativity/jobs/8929521002?gh_jid=8929521002 | relativity | Software Engineer II, Front-End Platforms | Long Beach, California, United States | posted: 2026-11-04
+
 ## Processed
