@@ -1089,4 +1089,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Backend-Web-Developer_R0146881 | hitachi | Backend Web Developer | Remote - India | posted: 2026-11-04
 
+- [ ] https://speedcast.wd1.myworkdayjobs.com/speedcastcareers/job/Remote---Greece/Site-Reliability-Engineer_JR11177-1 | speedcast | Site Reliability Engineer | Remote - Greece | posted: 2026-11-04
+
 ## Processed
