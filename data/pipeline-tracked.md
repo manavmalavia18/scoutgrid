@@ -1305,4 +1305,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Atlanta-Georgia/Software-Engineer-II---AI-Platforms_R-294616 | Mastercard | Software Engineer II - AI Platforms | Atlanta, Georgia | posted: 2026-11-04
 
+- [ ] https://jobs.smartrecruiters.com/Eurofins/744000159715229 | Eurofins | Applications Software Engineer - Industrial Automation | Houston, TX, United States | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/everlaw/jobs/4726848006 | Everlaw | Software Engineer, Platform | Oakland, California, United States | posted: 2026-11-04
+
 ## Processed
