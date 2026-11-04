@@ -1279,4 +1279,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Senior-Software-Engineer--Cloud-Services_3165859-1 | HP Inc. | Software Engineer, Cloud Services | San Francisco, California, United States of America | posted: 2026-11-04
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0110178 | Workday | Software Development Engineer, SRE (US Federal) | USA.VA.Reston | posted: 2026-11-04
 
+- [ ] https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-Remote/Software-Engineer-II_R0171825 | Amentum | Software Engineer II | US-Remote | posted: 2026-11-04
+
 ## Processed
