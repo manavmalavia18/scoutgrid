@@ -1079,4 +1079,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Ramon-CA/Associate-AI-Engineer_JR113025 | ptc | Associate AI Engineer | USA-San Ramon, CA | posted: 2026-11-04
 
+- [ ] https://fox.wd1.myworkdayjobs.com/domestic/job/Los-Angeles-California-USA/Software-Engineer-II_R50033561 | fox | Software Engineer II | 2 Locations | posted: 2026-11-04
+
 ## Processed
