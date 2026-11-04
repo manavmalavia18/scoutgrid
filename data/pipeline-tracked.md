@@ -1299,4 +1299,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Full-Stack-Engineer_REQ-059106 | Morningstar | Full Stack Engineer | Chicago | posted: 2026-11-04
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Flight-Software-Engineer---Level-3-4--AHT-_R10259255-1 | Northrop Grumman | Flight Software Engineer - Level 3/4 (AHT) | United States-California-Redondo Beach | posted: 2026-11-04
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering--AI-Systems--PMTS-_JR367231-1 | Salesforce | Software Engineering, AI Systems (PMTS) | 4 Locations | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8353498 | LendingTree | Software Engineer | Denver, Colorado, United States | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/compyl/d5a20c3e-2dec-4c03-ad48-44eebede9c90 | Compyl | Software Engineer | USA - 100% Remote | posted: 2026-11-04
+
 ## Processed
