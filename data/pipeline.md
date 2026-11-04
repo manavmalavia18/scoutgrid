@@ -1628,3 +1628,5 @@
 - [ ] https://navan.com/careers/openings?gh_jid=8350952 | tripactions | Site Reliability Engineer II | Palo Alto, CA or San Francisco, CA | posted: 2026-11-04
 - [ ] https://job-boards.greenhouse.io/axon/jobs/8195568003 | axon | Site Reliability Engineer II | Boston, Massachusetts, United States | posted: 2026-11-04
 - [ ] https://job-boards.greenhouse.io/axon/jobs/8034173003 | axon | Site Reliability Engineer II | Seattle, Washington, United States | posted: 2026-11-04
+
+- [ ] https://jobs.ashbyhq.com/3y-health/149b8587-113e-48ed-9128-e0233632ba34 | 3y-health | Full Stack Engineer | Remote - Brazil | posted: 2026-11-04
