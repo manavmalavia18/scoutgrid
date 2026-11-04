@@ -1647,3 +1647,10 @@
 - [ ] https://jobs.lever.co/longwall/78e57a97-1006-4e57-a45f-b3029d2eb83b | longwall | Flight Software Engineer | Long Beach, California | posted: 2026-11-04
 - [ ] https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f | ramp | Software Engineer, Frontend | New York, NY (HQ) · Remote (Canada) · Canada · San Francisco, CA · San Fransisco · USA · Remote (US) · United States · Miami, FL · Miami | posted: 2026-11-04
 - [ ] https://jobs.ashbyhq.com/office-hours/58596841-9485-4f21-8f09-c57ba2c8da32 | office-hours | Software Engineer, Growth | San Francisco, NYC, or Fully Remote | posted: 2026-11-02
+
+- [ ] https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8931225002 | trexsolutions | AI Engineer | 100% Remote | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/inspire11/jobs/8440233002 | inspire11 | DevOps Engineer | Chicago, IL | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/gecko-robotics/4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 | gecko-robotics | Software Engineer / Infrastructure | New York City | posted: 2026-11-04
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5284428007?gh_jid=5284428007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-04
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283579007?gh_jid=5283579007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-11-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283529007?gh_jid=5283529007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-03
