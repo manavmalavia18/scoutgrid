@@ -1128,4 +1128,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Software-Engineer--ICB-3-_R027629 | broadcom | Software Engineer (ICB 3) | USA-TX Plano Legacy Drive Suite 700 | posted: 2026-11-04
 
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Atlanta-Georgia/Software-Engineer-II---AI-Platforms_R-294616 | mastercard | Software Engineer II - AI Platforms | Atlanta, Georgia | posted: 2026-11-04
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Atlanta-Georgia/Software-Engineer-II---AI-Platforms-1_R-294615 | mastercard | Software Engineer II - AI Platforms | Atlanta, Georgia | posted: 2026-11-04
+
 ## Processed
