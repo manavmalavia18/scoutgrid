@@ -1105,4 +1105,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-Remote/Software-Engineer-II_R0171825 | pae | Software Engineer II | US-Remote | posted: 2026-11-04
 - [ ] https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Texas-USA/AI-Engineer_R2026-1360 | cengage | AI Engineer | Texas, USA | posted: 2026-11-04
 
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer_R0118957-1 | truist | Software Engineer | 2 Locations | posted: 2026-11-04
+
 ## Processed
