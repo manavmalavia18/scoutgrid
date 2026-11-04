@@ -1654,3 +1654,7 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5284428007?gh_jid=5284428007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-04
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283579007?gh_jid=5283579007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-11-03
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283529007?gh_jid=5283529007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-03
+
+- [ ] https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | notion | Software Engineer, Growth | San Francisco, California · New York, New York · New York · United States | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241576004 | twosixtechnologies | Full Stack Software Engineer | Arlington, Virginia | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 | deepgram | Software Engineer - Applied AI | San Francisco, CA | posted: 2026-11-04
