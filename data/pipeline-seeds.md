@@ -1496,4 +1496,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5284428007?gh_jid=5284428007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-04
 - [ ] https://jobs.lever.co/hatchit/0f8ce440-1324-4cc1-85d0-f0c95cf587cc | hatchit | DevOps Engineer | Washington, DC | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/darkroom/43e2ca07-dde4-4c1e-808a-826c0da5d092 | darkroom | Full-Stack Engineer | Brazil · Remote | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/3y-health/6777e8b5-a9ba-41c8-85d9-563842082eb7 | 3y-health | Full Stack AI Engineer | Remote - Argentina | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/hike-medical/e11d90bf-9f6a-44be-9b54-cb3c1079c59b | hike-medical | Software Engineer | San Francisco, CA | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8353498 | lendingtree | Software Engineer | Denver, Colorado, United States | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/3y-health/149b8587-113e-48ed-9128-e0233632ba34 | 3y-health | Full Stack Engineer | Remote - Brazil | posted: 2026-11-04
+
 ## Processed
