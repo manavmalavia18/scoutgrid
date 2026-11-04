@@ -1107,4 +1107,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer_R0118957-1 | truist | Software Engineer | 2 Locations | posted: 2026-11-04
 
+- [ ] https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer-II_R0002848 | legalshieldcorp | Software Engineer II | Remote Job Posting | posted: 2026-11-04
+- [ ] https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Engineer_R0038315 | hubinternational | AI Engineer | Chicago, IL | posted: 2026-11-04
+- [ ] https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Engineer_R0038316 | hubinternational | AI Engineer | Chicago, IL | posted: 2026-11-04
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1 | guidewire | Software Engineer | United States - Exton, PA | posted: 2026-11-04
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1 | guidewire | Software Engineer | United States - Exton, PA | posted: 2026-11-04
+
 ## Processed
