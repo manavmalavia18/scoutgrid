@@ -16938,6 +16938,101 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Corridian"
+    careers_url: https://jobs.ashbyhq.com/corridian
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Joyful Health"
+    careers_url: https://jobs.ashbyhq.com/joyfulhealth
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "monday.com"
+    careers_url: https://jobs.ashbyhq.com/monday.com
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Standard Template Labs"
+    careers_url: https://jobs.ashbyhq.com/st-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Samsung Research America"
+    careers_url: https://job-boards.greenhouse.io/samsungresearchamericainternship
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Stacklok"
+    careers_url: https://job-boards.greenhouse.io/stacklok
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Lochmueller Group"
+    careers_url: https://jobs.lever.co/lochgroup
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Walker Consultants"
+    careers_url: https://jobs.lever.co/walkerconsultants
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Barry-Wehmiller"
+    careers_url: https://barrywehmiller.wd1.myworkdayjobs.com/bwcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Dover Corporation"
+    careers_url: https://dover.wd103.myworkdayjobs.com/dover
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Freese and Nichols"
+    careers_url: https://freese.wd1.myworkdayjobs.com/freese_nichols_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "MasterBrand, Inc."
+    careers_url: https://masterbrand.wd12.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "R1 RCM"
+    careers_url: https://r1rcm.wd1.myworkdayjobs.com/r1rcm
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "State Street"
+    careers_url: https://statestreet.wd1.myworkdayjobs.com/equest
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Stormont Vail Health"
+    careers_url: https://stormontvail.wd1.myworkdayjobs.com/svh
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Valeris"
+    careers_url: https://valeris.wd108.myworkdayjobs.com/valeris
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
