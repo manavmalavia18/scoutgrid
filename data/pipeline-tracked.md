@@ -1275,4 +1275,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Phoenix-AZ-USA/Frontend-Engineer_R-70458 | Kyndryl | Frontend Engineer | Phoenix, AZ, USA | posted: 2026-11-04
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-or-Software-Engineer---Change-Management-2---Space-AHT_R10255600 | Northrop Grumman | Systems or Software Engineer - Change Management 2 - Space AHT | United States-Alabama-Huntsville | posted: 2026-11-04
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Java-Backend-Developer_261002175 | Citi | Java Backend Developer | Tampa Florida United States | posted: 2026-11-04
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Senior-Software-Engineer--Cloud-Services_3165859-1 | HP Inc. | Software Engineer, Cloud Services | San Francisco, California, United States of America | posted: 2026-11-04
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0110178 | Workday | Software Development Engineer, SRE (US Federal) | USA.VA.Reston | posted: 2026-11-04
+
 ## Processed
