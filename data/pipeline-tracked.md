@@ -1303,4 +1303,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8353498 | LendingTree | Software Engineer | Denver, Colorado, United States | posted: 2026-11-04
 - [ ] https://jobs.ashbyhq.com/compyl/d5a20c3e-2dec-4c03-ad48-44eebede9c90 | Compyl | Software Engineer | USA - 100% Remote | posted: 2026-11-04
 
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Atlanta-Georgia/Software-Engineer-II---AI-Platforms_R-294616 | Mastercard | Software Engineer II - AI Platforms | Atlanta, Georgia | posted: 2026-11-04
+
 ## Processed
