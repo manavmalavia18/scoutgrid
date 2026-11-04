@@ -1295,4 +1295,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis-Junction/Cyber-Software-Engineer--J-_R10259217 | Northrop Grumman | Cyber Software Engineer (J) | United States-Maryland-Annapolis Junction | posted: 2026-11-04
 
+- [ ] https://jobs.smartrecruiters.com/Experian/744000159700273 | Experian | Mid Data & Software Engineer | Remote | posted: 2026-11-04
+- [ ] https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Full-Stack-Engineer_REQ-059106 | Morningstar | Full Stack Engineer | Chicago | posted: 2026-11-04
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Flight-Software-Engineer---Level-3-4--AHT-_R10259255-1 | Northrop Grumman | Flight Software Engineer - Level 3/4 (AHT) | United States-California-Redondo Beach | posted: 2026-11-04
+
 ## Processed
