@@ -1459,4 +1459,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ekumenlabs/05c05d1b-4ea0-41ea-a237-459d68eb99a8 | ekumenlabs | Full Stack Engineer | Argentina · Chile · Peru · Remote | posted: 2026-11-03
 - [ ] https://jobs.ashbyhq.com/midstream/000b0038-c337-427b-ae31-3bbbb9229a37 | midstream | Applied AI Researcher | Remote / US | posted: 2026-11-03
 
+- [ ] https://jobs.ashbyhq.com/writer/2170c74d-7726-4d8f-910e-7f4ef7ac4fd1 | writer | Software engineer, generative AI | San Francisco, CA · Seattle, WA · Seattle · United States · New York City, NY · New York City | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/writer/47dd1728-97f7-4e0d-9a7a-39009aa212a5 | writer | Software engineer, connectors & MCP | San Francisco, CA · Seattle, WA · Seattle · United States · New York City, NY · New York City | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/focused/jobs/8178475003 | focused | Platform Engineer, AI Infrastructure | Chicago, Illinois, United States | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/focused/jobs/8178474003 | focused | Platform Engineer, AI Infrastructure | Denver, Colorado, United States | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/writer/ce86adec-e8ce-4bbf-a706-43795a982de6 | writer | Software engineer, agents | New York City, NY · Seattle, WA · Seattle · United States · San Francisco, CA · San Francisco | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/mercor/5ece408b-0741-4917-a3f7-27d5acb25d57 | mercor | Software Engineer, Discovery | San Francisco | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/writer/93fbe5ce-2ce9-41ea-a998-a433c0f7f085 | writer | AI engineer | San Francisco, CA · New York City, NY · New York City · United States | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/e2b/657ce888-be70-46cf-975f-ca7788694fdc | e2b | Site Reliability Engineer | San Francisco | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8846269002 | censys | Software Engineer II (Backend) | Remote (US/Canada) | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/stacklok/jobs/5275130007 | stacklok | Software Engineer II - Cloud-Native Agent Harness (Mecatl) | Remote: North America - East | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471696008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471682008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5471681008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283579007?gh_jid=5283579007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-11-03
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8334794 | toast | Software Engineer II, Backend | Remote US | posted: 2026-11-03
+- [ ] https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005 | preciselyusjobs | Associate Software Engineer (Python AI) | United States | posted: 2026-11-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283529007?gh_jid=5283529007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-03
+
 ## Processed
