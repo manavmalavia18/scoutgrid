@@ -1619,3 +1619,8 @@
 - [ ] https://jobs.ashbyhq.com/ruby-labs/dad7e7c6-3cb6-428f-83ea-332d2e559387 | ruby-labs | Middle Full-Stack Developer (Next.js) | Ukraine · North Macedonia · Turkey · European Union · Serbia · Bosnia · Georgia · Remote | posted: 2026-11-04
 
 - [ ] https://jobs.lever.co/hatchit/0f8ce440-1324-4cc1-85d0-f0c95cf587cc | hatchit | DevOps Engineer | Washington, DC | posted: 2026-11-04
+
+- [ ] https://www.agilityrobotics.com/about/job-post?gh_jid=6242659004 | agilityrobotics | Software Engineer III, Simulation | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Hybrid- Fremont, CA; Remote | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002 | quberesearchandtechnologies | Production Support Engineer - LLM Platform | New York, Chicago | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/mirage/f15795b7-58c7-4855-a6d1-911c9928ed3d | mirage | Software Engineer, AI Developer Productivity | Union Square, New York City | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/kalshi/37afb8e0-2db4-4342-b479-f526bb860e42 | kalshi | Software Engineer, Growth | New York Office | posted: 2026-11-04
