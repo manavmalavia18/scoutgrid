@@ -1617,3 +1617,5 @@
 - [ ] https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0 | nooks | Software Engineer | Seattle | posted: 2026-11-04
 
 - [ ] https://jobs.ashbyhq.com/ruby-labs/dad7e7c6-3cb6-428f-83ea-332d2e559387 | ruby-labs | Middle Full-Stack Developer (Next.js) | Ukraine · North Macedonia · Turkey · European Union · Serbia · Bosnia · Georgia · Remote | posted: 2026-11-04
+
+- [ ] https://jobs.lever.co/hatchit/0f8ce440-1324-4cc1-85d0-f0c95cf587cc | hatchit | DevOps Engineer | Washington, DC | posted: 2026-11-04
