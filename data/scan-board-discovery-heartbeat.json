@@ -1,14 +1,39 @@
 {
-  "at": "2026-11-04T18:16:12.150Z",
-  "leadsScanned": 6905,
-  "totalBoardsKnown": 2135,
-  "alreadyTracked": 2132,
-  "newlyPromoted": 3,
+  "at": "2026-11-04T18:52:49.900Z",
+  "leadsScanned": 6947,
+  "totalBoardsKnown": 2145,
+  "alreadyTracked": 2135,
+  "newlyPromoted": 10,
   "newBoards": [
+    {
+      "name": "Compyl",
+      "careers_url": "https://jobs.ashbyhq.com/compyl",
+      "provider": "ashby"
+    },
+    {
+      "name": "Health Data Innovations",
+      "careers_url": "https://jobs.ashbyhq.com/health%20data%20innovations",
+      "provider": "ashby"
+    },
+    {
+      "name": "TELUS Digital",
+      "careers_url": "https://jobs.ashbyhq.com/telus-digital",
+      "provider": "ashby"
+    },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
       "provider": "lever"
+    },
+    {
+      "name": "Carpenter Technology Corporation",
+      "careers_url": "https://cartech.wd5.myworkdayjobs.com/ctcexternal",
+      "provider": "workday"
+    },
+    {
+      "name": "Genesys",
+      "careers_url": "https://genesys.wd1.myworkdayjobs.com/genesys",
+      "provider": "workday"
     },
     {
       "name": "Montefiore Einstein Technology",
@@ -18,6 +43,16 @@
     {
       "name": "Elsevier",
       "careers_url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs",
+      "provider": "workday"
+    },
+    {
+      "name": "The Kinetic Group",
+      "careers_url": "https://thekineticgroup.wd1.myworkdayjobs.com/external_fed",
+      "provider": "workday"
+    },
+    {
+      "name": "The Kinetic Group",
+      "careers_url": "https://thekineticgroup.wd1.myworkdayjobs.com/external_tkg",
       "provider": "workday"
     }
   ]

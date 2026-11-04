@@ -17568,6 +17568,56 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Compyl"
+    careers_url: https://jobs.ashbyhq.com/compyl
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Health Data Innovations"
+    careers_url: https://jobs.ashbyhq.com/health%20data%20innovations
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "TELUS Digital"
+    careers_url: https://jobs.ashbyhq.com/telus-digital
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Carpenter Technology Corporation"
+    careers_url: https://cartech.wd5.myworkdayjobs.com/ctcexternal
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Genesys"
+    careers_url: https://genesys.wd1.myworkdayjobs.com/genesys
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "The Kinetic Group"
+    careers_url: https://thekineticgroup.wd1.myworkdayjobs.com/external_fed
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Kinetic Group"
+    careers_url: https://thekineticgroup.wd1.myworkdayjobs.com/external_tkg
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
