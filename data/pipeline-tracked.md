@@ -1265,4 +1265,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bjakcareer/d9d0e3d9-e6a2-47a3-8816-3dc104860451 | Bjak | Full Stack Engineer | United States · Remote | posted: 2026-11-04
 - [ ] https://jobs.ashbyhq.com/bjakcareer/2cc71431-0ff0-4725-927b-823539431379 | Bjak | Mobile Application Developer - AI Neobank App | Ireland · Remote | posted: 2026-11-04
 
+- [ ] https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0 | Loft Orbital | Flight Dynamics Software Engineer | San Francisco, CA | posted: 2026-11-04
+
 ## Processed
