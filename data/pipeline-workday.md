@@ -1083,4 +1083,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4_R1002785-1 | capitalone | Full-stack Engineer 4 | 2 Locations | posted: 2026-11-04
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR366831 | salesforce | Software Engineering LMTS | 4 Locations | posted: 2026-11-04
+
 ## Processed
