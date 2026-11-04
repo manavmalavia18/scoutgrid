@@ -1,13 +1,18 @@
 {
-  "fetchedAt": "2026-11-04T14:08:24.940Z",
+  "fetchedAt": "2026-11-04T14:30:12.057Z",
   "days": 2,
   "leadCount": 83,
-  "jobCount": 59,
+  "jobCount": 60,
   "boards": [
     {
       "key": "greenhouse:zwift",
       "fetched": 9,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:squarepointcapital",
+      "fetched": 90,
+      "kept": 0
     },
     {
       "key": "greenhouse:a490811f8035ae70dc4c2bd27f50067f",
@@ -20,9 +25,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:squarepointcapital",
-      "fetched": 90,
-      "kept": 0
+      "key": "greenhouse:impact",
+      "fetched": 82,
+      "kept": 1
     },
     {
       "key": "greenhouse:waymo",
@@ -30,14 +35,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:impact",
-      "fetched": 82,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 439,
-      "kept": 1
+      "key": "greenhouse:xai",
+      "fetched": 300,
+      "kept": 0
     },
     {
       "key": "greenhouse:atomicmachines",
@@ -55,9 +55,9 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:divergent",
-      "fetched": 135,
-      "kept": 0
+      "key": "greenhouse:doordashusa",
+      "fetched": 439,
+      "kept": 1
     },
     {
       "key": "greenhouse:0e35bf4cdcd4fee99d33d853e535bd83",
@@ -65,42 +65,17 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:flagshippioneeringinc",
-      "fetched": 92,
+      "key": "greenhouse:divergent",
+      "fetched": 135,
       "kept": 0
     },
     {
-      "key": "greenhouse:businessolver",
-      "fetched": 34,
+      "key": "greenhouse:flagshippioneeringinc",
+      "fetched": 91,
       "kept": 0
     },
     {
       "key": "greenhouse:global-en",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:toast",
-      "fetched": 347,
-      "kept": 3
-    },
-    {
-      "key": "greenhouse:preciselyusjobs",
-      "fetched": 29,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 300,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:explore",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:en",
       "fetched": 0,
       "kept": 0
     },
@@ -110,8 +85,18 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:patronusaiinc",
-      "fetched": 14,
+      "key": "greenhouse:businessolver",
+      "fetched": 34,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:explore",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:preciselyusjobs",
+      "fetched": 29,
       "kept": 1
     },
     {
@@ -120,18 +105,33 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:en",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:patronusaiinc",
+      "fetched": 14,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:tenstorrent",
       "fetched": 127,
       "kept": 0
     },
     {
-      "key": "greenhouse:censys",
-      "fetched": 26,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:lab37",
       "fetched": 28,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:cssmerge",
+      "fetched": 334,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:roboforce",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -140,14 +140,9 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:roboforce",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:cssmerge",
-      "fetched": 335,
-      "kept": 0
+      "key": "greenhouse:censys",
+      "fetched": 26,
+      "kept": 1
     },
     {
       "key": "greenhouse:nscaleoperationsukltd",
@@ -155,9 +150,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:redwoodmaterials",
-      "fetched": 131,
-      "kept": 0
+      "key": "greenhouse:relativity",
+      "fetched": 407,
+      "kept": 2
+    },
+    {
+      "key": "greenhouse:purestorage",
+      "fetched": 359,
+      "kept": 1
     },
     {
       "key": "greenhouse:toshibaglobalcommercesolutions",
@@ -185,18 +185,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:purestorage",
-      "fetched": 358,
-      "kept": 1
+      "key": "greenhouse:redwoodmaterials",
+      "fetched": 131,
+      "kept": 0
     },
     {
       "key": "ashby:nooks",
       "fetched": 56,
-      "kept": 1
-    },
-    {
-      "key": "ashby:factory",
-      "fetched": 69,
       "kept": 1
     },
     {
@@ -205,14 +200,24 @@
       "kept": 4
     },
     {
+      "key": "ashby:david-ai",
+      "fetched": 15,
+      "kept": 0
+    },
+    {
       "key": "ashby:checkout.com",
       "fetched": 172,
       "kept": 0
     },
     {
-      "key": "ashby:david-ai",
-      "fetched": 15,
-      "kept": 0
+      "key": "ashby:factory",
+      "fetched": 69,
+      "kept": 1
+    },
+    {
+      "key": "ashby:fluidstack",
+      "fetched": 257,
+      "kept": 1
     },
     {
       "key": "ashby:parallel",
@@ -245,13 +250,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:fluidstack",
-      "fetched": 257,
-      "kept": 1
-    },
-    {
       "key": "ashby:etched",
       "fetched": 121,
+      "kept": 0
+    },
+    {
+      "key": "ashby:perplexity",
+      "fetched": 137,
       "kept": 0
     },
     {
@@ -260,18 +265,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:bjakcareer",
-      "fetched": 3141,
-      "kept": 7
-    },
-    {
       "key": "ashby:endeavorai",
       "fetched": 6,
-      "kept": 0
-    },
-    {
-      "key": "ashby:perplexity",
-      "fetched": 137,
       "kept": 0
     },
     {
@@ -285,33 +280,33 @@
       "kept": 2
     },
     {
-      "key": "ashby:saronic",
-      "fetched": 260,
-      "kept": 0
-    },
-    {
       "key": "ashby:superhuman%20platform%20inc",
       "fetched": 70,
       "kept": 1
     },
     {
-      "key": "ashby:plsn",
-      "fetched": 2,
-      "kept": 0
-    },
-    {
-      "key": "ashby:joyfulhealth",
-      "fetched": 5,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:relativity",
-      "fetched": 407,
-      "kept": 2
+      "key": "greenhouse:toast",
+      "fetched": 347,
+      "kept": 3
     },
     {
       "key": "ashby:headway",
       "fetched": 93,
+      "kept": 0
+    },
+    {
+      "key": "ashby:saronic",
+      "fetched": 260,
+      "kept": 0
+    },
+    {
+      "key": "ashby:bjakcareer",
+      "fetched": 3141,
+      "kept": 7
+    },
+    {
+      "key": "ashby:joyfulhealth",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -320,9 +315,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:rocketlab",
-      "fetched": 558,
-      "kept": 1
+      "key": "ashby:plsn",
+      "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "lever:peerspace",
+      "fetched": 4,
+      "kept": 0
     },
     {
       "key": "lever:lochgroup",
@@ -330,13 +330,8 @@
       "kept": 0
     },
     {
-      "key": "lever:spotify",
-      "fetched": 84,
-      "kept": 0
-    },
-    {
-      "key": "lever:field-ai",
-      "fetched": 107,
+      "key": "lever:walkerconsultants",
+      "fetched": 42,
       "kept": 0
     },
     {
@@ -345,14 +340,24 @@
       "kept": 4
     },
     {
-      "key": "lever:walkerconsultants",
-      "fetched": 42,
+      "key": "lever:field-ai",
+      "fetched": 107,
       "kept": 0
     },
     {
-      "key": "lever:onboarded",
-      "fetched": 8,
+      "key": "lever:cfsenergy",
+      "fetched": 142,
       "kept": 0
+    },
+    {
+      "key": "lever:spotify",
+      "fetched": 85,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:rocketlab",
+      "fetched": 558,
+      "kept": 1
     },
     {
       "key": "workday:marylandconnect.wd1.myworkdayjobs.com/bsu_careers",
@@ -360,8 +365,8 @@
       "kept": 0
     },
     {
-      "key": "lever:lalamove",
-      "fetched": 145,
+      "key": "lever:onboarded",
+      "fetched": 8,
       "kept": 0
     },
     {
@@ -375,12 +380,17 @@
       "kept": 0
     },
     {
-      "key": "workday:academy.wd1.myworkdayjobs.com/careers",
-      "fetched": 20,
+      "key": "lever:lalamove",
+      "fetched": 145,
       "kept": 0
     },
     {
       "key": "workday:zoom.wd5.myworkdayjobs.com/zoom",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:academy.wd1.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
     },
@@ -392,7 +402,7 @@
     {
       "key": "workday:onto.wd1.myworkdayjobs.com/onto_careers",
       "fetched": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "key": "workday:intel.wd1.myworkdayjobs.com/external",
@@ -408,16 +418,6 @@
       "key": "lever:shieldai",
       "fetched": 664,
       "kept": 2
-    },
-    {
-      "key": "lever:peerspace",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "lever:cfsenergy",
-      "fetched": 0,
-      "kept": 0
     }
   ],
   "jobs": [
@@ -440,16 +440,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "impact"
-    },
-    {
-      "title": "Senior Software Engineer - Developer Experience, Android",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350965",
-      "company": "DoorDash",
-      "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY",
-      "postedAt": "2026-11-04T13:12:41.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "doordashusa"
     },
     {
       "title": "Applied AI Engineer, People",
@@ -492,44 +482,14 @@
       "board": "pendo"
     },
     {
-      "title": "Software Engineer II, Backend",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8334794",
-      "company": "Toast",
-      "location": "Remote US",
-      "postedAt": "2026-11-03T21:21:50.000Z",
+      "title": "Senior Software Engineer - Developer Experience, Android",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350965",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY",
+      "postedAt": "2026-11-04T13:12:41.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "toast"
-    },
-    {
-      "title": "Senior Software Engineer, Onboarding",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8334826",
-      "company": "Toast",
-      "location": "Boston, MA",
-      "postedAt": "2026-11-03T18:51:05.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "toast"
-    },
-    {
-      "title": "Senior Manager, Software Engineering (Android) - POS Payments Experience",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8349440",
-      "company": "Toast",
-      "location": "Remote, US",
-      "postedAt": "2026-11-03T13:01:30.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "toast"
-    },
-    {
-      "title": "Associate Software Engineer (Python AI)",
-      "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005",
-      "company": "Precisely",
-      "location": "United States",
-      "postedAt": "2026-11-03T21:05:49.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "preciselyusjobs"
+      "board": "doordashusa"
     },
     {
       "title": "Software Engineer - Orchestrated Application Recovery ",
@@ -542,6 +502,16 @@
       "board": "rubrik"
     },
     {
+      "title": "Associate Software Engineer (Python AI)",
+      "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005",
+      "company": "Precisely",
+      "location": "United States",
+      "postedAt": "2026-11-03T21:05:49.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "preciselyusjobs"
+    },
+    {
       "title": "Expert: Interactive Coding, Site Reliability Engineering (Contract, Remote)",
       "url": "https://job-boards.greenhouse.io/patronusaiinc/jobs/4478718009",
       "company": "Patronus AI",
@@ -550,6 +520,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "patronusaiinc"
+    },
+    {
+      "title": "Software Engineer II - Cloud-Native Agent Harness (Mecatl)",
+      "url": "https://job-boards.greenhouse.io/stacklok/jobs/5275130007",
+      "company": "Stacklok",
+      "location": "Remote: North America - East",
+      "postedAt": "2026-11-03T21:41:36.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "stacklok"
     },
     {
       "title": "Software Engineer II (Backend)",
@@ -562,14 +542,34 @@
       "board": "censys"
     },
     {
-      "title": "Software Engineer II - Cloud-Native Agent Harness (Mecatl)",
-      "url": "https://job-boards.greenhouse.io/stacklok/jobs/5275130007",
-      "company": "Stacklok",
-      "location": "Remote: North America - East",
-      "postedAt": "2026-11-03T21:41:36.000Z",
+      "title": "Staff Software Engineer, Front-End Platforms",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8929522002?gh_jid=8929522002",
+      "company": "Relativity Space",
+      "location": "Long Beach, California, United States",
+      "postedAt": "2026-11-04T00:34:20.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "stacklok"
+      "board": "relativity"
+    },
+    {
+      "title": "Software Engineer II, Front-End Platforms",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8929521002?gh_jid=8929521002",
+      "company": "Relativity Space",
+      "location": "Long Beach, California, United States",
+      "postedAt": "2026-11-04T00:32:53.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "relativity"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8350702",
+      "company": "Everpure",
+      "location": "Santa Clara, California",
+      "postedAt": "2026-11-03T19:58:22.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "purestorage"
     },
     {
       "title": "Software Engineer - Humanoid Sim-to-Real",
@@ -603,16 +603,6 @@
     },
     {
       "title": "Software Engineer",
-      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8350702",
-      "company": "Everpure",
-      "location": "Santa Clara, California",
-      "postedAt": "2026-11-03T19:58:22.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "purestorage"
-    },
-    {
-      "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0",
       "company": "Nooks",
       "location": "Seattle",
@@ -620,16 +610,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "nooks"
-    },
-    {
-      "title": "Software Engineer, Federal",
-      "url": "https://jobs.ashbyhq.com/factory/48962b15-6796-4f34-a4ca-4cebe142103d",
-      "company": "Factory",
-      "location": "United States",
-      "postedAt": "2026-11-02T22:50:18.406Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "factory"
     },
     {
       "title": "Software engineer, generative AI",
@@ -672,14 +652,14 @@
       "board": "writer"
     },
     {
-      "title": "AI Engineer - Forward Deployed Engineer",
-      "url": "https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd",
-      "company": "Traversal",
-      "location": "New York",
-      "postedAt": "2026-11-03T18:27:05.839Z",
+      "title": "Software Engineer, Federal",
+      "url": "https://jobs.ashbyhq.com/factory/48962b15-6796-4f34-a4ca-4cebe142103d",
+      "company": "Factory",
+      "location": "United States",
+      "postedAt": "2026-11-02T22:50:18.406Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "traversal"
+      "board": "factory"
     },
     {
       "title": "Software Engineer, Infrastructure Modelling",
@@ -690,6 +670,76 @@
       "salary": "",
       "ats": "Ashby",
       "board": "fluidstack"
+    },
+    {
+      "title": "AI Engineer - Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd",
+      "company": "Traversal",
+      "location": "New York",
+      "postedAt": "2026-11-03T18:27:05.839Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "traversal"
+    },
+    {
+      "title": "Software Engineer, Discovery",
+      "url": "https://jobs.ashbyhq.com/mercor/5ece408b-0741-4917-a3f7-27d5acb25d57",
+      "company": "Mercor",
+      "location": "San Francisco",
+      "postedAt": "2026-11-03T23:34:41.681Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Senior Software Engineer, Discovery",
+      "url": "https://jobs.ashbyhq.com/mercor/861df396-2508-4ede-97b8-51a85bbc98e2",
+      "company": "Mercor",
+      "location": "San Francisco",
+      "postedAt": "2026-11-03T20:27:23.082Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "AI Engineer (Superhuman Mail) - US",
+      "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/edb3c03d-5a9d-47ef-a3de-63fc5f742776",
+      "company": "Superhuman",
+      "location": "Remote - United States · Hub - San Francisco · San Francisco · United States · Hub - New York · New York · Hub - Seattle · Seattle",
+      "postedAt": "2026-11-03T23:18:34.789Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "superhuman%20platform%20inc"
+    },
+    {
+      "title": "Software Engineer II, Backend",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8334794",
+      "company": "Toast",
+      "location": "Remote US",
+      "postedAt": "2026-11-03T21:21:50.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "toast"
+    },
+    {
+      "title": "Senior Software Engineer, Onboarding",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8334826",
+      "company": "Toast",
+      "location": "Boston, MA",
+      "postedAt": "2026-11-03T18:51:05.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "toast"
+    },
+    {
+      "title": "Senior Manager, Software Engineering (Android) - POS Payments Experience",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8349440",
+      "company": "Toast",
+      "location": "Remote, US",
+      "postedAt": "2026-11-03T13:01:30.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "toast"
     },
     {
       "title": "Mobile Application Developer - AI Neobank App",
@@ -762,56 +812,6 @@
       "board": "bjakcareer"
     },
     {
-      "title": "Software Engineer, Discovery",
-      "url": "https://jobs.ashbyhq.com/mercor/5ece408b-0741-4917-a3f7-27d5acb25d57",
-      "company": "Mercor",
-      "location": "San Francisco",
-      "postedAt": "2026-11-03T23:34:41.681Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mercor"
-    },
-    {
-      "title": "Senior Software Engineer, Discovery",
-      "url": "https://jobs.ashbyhq.com/mercor/861df396-2508-4ede-97b8-51a85bbc98e2",
-      "company": "Mercor",
-      "location": "San Francisco",
-      "postedAt": "2026-11-03T20:27:23.082Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mercor"
-    },
-    {
-      "title": "AI Engineer (Superhuman Mail) - US",
-      "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/edb3c03d-5a9d-47ef-a3de-63fc5f742776",
-      "company": "Superhuman",
-      "location": "Remote - United States · Hub - San Francisco · San Francisco · United States · Hub - New York · New York · Hub - Seattle · Seattle",
-      "postedAt": "2026-11-03T23:18:34.789Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "superhuman%20platform%20inc"
-    },
-    {
-      "title": "Staff Software Engineer, Front-End Platforms",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8929522002?gh_jid=8929522002",
-      "company": "Relativity Space",
-      "location": "Long Beach, California, United States",
-      "postedAt": "2026-11-04T00:34:20.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "relativity"
-    },
-    {
-      "title": "Software Engineer II, Front-End Platforms",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8929521002?gh_jid=8929521002",
-      "company": "Relativity Space",
-      "location": "Long Beach, California, United States",
-      "postedAt": "2026-11-04T00:32:53.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "relativity"
-    },
-    {
       "title": "Staff Software Engineer - Billing Platform",
       "url": "https://jobs.ashbyhq.com/snowflake/4371e808-51f1-4c7a-a1ca-1819926a5c74",
       "company": "Snowflake",
@@ -820,16 +820,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "snowflake"
-    },
-    {
-      "title": "AI Software Engineer I",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003",
-      "company": "Rocket Lab",
-      "location": "Long Beach, CA",
-      "postedAt": "2026-11-03T21:25:32.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "rocketlab"
     },
     {
       "title": "Flight Dynamics Software Engineer",
@@ -870,6 +860,27 @@
       "salary": "",
       "ats": "Lever",
       "board": "loftorbital"
+    },
+    {
+      "title": "AI Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003",
+      "company": "Rocket Lab",
+      "location": "Long Beach, CA",
+      "postedAt": "2026-11-03T21:25:32.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "rocketlab"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Budd-Lake-NJ/Senior-Software-Engineer_R-6354",
+      "company": "Onto Innovation",
+      "location": "Budd Lake-NJ",
+      "postedAt": "2026-11-04T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "onto_careers",
+      "postedAtSource": "workday-detail"
     },
     {
       "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
