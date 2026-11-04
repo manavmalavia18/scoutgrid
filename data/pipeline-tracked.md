@@ -1236,4 +1236,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Ramon-CA/Associate-AI-Engineer_JR113025 | PTC | Associate AI Engineer | USA-San Ramon, CA | posted: 2026-11-03
 
+- [ ] https://jobs.ashbyhq.com/st-labs/130945cf-1e78-4211-940e-e639d74e0a3d | Standard Template Labs | Software Engineer, Agents | NYC, NY | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/stacklok/jobs/5275130007 | Stacklok | Software Engineer II - Cloud-Native Agent Harness (Mecatl) | Remote: North America - East | posted: 2026-11-03
+- [ ] https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/New-York-NY/Platform-Engineer--R37-_R260000008134 | R1 RCM | Platform Engineer (R37) | 2 Locations | posted: 2026-11-03
+- [ ] https://valeris.wd108.myworkdayjobs.com/valeris/job/Remote-Kentucky/Software-Engineer_JR784 | Valeris | Software Engineer | Remote, Kentucky | posted: 2026-11-03
+
 ## Processed
