@@ -1093,4 +1093,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Assembler-Developer---SDE-I_32215 | csgi | Assembler Developer – SDE I | India Remote | posted: 2026-11-04
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Beavercreek/Software-Engineer--AHT-_R10259196 | ngc | Software Engineer (AHT) | United States-Ohio-Beavercreek | posted: 2026-11-04
+
 ## Processed
