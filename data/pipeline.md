@@ -1635,3 +1635,6 @@
 - [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8353498 | lendingtree | Software Engineer | Denver, Colorado, United States | posted: 2026-11-04
 
 - [ ] https://jobs.ashbyhq.com/3y-health/6777e8b5-a9ba-41c8-85d9-563842082eb7 | 3y-health | Full Stack AI Engineer | Remote - Argentina | posted: 2026-11-04
+
+- [ ] https://job-boards.greenhouse.io/everlaw/jobs/4726848006 | everlaw | Software Engineer, Platform | Oakland, California, United States | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/darkroom/43e2ca07-dde4-4c1e-808a-826c0da5d092 | darkroom | Full-Stack Engineer | Brazil · Remote | posted: 2026-11-04
