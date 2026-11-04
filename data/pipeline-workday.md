@@ -1091,4 +1091,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://speedcast.wd1.myworkdayjobs.com/speedcastcareers/job/Remote---Greece/Site-Reliability-Engineer_JR11177-1 | speedcast | Site Reliability Engineer | Remote - Greece | posted: 2026-11-04
 
+- [ ] https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Assembler-Developer---SDE-I_32215 | csgi | Assembler Developer – SDE I | India Remote | posted: 2026-11-04
+
 ## Processed
