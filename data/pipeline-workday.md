@@ -1131,4 +1131,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Atlanta-Georgia/Software-Engineer-II---AI-Platforms_R-294616 | mastercard | Software Engineer II - AI Platforms | Atlanta, Georgia | posted: 2026-11-04
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/Atlanta-Georgia/Software-Engineer-II---AI-Platforms-1_R-294615 | mastercard | Software Engineer II - AI Platforms | Atlanta, Georgia | posted: 2026-11-04
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/P2-SRE-and-Platform-Engineer---Sana-Search--US-Federal-_JR-0111102 | workday | P2 SRE and Platform Engineer - Sana Search (US Federal) | USA, CA, Pleasanton | posted: 2026-11-04
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/CINCINNATI-OHIO/Full-Stack-Software-Engineer-II--Angular--Java-_R0077125 | tsys | Full Stack Software Engineer II (Angular, Java) | 3 Locations | posted: 2026-11-04
+- [ ] https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Houston-United-States-of-America/Full-Stack-Developer_R-018472 | trafigura | Full Stack AI Engineer - Commodity Trading | Houston, United States of America | posted: 2026-11-04
+- [ ] https://snapchat.wd1.myworkdayjobs.com/referral19/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_Q426SWE0-2 | snapchat | Software Engineer, Backend, Level 3 | 5 Locations | posted: 2026-11-04
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-Grove-St/Software-Engineer---Infrastructure--Data-Platform_R188090 | ryder | Software Engineer - Infrastructure, Data Platform | USA - San Francisco CA Grove St | posted: 2026-11-04
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Schriever-AFB/DevOps-Engineer---Level-3-or-4_R10259346 | ngc | DevOps Engineer - Level 3 or 4 | United States-Colorado-Schriever AFB | posted: 2026-11-04
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-292400 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-11-04
+- [ ] https://lplfinancial.wd1.myworkdayjobs.com/external/job/Austin-TX/AVP--DevOps-Engineer_R-054427-1 | lplfinancial | AVP, DevOps Engineer | 2 Locations | posted: 2026-11-04
+- [ ] https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000036450-1 | genpt | DevOps Engineer I | Birmingham, AL, USA | posted: 2026-11-04
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Software-Engineer---Battery---High-Voltage_JR-202616693 | generalmotors | Software Engineer - Battery & High Voltage | Milford, Michigan, United States of America | posted: 2026-11-04
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Continuous-Polishing-Technician---Front-End-Days---6-00-AM---6-00-PM---Sunday---Monday--Tuesday-and-every-other-Wednesday-_J-00354979 | asml | Continuous Polishing Technician - Front End Days , 6:00 AM – 6:00 PM (Sunday , Monday Tuesday and every other Wednesday) | Wilton, CT, USA | posted: 2026-11-04
+
 ## Processed
