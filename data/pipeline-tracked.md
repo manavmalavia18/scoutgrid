@@ -1281,4 +1281,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-Remote/Software-Engineer-II_R0171825 | Amentum | Software Engineer II | US-Remote | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/mirage/f15795b7-58c7-4855-a6d1-911c9928ed3d | Mirage | Software Engineer, AI Developer Productivity | Union Square, New York City | posted: 2026-11-04
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1 | Guidewire Software | Software Engineer | United States - Exton, PA | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/kalshi/37afb8e0-2db4-4342-b479-f526bb860e42 | Kalshi | Software Engineer, Growth | New York Office | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002 | Qube Research & Technologies | Production Support Engineer - LLM Platform | New York, Chicago | posted: 2026-11-04
+
 ## Processed
