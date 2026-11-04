@@ -1286,4 +1286,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/kalshi/37afb8e0-2db4-4342-b479-f526bb860e42 | Kalshi | Software Engineer, Growth | New York Office | posted: 2026-11-04
 - [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002 | Qube Research & Technologies | Production Support Engineer - LLM Platform | New York, Chicago | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/clera/1dd3d155-346c-436a-9eac-d0a243bb70b3 | Clera | Founding Machine Learning Engineer, Computer Vision (Object Detection) | New York · Remote | posted: 2026-11-04
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055 | U.S. Bank | Software engineer 1 – AI/ML Engineer (MLOps) | 4 Locations | posted: 2026-11-04
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/AI-Engineer---_R-278791 | Mastercard | AI Engineer // | O'Fallon, Missouri | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/axon/jobs/8195568003 | Axon | Site Reliability Engineer II | Boston, Massachusetts, United States | posted: 2026-11-04
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Software-Engineer-Level-3-or-4--AHT-_R10246403 | Northrop Grumman | Software Engineer Level 3 or 4 (AHT) | 2 Locations | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/uberfreight/jobs/5438181008 | Uber Freight | Software Engineer III | San Francisco, CA 94158, United States | posted: 2026-11-04
+
 ## Processed
