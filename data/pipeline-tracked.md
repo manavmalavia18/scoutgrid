@@ -1261,4 +1261,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0 | Nooks | Software Engineer | Seattle | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c81168ce-4a20-4628-90dc-73c1294dafe3 | Bjak | Backend Developer | United States · Remote | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d9d0e3d9-e6a2-47a3-8816-3dc104860451 | Bjak | Full Stack Engineer | United States · Remote | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2cc71431-0ff0-4725-927b-823539431379 | Bjak | Mobile Application Developer - AI Neobank App | Ireland · Remote | posted: 2026-11-04
+
 ## Processed
