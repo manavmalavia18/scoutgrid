@@ -1077,4 +1077,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846 | sunlife | Business Operations Software Engineer - 2027 Co-op | 5 Locations | posted: 2026-11-03
 - [ ] https://sunlife.wd3.myworkdayjobs.com/campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1 | sunlife | Business Operations Software Engineer - 2027 Co-op | 5 Locations | posted: 2026-11-03
 
+- [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Ramon-CA/Associate-AI-Engineer_JR113025 | ptc | Associate AI Engineer | USA-San Ramon, CA | posted: 2026-11-04
+
 ## Processed
