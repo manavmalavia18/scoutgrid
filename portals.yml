@@ -17213,6 +17213,41 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Entegris"
+    careers_url: https://entegris.wd1.myworkdayjobs.com/entegriscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Sun Life"
+    careers_url: https://sunlife.wd3.myworkdayjobs.com/experienced
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sun Life"
+    careers_url: https://sunlife.wd3.myworkdayjobs.com/experienced-jobs.html
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Wawa"
+    careers_url: https://wawa.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
