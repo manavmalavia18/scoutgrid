@@ -1245,4 +1245,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/onyxodds/jobs/4477834009 | Onyx Odds | Full-Stack Software Engineer | New York, New York | posted: 2026-11-03
 - [ ] https://job-boards.greenhouse.io/tailscale/jobs/4750580005 | Tailscale | Documentation Platform Engineer | Remote (Canada) | posted: 2026-11-03
 
+- [ ] https://jobs.ashbyhq.com/writer/93fbe5ce-2ce9-41ea-a998-a433c0f7f085 | Writer | AI engineer | San Francisco, CA · New York City, NY · New York City · United States | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/writer/ce86adec-e8ce-4bbf-a706-43795a982de6 | Writer | Software engineer, agents | New York City, NY · Seattle, WA · Seattle · United States · San Francisco, CA · San Francisco | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/writer/47dd1728-97f7-4e0d-9a7a-39009aa212a5 | Writer | Software engineer, connectors & MCP | San Francisco, CA · Seattle, WA · Seattle · United States · New York City, NY · New York City | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/writer/2170c74d-7726-4d8f-910e-7f4ef7ac4fd1 | Writer | Software engineer, generative AI | San Francisco, CA · Seattle, WA · Seattle · United States · New York City, NY · New York City | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/superhuman%20platform%20inc/edb3c03d-5a9d-47ef-a3de-63fc5f742776 | Superhuman | AI Engineer (Superhuman Mail) - US | Remote - United States · Hub - San Francisco · San Francisco · United States · Hub - New York · New York · Hub - Seattle · Seattle | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/superhuman%20platform%20inc/5a447015-a4c6-4406-b56a-fc3a01d78db3 | Superhuman | AI Engineer (Superhuman Mail) - Canada | Remote - Canada · Hub - Vancouver · Vancouver · Canada | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/superhuman%20platform%20inc/b10a5c44-00a5-4887-879f-05c795d5660b | Superhuman | AI Engineer (Superhuman Mail) - Latin America | Remote - Argentina · Remote - Mexico · Mexico · Remote - Brazil · Brazil | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009 | Fab2 | Applied AI Engineer, People | Emeryville, or Santa Clara, California | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/patronusaiinc/jobs/4478718009 | Patronus AI | Expert: Interactive Coding, Site Reliability Engineering (Contract, Remote) | Remote - US | posted: 2026-11-03
+
 ## Processed
