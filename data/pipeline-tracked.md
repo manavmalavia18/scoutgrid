@@ -1293,4 +1293,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Software-Engineer-Level-3-or-4--AHT-_R10246403 | Northrop Grumman | Software Engineer Level 3 or 4 (AHT) | 2 Locations | posted: 2026-11-04
 - [ ] https://job-boards.greenhouse.io/uberfreight/jobs/5438181008 | Uber Freight | Software Engineer III | San Francisco, CA 94158, United States | posted: 2026-11-04
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis-Junction/Cyber-Software-Engineer--J-_R10259217 | Northrop Grumman | Cyber Software Engineer (J) | United States-Maryland-Annapolis Junction | posted: 2026-11-04
+
 ## Processed
