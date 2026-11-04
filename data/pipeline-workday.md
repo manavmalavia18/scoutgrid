@@ -1085,4 +1085,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR366831 | salesforce | Software Engineering LMTS | 4 Locations | posted: 2026-11-04
 
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-Remote-Work/Systems-Software-Engineer---US-Remote_R69428 | motorolasolutions | Systems Software Engineer - US Remote | Texas Remote Work, More... | posted: 2026-11-04
+
 ## Processed
