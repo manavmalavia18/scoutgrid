@@ -1118,4 +1118,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Software-Engineer-Level-3-or-4--AHT-_R10246403 | ngc | Software Engineer Level 3 or 4 (AHT) | 2 Locations | posted: 2026-11-04
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/AI-Engineer---_R-278791 | mastercard | AI Engineer // | O'Fallon, Missouri | posted: 2026-11-04
 
+- [ ] https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Software-Engineer_R0038203-1 | seic | Software Engineer | USA - PA - Oaks | posted: 2026-11-04
+
 ## Processed
