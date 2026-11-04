@@ -1234,4 +1234,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/charterup/jobs/5471369008 | CharterUP | Software Engineer II - Full Stack | Austin, TX | posted: 2026-11-03
 
+- [ ] https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Ramon-CA/Associate-AI-Engineer_JR113025 | PTC | Associate AI Engineer | USA-San Ramon, CA | posted: 2026-11-03
+
 ## Processed
