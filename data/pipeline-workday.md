@@ -1120,4 +1120,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Software-Engineer_R0038203-1 | seic | Software Engineer | USA - PA - Oaks | posted: 2026-11-04
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Flight-Software-Engineer---Level-3-4--AHT-_R10259255-1 | ngc | Flight Software Engineer - Level 3/4 (AHT) | United States-California-Redondo Beach | posted: 2026-11-04
+
 ## Processed
