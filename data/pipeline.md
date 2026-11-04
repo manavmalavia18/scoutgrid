@@ -1633,3 +1633,5 @@
 
 - [ ] https://jobs.ashbyhq.com/hike-medical/e11d90bf-9f6a-44be-9b54-cb3c1079c59b | hike-medical | Software Engineer | San Francisco, CA | posted: 2026-11-04
 - [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8353498 | lendingtree | Software Engineer | Denver, Colorado, United States | posted: 2026-11-04
+
+- [ ] https://jobs.ashbyhq.com/3y-health/6777e8b5-a9ba-41c8-85d9-563842082eb7 | 3y-health | Full Stack AI Engineer | Remote - Argentina | posted: 2026-11-04
