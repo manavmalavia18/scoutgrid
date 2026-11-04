@@ -1640,3 +1640,10 @@
 - [ ] https://jobs.ashbyhq.com/darkroom/43e2ca07-dde4-4c1e-808a-826c0da5d092 | darkroom | Full-Stack Engineer | Brazil · Remote | posted: 2026-11-04
 
 - [ ] https://jobs.ashbyhq.com/atomic-invest/6da0c7ef-3cc7-420d-820a-e1647d7f3917 | atomic-invest | Software Engineer, Front End | Remote · Buenos Aires · Argentina · Canada | posted: 2026-11-04
+
+- [ ] https://www.fanduel.careers/open-positions?gh_jid=8348296 | fanduel | Quantitative Software Engineer | Jersey City, New Jersey, United States | posted: 2026-11-04
+- [ ] https://jobs.lever.co/forbrightbank/1ca0cac2-50b2-4ab5-ad54-8e035a9f4376 | forbrightbank | Engineer, Software Engineer, Digital Banking | Remote | posted: 2026-11-04
+- [ ] https://www.qualtrics.com/careers/us/en/job/8346858?gh_jid=8346858 | qualtrics | Software Engineer II - Reporting Platform | Seattle, Washington, United States | posted: 2026-11-04
+- [ ] https://jobs.lever.co/longwall/78e57a97-1006-4e57-a45f-b3029d2eb83b | longwall | Flight Software Engineer | Long Beach, California | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f | ramp | Software Engineer, Frontend | New York, NY (HQ) · Remote (Canada) · Canada · San Francisco, CA · San Fransisco · USA · Remote (US) · United States · Miami, FL · Miami | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/office-hours/58596841-9485-4f21-8f09-c57ba2c8da32 | office-hours | Software Engineer, Growth | San Francisco, NYC, or Fully Remote | posted: 2026-11-02
