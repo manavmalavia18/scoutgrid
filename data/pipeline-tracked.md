@@ -1267,4 +1267,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0 | Loft Orbital | Flight Dynamics Software Engineer | San Francisco, CA | posted: 2026-11-04
 
+- [ ] https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/Java-Full-Stack-Developer_R260400150-2 | TIAA | Java Full Stack Developer | 4 Locations | posted: 2026-11-04
+
 ## Processed
