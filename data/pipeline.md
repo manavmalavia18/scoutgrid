@@ -1638,3 +1638,5 @@
 
 - [ ] https://job-boards.greenhouse.io/everlaw/jobs/4726848006 | everlaw | Software Engineer, Platform | Oakland, California, United States | posted: 2026-11-04
 - [ ] https://jobs.ashbyhq.com/darkroom/43e2ca07-dde4-4c1e-808a-826c0da5d092 | darkroom | Full-Stack Engineer | Brazil · Remote | posted: 2026-11-04
+
+- [ ] https://jobs.ashbyhq.com/atomic-invest/6da0c7ef-3cc7-420d-820a-e1647d7f3917 | atomic-invest | Software Engineer, Front End | Remote · Buenos Aires · Argentina · Canada | posted: 2026-11-04
