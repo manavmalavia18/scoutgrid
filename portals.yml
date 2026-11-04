@@ -17618,6 +17618,76 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Form Energy"
+    careers_url: https://jobs.ashbyhq.com/formenergy
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "AKS Engineering & Forestry"
+    careers_url: https://job-boards.greenhouse.io/aksengineeringforestryllc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Flexential"
+    careers_url: https://job-boards.greenhouse.io/flexentialcorp
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pico"
+    careers_url: https://job-boards.greenhouse.io/picoquantitativetrading
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Apache Industrial Services"
+    careers_url: https://apacheip.wd1.myworkdayjobs.com/apache_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Wolfspeed"
+    careers_url: https://cree.wd108.myworkdayjobs.com/ext
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ElringKlinger"
+    careers_url: https://elringklinger.wd3.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Interpublic Group"
+    careers_url: https://interpublic.wd5.myworkdayjobs.com/OMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Eli Lilly and Company"
+    careers_url: https://lilly.wd115.myworkdayjobs.com/cmp
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Papa Johns"
+    careers_url: https://papajohns.wd1.myworkdayjobs.com/papajohnscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "TruStage"
+    careers_url: https://trustage.wd1.myworkdayjobs.com/trustage
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
