@@ -1255,4 +1255,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009 | Fab2 | Applied AI Engineer, People | Emeryville, or Santa Clara, California | posted: 2026-11-04
 - [ ] https://job-boards.greenhouse.io/patronusaiinc/jobs/4478718009 | Patronus AI | Expert: Interactive Coding, Site Reliability Engineering (Contract, Remote) | Remote - US | posted: 2026-11-03
 
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-Remote-Work/Systems-Software-Engineer---US-Remote_R69428 | Motorola Solutions | Systems Software Engineer - US Remote | Texas Remote Work, More... | posted: 2026-11-03
+
 ## Processed
