@@ -1087,4 +1087,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Texas-Remote-Work/Systems-Software-Engineer---US-Remote_R69428 | motorolasolutions | Systems Software Engineer - US Remote | Texas Remote Work, More... | posted: 2026-11-04
 
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Backend-Web-Developer_R0146881 | hitachi | Backend Web Developer | Remote - India | posted: 2026-11-04
+
 ## Processed
