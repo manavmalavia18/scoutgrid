@@ -1259,4 +1259,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---India/Backend-Web-Developer_R0146881 | Hitachi | Backend Web Developer | Remote - India | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0 | Nooks | Software Engineer | Seattle | posted: 2026-11-04
+
 ## Processed
