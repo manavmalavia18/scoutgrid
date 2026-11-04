@@ -1308,4 +1308,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/Eurofins/744000159715229 | Eurofins | Applications Software Engineer - Industrial Automation | Houston, TX, United States | posted: 2026-11-04
 - [ ] https://job-boards.greenhouse.io/everlaw/jobs/4726848006 | Everlaw | Software Engineer, Platform | Oakland, California, United States | posted: 2026-11-04
 
+- [ ] https://jobs.smartrecruiters.com/nbcuniversal3/744000159723020 | NBCUniversal3 | Jr. Software Engineer | Universal City, CALIFORNIA, United States | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/mecka.ai/7845eb7e-17d6-421d-93b1-794b6eef425b | Mecka AI | Software Engineer | Toronto GTA · New York · United States · San Francisco | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f | Ramp | Software Engineer, Frontend | New York, NY (HQ) · Remote (Canada) · Canada · San Francisco, CA · San Fransisco · USA · Remote (US) · United States · Miami, FL · Miami | posted: 2026-11-04
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300 | Boeing | Software Engineer–Developer, Phantom Works Weapons (Associate or Experienced) | 2 Locations | posted: 2026-11-04
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Software-Engineer---Battery---High-Voltage_JR-202616693 | General Motors | Software Engineer - Battery & High Voltage | Milford, Michigan, United States of America | posted: 2026-11-04
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Continuous-Polishing-Technician---Front-End-Days---6-00-AM---6-00-PM---Sunday---Monday--Tuesday-and-every-other-Wednesday-_J-00354979 | ASML | Continuous Polishing Technician - Front End Days , 6:00 AM – 6:00 PM (Sunday , Monday Tuesday and every other Wednesday) | Wilton, CT, USA | posted: 2026-11-04
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/CINCINNATI-OHIO/Software-Engineer-II_R0075310 | Global Payments | Software Engineer - Full Stack | 3 Locations | posted: 2026-11-04
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/CINCINNATI-OHIO/Full-Stack-Software-Engineer-II--Angular--Java-_R0077125 | Global Payments | Full Stack Software Engineer II (Angular, Java) | 3 Locations | posted: 2026-11-04
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/P2-SRE-and-Platform-Engineer---Sana-Search--US-Federal-_JR-0111102 | Workday | P2 SRE and Platform Engineer - Sana Search (US Federal) | USA, CA, Pleasanton | posted: 2026-11-04
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Schriever-AFB/DevOps-Engineer---Level-3-or-4_R10259346 | Northrop Grumman | DevOps Engineer - Level 3 or 4 | United States-Colorado-Schriever AFB | posted: 2026-11-04
+- [ ] https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000036450-1 | Genuine Parts Company | DevOps Engineer I | Birmingham, AL, USA | posted: 2026-11-04
+
 ## Processed
