@@ -1,10 +1,15 @@
 {
-  "at": "2026-11-04T17:32:10.250Z",
-  "leadsScanned": 6860,
-  "totalBoardsKnown": 2133,
+  "at": "2026-11-04T18:15:55.450Z",
+  "leadsScanned": 6905,
+  "totalBoardsKnown": 2135,
   "alreadyTracked": 2130,
-  "newlyPromoted": 3,
+  "newlyPromoted": 5,
   "newBoards": [
+    {
+      "name": "Credigy",
+      "careers_url": "https://job-boards.greenhouse.io/credigysolutionsinc",
+      "provider": "greenhouse"
+    },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
@@ -13,6 +18,11 @@
     {
       "name": "Montefiore Einstein Technology",
       "careers_url": "https://montefiore.wd12.myworkdayjobs.com/MMC",
+      "provider": "workday"
+    },
+    {
+      "name": "North Mississippi Health Services",
+      "careers_url": "https://nmhs.wd108.myworkdayjobs.com/nmhs",
       "provider": "workday"
     },
     {
