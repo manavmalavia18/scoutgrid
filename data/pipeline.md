@@ -1611,3 +1611,5 @@
 - [ ] https://jobs.ashbyhq.com/writer/47dd1728-97f7-4e0d-9a7a-39009aa212a5 | writer | Software engineer, connectors & MCP | San Francisco, CA · Seattle, WA · Seattle · United States · New York City, NY · New York City | posted: 2026-11-03
 
 - [ ] https://boards.greenhouse.io/relativity/jobs/8929521002?gh_jid=8929521002 | relativity | Software Engineer II, Front-End Platforms | Long Beach, California, United States | posted: 2026-11-04
+
+- [ ] https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009 | atomicmachines | Applied AI Engineer, People | Emeryville, or Santa Clara, California | posted: 2026-11-04
