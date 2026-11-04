@@ -1126,4 +1126,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1 | boeing | Associate Software Engineer | USA - Hazelwood, MO | posted: 2026-11-04
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462 | boeing | Associate Software Engineer | USA - Hazelwood, MO | posted: 2026-11-04
 
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Software-Engineer--ICB-3-_R027629 | broadcom | Software Engineer (ICB 3) | USA-TX Plano Legacy Drive Suite 700 | posted: 2026-11-04
+
 ## Processed
