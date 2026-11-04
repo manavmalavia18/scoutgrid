@@ -1484,4 +1484,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/ruby-labs/dad7e7c6-3cb6-428f-83ea-332d2e559387 | ruby-labs | Middle Full-Stack Developer (Next.js) | Ukraine · North Macedonia · Turkey · European Union · Serbia · Bosnia · Georgia · Remote | posted: 2026-11-04
 
+- [ ] https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0 | loftorbital | Flight Dynamics Software Engineer | San Francisco, CA | posted: 2026-11-04
+
 ## Processed
