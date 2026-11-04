@@ -1122,4 +1122,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Flight-Software-Engineer---Level-3-4--AHT-_R10259255-1 | ngc | Flight Software Engineer - Level 3/4 (AHT) | United States-California-Redondo Beach | posted: 2026-11-04
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering--AI-Systems--PMTS-_JR367231-1 | salesforce | Software Engineering, AI Systems (PMTS) | 4 Locations | posted: 2026-11-04
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1 | boeing | Associate Software Engineer | USA - Hazelwood, MO | posted: 2026-11-04
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462 | boeing | Associate Software Engineer | USA - Hazelwood, MO | posted: 2026-11-04
+
 ## Processed
