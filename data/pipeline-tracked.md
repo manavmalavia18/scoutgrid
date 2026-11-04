@@ -1271,4 +1271,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/citian/jobs/5472833008 | Citian | AI Engineer - Data Success | Washington D.C. | posted: 2026-11-04
 
+- [ ] https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Phoenix-AZ-USA/Backend-Engineer_R-70457 | Kyndryl | Backend Engineer | Phoenix, AZ, USA | posted: 2026-11-04
+- [ ] https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Phoenix-AZ-USA/Frontend-Engineer_R-70458 | Kyndryl | Frontend Engineer | Phoenix, AZ, USA | posted: 2026-11-04
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Systems-or-Software-Engineer---Change-Management-2---Space-AHT_R10255600 | Northrop Grumman | Systems or Software Engineer - Change Management 2 - Space AHT | United States-Alabama-Huntsville | posted: 2026-11-04
+
 ## Processed
