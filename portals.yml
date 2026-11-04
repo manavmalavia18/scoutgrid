@@ -17128,6 +17128,56 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Hamming AI"
+    careers_url: https://jobs.ashbyhq.com/hamming%20ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Superhuman"
+    careers_url: https://jobs.ashbyhq.com/superhuman%20platform%20inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Writer"
+    careers_url: https://jobs.ashbyhq.com/writer
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fab2"
+    careers_url: https://job-boards.greenhouse.io/atomicmachines
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Patronus AI"
+    careers_url: https://job-boards.greenhouse.io/patronusaiinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Peerspace"
+    careers_url: https://jobs.lever.co/peerspace
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Moderna"
+    careers_url: https://modernatx.wd1.myworkdayjobs.com/m_tx
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
