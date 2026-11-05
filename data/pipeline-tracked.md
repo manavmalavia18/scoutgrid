@@ -1392,4 +1392,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Software-Developer_R26_0000015685 | Genuine Parts Company | Software Developer | Birmingham, AL, USA | posted: 2026-11-05
 
+- [ ] https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0 | Palantir Technologies | Backend Software Engineer - Data Connectors | New York, NY | posted: 2026-11-04
+
 ## Processed
