@@ -1,14 +1,24 @@
 {
-  "at": "2026-11-05T18:01:35.844Z",
-  "leadsScanned": 6835,
-  "totalBoardsKnown": 2202,
+  "at": "2026-11-05T18:39:27.029Z",
+  "leadsScanned": 6829,
+  "totalBoardsKnown": 2206,
   "alreadyTracked": 2199,
-  "newlyPromoted": 3,
+  "newlyPromoted": 7,
   "newBoards": [
+    {
+      "name": "Auld & White Constructors",
+      "careers_url": "https://job-boards.greenhouse.io/auldwhiteconstructors",
+      "provider": "greenhouse"
+    },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
       "provider": "lever"
+    },
+    {
+      "name": "Cisive",
+      "careers_url": "https://cisive.wd108.myworkdayjobs.com/cisive",
+      "provider": "workday"
     },
     {
       "name": "Montefiore Einstein Technology",
@@ -18,6 +28,16 @@
     {
       "name": "Elsevier",
       "careers_url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs",
+      "provider": "workday"
+    },
+    {
+      "name": "Spicer Group",
+      "careers_url": "https://spicergroup.wd504.myworkdayjobs.com/external",
+      "provider": "workday"
+    },
+    {
+      "name": "Tucson Electric Power",
+      "careers_url": "https://tep.wd1.myworkdayjobs.com/tep",
       "provider": "workday"
     }
   ]
