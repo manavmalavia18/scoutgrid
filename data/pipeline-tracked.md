@@ -1365,4 +1365,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Full-Stack-Engineer---Traffic_R0076602 | eBay | Full Stack Engineer - Traffic | Austin | posted: 2026-11-05
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-292697-1 | Mastercard | Site Reliability Engineer I | O'Fallon, Missouri | posted: 2026-11-05
 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8349916 | Reddit | Machine Learning Engineer | San Francisco, CA | posted: 2026-11-05
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-England/Software-Developer_R-10404845 | Fiserv | Software Developer | Remote England | posted: 2026-11-05
+
 ## Processed
