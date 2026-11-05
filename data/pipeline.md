@@ -1663,3 +1663,5 @@
 - [ ] https://job-boards.greenhouse.io/splitero/jobs/5473851008 | splitero | Full-Stack Engineer | Remote · Remote - United States | posted: 2026-11-05
 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6195153004 | vercel | Software Engineer, Backend | Hybrid - San Francisco, New York City | posted: 2026-11-04
+
+- [ ] https://jobs.lever.co/alluxio/52d9bf4e-fe16-46c2-8b97-25f08c878051 | alluxio | Software Engineer – Distributed Systems | Foster City, California | posted: 2026-11-05
