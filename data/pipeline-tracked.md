@@ -1394,4 +1394,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0 | Palantir Technologies | Backend Software Engineer - Data Connectors | New York, NY | posted: 2026-11-04
 
+- [ ] https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineer-IV_R0008368 | Availity, L.L.C. | Software Engineer IV | Remote - United States | posted: 2026-11-05
+- [ ] https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Frontier-AI-Engineer_JR1000136 | Postman | Frontier AI Engineer | NYC, NY, US | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/scowtt/jobs/4482602009 | Scowtt | Fullstack Software Engineer | Seattle | posted: 2026-11-05
+
 ## Processed
