@@ -1189,4 +1189,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://orionsteel.wd5.myworkdayjobs.com/externalcareers/job/Pueblo-CO-USA/Software-Developer-Engineer_R8267 | orionsteel | Software Developer Engineer | Pueblo, CO, USA | posted: 2026-11-05
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/Software-Engineer---Level-3-or-4--Mathematician-_R10243449 | ngc | Software Engineer - Level 3 or 4 (Mathematician) | United States-Colorado-Boulder | posted: 2026-11-05
+
 ## Processed
