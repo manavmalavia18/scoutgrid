@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-05T20:02:08.940Z",
+  "fetchedAt": "2026-11-05T20:15:39.518Z",
   "scrapedAt": "2026-11-05T12:12:57.269842+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 290,
+  "companyCount": 287,
   "companies": [
     {
       "company": "Abbott",
@@ -302,13 +302,6 @@
       "url": "https://job-boards.greenhouse.io/censys/jobs/8846269002"
     },
     {
-      "company": "Chamelio",
-      "ats": "ashby",
-      "board": "chamelio",
-      "key": "ashby:chamelio",
-      "url": "https://jobs.ashbyhq.com/chamelio/0b67084c-b184-4cfc-bf89-b9692d9c4ef7"
-    },
-    {
       "company": "Charles Schwab",
       "ats": "greenhouse",
       "board": "",
@@ -589,13 +582,6 @@
       "url": "https://job-boards.greenhouse.io/everlaw/jobs/4726848006"
     },
     {
-      "company": "Everpure",
-      "ats": "greenhouse",
-      "board": "purestorage",
-      "key": "greenhouse:purestorage",
-      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8350702"
-    },
-    {
       "company": "Extra Space Storage",
       "ats": "workday",
       "board": "ess_external",
@@ -818,6 +804,13 @@
       "board": "exteu-ac-careersite",
       "key": "workday:hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
       "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite"
+    },
+    {
+      "company": "HP Inc.",
+      "ats": "workday",
+      "board": "externalcareersite",
+      "key": "workday:hp.wd5.myworkdayjobs.com/externalcareersite",
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite"
     },
     {
       "company": "Humble Robotics",
@@ -1254,6 +1247,13 @@
       "url": "https://ovative.wd12.myworkdayjobs.com/ovative"
     },
     {
+      "company": "Palantir Technologies",
+      "ats": "lever",
+      "board": "palantir",
+      "key": "lever:palantir",
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"
+    },
+    {
       "company": "Palo Alto Networks",
       "ats": "workday",
       "board": "panwexternalcareers",
@@ -1294,13 +1294,6 @@
       "board": "peerspace",
       "key": "lever:peerspace",
       "url": "https://jobs.lever.co/peerspace/b70c8d85-43ef-41b1-bf19-09b0d522e2d9/apply"
-    },
-    {
-      "company": "Pendo.io",
-      "ats": "greenhouse",
-      "board": "pendo",
-      "key": "greenhouse:pendo",
-      "url": "https://job-boards.greenhouse.io/pendo/jobs/8678619002"
     },
     {
       "company": "Perplexity AI",
@@ -1399,13 +1392,6 @@
       "board": "",
       "key": "greenhouse-id:18434481",
       "url": "https://careers.realtor.com/jobs/18434481-software-engineer-sre"
-    },
-    {
-      "company": "Redwood Materials",
-      "ats": "greenhouse",
-      "board": "redwoodmaterials",
-      "key": "greenhouse:redwoodmaterials",
-      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6238341004?gh_jid=6238341004"
     },
     {
       "company": "Relativity Space",
@@ -1541,6 +1527,13 @@
       "url": "https://careers.se.com/jobs/141191?lang=en-us"
     },
     {
+      "company": "Scowtt",
+      "ats": "greenhouse",
+      "board": "scowtt",
+      "key": "greenhouse:scowtt",
+      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009"
+    },
+    {
       "company": "SEI Investments",
       "ats": "workday",
       "board": "sei_global_services",
@@ -1569,6 +1562,13 @@
       "url": "https://shi.wd12.myworkdayjobs.com/shicareers"
     },
     {
+      "company": "Shield AI",
+      "ats": "lever",
+      "board": "shieldai",
+      "key": "lever:shieldai",
+      "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949"
+    },
+    {
       "company": "Simpson Gumpertz & Heger",
       "ats": "greenhouse",
       "board": "",
@@ -1595,13 +1595,6 @@
       "board": "external",
       "key": "workday:smithnephew.wd5.myworkdayjobs.com/external",
       "url": "https://smithnephew.wd5.myworkdayjobs.com/external"
-    },
-    {
-      "company": "Snowflake",
-      "ats": "ashby",
-      "board": "snowflake",
-      "key": "ashby:snowflake",
-      "url": "https://jobs.ashbyhq.com/snowflake/70b760c0-4daa-464b-8375-2d7512a583fe"
     },
     {
       "company": "Solve Intelligence",
@@ -1849,13 +1842,6 @@
       "url": "https://tep.wd1.myworkdayjobs.com/tep"
     },
     {
-      "company": "Twenty Technologies",
-      "ats": "ashby",
-      "board": "twenty",
-      "key": "ashby:twenty",
-      "url": "https://jobs.ashbyhq.com/twenty/cff501ec-7af6-42a5-97bb-5185f9c46138"
-    },
-    {
       "company": "Twitch",
       "ats": "greenhouse",
       "board": "twitch",
@@ -1910,13 +1896,6 @@
       "board": "vapi",
       "key": "ashby:vapi",
       "url": "https://jobs.ashbyhq.com/vapi/03532365-7180-4999-b534-24595884aeb9/application"
-    },
-    {
-      "company": "Vidoori",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8661084",
-      "url": "https://vidoori.teamtailor.com/jobs/8661084-mid-level-software-developer"
     },
     {
       "company": "Vizient",
