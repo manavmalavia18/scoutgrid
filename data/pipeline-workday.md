@@ -1206,4 +1206,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-II_R81133 | medtronic | Software Engineer II | Mounds View, Minnesota, United States of America | posted: 2026-11-05
 - [ ] https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369-2 | jci | NextGen Software Engineer | Westford-Massachusetts-United States of America | posted: 2026-11-05
 
+- [ ] https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CG--CGI-Austin-Texas/Front-End-Developer_JR2023-16204 | tcbrands | Front End Developer | CG – CGI, Austin, Texas | posted: 2026-11-05
+
 ## Processed
