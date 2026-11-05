@@ -1705,3 +1705,5 @@
 - [ ] https://careers.roblox.com/jobs/8243631?gh_jid=8243631 | roblox | Software Engineer, Engine Harmony | San Mateo, CA, United States | posted: 2026-11-05
 
 - [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007 | tenstorrent | Infrastructure Operations Engineer / SRE | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada | posted: 2026-11-05
+
+- [ ] https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696 | openai | Founding Full Stack Software Engineer, Consulting | San Francisco | posted: 2026-11-05
