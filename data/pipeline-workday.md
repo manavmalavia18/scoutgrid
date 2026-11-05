@@ -1187,4 +1187,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR367337 | salesforce | Software Engineering LMTS | 4 Locations | posted: 2026-11-05
 - [ ] https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107161 | remitly | Software Development Engineer | Seattle, Washington United States | posted: 2026-11-05
 
+- [ ] https://orionsteel.wd5.myworkdayjobs.com/externalcareers/job/Pueblo-CO-USA/Software-Developer-Engineer_R8267 | orionsteel | Software Developer Engineer | Pueblo, CO, USA | posted: 2026-11-05
+
 ## Processed
