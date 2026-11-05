@@ -1208,4 +1208,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CG--CGI-Austin-Texas/Front-End-Developer_JR2023-16204 | tcbrands | Front End Developer | CG – CGI, Austin, Texas | posted: 2026-11-05
 
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Intermediate-Software-Engineer_REQ-12925 | q2ebanking | Intermediate Software Engineer | 2 Locations | posted: 2026-11-05
+- [ ] https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Society-of-Women-Engineers--SWE--Conference-2026---Attendees-Only_R_00109423 | freudenberg | Society of Women Engineers (SWE) Conference 2026 – Attendees Only | United States of America - Remote | posted: 2026-11-05
+
 ## Processed
