@@ -1681,3 +1681,6 @@
 
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4482298009 | grvty | Software Developer (Systems Software) | Chantilly, Virginia, United States | posted: 2026-11-05
 - [ ] https://careers.cargurus.com/us/en/job/8204313?gh_jid=8204313 | cargurus | Software Development Engineer II, Front End | Boston, Massachusetts, United States | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8349916 | reddit | Machine Learning Engineer | San Francisco, CA | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/6242824004 | evolutioniq | AI Engineer (CCC Auto / Agentic) | Chicago, IL or Remote | posted: 2026-11-05
