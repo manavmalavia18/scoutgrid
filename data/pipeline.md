@@ -1703,3 +1703,5 @@
 - [ ] https://job-boards.greenhouse.io/verkada/jobs/5283644007 | verkada | Software Engineer - Computer Vision | San Mateo, CA United States | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/verkada/jobs/5283634007 | verkada | Backend Engineer | San Mateo, CA United States | posted: 2026-11-05
 - [ ] https://careers.roblox.com/jobs/8243631?gh_jid=8243631 | roblox | Software Engineer, Engine Harmony | San Mateo, CA, United States | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007 | tenstorrent | Infrastructure Operations Engineer / SRE | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada | posted: 2026-11-05
