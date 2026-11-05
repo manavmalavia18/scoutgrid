@@ -1168,4 +1168,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Utah-US-Offsite/Software-Engineer--R60390-Copy-_R70008 | motorolasolutions | Software Engineer (R60390 Copy) | Utah, US Offsite | posted: 2026-11-05
 - [ ] https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Mgr--Software-Development-Engineering_RP1037604 | ffive | Mgr, Software Development Engineering | Seattle | posted: 2026-11-05
 
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-292697-1 | mastercard | Site Reliability Engineer I | O'Fallon, Missouri | posted: 2026-11-05
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-294460 | mastercard | Site Reliability Engineer I | O'Fallon, Missouri | posted: 2026-11-05
+- [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Java-Full-Stack-Developer_JR100413 | ddcdine | Java Full Stack Developer | Remote | posted: 2026-11-05
+
 ## Processed
