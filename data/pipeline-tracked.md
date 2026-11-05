@@ -1352,4 +1352,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911 | Priceline | Associate Software Engineer | New York | posted: 2026-11-05
 
+- [ ] https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-Services-Devops-Engineer_R-59672 | Gordon Food Service | Cloud Services Devops Engineer | Atlanta, Georgia | posted: 2026-11-05
+
 ## Processed
