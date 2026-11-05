@@ -1158,4 +1158,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Software-Development-Engineering---Advisor-I_R-10403885 | fiserv | Software Development Engineering - Advisor I | Sunnyvale, California | posted: 2026-11-05
 - [ ] https://extraspace.wd5.myworkdayjobs.com/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836 | extraspace | Associate Software Engineer | Salt Lake City, UT, United States | posted: 2026-11-05
 
+- [ ] https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911 | priceline | Associate Software Engineer | New York | posted: 2026-11-05
+- [ ] https://danafarber.wd5.myworkdayjobs.com/dana-farbernonrecruit/job/Boston-Job-Posting-Location/Software-Engineer-II_JR-8845 | danafarber | Software Engineer II | Boston Job Posting Location | posted: 2026-11-05
+
 ## Processed
