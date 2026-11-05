@@ -1398,4 +1398,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Frontier-AI-Engineer_JR1000136 | Postman | Frontier AI Engineer | NYC, NY, US | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/scowtt/jobs/4482602009 | Scowtt | Fullstack Software Engineer | Seattle | posted: 2026-11-05
 
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/AI-Engineer_R0158787 | Ncr | AI Engineer | ATLANTA, GA, USA | posted: 2026-11-05
+
 ## Processed
