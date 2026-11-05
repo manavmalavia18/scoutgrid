@@ -1402,4 +1402,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CG--CGI-Austin-Texas/Front-End-Developer_JR2023-16204 | Callaway | Front End Developer | CG – CGI, Austin, Texas | posted: 2026-11-05
 
+- [ ] https://jobs.ashbyhq.com/phantom/d8ee7f59-0f80-437f-908e-bfe603cb078a | Phantom | Software Engineer, Backend (Trading) | Remote | posted: 2026-11-05
+- [ ] https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Society-of-Women-Engineers--SWE--Conference-2026---Attendees-Only_R_00109423 | Freudenberg | Society of Women Engineers (SWE) Conference 2026 – Attendees Only | United States of America - Remote | posted: 2026-11-05
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Intermediate-Software-Engineer_REQ-12925 | Q2 | Intermediate Software Engineer | 2 Locations | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5283634007 | Verkada | Backend Engineer | San Mateo, CA United States | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5283655007 | Verkada | Software Engineer, Cloud Infrastructure | San Mateo, CA United States | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5283644007 | Verkada | Software Engineer - Computer Vision | San Mateo, CA United States | posted: 2026-11-05
+
 ## Processed
