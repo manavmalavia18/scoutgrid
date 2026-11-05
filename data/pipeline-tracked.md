@@ -1378,4 +1378,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/Remote---Canada/Software-Engineer--Casino_JR15319-1 | DraftKings | Software Engineer, Casino | Remote - Canada | posted: 2026-11-05
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/Software-Engineer---Level-3-or-4--Mathematician-_R10243449 | Northrop Grumman | Software Engineer - Level 3 or 4 (Mathematician) | United States-Colorado-Boulder | posted: 2026-11-05
+
 ## Processed
