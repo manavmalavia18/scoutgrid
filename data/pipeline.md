@@ -1669,3 +1669,5 @@
 - [ ] https://jobs.ashbyhq.com/circuithub/05338831-de2e-4844-ae19-c57de2c91672 | circuithub | Software Engineer, Operations Research | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-11-05
 
 - [ ] https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0 | loftorbital | Flight Dynamics Software Engineer | San Francisco, CA | posted: 2026-11-04
+
+- [ ] https://jobs.ashbyhq.com/akur8/2c8ce314-0a4a-4f8a-ae47-e686e62d80e9 | akur8 | Software Engineer (AI Agents) | New York City | posted: 2026-11-05
