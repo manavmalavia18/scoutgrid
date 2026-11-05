@@ -1176,4 +1176,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-II_R80941-1 | medtronic | Software Engineer II | Mounds View, Minnesota, United States of America | posted: 2026-11-05
 - [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-England/Software-Developer_R-10404845 | fiserv | Software Developer | Remote England | posted: 2026-11-05
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer-Simulation--Simulation-_JR2026525868-1 | boeing | Software Engineer–Simulation (Simulation) | USA - El Segundo, CA | posted: 2026-11-05
+
 ## Processed
