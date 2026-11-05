@@ -1376,4 +1376,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Engineer---Context-and-Semantics--AI-_JR-0110210 | Workday | Software Engineer - Context and Semantics (AI) | USA, CA, Pleasanton | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/minimal/jobs/4482442009 | Minimal | Software Engineer | Canada - Remote | posted: 2026-11-05
 
+- [ ] https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/Remote---Canada/Software-Engineer--Casino_JR15319-1 | DraftKings | Software Engineer, Casino | Remote - Canada | posted: 2026-11-05
+
 ## Processed
