@@ -1161,4 +1161,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911 | priceline | Associate Software Engineer | New York | posted: 2026-11-05
 - [ ] https://danafarber.wd5.myworkdayjobs.com/dana-farbernonrecruit/job/Boston-Job-Posting-Location/Software-Engineer-II_JR-8845 | danafarber | Software Engineer II | Boston Job Posting Location | posted: 2026-11-05
 
+- [ ] https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-Services-Devops-Engineer_R-59672 | gfs | Cloud Services Devops Engineer | Atlanta, Georgia | posted: 2026-11-05
+
 ## Processed
