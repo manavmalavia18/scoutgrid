@@ -1172,4 +1172,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-294460 | mastercard | Site Reliability Engineer I | O'Fallon, Missouri | posted: 2026-11-05
 - [ ] https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/Remote/Java-Full-Stack-Developer_JR100413 | ddcdine | Java Full Stack Developer | Remote | posted: 2026-11-05
 
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-II_R80941 | medtronic | Software Engineer II | Mounds View, Minnesota, United States of America | posted: 2026-11-05
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-II_R80941-1 | medtronic | Software Engineer II | Mounds View, Minnesota, United States of America | posted: 2026-11-05
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-England/Software-Developer_R-10404845 | fiserv | Software Developer | Remote England | posted: 2026-11-05
+
 ## Processed
