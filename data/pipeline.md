@@ -1665,3 +1665,5 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6195153004 | vercel | Software Engineer, Backend | Hybrid - San Francisco, New York City | posted: 2026-11-04
 
 - [ ] https://jobs.lever.co/alluxio/52d9bf4e-fe16-46c2-8b97-25f08c878051 | alluxio | Software Engineer – Distributed Systems | Foster City, California | posted: 2026-11-05
+
+- [ ] https://jobs.ashbyhq.com/circuithub/05338831-de2e-4844-ae19-c57de2c91672 | circuithub | Software Engineer, Operations Research | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-11-05
