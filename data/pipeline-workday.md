@@ -1178,4 +1178,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer-Simulation--Simulation-_JR2026525868-1 | boeing | Software Engineer–Simulation (Simulation) | USA - El Segundo, CA | posted: 2026-11-05
 
+- [ ] https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Phoenix-Arizona/Software-Developer_R258981-1 | uhaul | Software Developer | Phoenix, Arizona | posted: 2026-11-05
+- [ ] https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Austin-TX-78759/TJ-Maxx-Retail-Merchandise-and-Front-End-Associate_REQ174629 | tjx | TJ Maxx Retail Merchandise and Front End Associate | Austin, TX 78759 | posted: 2026-11-05
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Engineer_R0252390 | bah | AI/ML Engineer | Washington, DC | posted: 2026-11-05
+
 ## Processed
