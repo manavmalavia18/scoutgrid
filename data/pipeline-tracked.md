@@ -1373,4 +1373,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/akur8/2c8ce314-0a4a-4f8a-ae47-e686e62d80e9 | Akur8 | Software Engineer (AI Agents) | New York City | posted: 2026-11-05
 - [ ] https://danafarber.wd5.myworkdayjobs.com/dana-farbernonrecruit/job/Boston-Job-Posting-Location/Software-Engineer-II_JR-8845 | Dana-Farber Cancer Institute | Software Engineer II | Boston Job Posting Location | posted: 2026-11-05
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Engineer---Context-and-Semantics--AI-_JR-0110210 | Workday | Software Engineer - Context and Semantics (AI) | USA, CA, Pleasanton | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/minimal/jobs/4482442009 | Minimal | Software Engineer | Canada - Remote | posted: 2026-11-05
+
 ## Processed
