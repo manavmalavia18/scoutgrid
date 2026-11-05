@@ -1384,4 +1384,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Burlington-Massachusetts/Software-Engineer---Full-Stack--Officer_R-800844 | Statestreet | Software Engineer - Full Stack, Officer | Burlington Massachusetts | posted: 2026-11-05
 
+- [ ] https://jobs.smartrecruiters.com/nbcuniversal3/744000159958519 | NBCUniversal3 | Software Engineer, VOD | New York, NEW YORK, United States | posted: 2026-11-05
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000159958357 | ServiceNow | ML Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004 | OpenAI | Software Engineer, Agent Platform | San Francisco · New York City · New York · United States | posted: 2026-11-05
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Schriever-AFB/DevOps-Engineer---Level-3_R10240470 | Northrop Grumman | DevOps Engineer - Level 3 (AHT) | United States-Colorado-Schriever AFB | posted: 2026-11-05
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Database-Admin-Software-Engineer-Level-2-or-3--AHT-_R10259546-1 | Northrop Grumman | Database Admin Software Engineer Level 2 or 3 (AHT) | United States-Colorado-Aurora | posted: 2026-11-05
+
 ## Processed
