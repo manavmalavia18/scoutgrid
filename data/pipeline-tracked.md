@@ -1350,4 +1350,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://manatt.wd1.myworkdayjobs.com/manatt_global_careers/job/Washington-DC/Full-Stack-Developer_JR100650 | Manatt, Phelps & Phillips | Full Stack Developer | Washington, D.C. | posted: 2026-11-04
 - [ ] https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Software-Engineer_R0038203-1 | SEI Investments | Software Engineer | USA - PA - Oaks | posted: 2026-11-04
 
+- [ ] https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911 | Priceline | Associate Software Engineer | New York | posted: 2026-11-05
+
 ## Processed
