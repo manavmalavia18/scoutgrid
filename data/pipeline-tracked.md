@@ -1412,4 +1412,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696 | OpenAI | Founding Full Stack Software Engineer, Consulting | San Francisco | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007 | Tenstorrent | Infrastructure Operations Engineer / SRE | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada | posted: 2026-11-05
 
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer--Apps--4_R23274 | WEX | Software Engineer (Apps) 4 | US - Remote | posted: 2026-11-05
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178 | Northrop Grumman | Resource Control Team Software Engineer (Level 1 or 2) - AHT | United States-California-Manhattan Beach | posted: 2026-11-05
+
 ## Processed
