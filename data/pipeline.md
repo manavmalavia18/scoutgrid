@@ -1661,3 +1661,5 @@
 
 - [ ] https://jobs.ashbyhq.com/triumph-arcade/714a3b99-8a7d-4f0a-9944-d2d0cbb8bbca | triumph-arcade | Software Engineer, Arcade (Backend) | San Francisco HQ | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/splitero/jobs/5473851008 | splitero | Full-Stack Engineer | Remote · Remote - United States | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6195153004 | vercel | Software Engineer, Backend | Hybrid - San Francisco, New York City | posted: 2026-11-04
