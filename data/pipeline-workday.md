@@ -1194,4 +1194,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Database-Admin-Software-Engineer-Level-2-or-3--AHT--_R10259541 | ngc | Database Admin Software Engineer Level 2 or 3 (AHT#) | United States-Colorado-Aurora | posted: 2026-11-05
 - [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Software-Engineer_Req198335 | homedepot | Software Engineer | STORE SUPPORT CENTER, ATLANTA - 9090 | posted: 2026-11-05
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Schriever-AFB/DevOps-Engineer---Level-3_R10240470 | ngc | DevOps Engineer - Level 3 (AHT) | United States-Colorado-Schriever AFB | posted: 2026-11-05
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Database-Admin-Software-Engineer-Level-2-or-3--AHT-_R10259546-1 | ngc | Database Admin Software Engineer Level 2 or 3 (AHT) | United States-Colorado-Aurora | posted: 2026-11-05
+
 ## Processed
