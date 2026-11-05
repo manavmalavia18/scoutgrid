@@ -1699,3 +1699,7 @@
 
 - [ ] https://job-boards.greenhouse.io/verkada/jobs/5283655007 | verkada | Software Engineer, Cloud Infrastructure | San Mateo, CA United States | posted: 2026-11-05
 - [ ] https://jobs.ashbyhq.com/phantom/d8ee7f59-0f80-437f-908e-bfe603cb078a | phantom | Software Engineer, Backend (Trading) | Remote | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5283644007 | verkada | Software Engineer - Computer Vision | San Mateo, CA United States | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5283634007 | verkada | Backend Engineer | San Mateo, CA United States | posted: 2026-11-05
+- [ ] https://careers.roblox.com/jobs/8243631?gh_jid=8243631 | roblox | Software Engineer, Engine Harmony | San Mateo, CA, United States | posted: 2026-11-05
