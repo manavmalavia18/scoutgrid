@@ -1336,4 +1336,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/humble-robotics/9e16da6b-36bc-4443-9bf7-47c54d6e9f66 | Humble Robotics | Software Engineer, Fleet Systems | San Francisco | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/hearst/jobs/4478841009 | Black Book | Site Reliability Engineer - Tampa (Hybrid) | Tampa, FL, United States | posted: 2026-11-05
 
+- [ ] https://jobs.ashbyhq.com/circuithub/05338831-de2e-4844-ae19-c57de2c91672 | CircuitHub | Software Engineer, Operations Research | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-11-05
+- [ ] https://jobs.lever.co/alluxio/52d9bf4e-fe16-46c2-8b97-25f08c878051 | Alluxio | Software Engineer – Distributed Systems | Foster City, California | posted: 2026-11-05
+
 ## Processed
