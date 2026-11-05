@@ -1674,3 +1674,7 @@
 
 - [ ] https://jobs.ashbyhq.com/silver/fd575807-3e73-4c2c-a3e7-9a9bbd1af2de | silver | Feltsense - AI Engineer | Argentina · Remote | posted: 2026-11-05
 - [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5028761101 | twinstream | Software Engineer - Java and C++ (contract outside of IR35) | Remote · Remote | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8355717 | doordashusa | Full Stack Engineer, Applied AI | San Francisco, CA; Sunnyvale, CA | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733116005 | tailscale | Security Software Engineer | Remote (Canada) | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733115005 | tailscale | Security Software Engineer | Remote (United States) | posted: 2026-11-05
