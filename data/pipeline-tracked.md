@@ -1368,4 +1368,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8349916 | Reddit | Machine Learning Engineer | San Francisco, CA | posted: 2026-11-05
 - [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-England/Software-Developer_R-10404845 | Fiserv | Software Developer | Remote England | posted: 2026-11-05
 
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Engineer_R0252390 | Booz Allen Hamilton | AI/ML Engineer | Washington, DC | posted: 2026-11-05
+
 ## Processed
