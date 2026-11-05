@@ -1523,4 +1523,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/akur8/2c8ce314-0a4a-4f8a-ae47-e686e62d80e9 | akur8 | Software Engineer (AI Agents) | New York City | posted: 2026-11-05
 
+- [ ] https://job-boards.greenhouse.io/minimal/jobs/4482442009 | minimal | Software Engineer | Canada - Remote | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8349916 | reddit | Machine Learning Engineer | San Francisco, CA | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/6242824004 | evolutioniq | AI Engineer (CCC Auto / Agentic) | Chicago, IL or Remote | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4482298009 | grvty | Software Developer (Systems Software) | Chantilly, Virginia, United States | posted: 2026-11-05
+- [ ] https://careers.cargurus.com/us/en/job/8204313?gh_jid=8204313 | cargurus | Software Development Engineer II, Front End | Boston, Massachusetts, United States | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8355717 | doordashusa | Full Stack Engineer, Applied AI | San Francisco, CA; Sunnyvale, CA | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733116005 | tailscale | Security Software Engineer | Remote (Canada) | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733115005 | tailscale | Security Software Engineer | Remote (United States) | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/silver/fd575807-3e73-4c2c-a3e7-9a9bbd1af2de | silver | Feltsense - AI Engineer | Argentina · Remote | posted: 2026-11-05
+
 ## Processed
