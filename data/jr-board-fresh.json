@@ -1,22 +1,27 @@
 {
-  "fetchedAt": "2026-11-05T20:53:14.175Z",
+  "fetchedAt": "2026-11-05T21:06:04.246Z",
   "days": 2,
   "leadCount": 84,
-  "jobCount": 53,
+  "jobCount": 52,
   "boards": [
-    {
-      "key": "greenhouse:applovin",
-      "fetched": 43,
-      "kept": 0
-    },
     {
       "key": "greenhouse:taketwo",
       "fetched": 34,
       "kept": 0
     },
     {
+      "key": "greenhouse:applovin",
+      "fetched": 43,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:nuro",
       "fetched": 93,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:scaleai",
+      "fetched": 166,
       "kept": 0
     },
     {
@@ -30,8 +35,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:scaleai",
-      "fetched": 166,
+      "key": "greenhouse:smartrent",
+      "fetched": 8,
       "kept": 0
     },
     {
@@ -40,29 +45,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:smartrent",
-      "fetched": 8,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:ascend21",
       "fetched": 6,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:waymo",
-      "fetched": 367,
-      "kept": 2
-    },
-    {
-      "key": "greenhouse:toast",
-      "fetched": 333,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:scowtt",
-      "fetched": 4,
-      "kept": 1
     },
     {
       "key": "greenhouse:qualtrics",
@@ -75,6 +60,11 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:scowtt",
+      "fetched": 4,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:minimal",
       "fetched": 2,
       "kept": 0
@@ -85,9 +75,19 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 462,
+      "key": "greenhouse:quince",
+      "fetched": 148,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:waymo",
+      "fetched": 367,
       "kept": 2
+    },
+    {
+      "key": "greenhouse:tailscale",
+      "fetched": 71,
+      "kept": 1
     },
     {
       "key": "greenhouse:auldwhiteconstructors",
@@ -98,16 +98,6 @@
       "key": "greenhouse:banyansoftware",
       "fetched": 48,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:tailscale",
-      "fetched": 71,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:quince",
-      "fetched": 148,
-      "kept": 0
     },
     {
       "key": "greenhouse:global-en",
@@ -125,23 +115,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 438,
+      "key": "greenhouse:cloudflare",
+      "fetched": 462,
       "kept": 2
     },
     {
-      "key": "greenhouse:unitedintegratedservices",
-      "fetched": 59,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:fanduel",
-      "fetched": 94,
-      "kept": 2
-    },
-    {
-      "key": "greenhouse:en",
-      "fetched": 0,
+      "key": "greenhouse:simpsongumpertzheger",
+      "fetched": 106,
       "kept": 0
     },
     {
@@ -150,19 +130,39 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:en",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 438,
+      "kept": 2
+    },
+    {
       "key": "greenhouse:alexandria",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:simpsongumpertzheger",
-      "fetched": 106,
+      "key": "greenhouse:unitedintegratedservices",
+      "fetched": 59,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:asm",
+      "fetched": 507,
       "kept": 0
     },
     {
       "key": "greenhouse:seattle",
       "fetched": 0,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:fanduel",
+      "fetched": 94,
+      "kept": 2
     },
     {
       "key": "greenhouse:everlaw",
@@ -180,14 +180,19 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:icapitalnetwork",
-      "fetched": 223,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:lendingtree",
       "fetched": 23,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:rocketlab",
+      "fetched": 548,
+      "kept": 3
+    },
+    {
+      "key": "greenhouse:icapitalnetwork",
+      "fetched": 223,
+      "kept": 0
     },
     {
       "key": "ashby:braintrust",
@@ -195,9 +200,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:rocketlab",
-      "fetched": 549,
-      "kept": 3
+      "key": "ashby:cognition",
+      "fetched": 108,
+      "kept": 0
     },
     {
       "key": "ashby:valon",
@@ -205,13 +210,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 101,
-      "kept": 0
+      "key": "ashby:wafer",
+      "fetched": 6,
+      "kept": 1
     },
     {
-      "key": "ashby:cognition",
-      "fetched": 108,
+      "key": "ashby:langchain",
+      "fetched": 101,
       "kept": 0
     },
     {
@@ -225,11 +230,6 @@
       "kept": 0
     },
     {
-      "key": "ashby:abby-care",
-      "fetched": 28,
-      "kept": 0
-    },
-    {
       "key": "ashby:niantic-spatial",
       "fetched": 18,
       "kept": 0
@@ -240,13 +240,18 @@
       "kept": 1
     },
     {
-      "key": "ashby:wafer",
-      "fetched": 6,
+      "key": "ashby:mecka.ai",
+      "fetched": 47,
       "kept": 1
     },
     {
-      "key": "ashby:mecka.ai",
-      "fetched": 47,
+      "key": "ashby:abby-care",
+      "fetched": 28,
+      "kept": 0
+    },
+    {
+      "key": "ashby:etched",
+      "fetched": 118,
       "kept": 1
     },
     {
@@ -265,13 +270,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:etched",
-      "fetched": 118,
-      "kept": 1
-    },
-    {
       "key": "ashby:hellopatient",
       "fetched": 10,
+      "kept": 0
+    },
+    {
+      "key": "ashby:profound",
+      "fetched": 86,
       "kept": 0
     },
     {
@@ -280,24 +285,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:aerovect",
-      "fetched": 39,
-      "kept": 1
-    },
-    {
       "key": "ashby:mimica",
       "fetched": 17,
       "kept": 0
     },
     {
-      "key": "ashby:solveintelligence",
-      "fetched": 18,
-      "kept": 0
-    },
-    {
-      "key": "ashby:profound",
-      "fetched": 86,
-      "kept": 0
+      "key": "ashby:aerovect",
+      "fetched": 39,
+      "kept": 1
     },
     {
       "key": "ashby:akur8",
@@ -310,18 +305,23 @@
       "kept": 1
     },
     {
-      "key": "ashby:linero",
-      "fetched": 16,
-      "kept": 1
-    },
-    {
       "key": "ashby:mirendil",
       "fetched": 15,
       "kept": 0
     },
     {
-      "key": "greenhouse:asm",
-      "fetched": 507,
+      "key": "ashby:solveintelligence",
+      "fetched": 18,
+      "kept": 0
+    },
+    {
+      "key": "ashby:linero",
+      "fetched": 16,
+      "kept": 1
+    },
+    {
+      "key": "lever:peerspace",
+      "fetched": 4,
       "kept": 0
     },
     {
@@ -330,23 +330,18 @@
       "kept": 0
     },
     {
-      "key": "lever:iru",
-      "fetched": 24,
-      "kept": 0
-    },
-    {
-      "key": "lever:momsmeals",
-      "fetched": 47,
-      "kept": 0
-    },
-    {
       "key": "lever:shieldai",
       "fetched": 658,
       "kept": 0
     },
     {
-      "key": "lever:forbrightbank",
-      "fetched": 10,
+      "key": "greenhouse:toast",
+      "fetched": 333,
+      "kept": 1
+    },
+    {
+      "key": "lever:iru",
+      "fetched": 24,
       "kept": 0
     },
     {
@@ -355,9 +350,9 @@
       "kept": 1
     },
     {
-      "key": "lever:palantir",
-      "fetched": 309,
-      "kept": 1
+      "key": "lever:momsmeals",
+      "fetched": 47,
+      "kept": 0
     },
     {
       "key": "lever:noblereach",
@@ -370,22 +365,7 @@
       "kept": 2
     },
     {
-      "key": "lever:peerspace",
-      "fetched": 4,
-      "kept": 0
-    },
-    {
       "key": "workday:axiomspace.wd5.myworkdayjobs.com/external_career_site",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
-      "key": "workday:fanniemae.wd1.myworkdayjobs.com/fanniemaecareers",
-      "fetched": 20,
-      "kept": 1
-    },
-    {
-      "key": "workday:kissusa.wd12.myworkdayjobs.com/kiss_careers_external",
       "fetched": 20,
       "kept": 0
     },
@@ -395,9 +375,24 @@
       "kept": 0
     },
     {
+      "key": "workday:fanniemae.wd1.myworkdayjobs.com/fanniemaecareers",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:spacex",
       "fetched": 2889,
       "kept": 9
+    },
+    {
+      "key": "lever:palantir",
+      "fetched": 309,
+      "kept": 1
+    },
+    {
+      "key": "workday:kissusa.wd12.myworkdayjobs.com/kiss_careers_external",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "key": "workday:franklintempleton.wd5.myworkdayjobs.com/primary-external-1",
@@ -412,7 +407,7 @@
     {
       "key": "workday:pae.wd1.myworkdayjobs.com/amentum_careers",
       "fetched": 80,
-      "kept": 1
+      "kept": 0
     },
     {
       "key": "workday:amgen.wd1.myworkdayjobs.com/careers",
@@ -423,6 +418,11 @@
       "key": "workday:target.wd5.myworkdayjobs.com/targetcareers",
       "fetched": 80,
       "kept": 1
+    },
+    {
+      "key": "lever:forbrightbank",
+      "fetched": 10,
+      "kept": 0
     }
   ],
   "jobs": [
@@ -435,6 +435,26 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "affirm"
+    },
+    {
+      "title": "Software Engineer II - Reporting Platform",
+      "url": "https://www.qualtrics.com/careers/us/en/job/8346858?gh_jid=8346858",
+      "company": "Qualtrics",
+      "location": "Seattle, Washington,  United States",
+      "postedAt": "2026-11-04T20:51:14.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "qualtrics"
+    },
+    {
+      "title": "Fullstack Software Engineer ",
+      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
+      "company": "Scowtt",
+      "location": "Seattle ",
+      "postedAt": "2026-11-05T17:56:33.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "scowtt"
     },
     {
       "title": "Staff Machine Learning Engineer, AI Infrastructure",
@@ -457,54 +477,14 @@
       "board": "waymo"
     },
     {
-      "title": "Software Engineer II, Backend",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8334794",
-      "company": "Toast",
-      "location": "Remote US",
-      "postedAt": "2026-11-03T21:21:50.000Z",
+      "title": "Security Software Engineer",
+      "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733115005",
+      "company": "Tailscale",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-05T15:19:59.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "toast"
-    },
-    {
-      "title": "Fullstack Software Engineer ",
-      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
-      "company": "Scowtt",
-      "location": "Seattle ",
-      "postedAt": "2026-11-05T17:56:33.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "scowtt"
-    },
-    {
-      "title": "Software Engineer II - Reporting Platform",
-      "url": "https://www.qualtrics.com/careers/us/en/job/8346858?gh_jid=8346858",
-      "company": "Qualtrics",
-      "location": "Seattle, Washington,  United States",
-      "postedAt": "2026-11-04T20:51:14.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "qualtrics"
-    },
-    {
-      "title": "Senior Software Engineer - ZTC",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149",
-      "company": "Cloudflare",
-      "location": "In-Office · Austin, TX · Lisbon, Portugal · London, United Kingdom",
-      "postedAt": "2026-11-05T12:03:34.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
-    },
-    {
-      "title": "Senior Software Engineer, AI & Infrastructure Planning",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8328562?gh_jid=8328562",
-      "company": "Cloudflare",
-      "location": "Hybrid · Austin, TX · Lisbon, Portugal · London, United Kingdom",
-      "postedAt": "2026-11-05T01:18:11.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
+      "board": "tailscale"
     },
     {
       "title": "Software Developer",
@@ -527,16 +507,6 @@
       "board": "banyansoftware"
     },
     {
-      "title": "Security Software Engineer",
-      "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733115005",
-      "company": "Tailscale",
-      "location": "Remote (United States)",
-      "postedAt": "2026-11-05T15:19:59.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "tailscale"
-    },
-    {
       "title": "Full-Stack Engineer",
       "url": "https://job-boards.greenhouse.io/splitero/jobs/5473851008",
       "company": "Splitero",
@@ -545,6 +515,26 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "splitero"
+    },
+    {
+      "title": "Senior Software Engineer - ZTC",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149",
+      "company": "Cloudflare",
+      "location": "In-Office · Austin, TX · Lisbon, Portugal · London, United Kingdom",
+      "postedAt": "2026-11-05T12:03:34.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
+    },
+    {
+      "title": "Senior Software Engineer, AI & Infrastructure Planning",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8328562?gh_jid=8328562",
+      "company": "Cloudflare",
+      "location": "Hybrid · Austin, TX · Lisbon, Portugal · London, United Kingdom",
+      "postedAt": "2026-11-05T01:18:11.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
     },
     {
       "title": "Full Stack Engineer, Applied AI",
@@ -637,16 +627,6 @@
       "board": "rocketlab"
     },
     {
-      "title": "Software Engineer, Arcade (Backend)",
-      "url": "https://jobs.ashbyhq.com/triumph-arcade/714a3b99-8a7d-4f0a-9944-d2d0cbb8bbca",
-      "company": "Triumph",
-      "location": "San Francisco HQ",
-      "postedAt": "2026-11-05T01:08:58.726Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "triumph-arcade"
-    },
-    {
       "title": "DevOps Engineer",
       "url": "https://jobs.ashbyhq.com/wafer/eb0cc872-8e6e-4367-88ed-a1fc249ac642",
       "company": "Wafer",
@@ -657,6 +637,16 @@
       "board": "wafer"
     },
     {
+      "title": "Software Engineer, Arcade (Backend)",
+      "url": "https://jobs.ashbyhq.com/triumph-arcade/714a3b99-8a7d-4f0a-9944-d2d0cbb8bbca",
+      "company": "Triumph",
+      "location": "San Francisco HQ",
+      "postedAt": "2026-11-05T01:08:58.726Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "triumph-arcade"
+    },
+    {
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/mecka.ai/7845eb7e-17d6-421d-93b1-794b6eef425b",
       "company": "Mecka",
@@ -665,6 +655,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "mecka.ai"
+    },
+    {
+      "title": "Site Reliability Engineer - Fleet Command & Control",
+      "url": "https://jobs.ashbyhq.com/etched/15fa07f2-b1e9-43dd-8e9f-47854633c626",
+      "company": "Etched",
+      "location": "San Jose",
+      "postedAt": "2026-11-04T19:20:59.534Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "etched"
     },
     {
       "title": "Software Engineer: Robotics Controls",
@@ -737,16 +737,6 @@
       "board": "nace.ai"
     },
     {
-      "title": "Site Reliability Engineer - Fleet Command & Control",
-      "url": "https://jobs.ashbyhq.com/etched/15fa07f2-b1e9-43dd-8e9f-47854633c626",
-      "company": "Etched",
-      "location": "San Jose",
-      "postedAt": "2026-11-04T19:20:59.534Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "etched"
-    },
-    {
       "title": "Embedded Linux Software Engineer",
       "url": "https://jobs.ashbyhq.com/aerovect/49403b08-400b-43e7-91f8-709c965bda54",
       "company": "AeroVect",
@@ -787,6 +777,16 @@
       "board": "linero"
     },
     {
+      "title": "Software Engineer II, Backend",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8334794",
+      "company": "Toast",
+      "location": "Remote US",
+      "postedAt": "2026-11-03T21:21:50.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "toast"
+    },
+    {
       "title": "Software Engineer, Fleet Systems",
       "url": "https://jobs.lever.co/humble-robotics/9e16da6b-36bc-4443-9bf7-47c54d6e9f66",
       "company": "Humble Robotics",
@@ -795,16 +795,6 @@
       "salary": "",
       "ats": "Lever",
       "board": "humble-robotics"
-    },
-    {
-      "title": "Backend Software Engineer - Data Connectors",
-      "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0",
-      "company": "Palantir Technologies",
-      "location": "New York, NY",
-      "postedAt": "2026-11-04T20:57:06.330Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "palantir"
     },
     {
       "title": "Salesforce Platform Engineer",
@@ -938,15 +928,14 @@
       "board": "spacex"
     },
     {
-      "title": "Software Developer",
-      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Software-Developer_R0172204",
-      "company": "Amentum",
-      "location": "US-VA-Dahlgren",
-      "postedAt": "2026-11-04T12:00:00.000Z",
+      "title": "Backend Software Engineer - Data Connectors",
+      "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0",
+      "company": "Palantir Technologies",
+      "location": "New York, NY",
+      "postedAt": "2026-11-04T20:57:06.330Z",
       "salary": "",
-      "ats": "Workday",
-      "board": "amentum_careers",
-      "postedAtSource": "workday-detail"
+      "ats": "Lever",
+      "board": "palantir"
     },
     {
       "title": "Executive Team Leader Service & Engagement (Assistant Manager Front End) - Meridian, ID",
