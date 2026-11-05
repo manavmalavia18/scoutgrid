@@ -18288,6 +18288,41 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Rogo"
+    careers_url: https://jobs.ashbyhq.com/rogo
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Scowtt"
+    careers_url: https://job-boards.greenhouse.io/scowtt
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Kandji"
+    careers_url: https://jobs.lever.co/iru
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Mom's Meals"
+    careers_url: https://jobs.lever.co/momsmeals
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
