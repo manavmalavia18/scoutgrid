@@ -1165,4 +1165,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Full-Stack-Quality-Assurance-Engineer_30221014-2 | carrier | Full Stack Quality Assurance Engineer | GA18: 1150 Roberts Boulevard, Kennesaw, GA, 30144 USA | posted: 2026-11-05
 
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Utah-US-Offsite/Software-Engineer--R60390-Copy-_R70008 | motorolasolutions | Software Engineer (R60390 Copy) | Utah, US Offsite | posted: 2026-11-05
+- [ ] https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Mgr--Software-Development-Engineering_RP1037604 | ffive | Mgr, Software Development Engineering | Seattle | posted: 2026-11-05
+
 ## Processed
