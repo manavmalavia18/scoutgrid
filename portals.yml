@@ -18088,6 +18088,81 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "AeroVect"
+    careers_url: https://jobs.ashbyhq.com/aerovect
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Akur8"
+    careers_url: https://jobs.ashbyhq.com/akur8
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Mimica"
+    careers_url: https://jobs.ashbyhq.com/mimica
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Solve Intelligence"
+    careers_url: https://jobs.ashbyhq.com/solveintelligence
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Cadence Design Systems"
+    careers_url: https://cadence.wd1.myworkdayjobs.com/univ_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cotality"
+    careers_url: https://cotality.wd115.myworkdayjobs.com/acq
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cotality"
+    careers_url: https://cotality.wd115.myworkdayjobs.com/global
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Dana-Farber Cancer Institute"
+    careers_url: https://danafarber.wd5.myworkdayjobs.com/dana-farbernonrecruit
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Deluxe"
+    careers_url: https://deluxe.wd5.myworkdayjobs.com/usa_can
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fox Factory"
+    careers_url: https://foxfactory.wd1.myworkdayjobs.com/fox
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ilitch Holdings"
+    careers_url: https://ilitch.wd5.myworkdayjobs.com/job
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "MSIG USA"
+    careers_url: https://msigna.wd5.myworkdayjobs.com/gbl
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
