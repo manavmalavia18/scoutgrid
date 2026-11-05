@@ -1678,3 +1678,6 @@
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8355717 | doordashusa | Full Stack Engineer, Applied AI | San Francisco, CA; Sunnyvale, CA | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733116005 | tailscale | Security Software Engineer | Remote (Canada) | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733115005 | tailscale | Security Software Engineer | Remote (United States) | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4482298009 | grvty | Software Developer (Systems Software) | Chantilly, Virginia, United States | posted: 2026-11-05
+- [ ] https://careers.cargurus.com/us/en/job/8204313?gh_jid=8204313 | cargurus | Software Development Engineer II, Front End | Boston, Massachusetts, United States | posted: 2026-11-05
