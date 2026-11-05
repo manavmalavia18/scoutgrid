@@ -1339,4 +1339,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/circuithub/05338831-de2e-4844-ae19-c57de2c91672 | CircuitHub | Software Engineer, Operations Research | Remote · London, UK · London · United Kingdom · Cambridge, UK · Cambridge | posted: 2026-11-05
 - [ ] https://jobs.lever.co/alluxio/52d9bf4e-fe16-46c2-8b97-25f08c878051 | Alluxio | Software Engineer – Distributed Systems | Foster City, California | posted: 2026-11-05
 
+- [ ] https://jobs.ashbyhq.com/gecko-robotics/4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 | Gecko | Software Engineer / Infrastructure | New York City | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03 | HIFI | Security Software Engineer | New York City | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/hike-medical/e11d90bf-9f6a-44be-9b54-cb3c1079c59b | Hike Medical | Software Engineer | San Francisco, CA | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/triumph-arcade/714a3b99-8a7d-4f0a-9944-d2d0cbb8bbca | Triumph Labs | Software Engineer, Arcade (Backend) | San Francisco HQ | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/wafer/eb0cc872-8e6e-4367-88ed-a1fc249ac642 | Wafer | DevOps Engineer | San Francisco | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/splitero/jobs/5473851008 | Splitero | Full-Stack Engineer | Remote · Remote - United States | posted: 2026-11-05
+- [ ] https://jobs.lever.co/forbrightbank/1ca0cac2-50b2-4ab5-ad54-8e035a9f4376 | Forbright Bank | Engineer, Software Engineer, Digital Banking | Remote | posted: 2026-11-04
+- [ ] https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer-II_R0002848 | LegalShield | Software Engineer II | Remote Job Posting | posted: 2026-11-04
+- [ ] https://manatt.wd1.myworkdayjobs.com/manatt_global_careers/job/Washington-DC/Full-Stack-Developer_JR100650 | Manatt, Phelps & Phillips | Full Stack Developer | Washington, D.C. | posted: 2026-11-04
+- [ ] https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Software-Engineer_R0038203-1 | SEI Investments | Software Engineer | USA - PA - Oaks | posted: 2026-11-04
+
 ## Processed
