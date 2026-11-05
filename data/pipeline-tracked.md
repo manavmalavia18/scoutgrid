@@ -1382,4 +1382,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/Frontier-AI-Engineering_JR1000057 | Postman | Frontier AI Engineering | San Francisco, CA, US | posted: 2026-11-05
 
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Burlington-Massachusetts/Software-Engineer---Full-Stack--Officer_R-800844 | Statestreet | Software Engineer - Full Stack, Officer | Burlington Massachusetts | posted: 2026-11-05
+
 ## Processed
