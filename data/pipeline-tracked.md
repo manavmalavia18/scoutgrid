@@ -1400,4 +1400,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/AI-Engineer_R0158787 | Ncr | AI Engineer | ATLANTA, GA, USA | posted: 2026-11-05
 
+- [ ] https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CG--CGI-Austin-Texas/Front-End-Developer_JR2023-16204 | Callaway | Front End Developer | CG – CGI, Austin, Texas | posted: 2026-11-05
+
 ## Processed
