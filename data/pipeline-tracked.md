@@ -1320,4 +1320,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Schriever-AFB/DevOps-Engineer---Level-3-or-4_R10259346 | Northrop Grumman | DevOps Engineer - Level 3 or 4 | United States-Colorado-Schriever AFB | posted: 2026-11-04
 - [ ] https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000036450-1 | Genuine Parts Company | DevOps Engineer I | Birmingham, AL, USA | posted: 2026-11-04
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743 | Hewlett Packard Enterprise | Software Engineer 2 – Wireless Access Point Development | 2 Locations | posted: 2026-11-04
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743-1 | Hpe | Software Engineer 2 – Wireless Access Point Development | 2 Locations | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 | Deepgram | Software Engineer - Applied AI | San Francisco, CA | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/generalist/cfe9bb4b-a31c-4be7-b1c6-0d24bf0a1194 | Generalist AI | Software Engineer: Infrastructure | Boston (Somerville) | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/generalist/5e459faa-8874-49a3-a461-d96c0e3087d7 | Generalist AI | Software Engineer: ML Infra | Boston (Somerville) | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/generalist/2ff2dbd7-0ffb-432d-b6c0-ddd17b05a085 | Generalist AI | Software Engineer: Product | Boston (Somerville) | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/generalist/3ba35425-3f45-4cdd-820f-c1126177f832 | Generalist AI | Software Engineer: ML Optimization | Boston (Somerville) | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/generalist/6137060c-f5dd-48a0-9785-88c41761fa62 | Generalist AI | Software Engineer: Frontend | Boston (Somerville) | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/generalist/f00a11ec-d832-415a-ac8f-5073dcf39a6b | Generalist AI | Software Engineer: Robotics Controls | Boston (Somerville) | posted: 2026-11-05
+- [ ] https://extraspace.wd5.myworkdayjobs.com/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836 | Extra Space Storage | Associate Software Engineer | Salt Lake City, UT, United States | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | Notion | Software Engineer, Growth | San Francisco, California · New York, New York · New York · United States | posted: 2026-11-04
+- [ ] https://nb.wd1.myworkdayjobs.com/nbcareers/job/New-York-NY/Full-Stack-Dev-III--Marketing-Technology_R0012548 | Neuberger Berman | Sitecore Full Stack Developer- Marketing Technology | New York, NY | posted: 2026-11-04
+
 ## Processed
