@@ -1211,4 +1211,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Intermediate-Software-Engineer_REQ-12925 | q2ebanking | Intermediate Software Engineer | 2 Locations | posted: 2026-11-05
 - [ ] https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/United-States-of-America---Remote/Society-of-Women-Engineers--SWE--Conference-2026---Attendees-Only_R_00109423 | freudenberg | Society of Women Engineers (SWE) Conference 2026 – Attendees Only | United States of America - Remote | posted: 2026-11-05
 
+- [ ] https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/United-States/Software-Engineer-II_R0017591 | zayo | Software Engineer II | United States | posted: 2026-11-05
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer--Apps--4_R23274 | wexinc | Software Engineer (Apps) 4 | US - Remote | posted: 2026-11-05
+- [ ] https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/Infrastructure-Platform-Engineer--Containerization-and-Automation-focus-_R7077 | mizuho | Infrastructure Platform Engineer (Containerization and Automation focus) | NYC (1285) | posted: 2026-11-05
+- [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store1605-Washington-PA/Advisor-Endzone---Loyalty--Front-End-_202639810-1 | dickssportinggoods | Advisor Endzone & Loyalty (Front End) | Store1605 Washington PA | posted: 2026-11-05
+
 ## Processed
