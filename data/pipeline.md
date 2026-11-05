@@ -1671,3 +1671,6 @@
 - [ ] https://jobs.lever.co/loftorbital/d2ec023c-42c4-4cf3-a891-9230d0811cc0 | loftorbital | Flight Dynamics Software Engineer | San Francisco, CA | posted: 2026-11-04
 
 - [ ] https://jobs.ashbyhq.com/akur8/2c8ce314-0a4a-4f8a-ae47-e686e62d80e9 | akur8 | Software Engineer (AI Agents) | New York City | posted: 2026-11-05
+
+- [ ] https://jobs.ashbyhq.com/silver/fd575807-3e73-4c2c-a3e7-9a9bbd1af2de | silver | Feltsense - AI Engineer | Argentina · Remote | posted: 2026-11-05
+- [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5028761101 | twinstream | Software Engineer - Java and C++ (contract outside of IR35) | Remote · Remote | posted: 2026-11-05
