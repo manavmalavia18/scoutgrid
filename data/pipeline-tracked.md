@@ -1380,4 +1380,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/Software-Engineer---Level-3-or-4--Mathematician-_R10243449 | Northrop Grumman | Software Engineer - Level 3 or 4 (Mathematician) | United States-Colorado-Boulder | posted: 2026-11-05
 
+- [ ] https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/Frontier-AI-Engineering_JR1000057 | Postman | Frontier AI Engineering | San Francisco, CA, US | posted: 2026-11-05
+
 ## Processed
