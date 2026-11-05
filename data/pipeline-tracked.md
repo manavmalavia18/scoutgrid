@@ -1362,4 +1362,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Utah-US-Offsite/Software-Engineer--R60390-Copy-_R70008 | Motorola Solutions | Software Engineer (R60390 Copy) | Utah, US Offsite | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8355717 | DoorDash | Full Stack Engineer, Applied AI | San Francisco, CA; Sunnyvale, CA | posted: 2026-11-05
 
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Full-Stack-Engineer---Traffic_R0076602 | eBay | Full Stack Engineer - Traffic | Austin | posted: 2026-11-05
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-292697-1 | Mastercard | Site Reliability Engineer I | O'Fallon, Missouri | posted: 2026-11-05
+
 ## Processed
