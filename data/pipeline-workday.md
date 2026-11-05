@@ -1200,4 +1200,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-II_R81133-1 | medtronic | Software Engineer II | Mounds View, Minnesota, United States of America | posted: 2026-11-05
 - [ ] https://genpt.wd1.myworkdayjobs.com/careers/job/Birmingham-AL-USA/Software-Developer_R26_0000015685 | genpt | Software Developer | Birmingham, AL, USA | posted: 2026-11-05
 
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-2--Remote-_Req197990 | homedepot | Software Engineer 2 (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-05
+
 ## Processed
