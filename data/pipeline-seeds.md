@@ -1502,4 +1502,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/lendingtree/jobs/8353498 | lendingtree | Software Engineer | Denver, Colorado, United States | posted: 2026-11-04
 - [ ] https://jobs.ashbyhq.com/3y-health/149b8587-113e-48ed-9128-e0233632ba34 | 3y-health | Full Stack Engineer | Remote - Brazil | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/triumph-arcade/714a3b99-8a7d-4f0a-9944-d2d0cbb8bbca | triumph-arcade | Software Engineer, Arcade (Backend) | San Francisco HQ | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/splitero/jobs/5473851008 | splitero | Full-Stack Engineer | Remote · Remote - United States | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | notion | Software Engineer, Growth | San Francisco, California · New York, New York · New York · United States | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 | deepgram | Software Engineer - Applied AI | San Francisco, CA | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/gecko-robotics/4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 | gecko-robotics | Software Engineer / Infrastructure | New York City | posted: 2026-11-04
+- [ ] https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8931225002 | trexsolutions | AI Engineer | 100% Remote | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/inspire11/jobs/8440233002 | inspire11 | DevOps Engineer | Chicago, IL | posted: 2026-11-04
+- [ ] https://www.fanduel.careers/open-positions?gh_jid=8348296 | fanduel | Quantitative Software Engineer | Jersey City, New Jersey, United States | posted: 2026-11-04
+- [ ] https://jobs.lever.co/forbrightbank/1ca0cac2-50b2-4ab5-ad54-8e035a9f4376 | forbrightbank | Engineer, Software Engineer, Digital Banking | Remote | posted: 2026-11-04
+- [ ] https://www.qualtrics.com/careers/us/en/job/8346858?gh_jid=8346858 | qualtrics | Software Engineer II - Reporting Platform | Seattle, Washington, United States | posted: 2026-11-04
+- [ ] https://jobs.lever.co/longwall/78e57a97-1006-4e57-a45f-b3029d2eb83b | longwall | Flight Software Engineer | Long Beach, California | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f | ramp | Software Engineer, Frontend | New York, NY (HQ) · Remote (Canada) · Canada · San Francisco, CA · San Fransisco · USA · Remote (US) · United States · Miami, FL · Miami | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/atomic-invest/6da0c7ef-3cc7-420d-820a-e1647d7f3917 | atomic-invest | Software Engineer, Front End | Remote · Europe · Buenos Aires · Argentina · Canada | posted: 2026-11-04
+- [ ] https://job-boards.greenhouse.io/everlaw/jobs/4726848006 | everlaw | Software Engineer, Platform | Oakland, California, United States | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/office-hours/58596841-9485-4f21-8f09-c57ba2c8da32 | office-hours | Software Engineer, Growth | San Francisco, NYC, or Fully Remote | posted: 2026-11-02
+
 ## Processed
