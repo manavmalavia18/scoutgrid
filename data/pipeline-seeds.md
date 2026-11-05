@@ -1533,4 +1533,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733115005 | tailscale | Security Software Engineer | Remote (United States) | posted: 2026-11-05
 - [ ] https://jobs.ashbyhq.com/silver/fd575807-3e73-4c2c-a3e7-9a9bbd1af2de | silver | Feltsense - AI Engineer | Argentina · Remote | posted: 2026-11-05
 
+- [ ] https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004 | openai | Software Engineer, Agent Platform | San Francisco · New York City · New York · United States | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/airapps/65a997ca-7eef-4d04-8ed8-de6160ab1411 | airapps | Backend Engineer - Typescript | San Francisco | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/scowtt/jobs/4482602009 | scowtt | Fullstack Software Engineer | Seattle | posted: 2026-11-05
+
 ## Processed
