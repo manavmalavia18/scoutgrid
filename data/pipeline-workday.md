@@ -1202,4 +1202,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-2--Remote-_Req197990 | homedepot | Software Engineer 2 (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-05
 
+- [ ] https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/AI-Engineer_R0158787 | ncr | AI Engineer | ATLANTA, GA, USA | posted: 2026-11-05
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-II_R81133 | medtronic | Software Engineer II | Mounds View, Minnesota, United States of America | posted: 2026-11-05
+- [ ] https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369-2 | jci | NextGen Software Engineer | Westford-Massachusetts-United States of America | posted: 2026-11-05
+
 ## Processed
