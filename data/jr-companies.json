@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-05T15:27:58.209Z",
+  "fetchedAt": "2026-11-05T15:49:41.814Z",
   "scrapedAt": "2026-11-05T12:12:57.269842+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 292,
+  "companyCount": 295,
   "companies": [
     {
       "company": "Abbott",
@@ -328,6 +328,13 @@
       "board": "citian",
       "key": "greenhouse:citian",
       "url": "https://job-boards.greenhouse.io/citian/jobs/5472833008"
+    },
+    {
+      "company": "City of Alexandria",
+      "ats": "greenhouse",
+      "board": "alexandria",
+      "key": "greenhouse:alexandria",
+      "url": "https://www.governmentjobs.com/careers/alexandria/jobs/5539715-0"
     },
     {
       "company": "City of Pompano Beach",
@@ -855,13 +862,6 @@
       "url": "https://careers.intuitive.com/en/jobs/744000159724349/JOB221156/software-engineer-emulation-and-automated-test/"
     },
     {
-      "company": "Jamf",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:6238028004",
-      "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6238028004&gh_jid=6238028004"
-    },
-    {
       "company": "Jane Street",
       "ats": "greenhouse",
       "board": "",
@@ -1044,13 +1044,6 @@
       "url": "https://micron.wd1.myworkdayjobs.com/external"
     },
     {
-      "company": "Midstream Health",
-      "ats": "ashby",
-      "board": "midstream",
-      "key": "ashby:midstream",
-      "url": "https://jobs.ashbyhq.com/midstream/000b0038-c337-427b-ae31-3bbbb9229a37"
-    },
-    {
       "company": "Mirendil",
       "ats": "ashby",
       "board": "mirendil",
@@ -1126,6 +1119,13 @@
       "board": "niantic-spatial",
       "key": "ashby:niantic-spatial",
       "url": "https://jobs.ashbyhq.com/niantic-spatial/038011fd-5fe3-4b7f-863c-919b2af28597/application"
+    },
+    {
+      "company": "Nike",
+      "ats": "workday",
+      "board": "nke",
+      "key": "workday:nike.wd1.myworkdayjobs.com/nke",
+      "url": "https://nike.wd1.myworkdayjobs.com/nke"
     },
     {
       "company": "NobleReach Foundation",
@@ -1219,6 +1219,13 @@
       "url": "https://otter.ai/careers?gh_jid=8195534003"
     },
     {
+      "company": "Ovative Group",
+      "ats": "workday",
+      "board": "ovative",
+      "key": "workday:ovative.wd12.myworkdayjobs.com/ovative",
+      "url": "https://ovative.wd12.myworkdayjobs.com/ovative"
+    },
+    {
       "company": "Palo Alto Networks",
       "ats": "workday",
       "board": "panwexternalcareers",
@@ -1280,13 +1287,6 @@
       "board": "picoquantitativetrading",
       "key": "greenhouse:picoquantitativetrading",
       "url": "https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4726680006"
-    },
-    {
-      "company": "PLACE, Inc.",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:4750504005",
-      "url": "https://place.com/corporate-careers/4750504005?gh_jid=4750504005"
     },
     {
       "company": "PNC Financial Services Group",
@@ -1357,6 +1357,13 @@
       "board": "quberesearchandtechnologies",
       "key": "greenhouse:quberesearchandtechnologies",
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002"
+    },
+    {
+      "company": "Radicle Health",
+      "ats": "greenhouse",
+      "board": "radiclehealth",
+      "key": "greenhouse:radiclehealth",
+      "url": "https://job-boards.greenhouse.io/radiclehealth/jobs/5284641007"
     },
     {
       "company": "Reacher",
@@ -1434,6 +1441,13 @@
       "board": "rocketlab",
       "key": "greenhouse:rocketlab",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8195549003"
+    },
+    {
+      "company": "Rolls-Royce",
+      "ats": "workday",
+      "board": "intern_graduate",
+      "key": "workday:rollsroyce.wd3.myworkdayjobs.com/intern_graduate",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/intern_graduate"
     },
     {
       "company": "RTX",
@@ -1516,8 +1530,15 @@
       "company": "Schneider Electric",
       "ats": "greenhouse",
       "board": "",
+      "key": "greenhouse-id:141207",
+      "url": "https://careers.se.com/jobs/141207?lang=en-us"
+    },
+    {
+      "company": "Schneider Electric",
+      "ats": "greenhouse",
+      "board": "",
       "key": "greenhouse-id:141191",
-      "url": "https://se.jibeapply.com/jobs/141191"
+      "url": "https://careers.se.com/jobs/141191?lang=en-us"
     },
     {
       "company": "Schneider Electric",
@@ -1525,13 +1546,6 @@
       "board": "",
       "key": "greenhouse-id:139436",
       "url": "https://careers.se.com/jobs/139436?lang=en-us"
-    },
-    {
-      "company": "Schneider Electric",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:140955",
-      "url": "https://careers.se.com/jobs/140955?lang=en-us"
     },
     {
       "company": "SEI Investments",
@@ -1637,6 +1651,13 @@
       "board": "st-labs",
       "key": "ashby:st-labs",
       "url": "https://jobs.ashbyhq.com/st-labs/130945cf-1e78-4211-940e-e639d74e0a3d"
+    },
+    {
+      "company": "Star Catcher",
+      "ats": "greenhouse",
+      "board": "star-catcher",
+      "key": "greenhouse:star-catcher",
+      "url": "https://job-boards.greenhouse.io/star-catcher/jobs/4480072009"
     },
     {
       "company": "State of Alaska",
