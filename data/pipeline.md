@@ -1684,3 +1684,5 @@
 
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8349916 | reddit | Machine Learning Engineer | San Francisco, CA | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/6242824004 | evolutioniq | AI Engineer (CCC Auto / Agentic) | Chicago, IL or Remote | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/minimal/jobs/4482442009 | minimal | Software Engineer | Canada - Remote | posted: 2026-11-05
