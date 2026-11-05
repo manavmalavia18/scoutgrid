@@ -1694,3 +1694,5 @@
 - [ ] https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004 | openai | Software Engineer, Agent Platform | San Francisco · New York City · New York · United States | posted: 2026-11-05
 
 - [ ] https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0 | palantir | Backend Software Engineer - Data Connectors | New York, NY | posted: 2026-11-04
+
+- [ ] https://jobs.ashbyhq.com/c1/eea62edd-8bf4-4a05-97d1-79bf7e012aeb | c1 | Software Engineer | New York City | posted: 2026-11-05
