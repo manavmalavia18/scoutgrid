@@ -1182,4 +1182,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Austin-TX-78759/TJ-Maxx-Retail-Merchandise-and-Front-End-Associate_REQ174629 | tjx | TJ Maxx Retail Merchandise and Front End Associate | Austin, TX 78759 | posted: 2026-11-05
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Engineer_R0252390 | bah | AI/ML Engineer | Washington, DC | posted: 2026-11-05
 
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Platform-DevOps-Engineer_R0238775 | bah | Platform DevOps Engineer | 3 Locations | posted: 2026-11-05
+
 ## Processed
