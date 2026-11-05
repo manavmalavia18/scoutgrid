@@ -1354,4 +1354,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-Services-Devops-Engineer_R-59672 | Gordon Food Service | Cloud Services Devops Engineer | Atlanta, Georgia | posted: 2026-11-05
 
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685 | CACI | Junior Software Developer | Remote (Any State) | posted: 2026-11-05
+- [ ] https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Mgr--Software-Development-Engineering_RP1037604 | F5 | Mgr, Software Development Engineering | Seattle | posted: 2026-11-05
+- [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Full-Stack-Quality-Assurance-Engineer_30221014-2 | Carrier | Full Stack Quality Assurance Engineer | GA18: 1150 Roberts Boulevard, Kennesaw, GA, 30144 USA | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733116005 | Tailscale | Security Software Engineer | Remote (Canada) | posted: 2026-11-05
+
 ## Processed
