@@ -1333,4 +1333,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | Notion | Software Engineer, Growth | San Francisco, California · New York, New York · New York · United States | posted: 2026-11-04
 - [ ] https://nb.wd1.myworkdayjobs.com/nbcareers/job/New-York-NY/Full-Stack-Dev-III--Marketing-Technology_R0012548 | Neuberger Berman | Sitecore Full Stack Developer- Marketing Technology | New York, NY | posted: 2026-11-04
 
+- [ ] https://jobs.lever.co/humble-robotics/9e16da6b-36bc-4443-9bf7-47c54d6e9f66 | Humble Robotics | Software Engineer, Fleet Systems | San Francisco | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/hearst/jobs/4478841009 | Black Book | Site Reliability Engineer - Tampa (Hybrid) | Tampa, FL, United States | posted: 2026-11-05
+
 ## Processed
