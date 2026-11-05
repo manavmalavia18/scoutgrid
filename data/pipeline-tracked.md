@@ -1359,4 +1359,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Full-Stack-Quality-Assurance-Engineer_30221014-2 | Carrier | Full Stack Quality Assurance Engineer | GA18: 1150 Roberts Boulevard, Kennesaw, GA, 30144 USA | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/tailscale/jobs/4733116005 | Tailscale | Security Software Engineer | Remote (Canada) | posted: 2026-11-05
 
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Utah-US-Offsite/Software-Engineer--R60390-Copy-_R70008 | Motorola Solutions | Software Engineer (R60390 Copy) | Utah, US Offsite | posted: 2026-11-05
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8355717 | DoorDash | Full Stack Engineer, Applied AI | San Francisco, CA; Sunnyvale, CA | posted: 2026-11-05
+
 ## Processed
