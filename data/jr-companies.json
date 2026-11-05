@@ -1,12 +1,19 @@
 {
-  "fetchedAt": "2026-11-05T16:36:53.248Z",
+  "fetchedAt": "2026-11-05T16:58:37.785Z",
   "scrapedAt": "2026-11-05T12:12:57.269842+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 308,
+  "companyCount": 309,
   "companies": [
+    {
+      "company": "Abbott",
+      "ats": "workday",
+      "board": "abbottcareers2",
+      "key": "workday:abbott.wd5.myworkdayjobs.com/abbottcareers2",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2"
+    },
     {
       "company": "Abbott",
       "ats": "workday",
@@ -55,6 +62,13 @@
       "board": "",
       "key": "greenhouse-id:6242659004",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6242659004"
+    },
+    {
+      "company": "Akur8",
+      "ats": "ashby",
+      "board": "akur8",
+      "key": "ashby:akur8",
+      "url": "https://jobs.ashbyhq.com/akur8/2c8ce314-0a4a-4f8a-ae47-e686e62d80e9"
     },
     {
       "company": "Allied World",
@@ -435,6 +449,20 @@
       "url": "https://jobs.constellationenergy.com/jobs/141851?lang=en-us"
     },
     {
+      "company": "Cotality",
+      "ats": "workday",
+      "board": "acq",
+      "key": "workday:cotality.wd115.myworkdayjobs.com/acq",
+      "url": "https://cotality.wd115.myworkdayjobs.com/acq"
+    },
+    {
+      "company": "Cotality",
+      "ats": "workday",
+      "board": "global",
+      "key": "workday:cotality.wd115.myworkdayjobs.com/global",
+      "url": "https://cotality.wd115.myworkdayjobs.com/global"
+    },
+    {
       "company": "Credigy",
       "ats": "greenhouse",
       "board": "credigysolutionsinc",
@@ -715,13 +743,6 @@
       "url": "https://genpt.wd1.myworkdayjobs.com/careers"
     },
     {
-      "company": "GitLab",
-      "ats": "greenhouse",
-      "board": "gitlab",
-      "key": "greenhouse:gitlab",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002"
-    },
-    {
       "company": "Glean",
       "ats": "greenhouse",
       "board": "gleanwork",
@@ -960,13 +981,6 @@
       "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/lsc"
     },
     {
-      "company": "Leidos",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:18442836",
-      "url": "https://careers.leidos.com/jobs/18442836"
-    },
-    {
       "company": "LendingTree",
       "ats": "greenhouse",
       "board": "lendingtree",
@@ -1161,13 +1175,6 @@
       "board": "Nationwide_Career",
       "key": "workday:nationwide.wd1.myworkdayjobs.com/Nationwide_Career",
       "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career"
-    },
-    {
-      "company": "Nationwide",
-      "ats": "workday",
-      "board": "nationwide_career",
-      "key": "workday:nationwide.wd1.myworkdayjobs.com/nationwide_career",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/nationwide_career"
     },
     {
       "company": "Navan",
