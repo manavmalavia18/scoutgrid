@@ -1686,3 +1686,5 @@
 - [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/6242824004 | evolutioniq | AI Engineer (CCC Auto / Agentic) | Chicago, IL or Remote | posted: 2026-11-05
 
 - [ ] https://job-boards.greenhouse.io/minimal/jobs/4482442009 | minimal | Software Engineer | Canada - Remote | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/scowtt/jobs/4482602009 | scowtt | Fullstack Software Engineer | Seattle | posted: 2026-11-05
