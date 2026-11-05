@@ -18003,6 +18003,36 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Owner"
+    careers_url: https://jobs.ashbyhq.com/owner
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Paymentology"
+    careers_url: https://jobs.ashbyhq.com/paymentology
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Bridgefield Casualty Insurance Company"
+    careers_url: https://gaig.wd1.myworkdayjobs.com/summit_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
