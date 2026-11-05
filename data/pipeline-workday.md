@@ -1163,4 +1163,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-Services-Devops-Engineer_R-59672 | gfs | Cloud Services Devops Engineer | Atlanta, Georgia | posted: 2026-11-05
 
+- [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Full-Stack-Quality-Assurance-Engineer_30221014-2 | carrier | Full Stack Quality Assurance Engineer | GA18: 1150 Roberts Boulevard, Kennesaw, GA, 30144 USA | posted: 2026-11-05
+
 ## Processed
