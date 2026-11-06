@@ -1434,4 +1434,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5014076101 | StubHub | Software Engineer II - Seller Experience | Aliso Viejo, California, United States | posted: 2026-11-05
 - [ ] https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101 | StubHub | Software Engineer I (New Grad) - Consumer Experience | New York, New York, United States | posted: 2026-11-05
 
+- [ ] https://jobs.ashbyhq.com/pennylane/c9e2bc2f-cb01-4584-a646-aa5fd06db461 | Pennylane | Growth Engineer (Fullstack, Frontend-Focused) | All France (remote) | posted: 2026-11-06
+
 ## Processed
