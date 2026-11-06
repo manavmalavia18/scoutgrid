@@ -1710,3 +1710,6 @@
 
 - [ ] https://job-boards.greenhouse.io/avride/jobs/4483495009 | avride | Software Engineer, Sensors and System Software (C++, Linux) | Austin, Texas | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 | trueanomalyinc | Platform Engineer, IT | Denver, CO; Long Beach, CA | posted: 2026-11-06
+
+- [ ] https://job-boards.greenhouse.io/turing/jobs/6241649004 | turing | Software Engineer | Global - Remote; United States | posted: 2026-11-06
+- [ ] https://www.pathai.com/careers/8932903002?gh_jid=8932903002 | pathai | Software Engineer II, Fullstack | Boston, MA (Hybrid) | posted: 2026-11-06
