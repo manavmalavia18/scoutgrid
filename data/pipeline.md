@@ -1784,3 +1784,5 @@
 
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8196114003 | affirm | Software Engineer II, Backend | Remote Canada | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8196112003 | affirm | Software Engineer II, Backend | Remote US | posted: 2026-11-06
+
+- [ ] https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630 | qualtrics | Software Engineer II - Discover Studio | Reston, Virginia, United States | posted: 2026-11-06
