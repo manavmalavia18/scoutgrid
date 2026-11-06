@@ -1707,3 +1707,6 @@
 - [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007 | tenstorrent | Infrastructure Operations Engineer / SRE | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada | posted: 2026-11-05
 
 - [ ] https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696 | openai | Founding Full Stack Software Engineer, Consulting | San Francisco | posted: 2026-11-05
+
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4483495009 | avride | Software Engineer, Sensors and System Software (C++, Linux) | Austin, Texas | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 | trueanomalyinc | Platform Engineer, IT | Denver, CO; Long Beach, CA | posted: 2026-11-06
