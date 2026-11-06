@@ -1724,3 +1724,7 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | andurilindustries | Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | posted: 2026-11-06
 
 - [ ] https://jobs.ashbyhq.com/3y-health/b7607400-cb3b-4b34-9c4b-dda21fba2a03 | 3y-health | Full Stack Engineer | Remote – India · Bangalore, India · Bengalore · India | posted: 2026-11-06
+
+- [ ] https://www.asm.com/open-vacancies/?gh_jid=5019821101 | asm | Software Engineer - Early Career | US > Arizona > Phoenix | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/myfitnesspal/jobs/8359189 | myfitnesspal | Software Engineer III, Cloud Infrastructure | Remote - US | posted: 2026-11-06
+- [ ] https://octane.co/o/who-we-are/careers/jobs-open?gh_jid=8197643003 | octanelending | Software Engineer II | Remote · Irving Ops and Servicing Center · New York HQ · Remote | posted: 2026-11-06
