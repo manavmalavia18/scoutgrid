@@ -1571,4 +1571,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.dropbox.com/listing/7172713?gh_jid=7172713 | dropbox | Infrastructure Software Engineer | Remote - Mexico | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/drweng/jobs/8359837 | drweng | Software Engineer - Trading Operations | New York City | posted: 2026-11-06
 
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476031008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/Blossom-Health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 | blossom-health | Applied AI Engineer | New York City | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/Blossom-Health/ffba9bbf-2576-4f3a-b883-c1ef083811da | blossom-health | Software Engineer | New York City | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476011008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476007008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-06
+- [ ] https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003 | abnormalsecurity | Software Engineer II, Attack Detection | Remote - USA | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/granted/a8101edf-3947-4743-8ef4-6ef4200fc5d5 | granted | Product Engineer, Full-Stack | New York City · Remote - Continental US · United States | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/newsela/jobs/8359053 | newsela | Contractor: Full Stack Engineer, Marketing | Remote - Argentina; Brazil; Colombia; Costa Rica; Mexico | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006 | sharkninjaoperatingllc | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Miami, Florida, United States; Needham, MA, United States | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/m9solutions/jobs/5287633007 | m9solutions | Full Stack Developer | Washington, DC - TS/SCI clearance required | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005 | thebrattlegroup | Data and AI Engineer - July 2027 | San Francisco, California, United States | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/secfix/583140f4-b26c-47b4-a9be-c7a88dc3c0f5 | secfix | Backend Engineer – GTM Engineering (Fresh grad, India) | Remote - India | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/givecampus/jobs/4479171009 | givecampus | AI Platform Engineer | United States | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4 | cohere | Software Engineer, ML Ops | London · Europe · European Union · Berlin · Germany · United Kingdom · Remote | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/myfitnesspal/jobs/8359189 | myfitnesspal | Software Engineer III, Cloud Infrastructure | Remote - US | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | cohere | Software Engineer, ML Workload Platform | Canada · United States · San Francisco · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4 | cohere | Software Engineer, GPU Infrastructure | Seattle · Canada · New York · United States · California · Remote | posted: 2026-11-06
+
 ## Processed
