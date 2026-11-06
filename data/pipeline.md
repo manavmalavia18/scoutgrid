@@ -1741,3 +1741,5 @@
 - [ ] https://boards.greenhouse.io/figma/jobs/6242561004?gh_jid=6242561004 | figma | Software Engineer - Application Platform | San Francisco, CA • New York, NY • United States | posted: 2026-11-06
 
 - [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4745498005 | dotmatics | Backend Software Engineer (Node.js) / LabArchives | Remote - USA | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/humatahealth/8c835888-2b50-4115-bf6f-a0ed490c6462 | humatahealth | Software Engineer II | Remote / US | posted: 2026-11-06
