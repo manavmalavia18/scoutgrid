@@ -1481,4 +1481,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/P-1%20AI/a2f7afe3-c41f-4643-bfe3-d992eca84ae7 | P-1 AI | Super SWE | United States · Remote | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509 | Amplitude | Software Engineer II, Analytics Compute Platform Team | San Francisco | posted: 2026-11-05
 
+- [ ] https://jobs.ashbyhq.com/P-1%20AI/12dc40c8-fc22-4002-bf98-07d3b7edf539 | P-1 AI | Super SWE - AI Factory | United States · Remote | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/engine/jobs/8046374003 | Engine | Software Engineer - GTM Engineering | Remote - US | posted: 2026-11-06
+
 ## Processed
