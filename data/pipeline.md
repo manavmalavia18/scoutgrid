@@ -1719,3 +1719,6 @@
 
 - [ ] https://jobs.ashbyhq.com/aerovect/6058be12-918f-4016-87d8-cdbeb0ecdfbf | aerovect | Software Engineer, ML Ops | Toronto · Remote | posted: 2026-11-06
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4727887006?gh_jid=4727887006 | accenturefederalservices | Platform Engineer - SCON | Washington, DC | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/pennylane/c9e2bc2f-cb01-4584-a646-aa5fd06db461 | pennylane | Growth Engineer (Fullstack, Frontend-Focused) | All France (remote) | posted: 2026-11-06
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | andurilindustries | Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | posted: 2026-11-06
