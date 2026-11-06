@@ -1775,3 +1775,5 @@
 
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476031008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/Blossom-Health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 | blossom-health | Applied AI Engineer | New York City | posted: 2026-11-06
+
+- [ ] https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004 | keyfactorinc | Associate Software Engineer | United States (Remote) | posted: 2026-11-06
