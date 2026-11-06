@@ -1447,4 +1447,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Sr-Software-Engineer_R-147091 | The Coca-Cola Company | Software Engineer I | US - GA - Atlanta | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/backblaze/jobs/5465482008 | Backblaze | Software Engineer III - B2 | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-11-06
 
+- [ ] https://job-boards.eu.greenhouse.io/imc/jobs/4960533101 | IMC | Software Engineer - AI Tooling | Chicago, United States | posted: 2026-11-06
+
 ## Processed
