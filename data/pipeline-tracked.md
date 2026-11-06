@@ -1457,4 +1457,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Full-Stack-Platform-Engineer_R0076716 | eBay | Full Stack Platform Engineer | Austin | posted: 2026-11-06
 - [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/CIAM-Full-Stack-Engineer_JR26110082 | Manulife | CIAM Full Stack Engineer | Boston, Massachusetts | posted: 2026-11-06
 
+- [ ] https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006 | SharkNinja | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Miami, Florida, United States; Needham, MA, United States | posted: 2026-11-06
+- [ ] https://jobs.smartrecruiters.com/BoschGroup/744000160293306 | Bosch USA | Fullstack Engineer | Mexicali, BAJA CALIFORNIA, mx | posted: 2026-11-06
+
 ## Processed
