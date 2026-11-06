@@ -1421,4 +1421,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mecka.ai/56efc767-c6b0-479c-91b8-cccc124a762f | Mecka AI | Robotics Software Engineer, Teleoperation | Toronto GTA · New York · United States | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 | True Anomaly | Platform Engineer, IT | Denver, CO; Long Beach, CA | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/kraken.com/88890cf1-24c5-40a1-9d5d-b6b99b208c1f | Payward, Inc. | Full Stack Engineer - Growth & Experimentation – Krak | Brazil · Uruguay · Peru · Colombia · Argentina · Paraguay · Mexico · Chile · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/bjakcareer/cb5b5d4a-e889-467b-a6cb-5da46b8b9981 | Bjak | Applied AI Engineer | China · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/bjakcareer/96aed9bd-03a5-40b5-8432-0ab38e320fff | Bjak | Software Engineer, Desktop | Indonesia · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/bjakcareer/800c8f3d-fed6-42ee-9ddd-3ee2c026bd30 | Bjak | Backend Engineer, AI (Agent Systems) | United States · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/bjakcareer/462582df-b0c6-4371-8edb-8a7b492b3eb5 | Bjak | Full Stack Engineer, AI systems | United States · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3643630b-105a-4ffd-9122-02b4436a9fe9 | Bjak | LLM Application Engineer | China · Remote | posted: 2026-11-06
+
 ## Processed
