@@ -1454,4 +1454,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/Versant3/744000160277739 | Versant Media | Software Engineer | Englewood Cliffs, NEW JERSEY, United States | posted: 2026-11-06
 - [ ] https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442 | Chewy | Software Engineer I, Full Stack, Promotions | Boston, MA | posted: 2026-11-06
 
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Full-Stack-Platform-Engineer_R0076716 | eBay | Full Stack Platform Engineer | Austin | posted: 2026-11-06
+- [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/CIAM-Full-Stack-Engineer_JR26110082 | Manulife | CIAM Full Stack Engineer | Boston, Massachusetts | posted: 2026-11-06
+
 ## Processed
