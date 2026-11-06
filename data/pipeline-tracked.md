@@ -1460,4 +1460,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006 | SharkNinja | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Miami, Florida, United States; Needham, MA, United States | posted: 2026-11-06
 - [ ] https://jobs.smartrecruiters.com/BoschGroup/744000160293306 | Bosch USA | Fullstack Engineer | Mexicali, BAJA CALIFORNIA, mx | posted: 2026-11-06
 
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III---Loyalty_R-109614-2 | Expedia | Software Development Engineer III - Loyalty | Washington - Seattle Campus | posted: 2026-11-06
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Mid-Level-Robotics-Software-Developer_JR2026527640 | Boeing | Mid-Level Robotics Software Developer | 2 Locations | posted: 2026-11-06
+
 ## Processed
