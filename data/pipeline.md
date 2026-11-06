@@ -1728,3 +1728,6 @@
 - [ ] https://www.asm.com/open-vacancies/?gh_jid=5019821101 | asm | Software Engineer - Early Career | US > Arizona > Phoenix | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/myfitnesspal/jobs/8359189 | myfitnesspal | Software Engineer III, Cloud Infrastructure | Remote - US | posted: 2026-11-06
 - [ ] https://octane.co/o/who-we-are/careers/jobs-open?gh_jid=8197643003 | octanelending | Software Engineer II | Remote · Irving Ops and Servicing Center · New York HQ · Remote | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/masabi/dcec6de3-4f27-4d2a-a6e7-c76d30231fc0 | masabi | Software Engineer - Data team | Poland · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/masabi/42be010f-a2d7-410a-a1c6-199c68034917 | masabi | Software Engineer - Data team | Romania · Remote | posted: 2026-11-06
