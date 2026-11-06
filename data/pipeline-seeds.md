@@ -1553,4 +1553,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/obrio/0769f6a7-6600-44c6-a087-fbe688b790d1 | obrio | AI/ML Engineer | Remote – Ukraine · Warsaw (Office) · Warsaw · Poland · Remote – Poland · Kyiv (Office) · Kyiv · Ukraine · Lviv (Office) · Lviv | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/m9solutions/jobs/5287084007 | m9solutions | Oracle Application Developer/Programmer | Remote - No clearance required | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/humatahealth/8c835888-2b50-4115-bf6f-a0ed490c6462 | humatahealth | Software Engineer II | Remote / US | posted: 2026-11-06
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4745498005 | dotmatics | Backend Software Engineer (Node.js) / LabArchives | Remote - USA | posted: 2026-11-06
+- [ ] https://boards.greenhouse.io/figma/jobs/6242561004?gh_jid=6242561004 | figma | Software Engineer - Application Platform | San Francisco, CA • New York, NY • United States | posted: 2026-11-06
+- [ ] https://job-boards.eu.greenhouse.io/imc/jobs/4960533101 | imc | Software Engineer - AI Tooling | Chicago, United States | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5465482008 | backblaze | Software Engineer III - B2 | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/masabi/dcec6de3-4f27-4d2a-a6e7-c76d30231fc0 | masabi | Software Engineer - Data team | Poland · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/masabi/42be010f-a2d7-410a-a1c6-199c68034917 | masabi | Software Engineer - Data team | Romania · Remote | posted: 2026-11-06
+- [ ] https://www.asm.com/open-vacancies/?gh_jid=5019821101 | asm | Software Engineer - Early Career | US > Arizona > Phoenix | posted: 2026-11-06
+- [ ] https://octane.co/o/who-we-are/careers/jobs-open?gh_jid=8197643003 | octanelending | Software Engineer II | Remote · Irving Ops and Servicing Center · New York HQ · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/3y-health/b7607400-cb3b-4b34-9c4b-dda21fba2a03 | 3y-health | Full Stack Engineer | Remote – India · Bangalore, India · Bengalore · India | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/pennylane/c9e2bc2f-cb01-4584-a646-aa5fd06db461 | pennylane | Growth Engineer (Fullstack, Frontend-Focused) | All France (remote) | posted: 2026-11-06
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | andurilindustries | Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | posted: 2026-11-06
+- [ ] https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003 | flyzipline | AI Tooling Software Engineer - Data Platform, Autonomy | South San Francisco, California, USA | posted: 2026-11-04
+
 ## Processed
