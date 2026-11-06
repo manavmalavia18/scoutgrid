@@ -1567,4 +1567,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | andurilindustries | Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | posted: 2026-11-06
 - [ ] https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003 | flyzipline | AI Tooling Software Engineer - Data Platform, Autonomy | South San Francisco, California, USA | posted: 2026-11-04
 
+- [ ] https://www.logicgate.ai/company/careers/?gh_jid=4749952005 | logicgate | Software Engineer: Front-End | Chicago, IL | posted: 2026-11-06
+- [ ] https://jobs.dropbox.com/listing/7172713?gh_jid=7172713 | dropbox | Infrastructure Software Engineer | Remote - Mexico | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8359837 | drweng | Software Engineer - Trading Operations | New York City | posted: 2026-11-06
+
 ## Processed
