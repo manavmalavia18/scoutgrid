@@ -1786,3 +1786,6 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8196112003 | affirm | Software Engineer II, Backend | Remote US | posted: 2026-11-06
 
 - [ ] https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630 | qualtrics | Software Engineer II - Discover Studio | Reston, Virginia, United States | posted: 2026-11-06
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609 | cloudflare | Software Engineer - Load Balancing | Hybrid · Austin, TX · New York, NY · San Francisco, CA | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/engine/jobs/8046374003 | engine | Software Engineer - GTM Engineering | Remote - US | posted: 2026-11-06
