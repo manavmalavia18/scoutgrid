@@ -1722,3 +1722,5 @@
 
 - [ ] https://jobs.ashbyhq.com/pennylane/c9e2bc2f-cb01-4584-a646-aa5fd06db461 | pennylane | Growth Engineer (Fullstack, Frontend-Focused) | All France (remote) | posted: 2026-11-06
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | andurilindustries | Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/3y-health/b7607400-cb3b-4b34-9c4b-dda21fba2a03 | 3y-health | Full Stack Engineer | Remote – India · Bangalore, India · Bengalore · India | posted: 2026-11-06
