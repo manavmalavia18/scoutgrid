@@ -1768,3 +1768,7 @@
 - [ ] https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | cohere | Software Engineer, ML Workload Platform | Canada · United States · San Francisco · Remote | posted: 2026-11-06
 
 - [ ] https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003 | abnormalsecurity | Software Engineer II, Attack Detection | Remote - USA | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/Blossom-Health/ffba9bbf-2576-4f3a-b883-c1ef083811da | blossom-health | Software Engineer | New York City | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476011008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476007008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-06
