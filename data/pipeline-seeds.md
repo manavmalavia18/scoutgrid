@@ -1544,4 +1544,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/c1/eea62edd-8bf4-4a05-97d1-79bf7e012aeb | c1 | Software Engineer | New York City | posted: 2026-11-05
 - [ ] https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0 | palantir | Backend Software Engineer - Data Connectors | New York, NY | posted: 2026-11-04
 
+- [ ] https://job-boards.greenhouse.io/turing/jobs/6241649004 | turing | Software Engineer | Global - Remote; United States | posted: 2026-11-06
+- [ ] https://www.pathai.com/careers/8932903002?gh_jid=8932903002 | pathai | Software Engineer II, Fullstack | Boston, MA (Hybrid) | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4483495009 | avride | Software Engineer, Sensors and System Software (C++, Linux) | Austin, Texas | posted: 2026-11-06
+
 ## Processed
