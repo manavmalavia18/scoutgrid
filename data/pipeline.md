@@ -1713,3 +1713,6 @@
 
 - [ ] https://job-boards.greenhouse.io/turing/jobs/6241649004 | turing | Software Engineer | Global - Remote; United States | posted: 2026-11-06
 - [ ] https://www.pathai.com/careers/8932903002?gh_jid=8932903002 | pathai | Software Engineer II, Fullstack | Boston, MA (Hybrid) | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/obrio/0769f6a7-6600-44c6-a087-fbe688b790d1 | obrio | AI/ML Engineer | Remote – Ukraine · Warsaw (Office) · Warsaw · Poland · Remote – Poland · Kyiv (Office) · Kyiv · Ukraine · Lviv (Office) · Lviv | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/m9solutions/jobs/5287084007 | m9solutions | Oracle Application Developer/Programmer | Remote - No clearance required | posted: 2026-11-06
