@@ -1248,4 +1248,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178 | ngc | Resource Control Team Software Engineer (Level 1 or 2) - AHT | United States-California-Manhattan Beach | posted: 2026-11-05
 
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/IBM-BAW-Software-Engineer_R-51477 | bcbst | IBM BAW Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-06
+
 ## Processed
