@@ -1733,3 +1733,5 @@
 - [ ] https://jobs.ashbyhq.com/masabi/42be010f-a2d7-410a-a1c6-199c68034917 | masabi | Software Engineer - Data team | Romania · Remote | posted: 2026-11-06
 
 - [ ] https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003 | flyzipline | AI Tooling Software Engineer - Data Platform, Autonomy | South San Francisco, California, USA | posted: 2026-11-04
+
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5465482008 | backblaze | Software Engineer III - B2 | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-11-06
