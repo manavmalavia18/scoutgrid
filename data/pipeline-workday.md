@@ -1241,4 +1241,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Storage-Systems-Software-Engineer_1215628-3 | hpe | Storage Systems/Software Engineer | Spring, Texas, United States of America | posted: 2026-11-06
 - [ ] https://aoncology.wd12.myworkdayjobs.com/aoncology_careers/job/United-States/Junior-Web-Developer_JR7361 | aoncology | Junior Web Developer | United States | posted: 2026-11-06
 
+- [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/CIAM-Full-Stack-Engineer_JR26110082 | manulife | CIAM Full Stack Engineer | Boston, Massachusetts | posted: 2026-11-06
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/USA---TX---Irving---Walnut-Hill/Software-Engineer_R0000400557 | cat | Software Engineer | 2 Locations | posted: 2026-11-06
+
 ## Processed
