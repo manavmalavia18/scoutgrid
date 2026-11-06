@@ -1232,4 +1232,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/T-Ads-Engineer--Software-Full-Stack_REQ376574-1 | tmobile | T-Ads Engineer, Software Full Stack | Bellevue, Washington | posted: 2026-11-06
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Junior-C--Software-Engineer_334764 | caci | Junior C# Software Engineer | 3 Locations | posted: 2026-11-06
 
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Sr-Software-Engineer_R-147091 | coke | Software Engineer I | US - GA - Atlanta | posted: 2026-11-06
+
 ## Processed
