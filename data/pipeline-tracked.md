@@ -1449,4 +1449,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.eu.greenhouse.io/imc/jobs/4960533101 | IMC | Software Engineer - AI Tooling | Chicago, United States | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/clera/48bdb45d-0901-483e-ba74-f50e0edeeb33 | Clera | Full-Stack Design Engineer | San Francisco | posted: 2026-11-06
+
 ## Processed
