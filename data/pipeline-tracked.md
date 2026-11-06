@@ -1470,4 +1470,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/IBM-BAW-Software-Engineer_R-51477 | Bcbst | IBM BAW Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-06
 - [ ] https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003 | Abnormal AI | Software Engineer II, Attack Detection | Remote - USA | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/Clera/ecc66dfa-31b7-4dca-9ef8-3e2a527769c3 | Clera | Applied AI Researcher | remote | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004 | Keyfactor | Associate Software Engineer | United States (Remote) | posted: 2026-11-06
+
 ## Processed
