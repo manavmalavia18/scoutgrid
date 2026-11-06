@@ -1436,4 +1436,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/pennylane/c9e2bc2f-cb01-4584-a646-aa5fd06db461 | Pennylane | Growth Engineer (Fullstack, Frontend-Focused) | All France (remote) | posted: 2026-11-06
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Threat---Exposure-Management-Platform-Engineer_26997074 | Citi | Threat & Exposure Management Platform Engineer | Irving Texas United States | posted: 2026-11-06
+
 ## Processed
