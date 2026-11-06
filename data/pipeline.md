@@ -1781,3 +1781,6 @@
 - [ ] https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5 | openai | Applied AI Engineer, Enterprise - EDU | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd | openai | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6249904004 | extrahopnetworks | Software Engineer III / Security | Remote / Hybrid / Seattle, WA | posted: 2026-11-06
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8196114003 | affirm | Software Engineer II, Backend | Remote Canada | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8196112003 | affirm | Software Engineer II, Backend | Remote US | posted: 2026-11-06
