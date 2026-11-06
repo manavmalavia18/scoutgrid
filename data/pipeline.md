@@ -1760,3 +1760,7 @@
 - [ ] https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006 | sharkninjaoperatingllc | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Miami, Florida, United States; Needham, MA, United States | posted: 2026-11-06
 
 - [ ] https://job-boards.greenhouse.io/newsela/jobs/8359053 | newsela | Contractor: Full Stack Engineer, Marketing | Remote - Argentina; Brazil; Colombia; Costa Rica; Mexico | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/granted/a8101edf-3947-4743-8ef4-6ef4200fc5d5 | granted | Product Engineer, Full-Stack | New York City · Remote - Continental US · United States | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4 | cohere | Software Engineer, ML Ops | London · Europe · European Union · Berlin · Germany · United Kingdom · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4 | cohere | Software Engineer, GPU Infrastructure | Seattle · Canada · New York · United States · California · Remote | posted: 2026-11-06
