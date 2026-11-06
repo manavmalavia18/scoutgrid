@@ -1467,4 +1467,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4 | Cohere | Software Engineer, ML Ops | London · Europe · European Union · Berlin · Germany · United Kingdom · Remote | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | Cohere | Software Engineer, ML Workload Platform | Canada · United States · San Francisco · Remote | posted: 2026-11-06
 
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/IBM-BAW-Software-Engineer_R-51477 | Bcbst | IBM BAW Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-06
+- [ ] https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003 | Abnormal AI | Software Engineer II, Attack Detection | Remote - USA | posted: 2026-11-06
+
 ## Processed
