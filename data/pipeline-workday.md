@@ -1246,4 +1246,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services-_R1005389-1 | capitalone | AI Engineer 4 (Gen AI Platform Services) | 5 Locations | posted: 2026-11-06
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178 | ngc | Resource Control Team Software Engineer (Level 1 or 2) - AHT | United States-California-Manhattan Beach | posted: 2026-11-05
+
 ## Processed
