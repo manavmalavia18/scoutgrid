@@ -1244,4 +1244,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/CIAM-Full-Stack-Engineer_JR26110082 | manulife | CIAM Full Stack Engineer | Boston, Massachusetts | posted: 2026-11-06
 - [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/USA---TX---Irving---Walnut-Hill/Software-Engineer_R0000400557 | cat | Software Engineer | 2 Locations | posted: 2026-11-06
 
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services-_R1005389-1 | capitalone | AI Engineer 4 (Gen AI Platform Services) | 5 Locations | posted: 2026-11-06
+
 ## Processed
