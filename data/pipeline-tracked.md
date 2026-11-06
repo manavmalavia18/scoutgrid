@@ -1428,4 +1428,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bjakcareer/462582df-b0c6-4371-8edb-8a7b492b3eb5 | Bjak | Full Stack Engineer, AI systems | United States · Remote | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/bjakcareer/3643630b-105a-4ffd-9122-02b4436a9fe9 | Bjak | LLM Application Engineer | China · Remote | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/freehand/99739dc4-cbbf-4584-a100-1747e5fc3418 | Freehand | Backend Engineer (India) | India · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/aerovect/6058be12-918f-4016-87d8-cdbeb0ecdfbf | AeroVect | Software Engineer, ML Ops | Toronto · Remote | posted: 2026-11-06
+
 ## Processed
