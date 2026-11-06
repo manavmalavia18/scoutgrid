@@ -1477,4 +1477,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5 | OpenAI | Applied AI Engineer, Enterprise - EDU | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6249904004 | ExtraHop | Software Engineer III / Security | Remote (US) / Hybrid / Seattle, WA | posted: 2026-11-06
 
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8196112003 | Affirm | Software Engineer II, Backend | Remote US | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/P-1%20AI/a2f7afe3-c41f-4643-bfe3-d992eca84ae7 | P-1 AI | Super SWE | United States · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509 | Amplitude | Software Engineer II, Analytics Compute Platform Team | San Francisco | posted: 2026-11-05
+
 ## Processed
