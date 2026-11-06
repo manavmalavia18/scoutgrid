@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-06T15:10:53.995Z",
+  "fetchedAt": "2026-11-06T15:32:39.745Z",
   "days": 2,
-  "leadCount": 84,
-  "jobCount": 51,
+  "leadCount": 83,
+  "jobCount": 50,
   "boards": [
     {
       "key": "greenhouse:linksquaresinc",
@@ -15,13 +15,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:candidate",
-      "fetched": 0,
+      "key": "greenhouse:feedzai",
+      "fetched": 12,
       "kept": 0
     },
     {
-      "key": "greenhouse:feedzai",
-      "fetched": 12,
+      "key": "greenhouse:candidate",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -40,14 +40,19 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:scaleai",
-      "fetched": 173,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:verkada",
       "fetched": 344,
       "kept": 4
+    },
+    {
+      "key": "greenhouse:xairatherapeutics",
+      "fetched": 32,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:scaleai",
+      "fetched": 173,
+      "kept": 1
     },
     {
       "key": "greenhouse:reddit",
@@ -55,8 +60,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:nuro",
-      "fetched": 94,
+      "key": "greenhouse:mavenrobotics",
+      "fetched": 24,
       "kept": 0
     },
     {
@@ -65,23 +70,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:xairatherapeutics",
-      "fetched": 32,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:mavenrobotics",
-      "fetched": 24,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:tenstorrent",
-      "fetched": 125,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:astspacemobile",
-      "fetched": 274,
+      "key": "greenhouse:nuro",
+      "fetched": 94,
       "kept": 0
     },
     {
@@ -95,8 +85,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:coast",
-      "fetched": 18,
+      "key": "greenhouse:tenstorrent",
+      "fetched": 125,
       "kept": 0
     },
     {
@@ -106,7 +96,27 @@
     },
     {
       "key": "greenhouse:databricks",
-      "fetched": 923,
+      "fetched": 925,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:astspacemobile",
+      "fetched": 274,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:coast",
+      "fetched": 18,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:stubhubinc",
+      "fetched": 44,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:pathai",
+      "fetched": 12,
       "kept": 1
     },
     {
@@ -120,21 +130,6 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:pathai",
-      "fetched": 12,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 436,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:stubhubinc",
-      "fetched": 44,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:skyryse",
       "fetched": 20,
       "kept": 0
@@ -142,6 +137,16 @@
     {
       "key": "greenhouse:applications",
       "fetched": 2,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:flexport",
+      "fetched": 192,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:scowtt",
+      "fetched": 4,
       "kept": 1
     },
     {
@@ -155,8 +160,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:scowtt",
-      "fetched": 4,
+      "key": "greenhouse:auldwhiteconstructors",
+      "fetched": 15,
       "kept": 1
     },
     {
@@ -165,14 +170,9 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:auldwhiteconstructors",
-      "fetched": 15,
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 221,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:flexport",
-      "fetched": 192,
-      "kept": 0
     },
     {
       "key": "greenhouse:global-en",
@@ -180,14 +180,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:quince",
-      "fetched": 149,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:banyansoftware",
       "fetched": 48,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:quince",
+      "fetched": 150,
+      "kept": 0
     },
     {
       "key": "greenhouse:splitero",
@@ -200,18 +200,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 221,
-      "kept": 1
+      "key": "ashby:claylabs",
+      "fetched": 63,
+      "kept": 0
     },
     {
       "key": "ashby:handshake",
       "fetched": 79,
-      "kept": 0
-    },
-    {
-      "key": "ashby:claylabs",
-      "fetched": 63,
       "kept": 0
     },
     {
@@ -225,18 +220,28 @@
       "kept": 0
     },
     {
+      "key": "ashby:cognition",
+      "fetched": 108,
+      "kept": 0
+    },
+    {
       "key": "ashby:oneapp",
       "fetched": 37,
       "kept": 0
     },
     {
-      "key": "ashby:braintrust",
-      "fetched": 28,
+      "key": "ashby:decagon",
+      "fetched": 132,
       "kept": 0
     },
     {
-      "key": "ashby:decagon",
-      "fetched": 132,
+      "key": "ashby:fluidstack",
+      "fetched": 255,
+      "kept": 0
+    },
+    {
+      "key": "ashby:braintrust",
+      "fetched": 28,
       "kept": 0
     },
     {
@@ -250,18 +255,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:fluidstack",
-      "fetched": 255,
-      "kept": 0
-    },
-    {
       "key": "ashby:langchain",
-      "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "ashby:distyl",
-      "fetched": 25,
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -270,9 +265,14 @@
       "kept": 1
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 371,
-      "kept": 2
+      "key": "ashby:distyl",
+      "fetched": 25,
+      "kept": 0
+    },
+    {
+      "key": "ashby:maxinsights",
+      "fetched": 17,
+      "kept": 0
     },
     {
       "key": "ashby:krea",
@@ -285,23 +285,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:cognition",
-      "fetched": 108,
-      "kept": 0
-    },
-    {
-      "key": "ashby:maxinsights",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
       "key": "ashby:rogo",
       "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "ashby:mimica",
-      "fetched": 17,
       "kept": 0
     },
     {
@@ -310,9 +295,19 @@
       "kept": 1
     },
     {
+      "key": "ashby:mimica",
+      "fetched": 17,
+      "kept": 0
+    },
+    {
       "key": "ashby:solveintelligence",
       "fetched": 18,
       "kept": 0
+    },
+    {
+      "key": "ashby:snowflake",
+      "fetched": 371,
+      "kept": 2
     },
     {
       "key": "ashby:akur8",
@@ -325,6 +320,16 @@
       "kept": 4
     },
     {
+      "key": "greenhouse:doordashusa",
+      "fetched": 436,
+      "kept": 1
+    },
+    {
+      "key": "lever:field-ai",
+      "fetched": 106,
+      "kept": 0
+    },
+    {
       "key": "lever:iru",
       "fetched": 26,
       "kept": 0
@@ -335,29 +340,9 @@
       "kept": 0
     },
     {
-      "key": "lever:shieldai",
-      "fetched": 657,
-      "kept": 0
-    },
-    {
-      "key": "lever:field-ai",
-      "fetched": 106,
-      "kept": 0
-    },
-    {
-      "key": "lever:momsmeals",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
       "key": "lever:humble-robotics",
       "fetched": 26,
       "kept": 1
-    },
-    {
-      "key": "lever:forbrightbank",
-      "fetched": 10,
-      "kept": 0
     },
     {
       "key": "lever:zeneducate",
@@ -365,14 +350,9 @@
       "kept": 0
     },
     {
-      "key": "lever:loftorbital",
-      "fetched": 77,
+      "key": "lever:forbrightbank",
+      "fetched": 10,
       "kept": 0
-    },
-    {
-      "key": "workday:shi.wd12.myworkdayjobs.com/shicareers",
-      "fetched": 40,
-      "kept": 1
     },
     {
       "key": "greenhouse:spacex",
@@ -380,9 +360,9 @@
       "kept": 11
     },
     {
-      "key": "workday:workday.wd5.myworkdayjobs.com/Workday_Jobs",
-      "fetched": 20,
-      "kept": 0
+      "key": "workday:shi.wd12.myworkdayjobs.com/shicareers",
+      "fetched": 40,
+      "kept": 1
     },
     {
       "key": "workday:nordstrom.wd501.myworkdayjobs.com/nordstrom_careers",
@@ -390,8 +370,8 @@
       "kept": 0
     },
     {
-      "key": "workday:spgi.wd5.myworkdayjobs.com/kensho_careers",
-      "fetched": 6,
+      "key": "workday:workday.wd5.myworkdayjobs.com/Workday_Jobs",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -400,8 +380,8 @@
       "kept": 0
     },
     {
-      "key": "workday:bilh.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
+      "key": "workday:spgi.wd5.myworkdayjobs.com/kensho_careers",
+      "fetched": 6,
       "kept": 0
     },
     {
@@ -410,19 +390,34 @@
       "kept": 2
     },
     {
+      "key": "workday:bilh.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "workday:flowserve.wd1.myworkdayjobs.com/applied",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:palantir",
-      "fetched": 305,
-      "kept": 1
-    },
-    {
       "key": "lever:noblereach",
       "fetched": 2,
       "kept": 1
+    },
+    {
+      "key": "lever:momsmeals",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "lever:palantir",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "lever:shieldai",
+      "fetched": 0,
+      "kept": 0
     }
   ],
   "jobs": [
@@ -435,16 +430,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "affirm"
-    },
-    {
-      "title": "Staff Software Engineer, AI Developer Tooling",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4750028005",
-      "company": "Scale AI",
-      "location": "San Francisco, CA; New York, NY",
-      "postedAt": "2026-11-05T22:26:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "scaleai"
     },
     {
       "title": "Software Engineer - Computer Vision",
@@ -485,6 +470,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "verkada"
+    },
+    {
+      "title": "Staff Software Engineer, AI Developer Tooling",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4750028005",
+      "company": "Scale AI",
+      "location": "San Francisco, CA; New York, NY",
+      "postedAt": "2026-11-05T22:26:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "scaleai"
     },
     {
       "title": "Machine Learning Engineer",
@@ -567,14 +562,14 @@
       "board": "databricks"
     },
     {
-      "title": "Senior Machine Learning Engineer (Growth)",
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
-      "company": "Discord",
-      "location": "San Francisco Bay Area",
-      "postedAt": "2026-11-04T19:52:48.000Z",
+      "title": "Software Engineer II -  Seller Experience",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5014076101",
+      "company": "StubHub",
+      "location": "Aliso Viejo, California, United States",
+      "postedAt": "2026-11-05T22:17:28.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "discord"
+      "board": "stubhubinc"
     },
     {
       "title": "Software Engineer II, Fullstack",
@@ -587,24 +582,14 @@
       "board": "pathai"
     },
     {
-      "title": "Full Stack Engineer, Applied AI",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717",
-      "company": "DoorDash",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "postedAt": "2026-11-05T15:22:38.000Z",
+      "title": "Senior Machine Learning Engineer (Growth)",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
+      "company": "Discord",
+      "location": "San Francisco Bay Area",
+      "postedAt": "2026-11-04T19:52:48.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "doordashusa"
-    },
-    {
-      "title": "Software Engineer II -  Seller Experience",
-      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5014076101",
-      "company": "StubHub",
-      "location": "Aliso Viejo, California, United States",
-      "postedAt": "2026-11-05T22:17:28.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "stubhubinc"
+      "board": "discord"
     },
     {
       "title": "Advanced Associate Front-End Developer C2-37291046",
@@ -627,6 +612,16 @@
       "board": "scowtt"
     },
     {
+      "title": "Software Developer",
+      "url": "https://job-boards.greenhouse.io/auldwhiteconstructors/jobs/5471502008",
+      "company": "Auld & White Constructors",
+      "location": "Jacksonville, FL",
+      "postedAt": "2026-11-05T14:39:08.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "auldwhiteconstructors"
+    },
+    {
       "title": "Security Software Engineer",
       "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733115005",
       "company": "Tailscale",
@@ -637,14 +632,14 @@
       "board": "tailscale"
     },
     {
-      "title": "Software Developer",
-      "url": "https://job-boards.greenhouse.io/auldwhiteconstructors/jobs/5471502008",
-      "company": "Auld & White Constructors",
-      "location": "Jacksonville, FL",
-      "postedAt": "2026-11-05T14:39:08.000Z",
+      "title": "Senior Software Engineer, Storage",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6237581004",
+      "company": "Sony Interactive Entertainment",
+      "location": "United States, San Mateo, CA",
+      "postedAt": "2026-11-04T19:01:33.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "auldwhiteconstructors"
+      "board": "sonyinteractiveentertainmentglobal"
     },
     {
       "title": "Forward Deployed Engineer - Applied AI",
@@ -667,16 +662,6 @@
       "board": "splitero"
     },
     {
-      "title": "Senior Software Engineer, Storage",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6237581004",
-      "company": "Sony Interactive Entertainment",
-      "location": "United States, San Mateo, CA",
-      "postedAt": "2026-11-04T19:01:33.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "sonyinteractiveentertainmentglobal"
-    },
-    {
       "title": "Senior Full Stack Engineer, People Products",
       "url": "https://jobs.ashbyhq.com/thumbtack/bdd97695-4f21-4cc5-ac26-4d16f31709dc",
       "company": "Thumbtack",
@@ -685,26 +670,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "thumbtack"
-    },
-    {
-      "title": "Principal Software Engineer - Observability ",
-      "url": "https://jobs.ashbyhq.com/snowflake/07b49797-c9c4-4a9e-b7b6-c88cdcd7a464",
-      "company": "Snowflake",
-      "location": "US-CA-Menlo Park",
-      "postedAt": "2026-11-06T06:06:57.135Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "snowflake"
-    },
-    {
-      "title": "Staff Software Engineer, Cortex AI Functions",
-      "url": "https://jobs.ashbyhq.com/snowflake/776b1e0d-a3d4-417f-9178-eb20a0852ec4",
-      "company": "Snowflake",
-      "location": "US-WA-Bellevue",
-      "postedAt": "2026-11-04T19:34:24.024Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "snowflake"
     },
     {
       "title": "AI Engineer",
@@ -725,6 +690,26 @@
       "salary": "",
       "ats": "Ashby",
       "board": "aerovect"
+    },
+    {
+      "title": "Principal Software Engineer - Observability ",
+      "url": "https://jobs.ashbyhq.com/snowflake/07b49797-c9c4-4a9e-b7b6-c88cdcd7a464",
+      "company": "Snowflake",
+      "location": "US-CA-Menlo Park",
+      "postedAt": "2026-11-06T06:06:57.135Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
+    },
+    {
+      "title": "Staff Software Engineer, Cortex AI Functions",
+      "url": "https://jobs.ashbyhq.com/snowflake/776b1e0d-a3d4-417f-9178-eb20a0852ec4",
+      "company": "Snowflake",
+      "location": "US-WA-Bellevue",
+      "postedAt": "2026-11-04T19:34:24.024Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
     },
     {
       "title": "Founding Full Stack Software Engineer, Consulting",
@@ -767,6 +752,16 @@
       "board": "openai"
     },
     {
+      "title": "Full Stack Engineer, Applied AI",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "postedAt": "2026-11-05T15:22:38.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
       "title": "Software Engineer, Fleet Systems",
       "url": "https://jobs.lever.co/humble-robotics/9e16da6b-36bc-4443-9bf7-47c54d6e9f66",
       "company": "Humble Robotics",
@@ -775,17 +770,6 @@
       "salary": "",
       "ats": "Lever",
       "board": "humble-robotics"
-    },
-    {
-      "title": "Sr. Software Engineer",
-      "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Software-Engineer_JR3433",
-      "company": "SHI International Corp.",
-      "location": "Austin, TX USA",
-      "postedAt": "2026-11-05T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "shicareers",
-      "postedAtSource": "workday-detail"
     },
     {
       "title": "Site Reliability Engineer (Starlink)",
@@ -898,6 +882,17 @@
       "board": "spacex"
     },
     {
+      "title": "Sr. Software Engineer",
+      "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Software-Engineer_JR3433",
+      "company": "SHI International Corp.",
+      "location": "Austin, TX USA",
+      "postedAt": "2026-11-05T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "shicareers",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Software Engineer",
       "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Springfield/Software-Engineer_45006",
       "company": "Guidehouse",
@@ -918,16 +913,6 @@
       "ats": "Workday",
       "board": "external",
       "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Backend Software Engineer - Data Connectors",
-      "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0",
-      "company": "Palantir Technologies",
-      "location": "New York, NY",
-      "postedAt": "2026-11-04T20:57:06.330Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "palantir"
     },
     {
       "title": "Salesforce Platform Engineer",
