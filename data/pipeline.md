@@ -1789,3 +1789,5 @@
 
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609 | cloudflare | Software Engineer - Load Balancing | Hybrid · Austin, TX · New York, NY · San Francisco, CA | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/engine/jobs/8046374003 | engine | Software Engineer - GTM Engineering | Remote - US | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/infisical/a7c8a660-ae2a-467c-91dd-db34cfce29e7 | infisical | Full Stack Engineer | United States · United Kingdom · Brazil · Canada · Remote | posted: 2026-11-06
