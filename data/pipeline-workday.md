@@ -1229,4 +1229,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--AI-Agents_R0035438 | epiqsystems | Software Engineer, AI Agents | New York, NY | posted: 2026-11-06
 - [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Backend_R0035437 | epiqsystems | Software Engineer, Backend | 2 Locations | posted: 2026-11-06
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/T-Ads-Engineer--Software-Full-Stack_REQ376574-1 | tmobile | T-Ads Engineer, Software Full Stack | Bellevue, Washington | posted: 2026-11-06
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Junior-C--Software-Engineer_334764 | caci | Junior C# Software Engineer | 3 Locations | posted: 2026-11-06
+
 ## Processed
