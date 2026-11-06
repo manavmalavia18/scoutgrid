@@ -1451,4 +1451,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/clera/48bdb45d-0901-483e-ba74-f50e0edeeb33 | Clera | Full-Stack Design Engineer | San Francisco | posted: 2026-11-06
 
+- [ ] https://jobs.smartrecruiters.com/Versant3/744000160277739 | Versant Media | Software Engineer | Englewood Cliffs, NEW JERSEY, United States | posted: 2026-11-06
+- [ ] https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442 | Chewy | Software Engineer I, Full Stack, Promotions | Boston, MA | posted: 2026-11-06
+
 ## Processed
