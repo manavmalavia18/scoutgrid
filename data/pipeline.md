@@ -1737,3 +1737,5 @@
 - [ ] https://job-boards.greenhouse.io/backblaze/jobs/5465482008 | backblaze | Software Engineer III - B2 | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-11-06
 
 - [ ] https://job-boards.eu.greenhouse.io/imc/jobs/4960533101 | imc | Software Engineer - AI Tooling | Chicago, United States | posted: 2026-11-06
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6242561004?gh_jid=6242561004 | figma | Software Engineer - Application Platform | San Francisco, CA • New York, NY • United States | posted: 2026-11-06
