@@ -1764,3 +1764,5 @@
 - [ ] https://jobs.ashbyhq.com/granted/a8101edf-3947-4743-8ef4-6ef4200fc5d5 | granted | Product Engineer, Full-Stack | New York City · Remote - Continental US · United States | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4 | cohere | Software Engineer, ML Ops | London · Europe · European Union · Berlin · Germany · United Kingdom · Remote | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4 | cohere | Software Engineer, GPU Infrastructure | Seattle · Canada · New York · United States · California · Remote | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | cohere | Software Engineer, ML Workload Platform | Canada · United States · San Francisco · Remote | posted: 2026-11-06
