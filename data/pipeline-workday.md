@@ -1221,4 +1221,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161 | hpe | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | posted: 2026-11-05
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161-1 | hpe | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | posted: 2026-11-05
 
+- [ ] https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Phoenix-Arizona/Software-Developer_R259053 | uhaul | Software Developer | Phoenix, Arizona | posted: 2026-11-06
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/AI-Engineer_334755 | caci | AI Engineer | Remote (Any State) | posted: 2026-11-06
+- [ ] https://acrisure.wd1.myworkdayjobs.com/acrisure/job/999-Peachtree-Street-Northeast-Suite-2750---ATLANTA-GA/Platform-Engineer---Palantir_JR113593 | acrisure | Platform Engineer - Palantir | 2 Locations | posted: 2026-11-06
+
 ## Processed
