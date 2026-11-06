@@ -1234,4 +1234,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Sr-Software-Engineer_R-147091 | coke | Software Engineer I | US - GA - Atlanta | posted: 2026-11-06
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626 | hpe | Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | posted: 2026-11-06
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Storage-Systems-Software-Engineer_1215628-1 | hpe | Storage Systems/Software Engineer | Spring, Texas, United States of America | posted: 2026-11-06
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Storage-Systems-Software-Engineer_1215628-2 | hpe | Storage Systems/Software Engineer | Spring, Texas, United States of America | posted: 2026-11-06
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626-2 | hpe | Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | posted: 2026-11-06
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Storage-Systems-Software-Engineer_1215628-3 | hpe | Storage Systems/Software Engineer | Spring, Texas, United States of America | posted: 2026-11-06
+- [ ] https://aoncology.wd12.myworkdayjobs.com/aoncology_careers/job/United-States/Junior-Web-Developer_JR7361 | aoncology | Junior Web Developer | United States | posted: 2026-11-06
+
 ## Processed
