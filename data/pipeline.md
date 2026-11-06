@@ -1758,3 +1758,5 @@
 - [ ] https://job-boards.greenhouse.io/givecampus/jobs/4479171009 | givecampus | AI Platform Engineer | United States | posted: 2026-11-06
 
 - [ ] https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006 | sharkninjaoperatingllc | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Miami, Florida, United States; Needham, MA, United States | posted: 2026-11-06
+
+- [ ] https://job-boards.greenhouse.io/newsela/jobs/8359053 | newsela | Contractor: Full Stack Engineer, Marketing | Remote - Argentina; Brazil; Colombia; Costa Rica; Mexico | posted: 2026-11-06
