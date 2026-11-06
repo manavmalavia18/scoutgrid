@@ -1415,4 +1415,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer--Apps--4_R23274 | WEX | Software Engineer (Apps) 4 | US - Remote | posted: 2026-11-05
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178 | Northrop Grumman | Resource Control Team Software Engineer (Level 1 or 2) - AHT | United States-California-Manhattan Beach | posted: 2026-11-05
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161 | Hewlett Packard Enterprise | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | posted: 2026-11-05
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161-1 | Hpe | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/mecka.ai/028e86e9-8ef9-4c89-8cdd-1d57608c7d17 | Mecka AI | Teleop Platform Engineer, Real-Time Systems & UI | Toronto GTA · New York · United States | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/mecka.ai/56efc767-c6b0-479c-91b8-cccc124a762f | Mecka AI | Robotics Software Engineer, Teleoperation | Toronto GTA · New York · United States | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 | True Anomaly | Platform Engineer, IT | Denver, CO; Long Beach, CA | posted: 2026-11-06
+
 ## Processed
