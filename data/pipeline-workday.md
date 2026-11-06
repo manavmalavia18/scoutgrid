@@ -1253,4 +1253,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Mid-Level-Robotics-Software-Developer_JR2026527640-1 | boeing | Mid-Level Robotics Software Developer | 2 Locations | posted: 2026-11-06
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Mid-Level-Robotics-Software-Developer_JR2026527640 | boeing | Mid-Level Robotics Software Developer | 2 Locations | posted: 2026-11-06
 
+- [ ] https://baicommunications.wd3.myworkdayjobs.com/external/job/Texas-Remote/Software-Developer_JR1582 | baicommunications | Software Developer | 49 Locations | posted: 2026-11-06
+
 ## Processed
