@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-06T16:16:31.645Z",
+  "fetchedAt": "2026-11-06T16:38:25.334Z",
   "days": 2,
-  "leadCount": 83,
+  "leadCount": 82,
   "jobCount": 51,
   "boards": [
     {
@@ -10,13 +10,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:apptegy",
-      "fetched": 5,
+      "key": "greenhouse:feedzai",
+      "fetched": 12,
       "kept": 0
     },
     {
-      "key": "greenhouse:feedzai",
-      "fetched": 12,
+      "key": "greenhouse:apptegy",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -35,11 +35,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:verkada",
-      "fetched": 344,
-      "kept": 4
-    },
-    {
       "key": "greenhouse:scaleai",
       "fetched": 173,
       "kept": 1
@@ -53,6 +48,11 @@
       "key": "greenhouse:xairatherapeutics",
       "fetched": 32,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:affirm",
+      "fetched": 234,
+      "kept": 1
     },
     {
       "key": "greenhouse:reddit",
@@ -70,8 +70,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:astspacemobile",
-      "fetched": 274,
+      "key": "greenhouse:verkada",
+      "fetched": 344,
+      "kept": 4
+    },
+    {
+      "key": "greenhouse:tenstorrent",
+      "fetched": 124,
       "kept": 0
     },
     {
@@ -80,14 +85,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 234,
+      "key": "greenhouse:databricks",
+      "fetched": 925,
       "kept": 1
     },
     {
-      "key": "greenhouse:tenstorrent",
-      "fetched": 124,
-      "kept": 0
+      "key": "greenhouse:discord",
+      "fetched": 26,
+      "kept": 1
     },
     {
       "key": "greenhouse:xai",
@@ -100,23 +105,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 436,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:discord",
-      "fetched": 26,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:pathai",
       "fetched": 12,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:anthropic",
-      "fetched": 673,
       "kept": 1
     },
     {
@@ -130,8 +120,18 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:astspacemobile",
+      "fetched": 274,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:flexport",
       "fetched": 192,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:skyryse",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -140,23 +140,23 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:scowtt",
-      "fetched": 4,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:skyryse",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:minimal",
       "fetched": 2,
       "kept": 0
     },
     {
+      "key": "greenhouse:scowtt",
+      "fetched": 4,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:patientpointinviteonly",
       "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:quince",
+      "fetched": 150,
       "kept": 0
     },
     {
@@ -165,8 +165,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 220,
+      "key": "greenhouse:tailscale",
+      "fetched": 75,
       "kept": 1
     },
     {
@@ -175,19 +175,9 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:quince",
-      "fetched": 150,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:global-en",
       "fetched": 0,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:tailscale",
-      "fetched": 73,
-      "kept": 1
     },
     {
       "key": "greenhouse:splitero",
@@ -195,23 +185,23 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 218,
+      "kept": 2
+    },
+    {
       "key": "ashby:geniusai",
       "fetched": 17,
       "kept": 0
     },
     {
-      "key": "ashby:handshake",
-      "fetched": 79,
+      "key": "ashby:eliseai",
+      "fetched": 114,
       "kept": 0
     },
     {
       "key": "ashby:claylabs",
       "fetched": 63,
-      "kept": 0
-    },
-    {
-      "key": "ashby:eliseai",
-      "fetched": 114,
       "kept": 0
     },
     {
@@ -222,6 +212,21 @@
     {
       "key": "ashby:cognition",
       "fetched": 108,
+      "kept": 0
+    },
+    {
+      "key": "ashby:handshake",
+      "fetched": 79,
+      "kept": 0
+    },
+    {
+      "key": "ashby:decagon",
+      "fetched": 132,
+      "kept": 0
+    },
+    {
+      "key": "ashby:fluidstack",
+      "fetched": 255,
       "kept": 0
     },
     {
@@ -245,13 +250,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:fluidstack",
-      "fetched": 255,
-      "kept": 0
-    },
-    {
-      "key": "ashby:decagon",
-      "fetched": 132,
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -260,9 +260,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
-      "kept": 0
+      "key": "ashby:thumbtack",
+      "fetched": 36,
+      "kept": 1
     },
     {
       "key": "ashby:cerebras",
@@ -275,28 +275,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:thumbtack",
-      "fetched": 36,
-      "kept": 1
-    },
-    {
       "key": "ashby:maxinsights",
       "fetched": 17,
       "kept": 0
     },
     {
+      "key": "ashby:snowflake",
+      "fetched": 371,
+      "kept": 2
+    },
+    {
       "key": "ashby:rogo",
       "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:databricks",
-      "fetched": 925,
-      "kept": 1
-    },
-    {
-      "key": "ashby:mimica",
-      "fetched": 17,
       "kept": 0
     },
     {
@@ -305,13 +295,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 371,
-      "kept": 2
-    },
-    {
-      "key": "ashby:akur8",
-      "fetched": 12,
+      "key": "ashby:mimica",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -320,24 +305,29 @@
       "kept": 0
     },
     {
+      "key": "ashby:akur8",
+      "fetched": 12,
+      "kept": 0
+    },
+    {
       "key": "ashby:openai",
-      "fetched": 823,
+      "fetched": 822,
       "kept": 4
     },
     {
-      "key": "lever:iru",
-      "fetched": 26,
-      "kept": 0
+      "key": "greenhouse:doordashusa",
+      "fetched": 436,
+      "kept": 1
     },
     {
-      "key": "lever:momsmeals",
-      "fetched": 42,
-      "kept": 0
+      "key": "greenhouse:anthropic",
+      "fetched": 672,
+      "kept": 1
     },
     {
-      "key": "greenhouse:spacex",
-      "fetched": 2895,
-      "kept": 11
+      "key": "lever:drivemode",
+      "fetched": 14,
+      "kept": 0
     },
     {
       "key": "lever:palantir",
@@ -345,14 +335,14 @@
       "kept": 1
     },
     {
-      "key": "lever:zeneducate",
-      "fetched": 52,
+      "key": "lever:momsmeals",
+      "fetched": 41,
       "kept": 0
     },
     {
-      "key": "lever:noblereach",
-      "fetched": 2,
-      "kept": 1
+      "key": "lever:iru",
+      "fetched": 26,
+      "kept": 0
     },
     {
       "key": "lever:humble-robotics",
@@ -360,13 +350,18 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:spacex",
+      "fetched": 2895,
+      "kept": 11
+    },
+    {
       "key": "lever:forbrightbank",
       "fetched": 10,
       "kept": 0
     },
     {
-      "key": "lever:shieldai",
-      "fetched": 656,
+      "key": "lever:zeneducate",
+      "fetched": 52,
       "kept": 0
     },
     {
@@ -385,18 +380,13 @@
       "kept": 0
     },
     {
-      "key": "workday:spgi.wd5.myworkdayjobs.com/kensho_careers",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
       "key": "workday:nordstrom.wd501.myworkdayjobs.com/nordstrom_careers",
       "fetched": 80,
       "kept": 0
     },
     {
-      "key": "workday:flowserve.wd1.myworkdayjobs.com/applied",
-      "fetched": 20,
+      "key": "workday:spgi.wd5.myworkdayjobs.com/kensho_careers",
+      "fetched": 6,
       "kept": 0
     },
     {
@@ -405,22 +395,57 @@
       "kept": 0
     },
     {
+      "key": "workday:flowserve.wd1.myworkdayjobs.com/applied",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "workday:guidehouse.wd1.myworkdayjobs.com/external",
       "fetched": 80,
       "kept": 2
     },
     {
-      "key": "lever:drivemode",
-      "fetched": 14,
+      "key": "lever:shieldai",
+      "fetched": 656,
       "kept": 0
     },
     {
       "key": "lever:field-ai",
-      "fetched": 106,
+      "fetched": 0,
       "kept": 0
     }
   ],
   "jobs": [
+    {
+      "title": "Staff Software Engineer, AI Developer Tooling",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4750028005",
+      "company": "Scale AI",
+      "location": "San Francisco, CA; New York, NY",
+      "postedAt": "2026-11-05T22:26:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "scaleai"
+    },
+    {
+      "title": "Staff Software Engineer, Fullstack (Account Management)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8162556003",
+      "company": "Affirm",
+      "location": "Remote US",
+      "postedAt": "2026-11-05T16:30:13.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "affirm"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
+      "company": "Reddit, Inc.",
+      "location": "San Francisco, CA",
+      "postedAt": "2026-11-05T16:13:17.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "reddit"
+    },
     {
       "title": "Software Engineer - Computer Vision",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5283644007",
@@ -462,34 +487,24 @@
       "board": "verkada"
     },
     {
-      "title": "Staff Software Engineer, AI Developer Tooling",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4750028005",
-      "company": "Scale AI",
-      "location": "San Francisco, CA; New York, NY",
-      "postedAt": "2026-11-05T22:26:46.000Z",
+      "title": "Senior Software Engineer - Access Management",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002",
+      "company": "Databricks",
+      "location": "Bellevue, Washington",
+      "postedAt": "2026-11-04T19:55:14.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "scaleai"
+      "board": "databricks"
     },
     {
-      "title": "Machine Learning Engineer",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
-      "company": "Reddit, Inc.",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-11-05T16:13:17.000Z",
+      "title": "Senior Machine Learning Engineer (Growth)",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
+      "company": "Discord",
+      "location": "San Francisco Bay Area",
+      "postedAt": "2026-11-04T19:52:48.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "reddit"
-    },
-    {
-      "title": "Staff Software Engineer, Fullstack (Account Management)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8162556003",
-      "company": "Affirm",
-      "location": "Remote US",
-      "postedAt": "2026-11-05T16:30:13.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "affirm"
+      "board": "discord"
     },
     {
       "title": "Sr. Software Engineer, Data Engineering (X)",
@@ -542,26 +557,6 @@
       "board": "xai"
     },
     {
-      "title": "Full Stack Engineer, Applied AI",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717",
-      "company": "DoorDash",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "postedAt": "2026-11-05T15:22:38.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "doordashusa"
-    },
-    {
-      "title": "Senior Machine Learning Engineer (Growth)",
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
-      "company": "Discord",
-      "location": "San Francisco Bay Area",
-      "postedAt": "2026-11-04T19:52:48.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "discord"
-    },
-    {
       "title": "Software Engineer II, Fullstack",
       "url": "https://www.pathai.com/careers/8932903002?gh_jid=8932903002",
       "company": "PathAI",
@@ -570,16 +565,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "pathai"
-    },
-    {
-      "title": "Recruiter, Applied AI",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475240008",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "postedAt": "2026-11-06T13:23:32.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "anthropic"
     },
     {
       "title": "Software Engineer II -  Seller Experience",
@@ -622,14 +607,14 @@
       "board": "auldwhiteconstructors"
     },
     {
-      "title": "Senior Software Engineer, Storage",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6237581004",
-      "company": "Sony Interactive Entertainment",
-      "location": "United States, San Mateo, CA",
-      "postedAt": "2026-11-04T19:01:33.000Z",
+      "title": "Security Software Engineer",
+      "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733115005",
+      "company": "Tailscale",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-05T15:19:59.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "sonyinteractiveentertainmentglobal"
+      "board": "tailscale"
     },
     {
       "title": "Forward Deployed Engineer - Applied AI",
@@ -642,16 +627,6 @@
       "board": "banyansoftware"
     },
     {
-      "title": "Security Software Engineer",
-      "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733115005",
-      "company": "Tailscale",
-      "location": "Remote (United States)",
-      "postedAt": "2026-11-05T15:19:59.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "tailscale"
-    },
-    {
       "title": "Full-Stack Engineer",
       "url": "https://job-boards.greenhouse.io/splitero/jobs/5473851008",
       "company": "Splitero",
@@ -662,14 +637,24 @@
       "board": "splitero"
     },
     {
-      "title": "AI Engineer",
-      "url": "https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4",
-      "company": "Cerebras",
-      "location": "Sunnyvale, CA",
-      "postedAt": "2026-11-04T22:08:49.289Z",
+      "title": "Senior Software Engineer AI (Contractor)",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
+      "company": "Sony Interactive Entertainment",
+      "location": "United States, Aliso Viejo, CA",
+      "postedAt": "2026-11-06T16:25:50.000Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "cerebras"
+      "ats": "Greenhouse",
+      "board": "sonyinteractiveentertainmentglobal"
+    },
+    {
+      "title": "Senior Software Engineer, Storage",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6237581004",
+      "company": "Sony Interactive Entertainment",
+      "location": "United States, San Mateo, CA",
+      "postedAt": "2026-11-04T19:01:33.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "sonyinteractiveentertainmentglobal"
     },
     {
       "title": "Senior Full Stack Engineer, People Products",
@@ -682,24 +667,14 @@
       "board": "thumbtack"
     },
     {
-      "title": "Senior Software Engineer - Access Management",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002",
-      "company": "Databricks",
-      "location": "Bellevue, Washington",
-      "postedAt": "2026-11-04T19:55:14.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "databricks"
-    },
-    {
-      "title": "Embedded Linux Software Engineer",
-      "url": "https://jobs.ashbyhq.com/aerovect/49403b08-400b-43e7-91f8-709c965bda54",
-      "company": "AeroVect",
-      "location": "Atlanta - Hybrid",
-      "postedAt": "2026-11-05T13:52:53.477Z",
+      "title": "AI Engineer",
+      "url": "https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4",
+      "company": "Cerebras",
+      "location": "Sunnyvale, CA",
+      "postedAt": "2026-11-04T22:08:49.289Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "aerovect"
+      "board": "cerebras"
     },
     {
       "title": "Principal Software Engineer - Observability ",
@@ -720,6 +695,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "snowflake"
+    },
+    {
+      "title": "Embedded Linux Software Engineer",
+      "url": "https://jobs.ashbyhq.com/aerovect/49403b08-400b-43e7-91f8-709c965bda54",
+      "company": "AeroVect",
+      "location": "Atlanta - Hybrid",
+      "postedAt": "2026-11-05T13:52:53.477Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "aerovect"
     },
     {
       "title": "Founding Full Stack Software Engineer, Consulting",
@@ -760,6 +745,46 @@
       "salary": "",
       "ats": "Ashby",
       "board": "openai"
+    },
+    {
+      "title": "Full Stack Engineer, Applied AI",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "postedAt": "2026-11-05T15:22:38.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Recruiter, Applied AI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475240008",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "postedAt": "2026-11-06T13:23:32.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "anthropic"
+    },
+    {
+      "title": "Backend Software Engineer - Data Connectors",
+      "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0",
+      "company": "Palantir Technologies",
+      "location": "New York, NY",
+      "postedAt": "2026-11-04T20:57:06.330Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "palantir"
+    },
+    {
+      "title": "Software Engineer, Fleet Systems",
+      "url": "https://jobs.lever.co/humble-robotics/9e16da6b-36bc-4443-9bf7-47c54d6e9f66",
+      "company": "Humble Robotics",
+      "location": "San Francisco",
+      "postedAt": "2026-11-05T02:18:19.427Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "humble-robotics"
     },
     {
       "title": "Site Reliability Engineer (Starlink)",
@@ -870,36 +895,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "spacex"
-    },
-    {
-      "title": "Backend Software Engineer - Data Connectors",
-      "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0",
-      "company": "Palantir Technologies",
-      "location": "New York, NY",
-      "postedAt": "2026-11-04T20:57:06.330Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "palantir"
-    },
-    {
-      "title": "Salesforce Platform Engineer",
-      "url": "https://jobs.lever.co/noblereach/7641174a-d1d8-46a7-aff0-487eaf412158",
-      "company": "NobleReach Foundation",
-      "location": "Tysons Corner, VA",
-      "postedAt": "2026-11-04T16:31:05.092Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "noblereach"
-    },
-    {
-      "title": "Software Engineer, Fleet Systems",
-      "url": "https://jobs.lever.co/humble-robotics/9e16da6b-36bc-4443-9bf7-47c54d6e9f66",
-      "company": "Humble Robotics",
-      "location": "San Francisco",
-      "postedAt": "2026-11-05T02:18:19.427Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "humble-robotics"
     },
     {
       "title": "Sr. Software Engineer",
