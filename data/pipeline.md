@@ -1772,3 +1772,6 @@
 - [ ] https://jobs.ashbyhq.com/Blossom-Health/ffba9bbf-2576-4f3a-b883-c1ef083811da | blossom-health | Software Engineer | New York City | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476011008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476007008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-06
+
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5476031008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/Blossom-Health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 | blossom-health | Applied AI Engineer | New York City | posted: 2026-11-06
