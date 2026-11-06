@@ -1255,4 +1255,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://baicommunications.wd3.myworkdayjobs.com/external/job/Texas-Remote/Software-Developer_JR1582 | baicommunications | Software Developer | 49 Locations | posted: 2026-11-06
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-II_01887353-1 | globalhr | Software Engineer II | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | posted: 2026-11-06
+
 ## Processed
