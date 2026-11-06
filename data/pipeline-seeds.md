@@ -1537,4 +1537,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/airapps/65a997ca-7eef-4d04-8ed8-de6160ab1411 | airapps | Backend Engineer - Typescript | San Francisco | posted: 2026-11-05
 - [ ] https://job-boards.greenhouse.io/scowtt/jobs/4482602009 | scowtt | Fullstack Software Engineer | Seattle | posted: 2026-11-05
 
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 | trueanomalyinc | Platform Engineer, IT | Denver, CO; Long Beach, CA | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696 | openai | Founding Full Stack Software Engineer, Consulting | San Francisco | posted: 2026-11-05
+- [ ] https://careers.roblox.com/jobs/8243631?gh_jid=8243631 | roblox | Software Engineer, Engine Harmony | San Mateo, CA, United States | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/phantom/d8ee7f59-0f80-437f-908e-bfe603cb078a | phantom | Software Engineer, Backend (Trading) | Remote | posted: 2026-11-05
+- [ ] https://jobs.ashbyhq.com/c1/eea62edd-8bf4-4a05-97d1-79bf7e012aeb | c1 | Software Engineer | New York City | posted: 2026-11-05
+- [ ] https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0 | palantir | Backend Software Engineer - Data Connectors | New York, NY | posted: 2026-11-04
+
 ## Processed
