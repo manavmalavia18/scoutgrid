@@ -1716,3 +1716,6 @@
 
 - [ ] https://jobs.ashbyhq.com/obrio/0769f6a7-6600-44c6-a087-fbe688b790d1 | obrio | AI/ML Engineer | Remote – Ukraine · Warsaw (Office) · Warsaw · Poland · Remote – Poland · Kyiv (Office) · Kyiv · Ukraine · Lviv (Office) · Lviv | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/m9solutions/jobs/5287084007 | m9solutions | Oracle Application Developer/Programmer | Remote - No clearance required | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/aerovect/6058be12-918f-4016-87d8-cdbeb0ecdfbf | aerovect | Software Engineer, ML Ops | Toronto · Remote | posted: 2026-11-06
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4727887006?gh_jid=4727887006 | accenturefederalservices | Platform Engineer - SCON | Washington, DC | posted: 2026-11-06
