@@ -1751,3 +1751,5 @@
 - [ ] https://www.logicgate.ai/company/careers/?gh_jid=4749952005 | logicgate | Software Engineer: Front-End | Chicago, IL | posted: 2026-11-06
 
 - [ ] https://jobs.ashbyhq.com/secfix/583140f4-b26c-47b4-a9be-c7a88dc3c0f5 | secfix | Backend Engineer – GTM Engineering (Fresh grad, India) | Remote - India | posted: 2026-11-06
+
+- [ ] https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005 | thebrattlegroup | Data and AI Engineer - July 2027 | San Francisco, California, United States | posted: 2026-11-06
