@@ -1777,3 +1777,7 @@
 - [ ] https://jobs.ashbyhq.com/Blossom-Health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 | blossom-health | Applied AI Engineer | New York City | posted: 2026-11-06
 
 - [ ] https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004 | keyfactorinc | Associate Software Engineer | United States (Remote) | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5 | openai | Applied AI Engineer, Enterprise - EDU | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd | openai | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-06
+- [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6249904004 | extrahopnetworks | Software Engineer III / Security | Remote / Hybrid / Seattle, WA | posted: 2026-11-06
