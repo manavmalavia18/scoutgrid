@@ -1216,4 +1216,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/Infrastructure-Platform-Engineer--Containerization-and-Automation-focus-_R7077 | mizuho | Infrastructure Platform Engineer (Containerization and Automation focus) | NYC (1285) | posted: 2026-11-05
 - [ ] https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Store1605-Washington-PA/Advisor-Endzone---Loyalty--Front-End-_202639810-1 | dickssportinggoods | Advisor Endzone & Loyalty (Front End) | Store1605 Washington PA | posted: 2026-11-05
 
+- [ ] https://speedcast.wd1.myworkdayjobs.com/speedcastcareers/job/Remote---Spain/AI-Engineer_JR11136-1 | speedcast | AI Engineer | 2 Locations | posted: 2026-11-06
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161-2 | hpe | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | posted: 2026-11-05
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161 | hpe | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | posted: 2026-11-05
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-for-Packet-Forwarding--Sunnyvale--California-_1216161-1 | hpe | Software Engineer for Packet Forwarding (Sunnyvale, California) | Sunnyvale, California, United States of America | posted: 2026-11-05
+
 ## Processed
