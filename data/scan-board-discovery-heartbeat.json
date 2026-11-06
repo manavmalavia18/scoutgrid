@@ -1,14 +1,44 @@
 {
-  "at": "2026-11-06T22:08:13.130Z",
-  "leadsScanned": 6057,
-  "totalBoardsKnown": 2208,
+  "at": "2026-11-06T23:11:32.167Z",
+  "leadsScanned": 6065,
+  "totalBoardsKnown": 2214,
   "alreadyTracked": 2205,
-  "newlyPromoted": 3,
+  "newlyPromoted": 9,
   "newBoards": [
+    {
+      "name": "Air Apps",
+      "careers_url": "https://jobs.ashbyhq.com/airapps",
+      "provider": "ashby"
+    },
+    {
+      "name": "Amplitude",
+      "careers_url": "https://jobs.ashbyhq.com/amplitude",
+      "provider": "ashby"
+    },
+    {
+      "name": "Gridmatic",
+      "careers_url": "https://job-boards.greenhouse.io/gridmaticinc",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Raft",
+      "careers_url": "https://job-boards.greenhouse.io/raft",
+      "provider": "greenhouse"
+    },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
       "provider": "lever"
+    },
+    {
+      "name": "Match Group",
+      "careers_url": "https://jobs.lever.co/matchgroup",
+      "provider": "lever"
+    },
+    {
+      "name": "Epiq",
+      "careers_url": "https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers",
+      "provider": "workday"
     },
     {
       "name": "Montefiore Einstein Technology",
