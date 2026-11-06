@@ -1484,4 +1484,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/P-1%20AI/12dc40c8-fc22-4002-bf98-07d3b7edf539 | P-1 AI | Super SWE - AI Factory | United States · Remote | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/engine/jobs/8046374003 | Engine | Software Engineer - GTM Engineering | Remote - US | posted: 2026-11-06
 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609 | Cloudflare | Software Engineer - Load Balancing | Hybrid · Austin, TX · New York, NY · San Francisco, CA | posted: 2026-11-06
+
 ## Processed
