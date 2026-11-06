@@ -1749,3 +1749,5 @@
 - [ ] https://jobs.dropbox.com/listing/7172713?gh_jid=7172713 | dropbox | Infrastructure Software Engineer | Remote - Mexico | posted: 2026-11-06
 
 - [ ] https://www.logicgate.ai/company/careers/?gh_jid=4749952005 | logicgate | Software Engineer: Front-End | Chicago, IL | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/secfix/583140f4-b26c-47b4-a9be-c7a88dc3c0f5 | secfix | Backend Engineer – GTM Engineering (Fresh grad, India) | Remote - India | posted: 2026-11-06
