@@ -1463,4 +1463,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III---Loyalty_R-109614-2 | Expedia | Software Development Engineer III - Loyalty | Washington - Seattle Campus | posted: 2026-11-06
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Mid-Level-Robotics-Software-Developer_JR2026527640 | Boeing | Mid-Level Robotics Software Developer | 2 Locations | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4 | Cohere | Software Engineer, GPU Infrastructure | Seattle · Canada · New York · United States · California · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4 | Cohere | Software Engineer, ML Ops | London · Europe · European Union · Berlin · Germany · United Kingdom · Remote | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | Cohere | Software Engineer, ML Workload Platform | Canada · United States · San Francisco · Remote | posted: 2026-11-06
+
 ## Processed
