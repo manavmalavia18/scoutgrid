@@ -1766,3 +1766,5 @@
 - [ ] https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4 | cohere | Software Engineer, GPU Infrastructure | Seattle · Canada · New York · United States · California · Remote | posted: 2026-11-06
 
 - [ ] https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | cohere | Software Engineer, ML Workload Platform | Canada · United States · San Francisco · Remote | posted: 2026-11-06
+
+- [ ] https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003 | abnormalsecurity | Software Engineer II, Attack Detection | Remote - USA | posted: 2026-11-06
