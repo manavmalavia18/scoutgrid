@@ -1438,4 +1438,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Threat---Exposure-Management-Platform-Engineer_26997074 | Citi | Threat & Exposure Management Platform Engineer | Irving Texas United States | posted: 2026-11-06
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/T-Ads-Engineer--Software-Full-Stack_REQ376574-1 | Tmobile | T-Ads Engineer, Software Full Stack | Bellevue, Washington | posted: 2026-11-06
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567 | Nationwide | Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level | Ohio Columbus Three Nationwide Plaza | posted: 2026-11-06
+- [ ] https://tmobile.wd1.myworkdayjobs.com/alumni/job/Bellevue-Washington/T-Ads-Engineer--Software-Full-Stack_REQ376574 | T-Mobile | T-Ads Engineer, Software Full Stack | Bellevue, Washington | posted: 2026-11-06
+- [ ] https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I_R31431 | Chewy | Software Engineer I | 2 Locations | posted: 2026-11-06
+
 ## Processed
