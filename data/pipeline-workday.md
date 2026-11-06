@@ -1250,4 +1250,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/IBM-BAW-Software-Engineer_R-51477 | bcbst | IBM BAW Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-06
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Mid-Level-Robotics-Software-Developer_JR2026527640-1 | boeing | Mid-Level Robotics Software Developer | 2 Locations | posted: 2026-11-06
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Mid-Level-Robotics-Software-Developer_JR2026527640 | boeing | Mid-Level Robotics Software Developer | 2 Locations | posted: 2026-11-06
+
 ## Processed
