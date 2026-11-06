@@ -1225,4 +1225,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/AI-Engineer_334755 | caci | AI Engineer | Remote (Any State) | posted: 2026-11-06
 - [ ] https://acrisure.wd1.myworkdayjobs.com/acrisure/job/999-Peachtree-Street-Northeast-Suite-2750---ATLANTA-GA/Platform-Engineer---Palantir_JR113593 | acrisure | Platform Engineer - Palantir | 2 Locations | posted: 2026-11-06
 
+- [ ] https://gnw.wd1.myworkdayjobs.com/gnw/job/Richmond-Virginia/Software-Engineer---Java-Development_REQ-260371 | gnw | Software Engineer - Java Development | 2 Locations | posted: 2026-11-06
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--AI-Agents_R0035438 | epiqsystems | Software Engineer, AI Agents | New York, NY | posted: 2026-11-06
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Backend_R0035437 | epiqsystems | Software Engineer, Backend | 2 Locations | posted: 2026-11-06
+
 ## Processed
