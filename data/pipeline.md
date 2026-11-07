@@ -1791,3 +1791,5 @@
 - [ ] https://job-boards.greenhouse.io/engine/jobs/8046374003 | engine | Software Engineer - GTM Engineering | Remote - US | posted: 2026-11-06
 
 - [ ] https://jobs.ashbyhq.com/infisical/a7c8a660-ae2a-467c-91dd-db34cfce29e7 | infisical | Full Stack Engineer | United States · United Kingdom · Brazil · Canada · Remote | posted: 2026-11-06
+
+- [ ] https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03 | hifi | Security Software Engineer | New York City | posted: 2026-11-04
