@@ -1261,4 +1261,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Software-Engineer_REQ380065-1 | tmobile | Software Engineer | 3 Locations | posted: 2026-11-07
 
+- [ ] https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers/job/Virtual-Arizona/AI---ML-DevOps-Engineer_JR13496-1 | honorhealth | AI - ML DevOps Engineer | Virtual Arizona | posted: 2026-11-07
+
 ## Processed
