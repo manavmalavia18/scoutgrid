@@ -1500,4 +1500,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers/job/Virtual-Arizona/AI---ML-DevOps-Engineer_JR13496-1 | HonorHealth | AI - ML DevOps Engineer | Virtual Arizona | posted: 2026-11-07
 
+- [ ] https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1 | Ande | Software Engineer, AI (Early Career) | New York City | posted: 2026-11-07
+
 ## Processed
