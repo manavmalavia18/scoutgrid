@@ -1,17 +1,12 @@
 {
-  "fetchedAt": "2026-11-07T15:56:59.056Z",
+  "fetchedAt": "2026-11-07T16:18:45.846Z",
   "days": 2,
-  "leadCount": 74,
-  "jobCount": 41,
+  "leadCount": 72,
+  "jobCount": 40,
   "boards": [
     {
       "key": "greenhouse:candidate",
       "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:fairlife",
-      "fetched": 55,
       "kept": 0
     },
     {
@@ -25,8 +20,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:globalhealthcareexchangeinc",
-      "fetched": 30,
+      "key": "greenhouse:fairlife",
+      "fetched": 55,
       "kept": 0
     },
     {
@@ -35,14 +30,24 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:garnerhealth",
-      "fetched": 62,
+      "key": "greenhouse:globalhealthcareexchangeinc",
+      "fetched": 30,
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 222,
-      "kept": 3
+      "key": "greenhouse:nuro",
+      "fetched": 94,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:braze",
+      "fetched": 359,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:garnerhealth",
+      "fetched": 62,
+      "kept": 0
     },
     {
       "key": "greenhouse:opendoor",
@@ -55,8 +60,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:nuro",
-      "fetched": 94,
+      "key": "greenhouse:affirm",
+      "fetched": 222,
+      "kept": 3
+    },
+    {
+      "key": "greenhouse:klaviyo",
+      "fetched": 152,
       "kept": 0
     },
     {
@@ -65,19 +75,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:asm",
-      "fetched": 519,
-      "kept": 3
-    },
-    {
-      "key": "greenhouse:engine",
-      "fetched": 78,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:qualtrics",
       "fetched": 107,
       "kept": 2
+    },
+    {
+      "key": "greenhouse:asm",
+      "fetched": 519,
+      "kept": 3
     },
     {
       "key": "greenhouse:mixpanel",
@@ -85,13 +90,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:braze",
-      "fetched": 359,
+      "key": "greenhouse:doordashusa",
+      "fetched": 439,
       "kept": 0
     },
     {
-      "key": "greenhouse:a16z",
-      "fetched": 22,
+      "key": "greenhouse:engine",
+      "fetched": 78,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:icarus",
+      "fetched": 27,
       "kept": 0
     },
     {
@@ -100,24 +110,19 @@
       "kept": 5
     },
     {
-      "key": "greenhouse:tanium",
-      "fetched": 64,
-      "kept": 3
-    },
-    {
-      "key": "greenhouse:icarus",
-      "fetched": 27,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:gridmaticinc",
-      "fetched": 14,
+      "key": "greenhouse:a16z",
+      "fetched": 22,
       "kept": 0
     },
     {
       "key": "greenhouse:thenewyorktimes",
       "fetched": 170,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:gridmaticinc",
+      "fetched": 14,
+      "kept": 0
     },
     {
       "key": "greenhouse:logicgate",
@@ -130,14 +135,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:klaviyo",
-      "fetched": 152,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:applications",
-      "fetched": 2,
-      "kept": 1
+      "key": "greenhouse:cloudflare",
+      "fetched": 464,
+      "kept": 2
     },
     {
       "key": "greenhouse:scowtt",
@@ -145,19 +145,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 216,
+      "key": "greenhouse:tanium",
+      "fetched": 64,
+      "kept": 3
+    },
+    {
+      "key": "greenhouse:applications",
+      "fetched": 2,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:minimal",
-      "fetched": 2,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:patientpointinviteonly",
-      "fetched": 2,
-      "kept": 0
     },
     {
       "key": "greenhouse:verkada",
@@ -165,23 +160,23 @@
       "kept": 4
     },
     {
-      "key": "greenhouse:reddit",
-      "fetched": 163,
-      "kept": 1
+      "key": "greenhouse:minimal",
+      "fetched": 2,
+      "kept": 0
     },
     {
-      "key": "ashby:skydio",
-      "fetched": 190,
+      "key": "greenhouse:reddit",
+      "fetched": 163,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 216,
+      "kept": 1
     },
     {
       "key": "ashby:watershed",
       "fetched": 39,
-      "kept": 0
-    },
-    {
-      "key": "ashby:hyperexponential",
-      "fetched": 36,
       "kept": 0
     },
     {
@@ -190,13 +185,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:openai",
-      "fetched": 819,
-      "kept": 6
-    },
-    {
-      "key": "ashby:rillet",
-      "fetched": 41,
+      "key": "ashby:hyperexponential",
+      "fetched": 36,
       "kept": 0
     },
     {
@@ -205,18 +195,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:applied",
-      "fetched": 326,
-      "kept": 0
-    },
-    {
       "key": "ashby:reflectionai",
       "fetched": 46,
       "kept": 0
     },
     {
-      "key": "ashby:claylabs",
-      "fetched": 64,
+      "key": "ashby:rillet",
+      "fetched": 41,
+      "kept": 0
+    },
+    {
+      "key": "ashby:skydio",
+      "fetched": 190,
       "kept": 0
     },
     {
@@ -225,8 +215,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 439,
+      "key": "ashby:claylabs",
+      "fetched": 64,
+      "kept": 0
+    },
+    {
+      "key": "ashby:ramp",
+      "fetched": 171,
+      "kept": 0
+    },
+    {
+      "key": "ashby:openai",
+      "fetched": 819,
+      "kept": 6
+    },
+    {
+      "key": "ashby:newtonx",
+      "fetched": 10,
       "kept": 0
     },
     {
@@ -240,8 +245,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:ramp",
-      "fetched": 171,
+      "key": "ashby:applied",
+      "fetched": 326,
       "kept": 0
     },
     {
@@ -250,19 +255,9 @@
       "kept": 1
     },
     {
-      "key": "ashby:globo",
-      "fetched": 11,
-      "kept": 0
-    },
-    {
       "key": "ashby:blossom-health",
       "fetched": 9,
       "kept": 2
-    },
-    {
-      "key": "ashby:notion",
-      "fetched": 154,
-      "kept": 0
     },
     {
       "key": "ashby:joinpogo",
@@ -275,9 +270,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:amplitude",
-      "fetched": 51,
-      "kept": 1
+      "key": "ashby:notion",
+      "fetched": 154,
+      "kept": 0
+    },
+    {
+      "key": "ashby:globo",
+      "fetched": 11,
+      "kept": 0
     },
     {
       "key": "ashby:airapps",
@@ -285,24 +285,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:newtonx",
-      "fetched": 10,
-      "kept": 0
-    },
-    {
-      "key": "lever:gauntlet",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:cloudflare",
-      "fetched": 464,
-      "kept": 2
-    },
-    {
-      "key": "lever:crypto",
-      "fetched": 97,
-      "kept": 0
+      "key": "ashby:amplitude",
+      "fetched": 51,
+      "kept": 1
     },
     {
       "key": "lever:matchgroup",
@@ -315,13 +300,8 @@
       "kept": 0
     },
     {
-      "key": "workday:alegeus.wd1.myworkdayjobs.com/alegeus_external_careers",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
-      "key": "lever:momsmeals",
-      "fetched": 42,
+      "key": "lever:crypto",
+      "fetched": 97,
       "kept": 0
     },
     {
@@ -330,18 +310,28 @@
       "kept": 0
     },
     {
+      "key": "workday:alegeus.wd1.myworkdayjobs.com/alegeus_external_careers",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "workday:kla.wd1.myworkdayjobs.com/search",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:palantir",
-      "fetched": 305,
+      "key": "workday:workday.wd5.myworkdayjobs.com/Workday_Jobs",
+      "fetched": 20,
       "kept": 0
     },
     {
-      "key": "workday:workday.wd5.myworkdayjobs.com/Workday_Jobs",
-      "fetched": 20,
+      "key": "lever:shieldai",
+      "fetched": 659,
+      "kept": 0
+    },
+    {
+      "key": "lever:gauntlet",
+      "fetched": 6,
       "kept": 0
     },
     {
@@ -352,6 +342,11 @@
     {
       "key": "workday:guidehouse.wd1.myworkdayjobs.com/external",
       "fetched": 80,
+      "kept": 0
+    },
+    {
+      "key": "lever:palantir",
+      "fetched": 305,
       "kept": 0
     },
     {
@@ -368,11 +363,6 @@
       "key": "workday:honorhealth.wd12.myworkdayjobs.com/honorhealth_careers",
       "fetched": 80,
       "kept": 1
-    },
-    {
-      "key": "lever:shieldai",
-      "fetched": 659,
-      "kept": 0
     }
   ],
   "jobs": [
@@ -405,6 +395,26 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "affirm"
+    },
+    {
+      "title": "Software Engineer II - Discover Studio",
+      "url": "https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630",
+      "company": "Qualtrics",
+      "location": "Reston, Virginia, United States",
+      "postedAt": "2026-11-06T23:18:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "qualtrics"
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "url": "https://www.qualtrics.com/careers/us/en/job/8354384?gh_jid=8354384",
+      "company": "Qualtrics",
+      "location": "Seattle, Washington,  United States",
+      "postedAt": "2026-11-05T23:12:44.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "qualtrics"
     },
     {
       "title": "Senior Manager, Software Engineering",
@@ -445,26 +455,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "engine"
-    },
-    {
-      "title": "Software Engineer II - Discover Studio",
-      "url": "https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630",
-      "company": "Qualtrics",
-      "location": "Reston, Virginia, United States",
-      "postedAt": "2026-11-06T23:18:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "qualtrics"
-    },
-    {
-      "title": "Staff Machine Learning Engineer",
-      "url": "https://www.qualtrics.com/careers/us/en/job/8354384?gh_jid=8354384",
-      "company": "Qualtrics",
-      "location": "Seattle, Washington,  United States",
-      "postedAt": "2026-11-05T23:12:44.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "qualtrics"
     },
     {
       "title": "Sr. Software Engineer, Data Engineering (X)",
@@ -517,6 +507,46 @@
       "board": "xai"
     },
     {
+      "title": "Senior LLM Engineer, R&D",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751497005",
+      "company": "The New York Times",
+      "location": "New York, NY",
+      "postedAt": "2026-11-06T15:29:55.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "thenewyorktimes"
+    },
+    {
+      "title": "Software Engineer - Load Balancing",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609",
+      "company": "Cloudflare",
+      "location": "Hybrid · Austin, TX · New York, NY · San Francisco, CA",
+      "postedAt": "2026-11-06T23:35:18.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
+    },
+    {
+      "title": "Senior Software Engineer - Kubernetes platform",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
+      "company": "Cloudflare",
+      "location": "Distributed; Hybrid · Atlanta, GA · Austin, TX · Canada · Denver, CO · New York, NY · Remote US · San Francisco, CA · Seattle, WA · Toronto, ON · Washington, DC",
+      "postedAt": "2026-11-06T00:01:53.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
+    },
+    {
+      "title": "Fullstack Software Engineer ",
+      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
+      "company": "Scowtt",
+      "location": "Seattle ",
+      "postedAt": "2026-11-05T17:56:33.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "scowtt"
+    },
+    {
       "title": "Software Engineer II, AI Security",
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8359784",
       "company": "Tanium",
@@ -547,16 +577,6 @@
       "board": "tanium"
     },
     {
-      "title": "Senior LLM Engineer, R&D",
-      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751497005",
-      "company": "The New York Times",
-      "location": "New York, NY",
-      "postedAt": "2026-11-06T15:29:55.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "thenewyorktimes"
-    },
-    {
       "title": "Advanced Associate Front-End Developer C2-37291046",
       "url": "https://job-boards.greenhouse.io/applications/jobs/6250513004",
       "company": "ISN",
@@ -565,26 +585,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "applications"
-    },
-    {
-      "title": "Fullstack Software Engineer ",
-      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
-      "company": "Scowtt",
-      "location": "Seattle ",
-      "postedAt": "2026-11-05T17:56:33.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "scowtt"
-    },
-    {
-      "title": "Senior Software Engineer AI (Contractor)",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
-      "company": "Sony Interactive Entertainment",
-      "location": "United States, Aliso Viejo, CA",
-      "postedAt": "2026-11-06T16:25:50.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "sonyinteractiveentertainmentglobal"
     },
     {
       "title": "Software Engineer - Computer Vision",
@@ -627,14 +627,14 @@
       "board": "verkada"
     },
     {
-      "title": "Machine Learning Engineer",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
-      "company": "Reddit",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-11-05T16:13:17.000Z",
+      "title": "Senior Software Engineer AI (Contractor)",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
+      "company": "Sony Interactive Entertainment",
+      "location": "United States, Aliso Viejo, CA",
+      "postedAt": "2026-11-06T16:25:50.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "reddit"
+      "board": "sonyinteractiveentertainmentglobal"
     },
     {
       "title": "Applied AI Engineer, Enterprise - EDU",
@@ -745,26 +745,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "amplitude"
-    },
-    {
-      "title": "Software Engineer - Load Balancing",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609",
-      "company": "Cloudflare",
-      "location": "Hybrid · Austin, TX · New York, NY · San Francisco, CA",
-      "postedAt": "2026-11-06T23:35:18.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
-    },
-    {
-      "title": "Senior Software Engineer - Kubernetes platform",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
-      "company": "Cloudflare",
-      "location": "Distributed; Hybrid · Atlanta, GA · Austin, TX · Canada · Denver, CO · New York, NY · Remote US · San Francisco, CA · Seattle, WA · Toronto, ON · Washington, DC",
-      "postedAt": "2026-11-06T00:01:53.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
     },
     {
       "title": "Staff Engineer, Applied AI",
