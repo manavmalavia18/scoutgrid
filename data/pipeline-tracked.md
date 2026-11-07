@@ -1496,4 +1496,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/humatahealth/8c835888-2b50-4115-bf6f-a0ed490c6462 | Humata Health | Software Engineer II | Remote / US | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/granted/a8101edf-3947-4743-8ef4-6ef4200fc5d5 | Granted | Product Engineer, Full-Stack | New York City | posted: 2026-11-06
 
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--DevXP-_101081 | Nationwide | Consultant, Software Engineer (DevXP) | Ohio Columbus Three Nationwide Plaza | posted: 2026-11-07
+
 ## Processed
