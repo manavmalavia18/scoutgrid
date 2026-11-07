@@ -1257,4 +1257,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-II_01887353-1 | globalhr | Software Engineer II | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | posted: 2026-11-06
 
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W | visa | Software Engineer- Operations and Infrastructure | US - Austin, TX | posted: 2026-11-07
+
 ## Processed
