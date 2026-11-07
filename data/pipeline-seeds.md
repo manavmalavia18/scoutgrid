@@ -1602,4 +1602,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03 | hifi | Security Software Engineer | New York City | posted: 2026-11-04
 
+- [ ] https://jobs.ashbyhq.com/onehealth/74b7b3d5-babd-4da1-9608-cf850b446632 | onehealth | Software Engineer & Product | United States | posted: 2026-11-07
+
 ## Processed
