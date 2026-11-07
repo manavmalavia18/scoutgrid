@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-07T07:15:49.521Z",
+  "fetchedAt": "2026-11-07T07:37:43.508Z",
   "days": 2,
   "leadCount": 82,
-  "jobCount": 56,
+  "jobCount": 57,
   "boards": [
     {
       "key": "greenhouse:clever",
@@ -15,13 +15,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:backblaze",
+      "fetched": 33,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:a16z",
       "fetched": 22,
       "kept": 0
     },
     {
-      "key": "greenhouse:backblaze",
-      "fetched": 33,
+      "key": "greenhouse:emergenceai",
+      "fetched": 6,
       "kept": 0
     },
     {
@@ -30,14 +35,19 @@
       "kept": 3
     },
     {
-      "key": "greenhouse:emergenceai",
-      "fetched": 6,
-      "kept": 0
+      "key": "greenhouse:abnormalsecurity",
+      "fetched": 86,
+      "kept": 1
     },
     {
       "key": "greenhouse:qualtrics",
       "fetched": 107,
       "kept": 2
+    },
+    {
+      "key": "greenhouse:mixpanel",
+      "fetched": 44,
+      "kept": 0
     },
     {
       "key": "greenhouse:engine",
@@ -50,16 +60,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:mixpanel",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:abnormalsecurity",
-      "fetched": 86,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:stubhubinc",
       "fetched": 46,
       "kept": 2
@@ -68,6 +68,11 @@
       "key": "greenhouse:affirm",
       "fetched": 223,
       "kept": 3
+    },
+    {
+      "key": "greenhouse:revolutionmedicines",
+      "fetched": 323,
+      "kept": 1
     },
     {
       "key": "greenhouse:drweng",
@@ -85,14 +90,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:revolutionmedicines",
-      "fetched": 323,
+      "key": "greenhouse:imc",
+      "fetched": 162,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:authenticinsurance",
-      "fetched": 9,
-      "kept": 0
     },
     {
       "key": "greenhouse:iseatz",
@@ -105,13 +105,8 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:imc",
-      "fetched": 162,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:pilothq",
-      "fetched": 12,
+      "key": "greenhouse:authenticinsurance",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -120,8 +115,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:lilasciences",
-      "fetched": 122,
+      "key": "greenhouse:pilothq",
+      "fetched": 12,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:stripe",
+      "fetched": 765,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:logicgate",
+      "fetched": 13,
       "kept": 0
     },
     {
@@ -130,8 +135,13 @@
       "kept": 5
     },
     {
-      "key": "greenhouse:logicgate",
-      "fetched": 13,
+      "key": "greenhouse:thenewyorktimes",
+      "fetched": 170,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:lilasciences",
+      "fetched": 122,
       "kept": 0
     },
     {
@@ -140,28 +150,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:raft",
-      "fetched": 31,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:oscar",
       "fetched": 207,
       "kept": 0
     },
     {
-      "key": "greenhouse:verkada",
-      "fetched": 343,
-      "kept": 4
-    },
-    {
       "key": "greenhouse:applications",
       "fetched": 2,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:scowtt",
-      "fetched": 4,
       "kept": 1
     },
     {
@@ -170,13 +165,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 216,
-      "kept": 1
+      "key": "greenhouse:raft",
+      "fetched": 31,
+      "kept": 0
     },
     {
-      "key": "greenhouse:thenewyorktimes",
-      "fetched": 170,
+      "key": "greenhouse:scowtt",
+      "fetched": 4,
       "kept": 1
     },
     {
@@ -185,33 +180,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:quince",
-      "fetched": 153,
-      "kept": 0
+      "key": "greenhouse:reddit",
+      "fetched": 163,
+      "kept": 1
     },
     {
-      "key": "ashby:globo",
-      "fetched": 11,
-      "kept": 0
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 216,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:verkada",
+      "fetched": 343,
+      "kept": 4
     },
     {
       "key": "ashby:newtonx",
       "fetched": 10,
-      "kept": 0
-    },
-    {
-      "key": "ashby:infisical",
-      "fetched": 12,
-      "kept": 2
-    },
-    {
-      "key": "ashby:blossom-health",
-      "fetched": 9,
-      "kept": 2
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 439,
       "kept": 0
     },
     {
@@ -220,9 +205,29 @@
       "kept": 0
     },
     {
+      "key": "ashby:blossom-health",
+      "fetched": 9,
+      "kept": 2
+    },
+    {
+      "key": "ashby:globo",
+      "fetched": 11,
+      "kept": 0
+    },
+    {
       "key": "ashby:humatahealth",
       "fetched": 4,
       "kept": 2
+    },
+    {
+      "key": "ashby:infisical",
+      "fetched": 12,
+      "kept": 2
+    },
+    {
+      "key": "ashby:braintrust",
+      "fetched": 29,
+      "kept": 0
     },
     {
       "key": "ashby:yuzu-health",
@@ -230,13 +235,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:reddit",
-      "fetched": 163,
-      "kept": 1
-    },
-    {
-      "key": "ashby:warp",
-      "fetched": 16,
+      "key": "greenhouse:quince",
+      "fetched": 153,
       "kept": 0
     },
     {
@@ -245,13 +245,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:joinpogo",
-      "fetched": 11,
-      "kept": 1
-    },
-    {
-      "key": "ashby:braintrust",
-      "fetched": 29,
+      "key": "ashby:warp",
+      "fetched": 16,
       "kept": 0
     },
     {
@@ -265,14 +260,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:airapps",
-      "fetched": 498,
-      "kept": 0
+      "key": "ashby:rivianvw.tech",
+      "fetched": 171,
+      "kept": 2
     },
     {
-      "key": "ashby:rogo",
-      "fetched": 101,
-      "kept": 0
+      "key": "ashby:joinpogo",
+      "fetched": 11,
+      "kept": 1
     },
     {
       "key": "ashby:amplitude",
@@ -280,9 +275,19 @@
       "kept": 1
     },
     {
-      "key": "ashby:aerovect",
-      "fetched": 41,
-      "kept": 1
+      "key": "ashby:rogo",
+      "fetched": 101,
+      "kept": 0
+    },
+    {
+      "key": "ashby:openai",
+      "fetched": 820,
+      "kept": 6
+    },
+    {
+      "key": "ashby:airapps",
+      "fetched": 498,
+      "kept": 0
     },
     {
       "key": "ashby:mimica",
@@ -290,18 +295,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:akur8",
-      "fetched": 12,
+      "key": "ashby:solveintelligence",
+      "fetched": 18,
       "kept": 0
     },
     {
-      "key": "ashby:rivianvw.tech",
-      "fetched": 171,
-      "kept": 2
+      "key": "ashby:aerovect",
+      "fetched": 41,
+      "kept": 1
     },
     {
-      "key": "ashby:solveintelligence",
-      "fetched": 18,
+      "key": "ashby:akur8",
+      "fetched": 12,
       "kept": 0
     },
     {
@@ -310,23 +315,28 @@
       "kept": 0
     },
     {
-      "key": "lever:gauntlet",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
       "key": "lever:convergentresearch",
       "fetched": 28,
       "kept": 1
     },
     {
-      "key": "ashby:openai",
-      "fetched": 820,
-      "kept": 6
+      "key": "lever:brillio-2",
+      "fetched": 221,
+      "kept": 0
     },
     {
-      "key": "greenhouse:stripe",
-      "fetched": 765,
+      "key": "lever:zoox",
+      "fetched": 241,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 439,
+      "kept": 0
+    },
+    {
+      "key": "lever:iru",
+      "fetched": 26,
       "kept": 0
     },
     {
@@ -335,8 +345,8 @@
       "kept": 1
     },
     {
-      "key": "lever:zoox",
-      "fetched": 241,
+      "key": "lever:gauntlet",
+      "fetched": 6,
       "kept": 0
     },
     {
@@ -350,13 +360,8 @@
       "kept": 0
     },
     {
-      "key": "lever:iru",
-      "fetched": 26,
-      "kept": 0
-    },
-    {
-      "key": "lever:palantir",
-      "fetched": 305,
+      "key": "lever:shieldai",
+      "fetched": 661,
       "kept": 0
     },
     {
@@ -367,21 +372,16 @@
     {
       "key": "workday:biamp.wd12.myworkdayjobs.com/biamp",
       "fetched": 7,
-      "kept": 1
-    },
-    {
-      "key": "lever:shieldai",
-      "fetched": 661,
-      "kept": 0
-    },
-    {
-      "key": "lever:brillio-2",
-      "fetched": 221,
-      "kept": 0
+      "kept": 2
     },
     {
       "key": "workday:lendingclub.wd1.myworkdayjobs.com/external",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "lever:palantir",
+      "fetched": 305,
       "kept": 0
     },
     {
@@ -395,12 +395,12 @@
       "kept": 0
     },
     {
-      "key": "workday:maersk.wd3.myworkdayjobs.com/apmt_careers",
+      "key": "workday:evolent.wd1.myworkdayjobs.com/external",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "workday:evolent.wd1.myworkdayjobs.com/external",
+      "key": "workday:maersk.wd3.myworkdayjobs.com/apmt_careers",
       "fetched": 0,
       "kept": 0
     },
@@ -447,6 +447,16 @@
       "board": "tanium"
     },
     {
+      "title": "Software Engineer II, Attack Detection",
+      "url": "https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003",
+      "company": "Abnormal AI",
+      "location": "Remote - USA",
+      "postedAt": "2026-11-06T21:17:02.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "abnormalsecurity"
+    },
+    {
       "title": "Software Engineer II - Discover Studio",
       "url": "https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630",
       "company": "Qualtrics",
@@ -475,16 +485,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "engine"
-    },
-    {
-      "title": "Software Engineer II, Attack Detection",
-      "url": "https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003",
-      "company": "Abnormal AI",
-      "location": "Remote - USA",
-      "postedAt": "2026-11-06T21:17:02.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "abnormalsecurity"
     },
     {
       "title": "Software Engineer II -  Seller Experience",
@@ -537,6 +537,16 @@
       "board": "affirm"
     },
     {
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://www.revmed.com/careers-list/?gh_jid=8196876003",
+      "company": "Revolution Medicines",
+      "location": "Redwood City, California, United States",
+      "postedAt": "2026-11-05T18:15:01.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "revolutionmedicines"
+    },
+    {
       "title": "Software Engineer - Trading Operations",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8359837",
       "company": "DRW",
@@ -587,14 +597,14 @@
       "board": "cloudflare"
     },
     {
-      "title": "Staff Site Reliability Engineer",
-      "url": "https://www.revmed.com/careers-list/?gh_jid=8196876003",
-      "company": "Revolution Medicines",
-      "location": "Redwood City, California, United States",
-      "postedAt": "2026-11-05T18:15:01.000Z",
+      "title": "Software Engineer - AI Tooling",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4960533101",
+      "company": "IMC Trading",
+      "location": "Chicago, United States",
+      "postedAt": "2026-11-06T16:55:04.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "revolutionmedicines"
+      "board": "imc"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -615,16 +625,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "pathai"
-    },
-    {
-      "title": "Software Engineer - AI Tooling",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4960533101",
-      "company": "IMC Trading",
-      "location": "Chicago, United States",
-      "postedAt": "2026-11-06T16:55:04.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "imc"
     },
     {
       "title": "Sr. Software Engineer, Data Engineering (X)",
@@ -677,6 +677,56 @@
       "board": "xai"
     },
     {
+      "title": "Senior LLM Engineer, R&D",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751497005",
+      "company": "The New York Times",
+      "location": "New York, NY",
+      "postedAt": "2026-11-06T15:29:55.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "thenewyorktimes"
+    },
+    {
+      "title": "Advanced Associate Front-End Developer C2-37291046",
+      "url": "https://job-boards.greenhouse.io/applications/jobs/6250513004",
+      "company": "ISN",
+      "location": "Dallas",
+      "postedAt": "2026-11-05T17:24:30.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "applications"
+    },
+    {
+      "title": "Fullstack Software Engineer ",
+      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
+      "company": "Scowtt",
+      "location": "Seattle ",
+      "postedAt": "2026-11-05T17:56:33.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "scowtt"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
+      "company": "Reddit",
+      "location": "San Francisco, CA",
+      "postedAt": "2026-11-05T16:13:17.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "reddit"
+    },
+    {
+      "title": "Senior Software Engineer AI (Contractor)",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
+      "company": "Sony Interactive Entertainment",
+      "location": "United States, Aliso Viejo, CA",
+      "postedAt": "2026-11-06T16:25:50.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "sonyinteractiveentertainmentglobal"
+    },
+    {
       "title": "Software Engineer - Computer Vision",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5283644007",
       "company": "Verkada",
@@ -715,66 +765,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "verkada"
-    },
-    {
-      "title": "Advanced Associate Front-End Developer C2-37291046",
-      "url": "https://job-boards.greenhouse.io/applications/jobs/6250513004",
-      "company": "ISN",
-      "location": "Dallas",
-      "postedAt": "2026-11-05T17:24:30.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "applications"
-    },
-    {
-      "title": "Fullstack Software Engineer ",
-      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
-      "company": "Scowtt",
-      "location": "Seattle ",
-      "postedAt": "2026-11-05T17:56:33.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "scowtt"
-    },
-    {
-      "title": "Senior Software Engineer AI (Contractor)",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
-      "company": "Sony Interactive Entertainment",
-      "location": "United States, Aliso Viejo, CA",
-      "postedAt": "2026-11-06T16:25:50.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "sonyinteractiveentertainmentglobal"
-    },
-    {
-      "title": "Senior LLM Engineer, R&D",
-      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751497005",
-      "company": "The New York Times",
-      "location": "New York, NY",
-      "postedAt": "2026-11-06T15:29:55.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "thenewyorktimes"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/infisical/a7c8a660-ae2a-467c-91dd-db34cfce29e7",
-      "company": "Infisical",
-      "location": "United States · United Kingdom · Brazil · Canada · Remote",
-      "postedAt": "2026-11-06T23:44:52.442Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "infisical"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/infisical/46541b52-967f-4caf-96ed-9a59f1a80aa8",
-      "company": "Infisical",
-      "location": "United States · United Kingdom · Brazil · Canada · Remote",
-      "postedAt": "2026-11-06T23:43:46.761Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "infisical"
     },
     {
       "title": "Applied AI Engineer",
@@ -817,14 +807,24 @@
       "board": "humatahealth"
     },
     {
-      "title": "Machine Learning Engineer",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
-      "company": "Reddit",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-11-05T16:13:17.000Z",
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/infisical/a7c8a660-ae2a-467c-91dd-db34cfce29e7",
+      "company": "Infisical",
+      "location": "United States · United Kingdom · Brazil · Canada · Remote",
+      "postedAt": "2026-11-06T23:44:52.442Z",
       "salary": "",
-      "ats": "Greenhouse",
-      "board": "reddit"
+      "ats": "Ashby",
+      "board": "infisical"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/infisical/46541b52-967f-4caf-96ed-9a59f1a80aa8",
+      "company": "Infisical",
+      "location": "United States · United Kingdom · Brazil · Canada · Remote",
+      "postedAt": "2026-11-06T23:43:46.761Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "infisical"
     },
     {
       "title": "Product Engineer, Full-Stack",
@@ -835,36 +835,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "granted"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/joinpogo/f2069ed0-7cb3-43fd-84b1-396d1041d06d",
-      "company": "Pogo Technologies",
-      "location": "United States/Canada · Remote",
-      "postedAt": "2026-11-06T12:33:25.957Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "joinpogo"
-    },
-    {
-      "title": "Software Engineer II, Analytics Compute Platform Team",
-      "url": "https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509",
-      "company": "Amplitude",
-      "location": "San Francisco",
-      "postedAt": "2026-11-05T17:31:14.303Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "amplitude"
-    },
-    {
-      "title": "Embedded Linux Software Engineer",
-      "url": "https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54",
-      "company": "AeroVect",
-      "location": "Atlanta - Hybrid",
-      "postedAt": "2026-11-05T13:52:53.477Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "aerovect"
     },
     {
       "title": "Staff Embedded Software Engineers",
@@ -887,14 +857,24 @@
       "board": "rivianvw.tech"
     },
     {
-      "title": "Research Software Engineer",
-      "url": "https://jobs.lever.co/convergentresearch/27eb6f06-826e-4d36-8099-4b590c6807a4",
-      "company": "Convergent Research",
-      "location": "Boulder, CO",
-      "postedAt": "2026-11-06T19:57:44.968Z",
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/f2069ed0-7cb3-43fd-84b1-396d1041d06d",
+      "company": "Pogo Technologies",
+      "location": "United States/Canada · Remote",
+      "postedAt": "2026-11-06T12:33:25.957Z",
       "salary": "",
-      "ats": "Lever",
-      "board": "convergentresearch"
+      "ats": "Ashby",
+      "board": "joinpogo"
+    },
+    {
+      "title": "Software Engineer II, Analytics Compute Platform Team",
+      "url": "https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509",
+      "company": "Amplitude",
+      "location": "San Francisco",
+      "postedAt": "2026-11-05T17:31:14.303Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "amplitude"
     },
     {
       "title": "Applied AI Engineer, Enterprise - EDU",
@@ -957,6 +937,26 @@
       "board": "openai"
     },
     {
+      "title": "Embedded Linux Software Engineer",
+      "url": "https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54",
+      "company": "AeroVect",
+      "location": "Atlanta - Hybrid",
+      "postedAt": "2026-11-05T13:52:53.477Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "aerovect"
+    },
+    {
+      "title": "Research Software Engineer",
+      "url": "https://jobs.lever.co/convergentresearch/27eb6f06-826e-4d36-8099-4b590c6807a4",
+      "company": "Convergent Research",
+      "location": "Boulder, CO",
+      "postedAt": "2026-11-06T19:57:44.968Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "convergentresearch"
+    },
+    {
       "title": "Staff Engineer, Applied AI",
       "url": "https://jobs.lever.co/matchgroup/a658764a-1f7a-4c59-80f2-d922a46b8ba9",
       "company": "Match Group",
@@ -969,6 +969,17 @@
     {
       "title": "Senior Backend & DevOps Engineer",
       "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/Senior-Backend---DevOps-Engineer_JR100453",
+      "company": "Biamp",
+      "location": "Beaverton, OR",
+      "postedAt": "2026-11-06T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "biamp",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "DevOps Engineer",
+      "url": "https://biamp.wd12.myworkdayjobs.com/biamp/job/Beaverton-OR/DevOps-Engineer_JR100451",
       "company": "Biamp",
       "location": "Beaverton, OR",
       "postedAt": "2026-11-06T12:00:00.000Z",
