@@ -1498,4 +1498,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer--DevXP-_101081 | Nationwide | Consultant, Software Engineer (DevXP) | Ohio Columbus Three Nationwide Plaza | posted: 2026-11-07
 
+- [ ] https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers/job/Virtual-Arizona/AI---ML-DevOps-Engineer_JR13496-1 | HonorHealth | AI - ML DevOps Engineer | Virtual Arizona | posted: 2026-11-07
+
 ## Processed
