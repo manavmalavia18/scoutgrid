@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T07:37:43.508Z",
+  "fetchedAt": "2026-11-07T07:59:38.152Z",
   "days": 2,
   "leadCount": 82,
   "jobCount": 57,
@@ -15,13 +15,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:backblaze",
-      "fetched": 33,
+      "key": "greenhouse:a16z",
+      "fetched": 22,
       "kept": 0
     },
     {
-      "key": "greenhouse:a16z",
-      "fetched": 22,
+      "key": "greenhouse:backblaze",
+      "fetched": 33,
       "kept": 0
     },
     {
@@ -45,11 +45,6 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:mixpanel",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:engine",
       "fetched": 78,
       "kept": 1
@@ -60,9 +55,24 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:mixpanel",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:stubhubinc",
       "fetched": 46,
       "kept": 2
+    },
+    {
+      "key": "greenhouse:oscar",
+      "fetched": 207,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:cloudflare",
+      "fetched": 464,
+      "kept": 3
     },
     {
       "key": "greenhouse:affirm",
@@ -80,16 +90,6 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 464,
-      "kept": 3
-    },
-    {
-      "key": "greenhouse:centralreach",
-      "fetched": 19,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:imc",
       "fetched": 162,
       "kept": 1
@@ -100,13 +100,28 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:authenticinsurance",
+      "fetched": 9,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:centralreach",
+      "fetched": 19,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:pathai",
       "fetched": 13,
       "kept": 2
     },
     {
-      "key": "greenhouse:authenticinsurance",
-      "fetched": 9,
+      "key": "greenhouse:pilothq",
+      "fetched": 12,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:lilasciences",
+      "fetched": 122,
       "kept": 0
     },
     {
@@ -115,18 +130,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:pilothq",
-      "fetched": 12,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:stripe",
-      "fetched": 765,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:logicgate",
       "fetched": 13,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:gridmaticinc",
+      "fetched": 14,
       "kept": 0
     },
     {
@@ -140,18 +150,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:lilasciences",
-      "fetched": 122,
+      "key": "greenhouse:raft",
+      "fetched": 31,
       "kept": 0
     },
     {
-      "key": "greenhouse:gridmaticinc",
-      "fetched": 14,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:oscar",
-      "fetched": 207,
+      "key": "greenhouse:stripe",
+      "fetched": 765,
       "kept": 0
     },
     {
@@ -165,29 +170,19 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:raft",
-      "fetched": 31,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:scowtt",
       "fetched": 4,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:patientpointinviteonly",
-      "fetched": 2,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:reddit",
-      "fetched": 163,
       "kept": 1
     },
     {
       "key": "greenhouse:sonyinteractiveentertainmentglobal",
       "fetched": 216,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:patientpointinviteonly",
+      "fetched": 2,
+      "kept": 0
     },
     {
       "key": "greenhouse:verkada",
@@ -200,14 +195,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:orbital",
-      "fetched": 18,
-      "kept": 0
+      "key": "greenhouse:reddit",
+      "fetched": 163,
+      "kept": 1
     },
     {
-      "key": "ashby:blossom-health",
-      "fetched": 9,
-      "kept": 2
+      "key": "greenhouse:quince",
+      "fetched": 153,
+      "kept": 0
     },
     {
       "key": "ashby:globo",
@@ -215,13 +210,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:humatahealth",
-      "fetched": 4,
+      "key": "ashby:infisical",
+      "fetched": 12,
       "kept": 2
     },
     {
-      "key": "ashby:infisical",
-      "fetched": 12,
+      "key": "ashby:humatahealth",
+      "fetched": 4,
       "kept": 2
     },
     {
@@ -230,13 +225,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:yuzu-health",
+      "key": "ashby:blossom-health",
       "fetched": 9,
-      "kept": 0
+      "kept": 2
     },
     {
-      "key": "greenhouse:quince",
-      "fetched": 153,
+      "key": "ashby:warp",
+      "fetched": 16,
       "kept": 0
     },
     {
@@ -245,9 +240,24 @@
       "kept": 1
     },
     {
-      "key": "ashby:warp",
-      "fetched": 16,
+      "key": "ashby:yuzu-health",
+      "fetched": 9,
       "kept": 0
+    },
+    {
+      "key": "ashby:joinpogo",
+      "fetched": 11,
+      "kept": 1
+    },
+    {
+      "key": "ashby:orbital",
+      "fetched": 18,
+      "kept": 0
+    },
+    {
+      "key": "ashby:rivianvw.tech",
+      "fetched": 171,
+      "kept": 2
     },
     {
       "key": "ashby:trajectory",
@@ -260,13 +270,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:rivianvw.tech",
-      "fetched": 171,
-      "kept": 2
+      "key": "ashby:airapps",
+      "fetched": 498,
+      "kept": 0
     },
     {
-      "key": "ashby:joinpogo",
-      "fetched": 11,
+      "key": "ashby:aerovect",
+      "fetched": 41,
       "kept": 1
     },
     {
@@ -280,16 +290,6 @@
       "kept": 0
     },
     {
-      "key": "ashby:openai",
-      "fetched": 820,
-      "kept": 6
-    },
-    {
-      "key": "ashby:airapps",
-      "fetched": 498,
-      "kept": 0
-    },
-    {
       "key": "ashby:mimica",
       "fetched": 17,
       "kept": 0
@@ -300,11 +300,6 @@
       "kept": 0
     },
     {
-      "key": "ashby:aerovect",
-      "fetched": 41,
-      "kept": 1
-    },
-    {
       "key": "ashby:akur8",
       "fetched": 12,
       "kept": 0
@@ -312,6 +307,21 @@
     {
       "key": "ashby:wafer",
       "fetched": 8,
+      "kept": 0
+    },
+    {
+      "key": "ashby:openai",
+      "fetched": 820,
+      "kept": 6
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 439,
+      "kept": 0
+    },
+    {
+      "key": "lever:gauntlet",
+      "fetched": 6,
       "kept": 0
     },
     {
@@ -330,38 +340,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 439,
-      "kept": 0
-    },
-    {
-      "key": "lever:iru",
-      "fetched": 26,
-      "kept": 0
-    },
-    {
       "key": "lever:matchgroup",
       "fetched": 71,
       "kept": 1
     },
     {
-      "key": "lever:gauntlet",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
-      "key": "lever:waabi",
-      "fetched": 88,
-      "kept": 0
-    },
-    {
       "key": "lever:momsmeals",
       "fetched": 42,
-      "kept": 0
-    },
-    {
-      "key": "lever:shieldai",
-      "fetched": 661,
       "kept": 0
     },
     {
@@ -370,18 +355,23 @@
       "kept": 0
     },
     {
+      "key": "lever:iru",
+      "fetched": 26,
+      "kept": 0
+    },
+    {
       "key": "workday:biamp.wd12.myworkdayjobs.com/biamp",
       "fetched": 7,
       "kept": 2
     },
     {
-      "key": "workday:lendingclub.wd1.myworkdayjobs.com/external",
-      "fetched": 0,
+      "key": "lever:waabi",
+      "fetched": 88,
       "kept": 0
     },
     {
-      "key": "lever:palantir",
-      "fetched": 305,
+      "key": "workday:lendingclub.wd1.myworkdayjobs.com/external",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -395,12 +385,17 @@
       "kept": 0
     },
     {
-      "key": "workday:evolent.wd1.myworkdayjobs.com/external",
-      "fetched": 0,
+      "key": "lever:palantir",
+      "fetched": 305,
       "kept": 0
     },
     {
       "key": "workday:maersk.wd3.myworkdayjobs.com/apmt_careers",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "workday:evolent.wd1.myworkdayjobs.com/external",
       "fetched": 0,
       "kept": 0
     },
@@ -412,6 +407,11 @@
     {
       "key": "workday:tmobile.wd1.myworkdayjobs.com/External",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "lever:shieldai",
+      "fetched": 661,
       "kept": 0
     }
   ],
@@ -507,6 +507,36 @@
       "board": "stubhubinc"
     },
     {
+      "title": "Software Engineer - Load Balancing",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609",
+      "company": "Cloudflare",
+      "location": "Hybrid · Austin, TX · New York, NY · San Francisco, CA",
+      "postedAt": "2026-11-06T23:35:18.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
+    },
+    {
+      "title": "Senior Software Engineer - Kubernetes platform",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
+      "company": "Cloudflare",
+      "location": "Distributed; Hybrid · Atlanta, GA · Austin, TX · Canada · Denver, CO · New York, NY · Remote US · San Francisco, CA · Seattle, WA · Toronto, ON · Washington, DC",
+      "postedAt": "2026-11-06T00:01:53.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
+    },
+    {
+      "title": "Senior Software Engineer - ZTC",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149",
+      "company": "Cloudflare",
+      "location": "In-Office · Austin, TX · Lisbon, Portugal · London, United Kingdom",
+      "postedAt": "2026-11-05T12:03:34.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
+    },
+    {
       "title": "Software Engineer II, Backend",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
       "company": "Affirm",
@@ -565,36 +595,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "drweng"
-    },
-    {
-      "title": "Software Engineer - Load Balancing",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609",
-      "company": "Cloudflare",
-      "location": "Hybrid · Austin, TX · New York, NY · San Francisco, CA",
-      "postedAt": "2026-11-06T23:35:18.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
-    },
-    {
-      "title": "Senior Software Engineer - Kubernetes platform",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
-      "company": "Cloudflare",
-      "location": "Distributed; Hybrid · Atlanta, GA · Austin, TX · Canada · Denver, CO · New York, NY · Remote US · San Francisco, CA · Seattle, WA · Toronto, ON · Washington, DC",
-      "postedAt": "2026-11-06T00:01:53.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
-    },
-    {
-      "title": "Senior Software Engineer - ZTC",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149",
-      "company": "Cloudflare",
-      "location": "In-Office · Austin, TX · Lisbon, Portugal · London, United Kingdom",
-      "postedAt": "2026-11-05T12:03:34.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
     },
     {
       "title": "Software Engineer - AI Tooling",
@@ -707,16 +707,6 @@
       "board": "scowtt"
     },
     {
-      "title": "Machine Learning Engineer",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
-      "company": "Reddit",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-11-05T16:13:17.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "reddit"
-    },
-    {
       "title": "Senior Software Engineer AI (Contractor)",
       "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
       "company": "Sony Interactive Entertainment",
@@ -767,44 +757,14 @@
       "board": "verkada"
     },
     {
-      "title": "Applied AI Engineer",
-      "url": "https://jobs.ashbyhq.com/Blossom-Health/ed14bfa6-4738-468c-8d13-5c83a5c51d27",
-      "company": "Blossom",
-      "location": "New York City",
-      "postedAt": "2026-11-06T21:54:59.570Z",
+      "title": "Machine Learning Engineer",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
+      "company": "Reddit",
+      "location": "San Francisco, CA",
+      "postedAt": "2026-11-05T16:13:17.000Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "blossom-health"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/Blossom-Health/ffba9bbf-2576-4f3a-b883-c1ef083811da",
-      "company": "Blossom",
-      "location": "New York City",
-      "postedAt": "2026-11-06T21:53:32.597Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "blossom-health"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.ashbyhq.com/humatahealth/e9030b32-2d16-4696-890a-639791b95855",
-      "company": "Humata Health",
-      "location": "Remote | US",
-      "postedAt": "2026-11-06T17:26:46.403Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "humatahealth"
-    },
-    {
-      "title": "Software Engineer II",
-      "url": "https://jobs.ashbyhq.com/humatahealth/8c835888-2b50-4115-bf6f-a0ed490c6462",
-      "company": "Humata Health",
-      "location": "Remote | US",
-      "postedAt": "2026-11-06T17:24:46.595Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "humatahealth"
+      "ats": "Greenhouse",
+      "board": "reddit"
     },
     {
       "title": "Full Stack Engineer",
@@ -827,6 +787,46 @@
       "board": "infisical"
     },
     {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.ashbyhq.com/humatahealth/e9030b32-2d16-4696-890a-639791b95855",
+      "company": "Humata Health",
+      "location": "Remote | US",
+      "postedAt": "2026-11-06T17:26:46.403Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "humatahealth"
+    },
+    {
+      "title": "Software Engineer II",
+      "url": "https://jobs.ashbyhq.com/humatahealth/8c835888-2b50-4115-bf6f-a0ed490c6462",
+      "company": "Humata Health",
+      "location": "Remote | US",
+      "postedAt": "2026-11-06T17:24:46.595Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "humatahealth"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/Blossom-Health/ed14bfa6-4738-468c-8d13-5c83a5c51d27",
+      "company": "Blossom",
+      "location": "New York City",
+      "postedAt": "2026-11-06T21:54:59.570Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "blossom-health"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/Blossom-Health/ffba9bbf-2576-4f3a-b883-c1ef083811da",
+      "company": "Blossom",
+      "location": "New York City",
+      "postedAt": "2026-11-06T21:53:32.597Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "blossom-health"
+    },
+    {
       "title": "Product Engineer, Full-Stack",
       "url": "https://jobs.ashbyhq.com/granted/a8101edf-3947-4743-8ef4-6ef4200fc5d5",
       "company": "Granted",
@@ -835,6 +835,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "granted"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/f2069ed0-7cb3-43fd-84b1-396d1041d06d",
+      "company": "Pogo Technologies",
+      "location": "United States/Canada · Remote",
+      "postedAt": "2026-11-06T12:33:25.957Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "joinpogo"
     },
     {
       "title": "Staff Embedded Software Engineers",
@@ -857,14 +867,14 @@
       "board": "rivianvw.tech"
     },
     {
-      "title": "Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/joinpogo/f2069ed0-7cb3-43fd-84b1-396d1041d06d",
-      "company": "Pogo Technologies",
-      "location": "United States/Canada · Remote",
-      "postedAt": "2026-11-06T12:33:25.957Z",
+      "title": "Embedded Linux Software Engineer",
+      "url": "https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54",
+      "company": "AeroVect",
+      "location": "Atlanta - Hybrid",
+      "postedAt": "2026-11-05T13:52:53.477Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "joinpogo"
+      "board": "aerovect"
     },
     {
       "title": "Software Engineer II, Analytics Compute Platform Team",
@@ -935,16 +945,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "openai"
-    },
-    {
-      "title": "Embedded Linux Software Engineer",
-      "url": "https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54",
-      "company": "AeroVect",
-      "location": "Atlanta - Hybrid",
-      "postedAt": "2026-11-05T13:52:53.477Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "aerovect"
     },
     {
       "title": "Research Software Engineer",
