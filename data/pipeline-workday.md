@@ -1259,4 +1259,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W | visa | Software Engineer- Operations and Infrastructure | US - Austin, TX | posted: 2026-11-07
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Software-Engineer_REQ380065-1 | tmobile | Software Engineer | 3 Locations | posted: 2026-11-07
+
 ## Processed
