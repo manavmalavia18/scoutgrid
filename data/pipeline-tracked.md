@@ -1491,4 +1491,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W | Visa | Software Engineer- Operations and Infrastructure | US - Austin, TX | posted: 2026-11-06
 - [ ] https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/9f17378e-635a-4d92-9941-e38363afab4f | Superhuman | Software Engineer, Back-End - Go (NY) | Hub - New York | posted: 2026-11-07
 
+- [ ] https://jobs.smartrecruiters.com/AbbVie/3743990016715126 | AbbVie | Associate Software Engineer I | North Chicago, IL, United States | posted: 2026-11-07
+
 ## Processed
