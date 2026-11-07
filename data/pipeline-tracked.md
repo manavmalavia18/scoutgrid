@@ -1486,4 +1486,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609 | Cloudflare | Software Engineer - Load Balancing | Hybrid · Austin, TX · New York, NY · San Francisco, CA | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e3f4fa1f-8647-4452-90fe-495ff63f6a51 | Superhuman | Software Engineer, Front-End (New York) | Hub - New York | posted: 2026-11-07
+
 ## Processed
