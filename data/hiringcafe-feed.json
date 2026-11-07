@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T02:37:34.288Z",
+  "fetchedAt": "2026-11-07T03:00:03.274Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -24,14 +24,14 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 1,
+  "pagesFetched": 0,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
     "software engineer": null,
     "software developer": null,
     "backend engineer": null,
-    "frontend engineer": 7,
+    "frontend engineer": null,
     "full stack engineer": null,
     "full stack developer": null,
     "platform engineer": null,
@@ -45,7 +45,7 @@
     "qa automation engineer": null,
     "security engineer": null
   },
-  "count": 219,
+  "count": 217,
   "jobs": [
     {
       "title": "Frontend Engineering Intern",
@@ -5415,40 +5415,6 @@
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-05T12:12:47.951Z",
       "lastSeenAt": "2026-11-06T22:10:07.733Z"
-    },
-    {
-      "title": "General Application",
-      "url": "https://jobs.ashbyhq.com/linero/63a8c9f6-e9ca-48c6-a34c-8c9f884f0b39",
-      "company": "Linero",
-      "location": "New York City, New York, United States",
-      "postedAt": 1793847033586,
-      "salary": "$120k-$300k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "No specific requirements stated; open application for exceptional people across engineering and business.",
-      "tools": [],
-      "company_tagline": "An AI-native, venture-backed company building operational infrastructure for sensitive technologies.",
-      "ats_source": "ashby",
-      "discoveredAt": "2026-11-05T12:12:47.951Z",
-      "lastSeenAt": "2026-11-05T21:43:38.849Z"
-    },
-    {
-      "title": "AI or ML Engineer",
-      "url": "https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2387692&lang=en",
-      "company": "UnitedHealth Group",
-      "location": "United States",
-      "postedAt": 1793846585141,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Undergraduate degree or equivalent experience; expertise in AI/ML, deep learning, NLP, computer vision, and large-scale computing frameworks; strong analytical and communication skills.",
-      "tools": [],
-      "company_tagline": "A global healthcare company delivering care aided by technology to improve health outcomes.",
-      "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-05T12:12:47.951Z",
-      "lastSeenAt": "2026-11-05T21:43:38.849Z"
     }
   ]
 }
