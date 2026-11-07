@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T02:15:14.718Z",
+  "fetchedAt": "2026-11-07T02:37:34.288Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -24,14 +24,14 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 0,
+  "pagesFetched": 1,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
     "software engineer": null,
     "software developer": null,
     "backend engineer": null,
-    "frontend engineer": null,
+    "frontend engineer": 7,
     "full stack engineer": null,
     "full stack developer": null,
     "platform engineer": null,
@@ -45,8 +45,102 @@
     "qa automation engineer": null,
     "security engineer": null
   },
-  "count": 220,
+  "count": 219,
   "jobs": [
+    {
+      "title": "Frontend Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005",
+      "company": "The New York Times",
+      "location": "New York City, New York, United States",
+      "postedAt": 1793995946000,
+      "salary": "$83k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Internship",
+      "yoe": "0.5+ YOE",
+      "summary": "At least 6 months of educational or professional frontend engineering experience; experience with React, GraphQL, and CSS Modules; collaborative and creative problem-solving skills.",
+      "tools": [
+        "React",
+        "GraphQL",
+        "CSS Modules"
+      ],
+      "company_tagline": "A media company seeking the truth and helping people understand the world through independent journalism.",
+      "ats_source": "grnhse",
+      "discoveredAt": "2026-11-07T02:37:34.285Z",
+      "lastSeenAt": "2026-11-07T02:37:34.285Z"
+    },
+    {
+      "title": "Software Engineer: Front-End",
+      "url": "https://www.logicgate.ai/company/careers/?gh_jid=4749952005",
+      "company": "LogicGate",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1793990829000,
+      "salary": "$105k-$130k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3-5 years professional software engineering experience; strong TypeScript and Angular proficiency; experience with REST APIs, automated testing (Cypress, Jasmine), and AI tools; located within commuting distance of Chicago HQ.",
+      "tools": [
+        "TypeScript",
+        "Angular",
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "REST",
+        "JUnit",
+        "Jasmine",
+        "Cypress",
+        "Datadog",
+        "Jira",
+        "Claude Code"
+      ],
+      "company_tagline": "A leading AI GRC platform for enterprise governance, risk, and compliance teams.",
+      "ats_source": "grnhse",
+      "discoveredAt": "2026-11-07T02:37:34.285Z",
+      "lastSeenAt": "2026-11-07T02:37:34.285Z"
+    },
+    {
+      "title": "Software Engineering Intern, Frontend (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "company": "Notion",
+      "location": "New York City, New York, United States",
+      "postedAt": 1793990531019,
+      "salary": "$119k-$127k/yr",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "Pursuing bachelor's or master's in computer science or related field, graduating before Summer 2028; proficiency in React/TypeScript; previous internship experience; AI interest.",
+      "tools": [
+        "React",
+        "TypeScript"
+      ],
+      "company_tagline": "A collaborative AI workspace where teams and agents think together.",
+      "ats_source": "ashby",
+      "discoveredAt": "2026-11-07T02:37:34.285Z",
+      "lastSeenAt": "2026-11-07T02:37:34.285Z"
+    },
+    {
+      "title": "Cellular Performance Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200692004-3956/cellular-performance-engineer",
+      "company": "Apple",
+      "location": "Sunnyvale, California, United States",
+      "postedAt": 1793989569791,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience in laboratory testing and benchmarking of cellular systems; deep understanding of 3GPP standards (5G NR, LTE) and TCP/IP; ability to debug across protocol layers and RF frontends; Python scripting for automation; experience with call boxes and channel emulators.",
+      "tools": [
+        "Python",
+        "TCP/IP",
+        "3GPP",
+        "5G NR",
+        "LTE"
+      ],
+      "company_tagline": "A technology company designing and developing innovative wireless systems and consumer products.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-07T02:37:34.285Z",
+      "lastSeenAt": "2026-11-07T02:37:34.285Z"
+    },
     {
       "title": "Applied AI Engineer",
       "url": "https://jobs.workable.com/view/oD73BULFLJZamPgUXpSqzR/hybrid-applied-ai-engineer-in-montreal-at-foresight-works-ltd",
@@ -182,7 +276,7 @@
       "company_tagline": "A technology company building enterprise AI SaaS products.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-06T22:10:07.733Z",
-      "lastSeenAt": "2026-11-06T22:10:07.733Z"
+      "lastSeenAt": "2026-11-07T02:37:34.285Z"
     },
     {
       "title": "Full Stack Engineer (Kotlin / GCP), Payments Connectivity",
@@ -239,6 +333,36 @@
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-06T22:10:07.733Z",
       "lastSeenAt": "2026-11-06T22:10:07.733Z"
+    },
+    {
+      "title": "Software Engineer - Front-End Web Applications",
+      "url": "https://jobs.dayforcehcm.com/en-US/aui/candidateportal/jobs/2328",
+      "company": "Associated Universities, Inc.",
+      "location": "Albuquerque or Socorro or Charlottesville or Green Bank",
+      "postedAt": 1793941200000,
+      "salary": "$97k-$120k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "Bachelor's degree in computer science or related field (or equivalent experience); minimum 1 year software development experience; 3+ years web development preferred; Angular, TypeScript, HTML, CSS/Sass, JavaScript, Bootstrap, webpack, RESTful APIs, version control, CI/CD; U.S. work authorization required.",
+      "tools": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS/Sass",
+        "JavaScript",
+        "Bootstrap",
+        "webpack",
+        "RESTful APIs",
+        "HTTP",
+        "CI/CD",
+        "Python",
+        "Java"
+      ],
+      "company_tagline": "A prestigious research and development organization operating state-of-the-art radio telescope facilities for the international scientific community.",
+      "ats_source": "dayforce",
+      "discoveredAt": "2026-11-07T02:37:34.285Z",
+      "lastSeenAt": "2026-11-07T02:37:34.285Z"
     },
     {
       "title": "Backend Engineer Intern",
@@ -374,7 +498,7 @@
       "company_tagline": "A customer-obsessed non-traditional defense tech company empowering U.S. military and government agencies with AI/ML and data solutions.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-06T22:10:07.733Z",
-      "lastSeenAt": "2026-11-06T22:10:07.733Z"
+      "lastSeenAt": "2026-11-07T02:37:34.285Z"
     },
     {
       "title": "Software Engineer, Backend",
@@ -5323,141 +5447,6 @@
       "tools": [],
       "company_tagline": "A global healthcare company delivering care aided by technology to improve health outcomes.",
       "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-05T12:12:47.951Z",
-      "lastSeenAt": "2026-11-05T21:43:38.849Z"
-    },
-    {
-      "title": "Service Desk Engineer - English",
-      "url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00071172921&lang=en",
-      "company": "Cognizant",
-      "location": "United States",
-      "postedAt": 1793845868354,
-      "salary": "",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "2-4 years technical service desk or help desk experience; proficiency in operating systems, productivity suites, remote support tools, and ticketing platforms; familiarity with AI-enabled support tools; effective communication and documentation skills.",
-      "tools": [
-        "AI-driven tools",
-        "ticketing platforms",
-        "remote support tools"
-      ],
-      "company_tagline": "A global IT services provider offering digital solutions and support.",
-      "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-05T12:34:35.267Z",
-      "lastSeenAt": "2026-11-05T19:45:44.513Z"
-    },
-    {
-      "title": "Service Desk Engineer - Portuguese",
-      "url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00071172821&lang=en",
-      "company": "Cognizant",
-      "location": "United States",
-      "postedAt": 1793845868207,
-      "salary": "",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "2-4 years technical service desk or help desk experience; proficiency in operating systems, enterprise productivity suites, remote support tools, and ticketing platforms; familiarity with AI-enabled support tools; effective communication and documentation skills.",
-      "tools": [
-        "AI-driven tools",
-        "ticketing platforms",
-        "remote support tools"
-      ],
-      "company_tagline": "A global IT services provider offering digital solutions and support.",
-      "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-05T12:34:35.267Z",
-      "lastSeenAt": "2026-11-05T19:45:44.513Z"
-    },
-    {
-      "title": "Adobe CDP Developer",
-      "url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00071121641&lang=en",
-      "company": "Cognizant",
-      "location": "United States",
-      "postedAt": 1793845865127,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "Bachelor's degree required; Master's preferred; 3+ years with Adobe Campaign Classic, AJO, CDP, AEP implementation; experience in communication platform or MarTech stack.",
-      "tools": [
-        "Adobe Campaign Classic",
-        "Adobe Journey Optimizer",
-        "Adobe CDP",
-        "Adobe Experience Platform"
-      ],
-      "company_tagline": "A global IT services provider offering digital transformation and technology solutions.",
-      "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-05T12:12:47.951Z",
-      "lastSeenAt": "2026-11-05T22:25:09.008Z"
-    },
-    {
-      "title": "金融基础大模型算法工程师",
-      "url": "https://talent.didiglobal.com/social/p/65683",
-      "company": "DiDi Global",
-      "location": "San Jose, California, United States",
-      "postedAt": 1793845743222,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "Master's degree or higher in computer science, math, or statistics; 3+ years deep learning algorithm R&D; experience building pretrained models; proficiency with Transformer architectures and PyTorch; distributed training experience.",
-      "tools": [
-        "PyTorch",
-        "Transformer",
-        "GPT",
-        "BERT",
-        "FT-Transformer",
-        "MoE",
-        "ELECTRA",
-        "TimeMixer",
-        "TrajGPT"
-      ],
-      "company_tagline": "A global technology company providing ride-hailing and mobility services, with fintech risk and algorithm development.",
-      "ats_source": "adhoc",
-      "discoveredAt": "2026-11-05T12:12:47.951Z",
-      "lastSeenAt": "2026-11-05T21:43:38.849Z"
-    },
-    {
-      "title": "Adobe CDP Developer",
-      "url": "https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00071121641&lang=en",
-      "company": "Cognizant",
-      "location": "United States",
-      "postedAt": 1793845446143,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "Bachelor's degree required; Master's preferred; 3+ years with Adobe Campaign Classic, AJO, CDP, AEP implementation; experience in communication platform or MarTech stack.",
-      "tools": [
-        "Adobe Campaign Classic",
-        "Adobe Journey Optimizer",
-        "Adobe CDP",
-        "Adobe Experience Platform"
-      ],
-      "company_tagline": "A global IT services provider offering digital solutions and consulting.",
-      "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-05T12:55:07.678Z",
-      "lastSeenAt": "2026-11-05T17:16:26.977Z"
-    },
-    {
-      "title": "Software Engineer, Fleet Systems",
-      "url": "https://jobs.lever.co/humble-robotics/9e16da6b-36bc-4443-9bf7-47c54d6e9f66",
-      "company": "Humble Robotics",
-      "location": "San Francisco, California, United States",
-      "postedAt": 1793845099427,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Strong software engineering fundamentals, proficiency in at least one programming language, experience with Linux and command-line tools, ability to debug complex systems, and comfort working across software and hardware interfaces.",
-      "tools": [
-        "Linux",
-        "Python",
-        "Rust",
-        "C++"
-      ],
-      "company_tagline": "A robotics company developing software for autonomous vehicle fleets.",
-      "ats_source": "lever",
       "discoveredAt": "2026-11-05T12:12:47.951Z",
       "lastSeenAt": "2026-11-05T21:43:38.849Z"
     }
