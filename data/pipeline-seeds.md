@@ -1600,4 +1600,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6249904004 | extrahopnetworks | Software Engineer III / Security | Remote (US) / Hybrid / Seattle, WA | posted: 2026-11-06
 - [ ] https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004 | keyfactorinc | Associate Software Engineer | United States (Remote) | posted: 2026-11-06
 
+- [ ] https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03 | hifi | Security Software Engineer | New York City | posted: 2026-11-04
+
 ## Processed
