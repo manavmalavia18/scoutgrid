@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T03:08:56.618Z",
+  "fetchedAt": "2026-11-07T03:34:06.243Z",
   "days": 2,
   "leadCount": 83,
   "jobCount": 59,
@@ -7,11 +7,6 @@
     {
       "key": "greenhouse:clever",
       "fetched": 3,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:backblaze",
-      "fetched": 33,
       "kept": 0
     },
     {
@@ -25,8 +20,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:emergenceai",
-      "fetched": 6,
+      "key": "greenhouse:backblaze",
+      "fetched": 33,
       "kept": 0
     },
     {
@@ -35,13 +30,18 @@
       "kept": 3
     },
     {
-      "key": "greenhouse:qualtrics",
-      "fetched": 108,
-      "kept": 2
+      "key": "greenhouse:emergenceai",
+      "fetched": 6,
+      "kept": 0
     },
     {
       "key": "greenhouse:abnormalsecurity",
       "fetched": 86,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:engine",
+      "fetched": 78,
       "kept": 1
     },
     {
@@ -50,14 +50,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:engine",
-      "fetched": 78,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:mixpanel",
-      "fetched": 44,
-      "kept": 0
+      "key": "greenhouse:qualtrics",
+      "fetched": 108,
+      "kept": 2
     },
     {
       "key": "greenhouse:stubhubinc",
@@ -70,19 +65,14 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:mixpanel",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:affirm",
       "fetched": 223,
       "kept": 3
-    },
-    {
-      "key": "greenhouse:drweng",
-      "fetched": 165,
-      "kept": 2
-    },
-    {
-      "key": "greenhouse:iseatz",
-      "fetched": 2,
-      "kept": 0
     },
     {
       "key": "greenhouse:centralreach",
@@ -90,9 +80,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:imc",
-      "fetched": 162,
-      "kept": 1
+      "key": "greenhouse:drweng",
+      "fetched": 165,
+      "kept": 2
     },
     {
       "key": "greenhouse:oscar",
@@ -100,9 +90,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 464,
-      "kept": 3
+      "key": "greenhouse:iseatz",
+      "fetched": 2,
+      "kept": 0
     },
     {
       "key": "greenhouse:authenticinsurance",
@@ -115,9 +105,9 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:charlesriverassociates",
-      "fetched": 94,
-      "kept": 0
+      "key": "greenhouse:cloudflare",
+      "fetched": 464,
+      "kept": 3
     },
     {
       "key": "greenhouse:pilothq",
@@ -125,23 +115,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:thenewyorktimes",
-      "fetched": 170,
+      "key": "greenhouse:imc",
+      "fetched": 162,
       "kept": 1
     },
     {
-      "key": "greenhouse:gridmaticinc",
-      "fetched": 14,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:logicgate",
-      "fetched": 13,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:raft",
-      "fetched": 31,
+      "key": "greenhouse:charlesriverassociates",
+      "fetched": 94,
       "kept": 0
     },
     {
@@ -150,13 +130,23 @@
       "kept": 5
     },
     {
-      "key": "greenhouse:lilasciences",
-      "fetched": 122,
+      "key": "greenhouse:gridmaticinc",
+      "fetched": 14,
       "kept": 0
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 216,
+      "key": "greenhouse:raft",
+      "fetched": 31,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:logicgate",
+      "fetched": 13,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:scowtt",
+      "fetched": 4,
       "kept": 1
     },
     {
@@ -165,8 +155,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:scowtt",
-      "fetched": 4,
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 216,
       "kept": 1
     },
     {
@@ -185,8 +175,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:quince",
-      "fetched": 153,
+      "key": "greenhouse:lilasciences",
+      "fetched": 122,
       "kept": 0
     },
     {
@@ -198,6 +188,21 @@
       "key": "greenhouse:reddit",
       "fetched": 163,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:thenewyorktimes",
+      "fetched": 170,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:quince",
+      "fetched": 153,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 439,
+      "kept": 0
     },
     {
       "key": "ashby:newtonx",
@@ -220,14 +225,14 @@
       "kept": 2
     },
     {
+      "key": "ashby:granted",
+      "fetched": 7,
+      "kept": 1
+    },
+    {
       "key": "ashby:humatahealth",
       "fetched": 4,
       "kept": 2
-    },
-    {
-      "key": "ashby:yuzu-health",
-      "fetched": 9,
-      "kept": 0
     },
     {
       "key": "ashby:braintrust",
@@ -235,8 +240,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:granted",
-      "fetched": 7,
+      "key": "ashby:joinpogo",
+      "fetched": 11,
       "kept": 1
     },
     {
@@ -245,8 +250,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:orbital",
-      "fetched": 18,
+      "key": "ashby:yuzu-health",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -260,8 +265,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:joinpogo",
-      "fetched": 11,
+      "key": "ashby:amplitude",
+      "fetched": 51,
       "kept": 1
     },
     {
@@ -270,14 +275,14 @@
       "kept": 2
     },
     {
-      "key": "ashby:amplitude",
-      "fetched": 51,
-      "kept": 1
-    },
-    {
       "key": "ashby:aerovect",
       "fetched": 41,
       "kept": 1
+    },
+    {
+      "key": "ashby:airapps",
+      "fetched": 498,
+      "kept": 0
     },
     {
       "key": "ashby:rogo",
@@ -285,13 +290,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:mimica",
-      "fetched": 17,
+      "key": "ashby:solveintelligence",
+      "fetched": 18,
       "kept": 0
     },
     {
-      "key": "ashby:solveintelligence",
-      "fetched": 18,
+      "key": "ashby:mimica",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -310,9 +315,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:airapps",
-      "fetched": 498,
+      "key": "ashby:orbital",
+      "fetched": 18,
       "kept": 0
+    },
+    {
+      "key": "lever:convergentresearch",
+      "fetched": 28,
+      "kept": 1
     },
     {
       "key": "ashby:openai",
@@ -325,48 +335,8 @@
       "kept": 0
     },
     {
-      "key": "lever:convergentresearch",
-      "fetched": 28,
-      "kept": 1
-    },
-    {
       "key": "lever:zoox",
       "fetched": 241,
-      "kept": 0
-    },
-    {
-      "key": "lever:iru",
-      "fetched": 26,
-      "kept": 0
-    },
-    {
-      "key": "lever:brillio-2",
-      "fetched": 221,
-      "kept": 0
-    },
-    {
-      "key": "lever:matchgroup",
-      "fetched": 71,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 439,
-      "kept": 0
-    },
-    {
-      "key": "lever:zeneducate",
-      "fetched": 53,
-      "kept": 0
-    },
-    {
-      "key": "lever:momsmeals",
-      "fetched": 42,
-      "kept": 0
-    },
-    {
-      "key": "lever:palantir",
-      "fetched": 305,
       "kept": 0
     },
     {
@@ -375,14 +345,44 @@
       "kept": 0
     },
     {
+      "key": "lever:brillio-2",
+      "fetched": 221,
+      "kept": 0
+    },
+    {
+      "key": "lever:momsmeals",
+      "fetched": 42,
+      "kept": 0
+    },
+    {
+      "key": "lever:matchgroup",
+      "fetched": 71,
+      "kept": 1
+    },
+    {
       "key": "workday:lendingclub.wd1.myworkdayjobs.com/external",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:shieldai",
+      "fetched": 661,
       "kept": 0
     },
     {
       "key": "workday:biamp.wd12.myworkdayjobs.com/biamp",
       "fetched": 7,
       "kept": 2
+    },
+    {
+      "key": "lever:iru",
+      "fetched": 26,
+      "kept": 0
+    },
+    {
+      "key": "lever:zeneducate",
+      "fetched": 53,
+      "kept": 0
     },
     {
       "key": "workday:maersk.wd3.myworkdayjobs.com/apmt_careers",
@@ -395,13 +395,13 @@
       "kept": 0
     },
     {
-      "key": "lever:shieldai",
-      "fetched": 662,
+      "key": "workday:ccf.wd1.myworkdayjobs.com/clevelandcliniccareers",
+      "fetched": 80,
       "kept": 0
     },
     {
-      "key": "workday:ccf.wd1.myworkdayjobs.com/clevelandcliniccareers",
-      "fetched": 80,
+      "key": "lever:palantir",
+      "fetched": 305,
       "kept": 0
     },
     {
@@ -452,26 +452,6 @@
       "board": "tanium"
     },
     {
-      "title": "Software Engineer II - Discover Studio",
-      "url": "https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630",
-      "company": "Qualtrics",
-      "location": "Reston, Virginia, United States",
-      "postedAt": "2026-11-06T23:18:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "qualtrics"
-    },
-    {
-      "title": "Staff Machine Learning Engineer",
-      "url": "https://www.qualtrics.com/careers/us/en/job/8354384?gh_jid=8354384",
-      "company": "Qualtrics",
-      "location": "Seattle, Washington,  United States",
-      "postedAt": "2026-11-05T23:12:44.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "qualtrics"
-    },
-    {
       "title": "Software Engineer II, Attack Detection",
       "url": "https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003",
       "company": "Abnormal AI",
@@ -490,6 +470,26 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "engine"
+    },
+    {
+      "title": "Software Engineer II - Discover Studio",
+      "url": "https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630",
+      "company": "Qualtrics",
+      "location": "Reston, Virginia, United States",
+      "postedAt": "2026-11-06T23:18:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "qualtrics"
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "url": "https://www.qualtrics.com/careers/us/en/job/8354384?gh_jid=8354384",
+      "company": "Qualtrics",
+      "location": "Seattle, Washington,  United States",
+      "postedAt": "2026-11-05T23:12:44.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "qualtrics"
     },
     {
       "title": "Software Engineer II -  Seller Experience",
@@ -572,14 +572,24 @@
       "board": "drweng"
     },
     {
-      "title": "Software Engineer - AI Tooling",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4960533101",
-      "company": "IMC Trading",
-      "location": "Chicago, United States",
-      "postedAt": "2026-11-06T16:55:04.000Z",
+      "title": "Senior DevOps Engineer",
+      "url": "https://www.pathai.com/careers/8932907002?gh_jid=8932907002",
+      "company": "PathAI",
+      "location": "Boston, MA (Hybrid)",
+      "postedAt": "2026-11-06T19:53:44.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "imc"
+      "board": "pathai"
+    },
+    {
+      "title": "Software Engineer II, Fullstack",
+      "url": "https://www.pathai.com/careers/8932903002?gh_jid=8932903002",
+      "company": "PathAI",
+      "location": "Boston, MA (Hybrid)",
+      "postedAt": "2026-11-06T04:12:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "pathai"
     },
     {
       "title": "Software Engineer - Load Balancing",
@@ -612,34 +622,14 @@
       "board": "cloudflare"
     },
     {
-      "title": "Senior DevOps Engineer",
-      "url": "https://www.pathai.com/careers/8932907002?gh_jid=8932907002",
-      "company": "PathAI",
-      "location": "Boston, MA (Hybrid)",
-      "postedAt": "2026-11-06T19:53:44.000Z",
+      "title": "Software Engineer - AI Tooling",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4960533101",
+      "company": "IMC Trading",
+      "location": "Chicago, United States",
+      "postedAt": "2026-11-06T16:55:04.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "pathai"
-    },
-    {
-      "title": "Software Engineer II, Fullstack",
-      "url": "https://www.pathai.com/careers/8932903002?gh_jid=8932903002",
-      "company": "PathAI",
-      "location": "Boston, MA (Hybrid)",
-      "postedAt": "2026-11-06T04:12:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "pathai"
-    },
-    {
-      "title": "Senior LLM Engineer, R&D",
-      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751497005",
-      "company": "The New York Times",
-      "location": "New York, NY",
-      "postedAt": "2026-11-06T15:29:55.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "thenewyorktimes"
+      "board": "imc"
     },
     {
       "title": "Sr. Software Engineer, Data Engineering (X)",
@@ -692,14 +682,14 @@
       "board": "xai"
     },
     {
-      "title": "Senior Software Engineer AI (Contractor)",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
-      "company": "Sony Interactive Entertainment",
-      "location": "United States, Aliso Viejo, CA",
-      "postedAt": "2026-11-06T16:25:50.000Z",
+      "title": "Fullstack Software Engineer ",
+      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
+      "company": "Scowtt",
+      "location": "Seattle ",
+      "postedAt": "2026-11-05T17:56:33.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "sonyinteractiveentertainmentglobal"
+      "board": "scowtt"
     },
     {
       "title": "Advanced Associate Front-End Developer C2-37291046",
@@ -712,14 +702,14 @@
       "board": "applications"
     },
     {
-      "title": "Fullstack Software Engineer ",
-      "url": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
-      "company": "Scowtt",
-      "location": "Seattle ",
-      "postedAt": "2026-11-05T17:56:33.000Z",
+      "title": "Senior Software Engineer AI (Contractor)",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232155004",
+      "company": "Sony Interactive Entertainment",
+      "location": "United States, Aliso Viejo, CA",
+      "postedAt": "2026-11-06T16:25:50.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "scowtt"
+      "board": "sonyinteractiveentertainmentglobal"
     },
     {
       "title": "Software Engineer - Computer Vision",
@@ -772,6 +762,16 @@
       "board": "reddit"
     },
     {
+      "title": "Senior LLM Engineer, R&D",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751497005",
+      "company": "The New York Times",
+      "location": "New York, NY",
+      "postedAt": "2026-11-06T15:29:55.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "thenewyorktimes"
+    },
+    {
       "title": "Applied AI Engineer",
       "url": "https://jobs.ashbyhq.com/Blossom-Health/ed14bfa6-4738-468c-8d13-5c83a5c51d27",
       "company": "Blossom",
@@ -812,6 +812,16 @@
       "board": "infisical"
     },
     {
+      "title": "Product Engineer, Full-Stack",
+      "url": "https://jobs.ashbyhq.com/granted/a8101edf-3947-4743-8ef4-6ef4200fc5d5",
+      "company": "Granted",
+      "location": "New York City",
+      "postedAt": "2026-11-06T20:54:40.383Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "granted"
+    },
+    {
       "title": "Senior Software Engineer",
       "url": "https://jobs.ashbyhq.com/humatahealth/e9030b32-2d16-4696-890a-639791b95855",
       "company": "Humata Health",
@@ -832,16 +842,6 @@
       "board": "humatahealth"
     },
     {
-      "title": "Product Engineer, Full-Stack",
-      "url": "https://jobs.ashbyhq.com/granted/a8101edf-3947-4743-8ef4-6ef4200fc5d5",
-      "company": "Granted",
-      "location": "New York City",
-      "postedAt": "2026-11-06T20:54:40.383Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "granted"
-    },
-    {
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/joinpogo/f2069ed0-7cb3-43fd-84b1-396d1041d06d",
       "company": "Pogo Technologies",
@@ -850,6 +850,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "joinpogo"
+    },
+    {
+      "title": "Software Engineer II, Analytics Compute Platform Team",
+      "url": "https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509",
+      "company": "Amplitude",
+      "location": "San Francisco",
+      "postedAt": "2026-11-05T17:31:14.303Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "amplitude"
     },
     {
       "title": "Staff Embedded Software Engineers",
@@ -872,16 +882,6 @@
       "board": "rivianvw.tech"
     },
     {
-      "title": "Software Engineer II, Analytics Compute Platform Team",
-      "url": "https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509",
-      "company": "Amplitude",
-      "location": "San Francisco",
-      "postedAt": "2026-11-05T17:31:14.303Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "amplitude"
-    },
-    {
       "title": "Embedded Linux Software Engineer",
       "url": "https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54",
       "company": "AeroVect",
@@ -890,6 +890,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "aerovect"
+    },
+    {
+      "title": "Research Software Engineer",
+      "url": "https://jobs.lever.co/convergentresearch/27eb6f06-826e-4d36-8099-4b590c6807a4",
+      "company": "Convergent Research",
+      "location": "Boulder, CO",
+      "postedAt": "2026-11-06T19:57:44.968Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "convergentresearch"
     },
     {
       "title": "Applied AI Engineer, Enterprise - EDU",
@@ -950,16 +960,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "openai"
-    },
-    {
-      "title": "Research Software Engineer",
-      "url": "https://jobs.lever.co/convergentresearch/27eb6f06-826e-4d36-8099-4b590c6807a4",
-      "company": "Convergent Research",
-      "location": "Boulder, CO",
-      "postedAt": "2026-11-06T19:57:44.968Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "convergentresearch"
     },
     {
       "title": "Staff Engineer, Applied AI",
