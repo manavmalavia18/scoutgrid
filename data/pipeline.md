@@ -1795,3 +1795,7 @@
 - [ ] https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03 | hifi | Security Software Engineer | New York City | posted: 2026-11-04
 
 - [ ] https://jobs.ashbyhq.com/onehealth/74b7b3d5-babd-4da1-9608-cf850b446632 | onehealth | Software Engineer & Product | United States | posted: 2026-11-07
+
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4482808009 | grvty | Software Engineer - Directed Energy | Albuquerque, New Mexico, United States | posted: 2026-11-08
+- [ ] https://jobs.ashbyhq.com/base-power/e60a8f23-b542-43df-a4b5-c17b1afa4c25 | base-power | Software Engineer, Backend - Factory Software | Austin, TX | posted: 2026-11-08
+- [ ] https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640 | base-power | Software Engineer, Backend - Member Software | Austin, TX | posted: 2026-11-08
