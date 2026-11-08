@@ -1604,4 +1604,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/onehealth/74b7b3d5-babd-4da1-9608-cf850b446632 | onehealth | Software Engineer & Product | United States | posted: 2026-11-07
 
+- [ ] https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640 | base-power | Software Engineer, Backend - Member Software | Austin, TX | posted: 2026-11-08
+
 ## Processed
