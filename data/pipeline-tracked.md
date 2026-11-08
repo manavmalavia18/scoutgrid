@@ -1506,4 +1506,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640 | BASE | Software Engineer, Backend - Member Software | Austin, TX | posted: 2026-11-08
 - [ ] https://jobs.ashbyhq.com/base-power/e60a8f23-b542-43df-a4b5-c17b1afa4c25 | BASE | Software Engineer, Backend - Factory Software | Austin, TX | posted: 2026-11-08
 
+- [ ] https://jobs.ashbyhq.com/base-power/5ea771cb-099f-40e7-a73f-a813494dc037 | BASE | Software Engineer, Distributed Compute | Austin, TX | posted: 2026-11-08
+
 ## Processed
