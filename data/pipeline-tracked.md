@@ -1508,4 +1508,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/base-power/5ea771cb-099f-40e7-a73f-a813494dc037 | BASE | Software Engineer, Distributed Compute | Austin, TX | posted: 2026-11-08
 
+- [ ] https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3 | BASE | Software Engineer, Backend - Deployments | Austin, TX | posted: 2026-11-09
+
 ## Processed
