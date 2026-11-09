@@ -1805,3 +1805,5 @@
 - [ ] https://jobs.ashbyhq.com/garage/5119e260-d0e4-4ad1-b264-1951f7dcc3f8 | garage | Software Engineer, Growth | New York City | posted: 2026-11-08
 
 - [ ] https://job-boards.greenhouse.io/rackner/jobs/4752573005 | rackner | Software Automation & Platform Engineer — Federal Health IT | Remote — United States | posted: 2026-11-08
+
+- [ ] https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3 | base-power | Software Engineer, Backend - Deployments | Austin, TX | posted: 2026-11-09
