@@ -1537,4 +1537,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/base-power/71c01bd2-a940-43b1-9522-218204c201be | BASE | Software Engineer, Product - Deployments | Austin, TX | posted: 2026-11-09
 
+- [ ] https://jobs.smartrecruiters.com/nbcuniversal3/744000160686477 | NBCUniversal3 | Software Engineer | New York, NEW YORK, United States | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228 | Ramp | Software Engineer, Comms Platform | Remote (US) | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4472540009 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA USA | posted: 2026-11-09
+
 ## Processed
