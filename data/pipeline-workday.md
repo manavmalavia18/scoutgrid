@@ -1271,4 +1271,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://vertexinc.wd1.myworkdayjobs.com/vertexinc/job/Remote---URY/Software-Engineer-III_JR102620 | vertexinc | Software Engineer III | Remote URY | posted: 2026-11-09
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Software-Engineer--Full-Stack_REQ349848-1 | tmobile | T-Ads Engineer, Software Full Stack | 2 Locations | posted: 2026-11-09
+
 ## Processed
