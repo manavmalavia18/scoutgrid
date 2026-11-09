@@ -1833,3 +1833,6 @@
 - [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4472540009 | lilasciences | Co-op, Software, Platform Engineering | San Francisco, CA USA | posted: 2026-11-09
 - [ ] https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228 | ramp | Software Engineer, Comms Platform | Remote (US) | posted: 2026-11-09
 - [ ] https://jobs.ashbyhq.com/Vultr/f3faf050-f72b-4306-8cd0-7853eab4e558 | vultr | Site Reliability Engineer - Weekend | Remote - United States | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/mercor/6d1de461-c08d-419c-96cf-ed38083e0976 | mercor | Software Engineer, Systems & Platform Applied AI | San Francisco | posted: 2026-11-09
+- [ ] https://www.mks2.com/job/6253169004?gh_jid=6253169004 | mks2technologies | DevOps Engineer/Integrator (Secret Cleared) | Colorado Springs, CO | posted: 2026-11-09
