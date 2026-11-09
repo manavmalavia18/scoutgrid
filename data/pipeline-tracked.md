@@ -1523,4 +1523,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer_J00179430-1 | Equifax | Site Reliability Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-11-09
 - [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--AI-Agents_R0035438 | Epiq | Software Engineer, AI Agents | New York, NY | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/mirage/466c3648-fc4e-427d-a66f-ab67576fad69 | Mirage | Software Engineer, AI Developer Platform | Union Square, New York City | posted: 2026-11-09
+- [ ] https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-SC-Columbia/Application-Developer_WD232933 | Flex | Application Developer | USA, SC, Columbia | posted: 2026-11-09
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Infrastructure_R0035440 | Epiq | Software Engineer, Infrastructure | 2 Locations | posted: 2026-11-09
+
 ## Processed
