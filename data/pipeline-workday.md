@@ -1287,4 +1287,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS-PMTS_JR367127 | salesforce | Software Engineering LMTS/PMTS | 2 Locations | posted: 2026-11-09
 - [ ] https://pwc.wd3.myworkdayjobs.com/us_experienced_careers/job/NY-New-York/Tax-Innovation---Software-Engineering---Experienced-Associate_767775WD | pwc | Tax Innovation - Software Engineering - Experienced Associate | 4 Locations | posted: 2026-11-09
 
+- [ ] https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/Ashburn-Virginia/Software-Engineer_REQ_49395 | cubic | Software Engineer | 2 Locations | posted: 2026-11-09
+
 ## Processed
