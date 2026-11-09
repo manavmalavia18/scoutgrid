@@ -1811,3 +1811,5 @@
 - [ ] https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083 | base-power | Software Engineer, Backend - Base Power Platform | Austin, TX | posted: 2026-11-09
 
 - [ ] https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14 | loftorbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | posted: 2026-11-09
+
+- [ ] https://boards.greenhouse.io/redwoodmaterials/jobs/6248625004?gh_jid=6248625004 | redwoodmaterials | Software Engineer - Site Controller, Energy Storage | San Francisco, California, United States | posted: 2026-11-09
