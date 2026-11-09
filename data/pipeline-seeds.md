@@ -1616,4 +1616,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083 | base-power | Software Engineer, Backend - Base Power Platform | Austin, TX | posted: 2026-11-09
 - [ ] https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3 | base-power | Software Engineer, Backend - Deployments | Austin, TX | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/base-power/71c01bd2-a940-43b1-9522-218204c201be | base-power | Software Engineer, Product - Deployments | Austin, TX | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042 | notion | Software Engineer, Web Infrastructure | San Francisco, California · New York, New York · New York · United States | posted: 2026-11-09
+- [ ] https://www.coinbase.com/careers/positions/8139750?gh_jid=8139750 | coinbase | Software Engineer, Wallets, Liquidity and Bridging Team | Remote - USA | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008 | scopely | Full Stack Engineer | US - United States | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5289370007?gh_jid=5289370007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mirage/e812e12d-465b-4dfa-90b1-085ac29ab848 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mirage/794a57cc-daf6-4636-b295-81e892418414 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mirage/116d0417-6235-44e8-be17-80f0891ed16b | mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5289345007?gh_jid=5289345007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mirage/466c3648-fc4e-427d-a66f-ab67576fad69 | mirage | Software Engineer, AI Developer Platform | Union Square, New York City | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/redwoodmaterials/jobs/6248625004?gh_jid=6248625004 | redwoodmaterials | Software Engineer - Site Controller, Energy Storage | San Francisco, California, United States | posted: 2026-11-09
+- [ ] https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14 | loftorbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | posted: 2026-11-09
+
 ## Processed
