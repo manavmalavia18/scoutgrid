@@ -1815,3 +1815,7 @@
 - [ ] https://boards.greenhouse.io/redwoodmaterials/jobs/6248625004?gh_jid=6248625004 | redwoodmaterials | Software Engineer - Site Controller, Energy Storage | San Francisco, California, United States | posted: 2026-11-09
 
 - [ ] https://jobs.ashbyhq.com/mirage/466c3648-fc4e-427d-a66f-ab67576fad69 | mirage | Software Engineer, AI Developer Platform | Union Square, New York City | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/mirage/e812e12d-465b-4dfa-90b1-085ac29ab848 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mirage/794a57cc-daf6-4636-b295-81e892418414 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mirage/116d0417-6235-44e8-be17-80f0891ed16b | mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-11-09
