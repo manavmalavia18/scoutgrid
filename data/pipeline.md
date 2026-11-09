@@ -1853,3 +1853,6 @@
 - [ ] https://jobs.ashbyhq.com/everai/6f9797f8-0768-4cf5-8112-7c8fe213f652 | everai | LLM Engineer - Post-Training (Remote - Europe) | Europe · Remote | posted: 2026-11-09
 
 - [ ] https://jobs.ashbyhq.com/pylon/ec7069c3-be77-4885-aed3-aa64f8f71f39 | pylon | Generalist Software Engineer(s) | Menlo Park Office · Palo Alto · San Francisco · United States | posted: 2026-11-09
+
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752670005 | assemblyai | Enterprise Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752669005 | assemblyai | Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
