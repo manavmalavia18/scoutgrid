@@ -1842,3 +1842,6 @@
 - [ ] https://job-boards.greenhouse.io/leolabsinc/jobs/4479465009 | leolabsinc | Full Stack Software Engineer | Remote · Remote | posted: 2026-11-09
 
 - [ ] https://job-boards.greenhouse.io/redcellpartners/jobs/5253392007 | redcellpartners | ML Engineer, Retrieval & Grounded Generation | Remote, USA | posted: 2026-11-09
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5289370007?gh_jid=5289370007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5289345007?gh_jid=5289345007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-09
