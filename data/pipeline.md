@@ -1845,3 +1845,5 @@
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5289370007?gh_jid=5289370007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-09
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5289345007?gh_jid=5289345007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-09
+
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/8360497 | gusto | Software Engineer, Financial Data & Payments | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | posted: 2026-11-09
