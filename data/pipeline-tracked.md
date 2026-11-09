@@ -1535,4 +1535,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762 | Northrop Grumman | 2027 - Associate Cyber Software Engineer - San Antonio TX | United States-Texas-San Antonio | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/base-power/71c01bd2-a940-43b1-9522-218204c201be | BASE | Software Engineer, Product - Deployments | Austin, TX | posted: 2026-11-09
+
 ## Processed
