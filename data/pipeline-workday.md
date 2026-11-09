@@ -1263,4 +1263,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers/job/Virtual-Arizona/AI---ML-DevOps-Engineer_JR13496-1 | honorhealth | AI - ML DevOps Engineer | Virtual Arizona | posted: 2026-11-07
 
+- [ ] https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0139000 | paypal | Software Engineer | Scottsdale, Arizona, United States of America | posted: 2026-11-09
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer_J00179430-1 | equifax | Site Reliability Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-11-09
+
 ## Processed
