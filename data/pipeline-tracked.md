@@ -1561,4 +1561,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752670005 | AssemblyAI | Enterprise Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
 - [ ] https://jobs.ashbyhq.com/pylon/ec7069c3-be77-4885-aed3-aa64f8f71f39 | Use Pylon | Generalist Software Engineer(s) | Menlo Park Office · Palo Alto · San Francisco · United States | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3 | Ramp | Software Engineer, Security, Stablecoin | New York, NY (HQ) · San Francisco, CA · San Fransisco · USA · Remote (US) · United States | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mercor/4b0920c5-49f9-4851-a8ca-26825ff570f8 | MERCOR | Software Engineer, Applied AI- Evals | San Francisco | posted: 2026-11-09
+- [ ] https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/Software-Engineer_JR1000035 | Postman | Software Engineer, Observability | San Francisco, CA, US | posted: 2026-11-09
+
 ## Processed
