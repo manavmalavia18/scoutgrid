@@ -1273,4 +1273,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Software-Engineer--Full-Stack_REQ349848-1 | tmobile | T-Ads Engineer, Software Full Stack | 2 Locations | posted: 2026-11-09
 
+- [ ] https://accuray.wd5.myworkdayjobs.com/external/job/Remote---US/Fullstack-Engineer_3309-1 | accuray | Fullstack Engineer | Remote - US | posted: 2026-11-09
+
 ## Processed
