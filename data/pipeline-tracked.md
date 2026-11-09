@@ -1567,4 +1567,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Software-Development-Engineer-II--Advertising-Technology_R-110864-1 | Expedia | Software Development Engineer II, Advertising Technology | USA - Illinois - Chicago | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47 | OpenAI | Full-Stack Software Engineer, Child Safety Tools & Systems | San Francisco · New York City · New York · United States | posted: 2026-11-09
+- [ ] https://rakuten.wd1.myworkdayjobs.com/rakutenrewards/job/San-Mateo-California/Platform-Engineer_1036999-1 | Rakuten Group | Platform Engineer | San Mateo, California | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/9e595896-59ee-4395-a2f8-633fbfc24c14 | Spring Health | Software Engineer II, Client Experience, Cost Journey | New York (Hybrid) | posted: 2026-11-09
+
 ## Processed
