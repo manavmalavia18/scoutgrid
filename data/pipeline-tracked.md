@@ -1529,4 +1529,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008 | Scopely | Full Stack Engineer | US - Culver City, California, United States | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042 | Notion | Software Engineer, Web Infrastructure | San Francisco, California · New York, New York · New York · United States | posted: 2026-11-09
+
 ## Processed
