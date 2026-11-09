@@ -1557,4 +1557,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/eqtcorporation/jobs/5475011008 | EQT Corporation | AI Engineer I/II/III | Remote · Remote | posted: 2026-11-09
 - [ ] https://jobs.smartrecruiters.com/aecom2/744000160723419 | AECOM | Digital Solutions Software Developer I | Remote | posted: 2026-11-09
 
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752669005 | AssemblyAI | Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752670005 | AssemblyAI | Enterprise Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/pylon/ec7069c3-be77-4885-aed3-aa64f8f71f39 | Use Pylon | Generalist Software Engineer(s) | Menlo Park Office · Palo Alto · San Francisco · United States | posted: 2026-11-09
+
 ## Processed
