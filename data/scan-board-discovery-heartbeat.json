@@ -1,14 +1,24 @@
 {
-  "at": "2026-11-09T21:09:55.641Z",
-  "leadsScanned": 5664,
-  "totalBoardsKnown": 2223,
-  "alreadyTracked": 2220,
-  "newlyPromoted": 3,
+  "at": "2026-11-09T21:50:49.575Z",
+  "leadsScanned": 5696,
+  "totalBoardsKnown": 2228,
+  "alreadyTracked": 2222,
+  "newlyPromoted": 6,
   "newBoards": [
+    {
+      "name": "CI Azumano Travel",
+      "careers_url": "https://job-boards.greenhouse.io/ciazumano",
+      "provider": "greenhouse"
+    },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
       "provider": "lever"
+    },
+    {
+      "name": "News Corp",
+      "careers_url": "https://dowjones.wd1.myworkdayjobs.com/news_corp_careers",
+      "provider": "workday"
     },
     {
       "name": "Montefiore Einstein Technology",
@@ -18,6 +28,11 @@
     {
       "name": "Elsevier",
       "careers_url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs",
+      "provider": "workday"
+    },
+    {
+      "name": "Zoetis",
+      "careers_url": "https://zoetis.wd5.myworkdayjobs.com/zoetis",
       "provider": "workday"
     }
   ]
