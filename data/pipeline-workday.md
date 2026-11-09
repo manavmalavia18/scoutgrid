@@ -1280,4 +1280,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752 | synchronyfinancial | API Software Development Engineer - I | 3 Locations | posted: 2026-11-09
 - [ ] https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Advisor-IT-Service-Owner_73652-1 | enbridge | Application Developer | Salt Lake City, UT, USA | posted: 2026-11-09
 
+- [ ] https://verily.wd1.myworkdayjobs.com/verily_careers/job/Boston-Massachusetts/Software-Engineer---Platform-agents_REQ-804 | verily | Software Engineer, Platform agents | Boston, Massachusetts | posted: 2026-11-09
+- [ ] https://phreesia.wd1.myworkdayjobs.com/phreesiacanada/job/Remote-Canada/Software-Engineer-4_R4887 | phreesia | Software Engineer 4 | Remote Canada | posted: 2026-11-09
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Backend-Software-Engineer---Agent-Foundation_R10259809 | ngc | Backend Software Engineer - Agent Foundation | United States-Remote | posted: 2026-11-09
+
 ## Processed
