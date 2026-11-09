@@ -1544,4 +1544,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752 | Synchronyfinancial | API Software Development Engineer - I | 3 Locations | posted: 2026-11-09
 - [ ] https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185 | Sur La Table | Junior Software Engineer | Remote - Toronto | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/mercor/6d1de461-c08d-419c-96cf-ed38083e0976 | MERCOR | Software Engineer, Applied AI - Systems | San Francisco | posted: 2026-11-09
+- [ ] https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Advisor-IT-Service-Owner_73652-1 | Enbridge | Application Developer | Salt Lake City, UT, USA | posted: 2026-11-09
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499 | Northrop Grumman | 2027 Associate/Software Engineer Pathways Linthicum MA | United States-Maryland-Linthicum | posted: 2026-11-09
+
 ## Processed
