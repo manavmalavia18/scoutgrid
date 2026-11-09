@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T23:20:52.579Z",
+  "fetchedAt": "2026-11-09T02:36:05.764Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -21,11 +21,11 @@
     "product analyst"
   ],
   "days": 2,
-  "pagesFetched": 0,
+  "pagesFetched": 1,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "data engineer": null,
+    "data engineer": 6,
     "data analyst": null,
     "data scientist": null,
     "etl developer": null,
@@ -39,6 +39,157 @@
     "data warehouse engineer": null,
     "product analyst": null
   },
-  "count": 0,
-  "jobs": []
+  "count": 6,
+  "jobs": [
+    {
+      "title": "Associate AI/ML Engineer",
+      "url": "https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2390921&lang=en",
+      "company": "UnitedHealth Group",
+      "location": "United States",
+      "postedAt": 1794180846285,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience with AI/GenAI or LLM applications; experience with Spark, Scala, Python, event-streaming platforms, cloud data platforms like Azure Databricks or Snowflake, and GenAI orchestration frameworks.",
+      "tools": [
+        "Spark",
+        "Scala",
+        "Python",
+        "Azure Databricks",
+        "Snowflake",
+        "Apache Kafka",
+        "Azure Event Hubs",
+        "Azure OpenAI",
+        "OpenAI",
+        "Anthropic",
+        "Amazon Bedrock",
+        "LangChain"
+      ],
+      "company_tagline": "A global healthcare organization delivering care aided by technology to help people live healthier lives.",
+      "ats_source": "taleo_careersection",
+      "discoveredAt": "2026-11-09T02:36:05.763Z",
+      "lastSeenAt": "2026-11-09T02:36:05.763Z"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04",
+      "company": "Formulary Financial",
+      "location": "New York City, New York, United States",
+      "postedAt": 1794172624966,
+      "salary": "$52k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Internship · Full Time",
+      "yoe": "",
+      "summary": "Pursuing bachelor's degree in quantitative field, graduating 2028/2029; strong Python and SQL; experience with messy data; available full-time 8 weeks, 4 days on-site in NYC; authorized to work in US without sponsorship.",
+      "tools": [
+        "Python",
+        "SQL",
+        "TypeScript",
+        "React",
+        "MCP",
+        "LLM",
+        "Claude",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "company_tagline": "A financial technology company providing AI-powered operations and data services to asset management firms.",
+      "ats_source": "ashby",
+      "discoveredAt": "2026-11-09T02:36:05.763Z",
+      "lastSeenAt": "2026-11-09T02:36:05.763Z"
+    },
+    {
+      "title": "10333 - Residency Maintenance Inspector",
+      "url": "https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005/requisitions/job/13670",
+      "company": "Virginia Department of Transportation",
+      "location": "Salem, Virginia, United States",
+      "postedAt": 1794156667000,
+      "salary": "$45k-$74k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Ability to collect and analyze data, communicate effectively, obtain Basic/Intermediate Work Zone Safety, flagging, CPR/AED, Bloodborne Pathogens, Soils/Aggregate Compaction, ACI Concrete, Asphalt Field Level I, DEQ RLD certifications within 12 months; valid driver's license; safety shoes required.",
+      "tools": [
+        "LCAMS",
+        "LUPS",
+        "CEDAR",
+        "Microsoft Office"
+      ],
+      "company_tagline": "A state agency responsible for maintaining and inspecting highway infrastructure and ensuring compliance with transportation standards.",
+      "ats_source": "oraclecloud",
+      "discoveredAt": "2026-11-09T02:36:05.763Z",
+      "lastSeenAt": "2026-11-09T02:36:05.763Z"
+    },
+    {
+      "title": "Data Center Hardware Engineering - Hardware Technician",
+      "url": "https://jobs.apple.com/en-us/details/200693785-0157/data-center-hardware-engineering-hardware-technician",
+      "company": "Apple",
+      "location": "Austin, Texas, United States",
+      "postedAt": 1794154880950,
+      "salary": "",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years high-precision manual assembly and rework of circuit boards; expert hand-soldering of BGA, LGA, QFN, CSP; skilled with oscilloscopes, logic analyzers, DMMs, power supplies; able to read schematics and PCB layouts; lift up to 35 lbs.",
+      "tools": [
+        "oscilloscope",
+        "logic analyzer",
+        "DMM",
+        "power supply",
+        "soldering iron",
+        "hot air",
+        "preheater",
+        "hot plate",
+        "BGA rework station",
+        "Ersa HR550",
+        "X-ray inspection",
+        "Python"
+      ],
+      "company_tagline": "A technology company that designs and delivers high-performance compute solutions for global infrastructure.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-09T02:36:05.763Z",
+      "lastSeenAt": "2026-11-09T02:36:05.763Z"
+    },
+    {
+      "title": "Engineer, CPU Performance Verification",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5284404007",
+      "company": "Tenstorrent",
+      "location": "Austin or Santa Clara",
+      "postedAt": 1794154862000,
+      "salary": "$100k-$500k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience analyzing CPU performance data, building tools, skilled in C++ and Python, knowledgeable in CPU architecture and microarchitecture, proficient in debugging RTL, exposure to performance modeling and RTL-to-model correlation.",
+      "tools": [
+        "C++",
+        "Python"
+      ],
+      "company_tagline": "A technology company developing high-performance RISC-V CPUs and AI platforms.",
+      "ats_source": "grnhse",
+      "discoveredAt": "2026-11-09T02:36:05.763Z",
+      "lastSeenAt": "2026-11-09T02:36:05.763Z"
+    },
+    {
+      "title": "Developer",
+      "url": "https://careers.hcltech.com/job/Developer/1375768855/",
+      "company": "HCLTech",
+      "location": "New York City, New York, United States",
+      "postedAt": 1794132763429,
+      "salary": "$45k-$86k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Technical degree or equivalent; proven hands-on experience with robotic systems; configuration management; data collection and labeling; familiarity with ROS, Unity, Gazebo desirable; strong communication and attention to detail.",
+      "tools": [
+        "ROS",
+        "Unity",
+        "Gazebo"
+      ],
+      "company_tagline": "A global IT services and technology company delivering digital, engineering, cloud, and AI solutions.",
+      "ats_source": "successfactors",
+      "discoveredAt": "2026-11-09T02:36:05.763Z",
+      "lastSeenAt": "2026-11-09T02:36:05.763Z"
+    }
+  ]
 }
