@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-09T20:13:55.340Z",
+  "fetchedAt": "2026-11-09T20:39:34.743Z",
   "days": 2,
   "leadCount": 53,
-  "jobCount": 23,
+  "jobCount": 26,
   "boards": [
     {
       "key": "greenhouse:mesh",
@@ -15,23 +15,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:scaleai",
+      "fetched": 170,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:figma",
       "fetched": 146,
       "kept": 0
     },
     {
-      "key": "greenhouse:wehrtyou",
-      "fetched": 83,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:verkada",
       "fetched": 342,
-      "kept": 0
+      "kept": 1
     },
     {
-      "key": "greenhouse:formlabs",
-      "fetched": 239,
+      "key": "greenhouse:wehrtyou",
+      "fetched": 83,
       "kept": 0
     },
     {
@@ -40,8 +40,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:calif",
-      "fetched": 1,
+      "key": "greenhouse:formlabs",
+      "fetched": 239,
       "kept": 0
     },
     {
@@ -50,8 +50,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:pinterest",
-      "fetched": 166,
+      "key": "greenhouse:calif",
+      "fetched": 1,
       "kept": 0
     },
     {
@@ -60,9 +60,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:lyft",
-      "fetched": 160,
-      "kept": 1
+      "key": "greenhouse:pinterest",
+      "fetched": 167,
+      "kept": 0
     },
     {
       "key": "greenhouse:canonical",
@@ -70,8 +70,13 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:lyft",
+      "fetched": 159,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:fanduel",
-      "fetched": 96,
+      "fetched": 95,
       "kept": 3
     },
     {
@@ -80,19 +85,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:scaleai",
-      "fetched": 170,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:billtrust",
       "fetched": 24,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:spacex",
-      "fetched": 2906,
-      "kept": 7
     },
     {
       "key": "ashby:gigaml",
@@ -110,13 +105,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:physicalintelligence",
-      "fetched": 44,
+      "key": "ashby:openai",
+      "fetched": 812,
       "kept": 0
     },
     {
-      "key": "ashby:whoop",
-      "fetched": 120,
+      "key": "ashby:baseten",
+      "fetched": 101,
       "kept": 0
     },
     {
@@ -125,24 +120,34 @@
       "kept": 0
     },
     {
+      "key": "ashby:whoop",
+      "fetched": 121,
+      "kept": 1
+    },
+    {
+      "key": "ashby:physicalintelligence",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
       "key": "ashby:thumbtack",
       "fetched": 38,
       "kept": 1
     },
     {
-      "key": "ashby:baseten",
-      "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "ashby:snowflake",
-      "fetched": 370,
-      "kept": 0
-    },
-    {
       "key": "ashby:garage",
       "fetched": 18,
       "kept": 2
+    },
+    {
+      "key": "ashby:base-power",
+      "fetched": 197,
+      "kept": 6
+    },
+    {
+      "key": "ashby:snowflake",
+      "fetched": 369,
+      "kept": 0
     },
     {
       "key": "ashby:resolution",
@@ -155,11 +160,6 @@
       "kept": 0
     },
     {
-      "key": "ashby:base-power",
-      "fetched": 197,
-      "kept": 6
-    },
-    {
       "key": "ashby:wayve",
       "fetched": 172,
       "kept": 0
@@ -170,13 +170,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:waymo",
-      "fetched": 367,
-      "kept": 0
-    },
-    {
-      "key": "lever:artera",
-      "fetched": 8,
+      "key": "lever:entefy",
+      "fetched": 14,
       "kept": 0
     },
     {
@@ -185,28 +180,8 @@
       "kept": 0
     },
     {
-      "key": "lever:wealthfront",
-      "fetched": 23,
-      "kept": 0
-    },
-    {
-      "key": "lever:entefy",
-      "fetched": 14,
-      "kept": 0
-    },
-    {
-      "key": "lever:aeva",
-      "fetched": 46,
-      "kept": 0
-    },
-    {
-      "key": "ashby:openai",
-      "fetched": 812,
-      "kept": 0
-    },
-    {
-      "key": "lever:atomcomputing",
-      "fetched": 42,
+      "key": "greenhouse:waymo",
+      "fetched": 367,
       "kept": 0
     },
     {
@@ -215,8 +190,18 @@
       "kept": 0
     },
     {
-      "key": "lever:penumbrainc",
-      "fetched": 68,
+      "key": "lever:atomcomputing",
+      "fetched": 42,
+      "kept": 0
+    },
+    {
+      "key": "lever:arraylabs.io",
+      "fetched": 32,
+      "kept": 0
+    },
+    {
+      "key": "lever:aeva",
+      "fetched": 46,
       "kept": 0
     },
     {
@@ -235,13 +220,13 @@
       "kept": 0
     },
     {
-      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
-      "fetched": 20,
-      "kept": 0
+      "key": "greenhouse:spacex",
+      "fetched": 2906,
+      "kept": 7
     },
     {
-      "key": "workday:ghr.wd1.myworkdayjobs.com/us-emplsv",
-      "fetched": 19,
+      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -250,9 +235,19 @@
       "kept": 0
     },
     {
+      "key": "workday:ghr.wd1.myworkdayjobs.com/us-emplsv",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "workday:monolithicpower.wd12.myworkdayjobs.com/mps_careers",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "key": "workday:visa.wd5.myworkdayjobs.com/visa",
+      "fetched": 80,
+      "kept": 2
     },
     {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
@@ -260,17 +255,32 @@
       "kept": 0
     },
     {
-      "key": "workday:visa.wd5.myworkdayjobs.com/visa",
-      "fetched": 80,
-      "kept": 1
+      "key": "lever:penumbrainc",
+      "fetched": 68,
+      "kept": 0
     },
     {
-      "key": "lever:arraylabs.io",
-      "fetched": 32,
+      "key": "lever:artera",
+      "fetched": 8,
+      "kept": 0
+    },
+    {
+      "key": "lever:wealthfront",
+      "fetched": 23,
       "kept": 0
     }
   ],
   "jobs": [
+    {
+      "title": "Senior Software Engineer, Business Systems - Data Trust",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5264711007",
+      "company": "Verkada",
+      "location": "San Mateo, CA United States",
+      "postedAt": "2026-11-09T20:25:22.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "verkada"
+    },
     {
       "title": "Senior Site Reliability Engineer, SecOps",
       "url": "https://job-boards.greenhouse.io/cmt/jobs/8353881",
@@ -322,76 +332,6 @@
       "board": "fanduel"
     },
     {
-      "title": "Sr. Full Stack Engineer, Fight Software",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8934570002?gh_jid=8934570002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-11-09T01:48:11.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Full Stack Software Engineer, Manufacturing Systems",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8934569002?gh_jid=8934569002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-09T01:30:36.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Full Stack Software Engineer",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8934568002?gh_jid=8934568002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-09T01:29:53.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Full Stack Software Engineer, Manufacturing Systems ",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8934567002?gh_jid=8934567002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-09T01:29:14.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Full Stack Software Engineer, Internal Platforms",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8934566002?gh_jid=8934566002",
-      "company": "SpaceX",
-      "location": "Starbase, TX",
-      "postedAt": "2026-11-09T01:18:42.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Full Stack Software Engineer, Internal Platforms",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-11-09T01:15:11.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Principal Site Reliability Engineer (Vehicle Engineering)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8934560002?gh_jid=8934560002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-08T22:49:29.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
       "title": "Software Engineer, Comms Platform",
       "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228",
       "company": "Ramp",
@@ -400,6 +340,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "ramp"
+    },
+    {
+      "title": "Software Engineer I (Backend, Growth)",
+      "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622",
+      "company": "WHOOP",
+      "location": "Boston, MA",
+      "postedAt": "2026-11-09T20:25:03.852Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "whoop"
     },
     {
       "title": "Senior Software Engineer, Developer Experience",
@@ -490,6 +440,87 @@
       "salary": "",
       "ats": "Ashby",
       "board": "base-power"
+    },
+    {
+      "title": "Sr. Full Stack Engineer, Fight Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934570002?gh_jid=8934570002",
+      "company": "SpaceX",
+      "location": "Hawthorne, CA",
+      "postedAt": "2026-11-09T01:48:11.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Sr. Full Stack Software Engineer, Manufacturing Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934569002?gh_jid=8934569002",
+      "company": "SpaceX",
+      "location": "Bastrop, TX",
+      "postedAt": "2026-11-09T01:30:36.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Sr. Full Stack Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934568002?gh_jid=8934568002",
+      "company": "SpaceX",
+      "location": "Bastrop, TX",
+      "postedAt": "2026-11-09T01:29:53.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Full Stack Software Engineer, Manufacturing Systems ",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934567002?gh_jid=8934567002",
+      "company": "SpaceX",
+      "location": "Bastrop, TX",
+      "postedAt": "2026-11-09T01:29:14.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Full Stack Software Engineer, Internal Platforms",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934566002?gh_jid=8934566002",
+      "company": "SpaceX",
+      "location": "Starbase, TX",
+      "postedAt": "2026-11-09T01:18:42.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Full Stack Software Engineer, Internal Platforms",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002",
+      "company": "SpaceX",
+      "location": "Hawthorne, CA",
+      "postedAt": "2026-11-09T01:15:11.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Principal Site Reliability Engineer (Vehicle Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934560002?gh_jid=8934560002",
+      "company": "SpaceX",
+      "location": "Bastrop, TX",
+      "postedAt": "2026-11-08T22:49:29.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Chief Software Engineer, Database Architecture",
+      "url": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Chief-SW-Engineer_REF089194W",
+      "company": "Visa",
+      "location": "US - Austin, TX",
+      "postedAt": "2026-11-09T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "visa",
+      "postedAtSource": "workday-detail"
     },
     {
       "title": "Staff SW Engineer - Front-End / UI",
