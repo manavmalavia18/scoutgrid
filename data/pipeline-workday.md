@@ -1277,4 +1277,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762 | ngc | 2027 - Associate Cyber Software Engineer - San Antonio TX | United States-Texas-San Antonio | posted: 2026-11-09
 
+- [ ] https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752 | synchronyfinancial | API Software Development Engineer - I | 3 Locations | posted: 2026-11-09
+- [ ] https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Advisor-IT-Service-Owner_73652-1 | enbridge | Application Developer | Salt Lake City, UT, USA | posted: 2026-11-09
+
 ## Processed
