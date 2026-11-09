@@ -1266,4 +1266,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0139000 | paypal | Software Engineer | Scottsdale, Arizona, United States of America | posted: 2026-11-09
 - [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer_J00179430-1 | equifax | Site Reliability Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-11-09
 
+- [ ] https://pcg.wd1.myworkdayjobs.com/pcg_external_careers/job/United-States-Remote/Software-Engineer-2_JR102284 | pcg | Software Engineer 2 | United States (Remote) | posted: 2026-11-09
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-5_R1001167-1 | capitalone | Full Stack Engineer 5 | Chicago, IL | posted: 2026-11-09
+
 ## Processed
