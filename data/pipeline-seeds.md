@@ -1642,4 +1642,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/Vultr/f3faf050-f72b-4306-8cd0-7853eab4e558 | vultr | Site Reliability Engineer - Weekend | Remote - United States | posted: 2026-11-09
 - [ ] https://jobs.lever.co/questanalytics/0ef2155f-a1d9-4af8-a81d-917177c7e6d8 | questanalytics | Software Engineer | United States | posted: 2026-11-09
 
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752670005 | assemblyai | Enterprise Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752669005 | assemblyai | Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/pylon/ec7069c3-be77-4885-aed3-aa64f8f71f39 | pylon | Generalist Software Engineer(s) | Menlo Park Office · Palo Alto · San Francisco · United States | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | cohere | Applied AI Engineer, Agents & Automations | Toronto · Canada · New York · United States · United Kingdom · Ottawa · Montreal · Remote | posted: 2026-11-03
+- [ ] https://jobs.ashbyhq.com/rula/93215a80-a855-4b86-8e5c-e4ee29d64bdf | rula | Software Engineer II | Remote - United States | posted: 2026-11-03
+
 ## Processed
