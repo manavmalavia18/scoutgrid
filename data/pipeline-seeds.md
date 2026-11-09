@@ -1606,4 +1606,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640 | base-power | Software Engineer, Backend - Member Software | Austin, TX | posted: 2026-11-08
 
+- [ ] https://job-boards.greenhouse.io/rackner/jobs/4752573005 | rackner | Software Automation & Platform Engineer — Federal Health IT | Remote — United States | posted: 2026-11-08
+- [ ] https://jobs.ashbyhq.com/base-power/5ea771cb-099f-40e7-a73f-a813494dc037 | base-power | Software Engineer, Distributed Compute | Austin, TX | posted: 2026-11-08
+- [ ] https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f | garage | Software Engineer, Design | New York City | posted: 2026-11-08
+- [ ] https://jobs.ashbyhq.com/garage/5119e260-d0e4-4ad1-b264-1951f7dcc3f8 | garage | Software Engineer, Growth | New York City | posted: 2026-11-08
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4482808009 | grvty | Software Engineer - Directed Energy | Albuquerque, New Mexico, United States | posted: 2026-11-08
+- [ ] https://jobs.ashbyhq.com/base-power/e60a8f23-b542-43df-a4b5-c17b1afa4c25 | base-power | Software Engineer, Backend - Factory Software | Austin, TX | posted: 2026-11-08
+
 ## Processed
