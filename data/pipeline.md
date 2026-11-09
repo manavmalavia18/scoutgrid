@@ -1829,3 +1829,7 @@
 - [ ] https://jobs.ashbyhq.com/base-power/71c01bd2-a940-43b1-9522-218204c201be | base-power | Software Engineer, Product - Deployments | Austin, TX | posted: 2026-11-09
 
 - [ ] https://jobs.lever.co/questanalytics/0ef2155f-a1d9-4af8-a81d-917177c7e6d8 | questanalytics | Software Engineer | United States | posted: 2026-11-09
+
+- [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4472540009 | lilasciences | Co-op, Software, Platform Engineering | San Francisco, CA USA | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228 | ramp | Software Engineer, Comms Platform | Remote (US) | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/Vultr/f3faf050-f72b-4306-8cd0-7853eab4e558 | vultr | Site Reliability Engineer - Weekend | Remote - United States | posted: 2026-11-09
