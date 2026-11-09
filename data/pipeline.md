@@ -1851,3 +1851,5 @@
 - [ ] https://job-boards.greenhouse.io/eqtcorporation/jobs/5475011008 | eqtcorporation | AI Engineer I/II/III | Remote · Remote | posted: 2026-11-09
 
 - [ ] https://jobs.ashbyhq.com/everai/6f9797f8-0768-4cf5-8112-7c8fe213f652 | everai | LLM Engineer - Post-Training (Remote - Europe) | Europe · Remote | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/pylon/ec7069c3-be77-4885-aed3-aa64f8f71f39 | pylon | Generalist Software Engineer(s) | Menlo Park Office · Palo Alto · San Francisco · United States | posted: 2026-11-09
