@@ -1518,4 +1518,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Platform-Engineer--Cybersecurity--Operations_26997079 | Citi | Data Platform Engineer, Cybersecurity Operations | Irving Texas United States | posted: 2026-11-09
 - [ ] https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | posted: 2026-11-09
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS-PMTS_JR367127 | Salesforce | Software Engineering LMTS/PMTS | 2 Locations | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/redwoodmaterials/jobs/6248625004?gh_jid=6248625004 | Redwood Materials | Software Engineer - Site Controller, Energy Storage | San Francisco, California, United States | posted: 2026-11-09
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer_J00179430-1 | Equifax | Site Reliability Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-11-09
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--AI-Agents_R0035438 | Epiq | Software Engineer, AI Agents | New York, NY | posted: 2026-11-09
+
 ## Processed
