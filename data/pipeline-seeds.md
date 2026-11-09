@@ -1613,4 +1613,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4482808009 | grvty | Software Engineer - Directed Energy | Albuquerque, New Mexico, United States | posted: 2026-11-08
 - [ ] https://jobs.ashbyhq.com/base-power/e60a8f23-b542-43df-a4b5-c17b1afa4c25 | base-power | Software Engineer, Backend - Factory Software | Austin, TX | posted: 2026-11-08
 
+- [ ] https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083 | base-power | Software Engineer, Backend - Base Power Platform | Austin, TX | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3 | base-power | Software Engineer, Backend - Deployments | Austin, TX | posted: 2026-11-09
+
 ## Processed
