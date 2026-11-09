@@ -1,10 +1,11 @@
 {
-  "fetchedAt": "2026-11-09T21:45:33.603Z",
+  "fetchedAt": "2026-11-09T22:07:25.358Z",
   "scrapedAt": "2026-11-09T14:25:48.518055+00:00",
   "source": [
-    "jobright-cache"
+    "jobright-cache",
+    "hiringcafe"
   ],
-  "companyCount": 61,
+  "companyCount": 74,
   "companies": [
     {
       "company": "Aeva",
@@ -12,6 +13,13 @@
       "board": "aeva",
       "key": "lever:aeva",
       "url": "https://jobs.lever.co/aeva/bab05e15-d7ce-430a-a91c-e0f1a1034d62/apply"
+    },
+    {
+      "company": "Allied Universal",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:1744767",
+      "url": "https://corporatecareers-aus.icims.com/jobs/1744767/solutions-architect/job?in_iframe=1"
     },
     {
       "company": "Amerisure Insurance",
@@ -84,11 +92,25 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=billtrust&token=7790504003"
     },
     {
+      "company": "Boston University",
+      "ats": "greenhouse",
+      "board": "external",
+      "key": "greenhouse:external",
+      "url": "https://jobs.silkroad.com/BU/External/jobs/317541?embedded=true"
+    },
+    {
       "company": "Brillio",
       "ats": "lever",
       "board": "brillio-2",
       "key": "lever:brillio-2",
       "url": "https://jobs.lever.co/brillio-2/a5e236d9-bcb0-424f-aeb5-f1362763ba85/apply"
+    },
+    {
+      "company": "CACI",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:caci.wd1.myworkdayjobs.com/external",
+      "url": "https://caci.wd1.myworkdayjobs.com/external"
     },
     {
       "company": "Calif",
@@ -124,6 +146,13 @@
       "board": "capco",
       "key": "greenhouse:capco",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=capco&token=8178266"
+    },
+    {
+      "company": "CI Azumano Travel",
+      "ats": "greenhouse",
+      "board": "ciazumano",
+      "key": "greenhouse:ciazumano",
+      "url": "https://job-boards.greenhouse.io/ciazumano/jobs/4751421005"
     },
     {
       "company": "Confido",
@@ -231,6 +260,13 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=industrialelectricmanufacturing&token=4327741009"
     },
     {
+      "company": "JLL",
+      "ats": "workday",
+      "board": "jllcareers",
+      "key": "workday:jll.wd1.myworkdayjobs.com/jllcareers",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers"
+    },
+    {
       "company": "Lennar",
       "ats": "workday",
       "board": "lennar_jobs",
@@ -273,6 +309,20 @@
       "url": "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers"
     },
     {
+      "company": "Netrio",
+      "ats": "greenhouse",
+      "board": "netrio",
+      "key": "greenhouse:netrio",
+      "url": "https://ats.rippling.com/netrio/jobs/791327bb-449d-46bc-b8ab-f5117cd2b782"
+    },
+    {
+      "company": "News Corp",
+      "ats": "workday",
+      "board": "news_corp_careers",
+      "key": "workday:dowjones.wd1.myworkdayjobs.com/news_corp_careers",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/news_corp_careers"
+    },
+    {
       "company": "OpenAI",
       "ats": "ashby",
       "board": "openai",
@@ -285,6 +335,13 @@
       "board": "optiverus",
       "key": "greenhouse:optiverus",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=optiverus&token=8538808002"
+    },
+    {
+      "company": "Parsons",
+      "ats": "workday",
+      "board": "search",
+      "key": "workday:parsons.wd5.myworkdayjobs.com/search",
+      "url": "https://parsons.wd5.myworkdayjobs.com/search"
     },
     {
       "company": "Penumbra, Inc.",
@@ -322,6 +379,13 @@
       "url": "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab/application"
     },
     {
+      "company": "Red Hat",
+      "ats": "workday",
+      "board": "jobs",
+      "key": "workday:redhat.wd5.myworkdayjobs.com/jobs",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs"
+    },
+    {
       "company": "Regeneron",
       "ats": "workday",
       "board": "careers",
@@ -336,11 +400,25 @@
       "url": "https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b/application"
     },
     {
+      "company": "RTX",
+      "ats": "workday",
+      "board": "rec_rtx_ext_gateway",
+      "key": "workday:globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway"
+    },
+    {
       "company": "Scale AI",
       "ats": "greenhouse",
       "board": "scaleai",
       "key": "greenhouse:scaleai",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=scaleai&token=4730836005"
+    },
+    {
+      "company": "Schneider Electric",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:127619",
+      "url": "https://careers.se.com/jobs/127619?lang=en-us"
     },
     {
       "company": "Smithfield Foods",
@@ -399,6 +477,13 @@
       "url": "https://visa.wd5.myworkdayjobs.com/visa"
     },
     {
+      "company": "VSP Vision",
+      "ats": "workday",
+      "board": "vspvisioncareers",
+      "key": "workday:vsp.wd1.myworkdayjobs.com/vspvisioncareers",
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers"
+    },
+    {
       "company": "Waymo",
       "ats": "greenhouse",
       "board": "waymo",
@@ -432,6 +517,13 @@
       "board": "whoop",
       "key": "ashby:whoop",
       "url": "https://jobs.ashbyhq.com/whoop/cdf31e5e-d62a-4a20-9e11-2675ce645d5d/application"
+    },
+    {
+      "company": "Zoetis",
+      "ats": "workday",
+      "board": "zoetis",
+      "key": "workday:zoetis.wd5.myworkdayjobs.com/zoetis",
+      "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis"
     }
   ]
 }
