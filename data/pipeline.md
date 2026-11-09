@@ -1860,3 +1860,5 @@
 - [ ] https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3 | ramp | Software Engineer, Security, Stablecoin | NYC · SF · San Fransisco · USA · Remote · United States | posted: 2026-11-09
 
 - [ ] https://jobs.ashbyhq.com/mercor/4b0920c5-49f9-4851-a8ca-26825ff570f8 | mercor | Software Engineer, Applied AI- Evals | San Francisco | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47 | openai | Full-Stack Software Engineer, Child Safety Tools & Systems | San Francisco · New York City · New York · United States | posted: 2026-11-09
