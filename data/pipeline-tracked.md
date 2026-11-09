@@ -1552,4 +1552,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Backend-Software-Engineer---Agent-Foundation_R10259809 | Northrop Grumman | Backend Software Engineer - Agent Foundation | United States-Remote | posted: 2026-11-09
 - [ ] https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/Applied-AI-Scientist--Small-Language-Model-and-AI-Training_JR1000004-1 | Postman | Applied AI Scientist, Small Language Model and AI Training | San Francisco, CA, US | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622 | Whoop | Software Engineer I (Backend, Growth) | Boston, MA | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/Gray%20Swan%20AI/db97869d-1eec-4aaa-837b-8d73b5286264 | Gray Swan AI | Software Engineer - ML Infrastructure | Remote U.S. or Pittsburgh, PA | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/eqtcorporation/jobs/5475011008 | EQT Corporation | AI Engineer I/II/III | Remote · Remote | posted: 2026-11-09
+- [ ] https://jobs.smartrecruiters.com/aecom2/744000160723419 | AECOM | Digital Solutions Software Developer I | Remote | posted: 2026-11-09
+
 ## Processed
