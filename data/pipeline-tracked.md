@@ -1548,4 +1548,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Advisor-IT-Service-Owner_73652-1 | Enbridge | Application Developer | Salt Lake City, UT, USA | posted: 2026-11-09
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499 | Northrop Grumman | 2027 Associate/Software Engineer Pathways Linthicum MA | United States-Maryland-Linthicum | posted: 2026-11-09
 
+- [ ] https://job-boards.greenhouse.io/redcellpartners/jobs/5253392007 | Red Cell Partners | ML Engineer, Retrieval & Grounded Generation | Remote, USA | posted: 2026-11-09
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Backend-Software-Engineer---Agent-Foundation_R10259809 | Northrop Grumman | Backend Software Engineer - Agent Foundation | United States-Remote | posted: 2026-11-09
+- [ ] https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/Applied-AI-Scientist--Small-Language-Model-and-AI-Training_JR1000004-1 | Postman | Applied AI Scientist, Small Language Model and AI Training | San Francisco, CA, US | posted: 2026-11-09
+
 ## Processed
