@@ -1862,3 +1862,5 @@
 - [ ] https://jobs.ashbyhq.com/mercor/4b0920c5-49f9-4851-a8ca-26825ff570f8 | mercor | Software Engineer, Applied AI- Evals | San Francisco | posted: 2026-11-09
 
 - [ ] https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47 | openai | Full-Stack Software Engineer, Child Safety Tools & Systems | San Francisco · New York City · New York · United States | posted: 2026-11-09
+
+- [ ] https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185 | cscgeneration-2 | Junior Software Engineer | Remote - Toronto | posted: 2026-11-09
