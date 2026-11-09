@@ -1269,4 +1269,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://pcg.wd1.myworkdayjobs.com/pcg_external_careers/job/United-States-Remote/Software-Engineer-2_JR102284 | pcg | Software Engineer 2 | United States (Remote) | posted: 2026-11-09
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-5_R1001167-1 | capitalone | Full Stack Engineer 5 | Chicago, IL | posted: 2026-11-09
 
+- [ ] https://vertexinc.wd1.myworkdayjobs.com/vertexinc/job/Remote---URY/Software-Engineer-III_JR102620 | vertexinc | Software Engineer III | Remote URY | posted: 2026-11-09
+
 ## Processed
