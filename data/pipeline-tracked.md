@@ -1571,4 +1571,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://rakuten.wd1.myworkdayjobs.com/rakutenrewards/job/San-Mateo-California/Platform-Engineer_1036999-1 | Rakuten Group | Platform Engineer | San Mateo, California | posted: 2026-11-09
 - [ ] https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/9e595896-59ee-4395-a2f8-633fbfc24c14 | Spring Health | Software Engineer II, Client Experience, Cost Journey | New York (Hybrid) | posted: 2026-11-09
 
+- [ ] https://job-boards.greenhouse.io/navapbc/jobs/4482367009 | Nava | Software Engineer (Backend-Java) | Remote · Remote US | posted: 2026-11-09
+
 ## Processed
