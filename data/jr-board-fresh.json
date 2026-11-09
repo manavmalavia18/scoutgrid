@@ -1,27 +1,17 @@
 {
-  "fetchedAt": "2026-11-09T22:29:50.623Z",
+  "fetchedAt": "2026-11-09T22:51:48.953Z",
   "days": 2,
   "leadCount": 56,
   "jobCount": 31,
   "boards": [
-    {
-      "key": "greenhouse:mesh",
-      "fetched": 24,
-      "kept": 0
-    },
     {
       "key": "greenhouse:ensco",
       "fetched": 31,
       "kept": 0
     },
     {
-      "key": "greenhouse:scaleai",
-      "fetched": 170,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:figma",
-      "fetched": 146,
+      "key": "greenhouse:mesh",
+      "fetched": 24,
       "kept": 0
     },
     {
@@ -30,14 +20,19 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:figma",
+      "fetched": 146,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:scaleai",
+      "fetched": 170,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:verkada",
       "fetched": 343,
       "kept": 2
-    },
-    {
-      "key": "greenhouse:cmt",
-      "fetched": 3,
-      "kept": 1
     },
     {
       "key": "greenhouse:calif",
@@ -45,14 +40,24 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:optiverus",
-      "fetched": 153,
+      "key": "greenhouse:cmt",
+      "fetched": 3,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:formlabs",
+      "fetched": 239,
       "kept": 0
     },
     {
-      "key": "greenhouse:lyft",
-      "fetched": 158,
-      "kept": 1
+      "key": "greenhouse:capco",
+      "fetched": 722,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:optiverus",
+      "fetched": 153,
+      "kept": 0
     },
     {
       "key": "greenhouse:pinterest",
@@ -65,18 +70,8 @@
       "kept": 3
     },
     {
-      "key": "greenhouse:waymo",
-      "fetched": 376,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:canonical",
       "fetched": 316,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:billtrust",
-      "fetched": 24,
       "kept": 0
     },
     {
@@ -85,18 +80,38 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:ciazumano",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:netrio",
       "fetched": 0,
       "kept": 0
     },
     {
+      "key": "greenhouse:billtrust",
+      "fetched": 24,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:lyft",
+      "fetched": 157,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:external",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:ciazumano",
+      "fetched": 6,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:waymo",
+      "fetched": 378,
+      "kept": 0
+    },
+    {
+      "key": "ashby:gigaml",
+      "fetched": 33,
       "kept": 0
     },
     {
@@ -106,12 +121,22 @@
     },
     {
       "key": "ashby:ramp",
-      "fetched": 176,
+      "fetched": 171,
       "kept": 2
     },
     {
-      "key": "greenhouse:capco",
-      "fetched": 722,
+      "key": "ashby:whoop",
+      "fetched": 120,
+      "kept": 1
+    },
+    {
+      "key": "ashby:decagon",
+      "fetched": 130,
+      "kept": 0
+    },
+    {
+      "key": "ashby:physicalintelligence",
+      "fetched": 44,
       "kept": 0
     },
     {
@@ -120,29 +145,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:gigaml",
-      "fetched": 33,
-      "kept": 0
-    },
-    {
       "key": "ashby:openai",
       "fetched": 814,
       "kept": 1
-    },
-    {
-      "key": "ashby:physicalintelligence",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "ashby:decagon",
-      "fetched": 130,
-      "kept": 0
-    },
-    {
-      "key": "ashby:snowflake",
-      "fetched": 379,
-      "kept": 0
     },
     {
       "key": "ashby:thumbtack",
@@ -150,29 +155,29 @@
       "kept": 1
     },
     {
+      "key": "ashby:wayve",
+      "fetched": 172,
+      "kept": 0
+    },
+    {
       "key": "ashby:garage",
       "fetched": 18,
       "kept": 2
     },
     {
-      "key": "ashby:whoop",
-      "fetched": 153,
-      "kept": 1
-    },
-    {
-      "key": "ashby:base-power",
-      "fetched": 200,
-      "kept": 6
-    },
-    {
-      "key": "ashby:wayve",
-      "fetched": 175,
-      "kept": 0
-    },
-    {
       "key": "ashby:resolution",
       "fetched": 5,
       "kept": 0
+    },
+    {
+      "key": "ashby:snowflake",
+      "fetched": 368,
+      "kept": 0
+    },
+    {
+      "key": "ashby:base-power",
+      "fetched": 197,
+      "kept": 6
     },
     {
       "key": "ashby:wealth-com",
@@ -181,12 +186,12 @@
     },
     {
       "key": "ashby:maintainx",
-      "fetched": 215,
+      "fetched": 209,
       "kept": 0
     },
     {
       "key": "greenhouse:spacex",
-      "fetched": 2910,
+      "fetched": 2909,
       "kept": 7
     },
     {
@@ -195,13 +200,18 @@
       "kept": 0
     },
     {
+      "key": "lever:until",
+      "fetched": 12,
+      "kept": 0
+    },
+    {
       "key": "lever:artera",
       "fetched": 8,
       "kept": 0
     },
     {
-      "key": "lever:until",
-      "fetched": 12,
+      "key": "lever:arraylabs.io",
+      "fetched": 32,
       "kept": 0
     },
     {
@@ -210,18 +220,13 @@
       "kept": 0
     },
     {
-      "key": "lever:aeva",
-      "fetched": 46,
+      "key": "lever:penumbrainc",
+      "fetched": 67,
       "kept": 0
     },
     {
       "key": "lever:atomcomputing",
       "fetched": 42,
-      "kept": 0
-    },
-    {
-      "key": "lever:arraylabs.io",
-      "fetched": 32,
       "kept": 0
     },
     {
@@ -245,6 +250,16 @@
       "kept": 0
     },
     {
+      "key": "lever:aeva",
+      "fetched": 46,
+      "kept": 0
+    },
+    {
+      "key": "workday:monolithicpower.wd12.myworkdayjobs.com/mps_careers",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
@@ -260,29 +275,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:formlabs",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "workday:monolithicpower.wd12.myworkdayjobs.com/mps_careers",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
       "fetched": 20,
       "kept": 0
     },
     {
       "key": "workday:visa.wd5.myworkdayjobs.com/visa",
-      "fetched": 79,
+      "fetched": 80,
       "kept": 3
-    },
-    {
-      "key": "lever:penumbrainc",
-      "fetched": 68,
-      "kept": 0
     }
   ],
   "jobs": [
@@ -315,16 +315,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "cmt"
-    },
-    {
-      "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8927340002?gh_jid=8927340002",
-      "company": "Lyft",
-      "location": "Seattle, WA",
-      "postedAt": "2026-11-09T18:25:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "lyft"
     },
     {
       "title": "Staff Software Engineer",
@@ -367,10 +357,20 @@
       "board": "fanduel"
     },
     {
+      "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8927340002?gh_jid=8927340002",
+      "company": "Lyft",
+      "location": "Seattle, WA",
+      "postedAt": "2026-11-09T18:25:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "lyft"
+    },
+    {
       "title": "Software Engineer, Security, Stablecoin",
       "url": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3",
       "company": "Ramp",
-      "location": "NYC · SF · San Fransisco · USA · Remote · United States",
+      "location": "New York, NY (HQ) · San Francisco, CA · San Fransisco · USA · Remote (US) · United States",
       "postedAt": "2026-11-09T22:11:13.205Z",
       "salary": "",
       "ats": "Ashby",
@@ -380,11 +380,21 @@
       "title": "Software Engineer, Backend, Comms Platform",
       "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228",
       "company": "Ramp",
-      "location": "Remote",
+      "location": "Remote (US)",
       "postedAt": "2026-11-09T18:22:09.221Z",
       "salary": "",
       "ats": "Ashby",
       "board": "ramp"
+    },
+    {
+      "title": "Software Engineer I (Backend, Growth)",
+      "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622",
+      "company": "WHOOP",
+      "location": "Boston, MA",
+      "postedAt": "2026-11-09T20:25:03.852Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "whoop"
     },
     {
       "title": "Manager, Applied AI Engineering (Codex)",
@@ -425,16 +435,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "garage"
-    },
-    {
-      "title": "Software Engineer I (Backend, Growth)",
-      "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622",
-      "company": "WHOOP",
-      "location": "Boston, MA",
-      "postedAt": "2026-11-09T20:25:03.852Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "whoop"
     },
     {
       "title": "Software Engineer, Product - Deployments",
