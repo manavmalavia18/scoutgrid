@@ -1836,3 +1836,5 @@
 
 - [ ] https://jobs.ashbyhq.com/mercor/6d1de461-c08d-419c-96cf-ed38083e0976 | mercor | Software Engineer, Systems & Platform Applied AI | San Francisco | posted: 2026-11-09
 - [ ] https://www.mks2.com/job/6253169004?gh_jid=6253169004 | mks2technologies | DevOps Engineer/Integrator (Secret Cleared) | Colorado Springs, CO | posted: 2026-11-09
+
+- [ ] https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991 | coinbase | Software Engineer-1 | Remote - USA | posted: 2026-11-09
