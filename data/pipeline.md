@@ -1858,3 +1858,5 @@
 - [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4752669005 | assemblyai | Applied AI Engineer | San Francisco, New York, London | posted: 2026-11-09
 
 - [ ] https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3 | ramp | Software Engineer, Security, Stablecoin | NYC · SF · San Fransisco · USA · Remote · United States | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/mercor/4b0920c5-49f9-4851-a8ca-26825ff570f8 | mercor | Software Engineer, Applied AI- Evals | San Francisco | posted: 2026-11-09
