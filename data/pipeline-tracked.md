@@ -1515,4 +1515,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/garage/5119e260-d0e4-4ad1-b264-1951f7dcc3f8 | Garage | Software Engineer, Growth | New York City | posted: 2026-11-08
 - [ ] https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f | Garage | Software Engineer, Design | New York City | posted: 2026-11-08
 
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Platform-Engineer--Cybersecurity--Operations_26997079 | Citi | Data Platform Engineer, Cybersecurity Operations | Irving Texas United States | posted: 2026-11-09
+- [ ] https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14 | Loft Orbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | posted: 2026-11-09
+
 ## Processed
