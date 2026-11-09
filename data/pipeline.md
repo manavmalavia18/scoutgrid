@@ -1809,3 +1809,5 @@
 - [ ] https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3 | base-power | Software Engineer, Backend - Deployments | Austin, TX | posted: 2026-11-09
 
 - [ ] https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083 | base-power | Software Engineer, Backend - Base Power Platform | Austin, TX | posted: 2026-11-09
+
+- [ ] https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14 | loftorbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | posted: 2026-11-09
