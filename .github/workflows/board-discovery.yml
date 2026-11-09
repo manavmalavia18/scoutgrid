@@ -34,17 +34,18 @@ jobs:
           else
             git commit -m "board-discovery: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             pushed=0
-            for attempt in 1 2 3; do
+            for attempt in 1 2 3 4 5 6 7 8; do
               git rebase --abort >/dev/null 2>&1 || true
               if git pull --rebase --quiet && git push; then
                 pushed=1
                 break
               fi
-              echo "push attempt $attempt failed, retrying..."
-              sleep 5
+              backoff=$((attempt * 8))
+              echo "push attempt $attempt failed, retrying in ${backoff}s..."
+              sleep $backoff
             done
             if [ "$pushed" != "1" ]; then
-              echo "::error::failed to push board discovery results after 3 attempts"
+              echo "::error::failed to push board discovery results after 8 attempts"
               exit 1
             fi
           fi

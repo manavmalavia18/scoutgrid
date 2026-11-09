@@ -1,0 +1,65 @@
+name: Company board probe (LinkedIn-lead resolution)
+
+on:
+  schedule:
+    - cron: '35 */6 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: company-board-probe
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --no-audit --no-fund
+
+      # Companies LinkedIn names but whose own url never resolves to a known
+      # ATS board (data/linkedin-unresolved-companies.json — written by
+      # fetch-linkedin-feed.py, previously never read by anything). Tries a
+      # few mechanically-derived slugs against Greenhouse/Ashby/Lever's real
+      # public APIs, only trusting a slug the API itself confirms with a
+      # real non-empty job list — see lib/company-board-probe.mjs for the
+      # full rationale. --limit 20 keeps this courteous to those APIs (up to
+      # 60 candidate URLs per run across 3 providers); runs every 6h so the
+      # unresolved backlog (currently ~100 companies) clears over a few
+      # days, not all at once. These are public, unauthenticated, read-only
+      # APIs — no Tailscale exit node needed here (unlike LinkedIn/
+      # HiringCafe's own guest-scrape endpoints).
+      - name: Probe unresolved LinkedIn companies against known ATS APIs
+        run: node probe-company-boards.mjs --limit 20
+
+      - name: Commit results
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add portals.yml data/
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "company-board-probe: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3 4 5 6 7 8; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              backoff=$((attempt * 8))
+              echo "push attempt $attempt failed, retrying in ${backoff}s..."
+              sleep $backoff
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push company-board-probe results after 8 attempts"
+              exit 1
+            fi
+          fi
