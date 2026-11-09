@@ -1813,3 +1813,5 @@
 - [ ] https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14 | loftorbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | posted: 2026-11-09
 
 - [ ] https://boards.greenhouse.io/redwoodmaterials/jobs/6248625004?gh_jid=6248625004 | redwoodmaterials | Software Engineer - Site Controller, Energy Storage | San Francisco, California, United States | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/mirage/466c3648-fc4e-427d-a66f-ab67576fad69 | mirage | Software Engineer, AI Developer Platform | Union Square, New York City | posted: 2026-11-09
