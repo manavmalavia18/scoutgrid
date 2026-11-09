@@ -1527,4 +1527,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-SC-Columbia/Application-Developer_WD232933 | Flex | Application Developer | USA, SC, Columbia | posted: 2026-11-09
 - [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Infrastructure_R0035440 | Epiq | Software Engineer, Infrastructure | 2 Locations | posted: 2026-11-09
 
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008 | Scopely | Full Stack Engineer | US - Culver City, California, United States | posted: 2026-11-09
+
 ## Processed
