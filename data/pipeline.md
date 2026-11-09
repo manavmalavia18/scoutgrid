@@ -1819,3 +1819,5 @@
 - [ ] https://jobs.ashbyhq.com/mirage/e812e12d-465b-4dfa-90b1-085ac29ab848 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-09
 - [ ] https://jobs.ashbyhq.com/mirage/794a57cc-daf6-4636-b295-81e892418414 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-11-09
 - [ ] https://jobs.ashbyhq.com/mirage/116d0417-6235-44e8-be17-80f0891ed16b | mirage | Software Engineer, Photoreal 3D | Union Square, New York City | posted: 2026-11-09
+
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008 | scopely | Full Stack Engineer | US - Culver City, California, United States | posted: 2026-11-09
