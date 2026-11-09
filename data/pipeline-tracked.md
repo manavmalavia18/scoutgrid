@@ -1512,4 +1512,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/base-power/f1faeca1-0545-44d2-87e3-aa74dc88b083 | BASE | Software Engineer, Backend - Base Power Platform | Austin, TX | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/garage/5119e260-d0e4-4ad1-b264-1951f7dcc3f8 | Garage | Software Engineer, Growth | New York City | posted: 2026-11-08
+- [ ] https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f | Garage | Software Engineer, Design | New York City | posted: 2026-11-08
+
 ## Processed
