@@ -1840,3 +1840,5 @@
 - [ ] https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991 | coinbase | Software Engineer-1 | Remote - USA | posted: 2026-11-09
 
 - [ ] https://job-boards.greenhouse.io/leolabsinc/jobs/4479465009 | leolabsinc | Full Stack Software Engineer | Remote · Remote | posted: 2026-11-09
+
+- [ ] https://job-boards.greenhouse.io/redcellpartners/jobs/5253392007 | redcellpartners | ML Engineer, Retrieval & Grounded Generation | Remote, USA | posted: 2026-11-09
