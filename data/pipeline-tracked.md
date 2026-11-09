@@ -1541,4 +1541,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228 | Ramp | Software Engineer, Comms Platform | Remote (US) | posted: 2026-11-09
 - [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4472540009 | Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA USA | posted: 2026-11-09
 
+- [ ] https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752 | Synchronyfinancial | API Software Development Engineer - I | 3 Locations | posted: 2026-11-09
+- [ ] https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185 | Sur La Table | Junior Software Engineer | Remote - Toronto | posted: 2026-11-09
+
 ## Processed
