@@ -1565,4 +1565,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mercor/4b0920c5-49f9-4851-a8ca-26825ff570f8 | MERCOR | Software Engineer, Applied AI- Evals | San Francisco | posted: 2026-11-09
 - [ ] https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/Software-Engineer_JR1000035 | Postman | Software Engineer, Observability | San Francisco, CA, US | posted: 2026-11-09
 
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Software-Development-Engineer-II--Advertising-Technology_R-110864-1 | Expedia | Software Development Engineer II, Advertising Technology | USA - Illinois - Chicago | posted: 2026-11-09
+
 ## Processed
