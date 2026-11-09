@@ -1629,4 +1629,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/redwoodmaterials/jobs/6248625004?gh_jid=6248625004 | redwoodmaterials | Software Engineer - Site Controller, Energy Storage | San Francisco, California, United States | posted: 2026-11-09
 - [ ] https://jobs.lever.co/loftorbital/63013f70-6e68-4e73-9ae4-bae1dcccdf14 | loftorbital | Backend Software Engineer - Mission Planning Strategy | San Francisco, CA | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/everai/6f9797f8-0768-4cf5-8112-7c8fe213f652 | everai | LLM Engineer - Post-Training (Remote - Europe) | Europe · Remote | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/eqtcorporation/jobs/5475011008 | eqtcorporation | AI Engineer I/II/III | Remote · Remote | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/8360497 | gusto | Software Engineer, Financial Data & Payments | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/redcellpartners/jobs/5253392007 | redcellpartners | ML Engineer, Retrieval & Grounded Generation | Remote, USA | posted: 2026-11-09
+- [ ] https://www.exiger.com/careers/?gh_jid=6253285004 | exiger | Software Engineer in Test | McLean, Virginia, United States; Richmond, Virginia, United States | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/leolabsinc/jobs/4479465009 | leolabsinc | Full Stack Software Engineer | Remote · Remote | posted: 2026-11-09
+- [ ] https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991 | coinbase | Software Engineer-1 | Remote - USA | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mercor/6d1de461-c08d-419c-96cf-ed38083e0976 | mercor | Software Engineer, Applied AI - Systems | San Francisco | posted: 2026-11-09
+- [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4472540009 | lilasciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA USA | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228 | ramp | Software Engineer, Comms Platform | Remote | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/Vultr/f3faf050-f72b-4306-8cd0-7853eab4e558 | vultr | Site Reliability Engineer - Weekend | Remote - United States | posted: 2026-11-09
+- [ ] https://jobs.lever.co/questanalytics/0ef2155f-a1d9-4af8-a81d-917177c7e6d8 | questanalytics | Software Engineer | United States | posted: 2026-11-09
+
 ## Processed
