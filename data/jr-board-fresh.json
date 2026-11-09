@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-11-09T21:01:12.259Z",
+  "fetchedAt": "2026-11-09T21:23:19.424Z",
   "days": 2,
   "leadCount": 53,
-  "jobCount": 26,
+  "jobCount": 28,
   "boards": [
-    {
-      "key": "greenhouse:mesh",
-      "fetched": 24,
-      "kept": 0
-    },
     {
       "key": "greenhouse:ensco",
       "fetched": 31,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:mesh",
+      "fetched": 24,
       "kept": 0
     },
     {
@@ -30,13 +30,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:verkada",
-      "fetched": 342,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:calif",
-      "fetched": 1,
+      "key": "greenhouse:formlabs",
+      "fetched": 239,
       "kept": 0
     },
     {
@@ -45,9 +40,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:formlabs",
-      "fetched": 239,
+      "key": "greenhouse:calif",
+      "fetched": 1,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:verkada",
+      "fetched": 343,
+      "kept": 2
     },
     {
       "key": "greenhouse:optiverus",
@@ -65,28 +65,23 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:capco",
-      "fetched": 722,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:fanduel",
-      "fetched": 95,
-      "kept": 3
-    },
-    {
-      "key": "greenhouse:industrialelectricmanufacturing",
-      "fetched": 120,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:canonical",
       "fetched": 316,
       "kept": 0
     },
     {
-      "key": "greenhouse:waymo",
-      "fetched": 367,
+      "key": "greenhouse:fanduel",
+      "fetched": 96,
+      "kept": 3
+    },
+    {
+      "key": "greenhouse:industrialelectricmanufacturing",
+      "fetched": 119,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:capco",
+      "fetched": 722,
       "kept": 0
     },
     {
@@ -100,38 +95,13 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:waymo",
+      "fetched": 367,
+      "kept": 0
+    },
+    {
       "key": "ashby:gigaml",
       "fetched": 33,
-      "kept": 0
-    },
-    {
-      "key": "ashby:ramp",
-      "fetched": 176,
-      "kept": 1
-    },
-    {
-      "key": "ashby:decagon",
-      "fetched": 130,
-      "kept": 0
-    },
-    {
-      "key": "ashby:whoop",
-      "fetched": 120,
-      "kept": 1
-    },
-    {
-      "key": "ashby:physicalintelligence",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "ashby:thumbtack",
-      "fetched": 38,
-      "kept": 1
-    },
-    {
-      "key": "ashby:wayve",
-      "fetched": 172,
       "kept": 0
     },
     {
@@ -140,13 +110,43 @@
       "kept": 0
     },
     {
+      "key": "ashby:physicalintelligence",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "ashby:decagon",
+      "fetched": 130,
+      "kept": 0
+    },
+    {
+      "key": "ashby:thumbtack",
+      "fetched": 38,
+      "kept": 1
+    },
+    {
+      "key": "ashby:snowflake",
+      "fetched": 379,
+      "kept": 0
+    },
+    {
+      "key": "ashby:whoop",
+      "fetched": 153,
+      "kept": 1
+    },
+    {
       "key": "ashby:garage",
       "fetched": 18,
       "kept": 2
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 369,
+      "key": "ashby:wayve",
+      "fetched": 175,
+      "kept": 0
+    },
+    {
+      "key": "ashby:wealth-com",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -156,27 +156,27 @@
     },
     {
       "key": "ashby:base-power",
-      "fetched": 197,
+      "fetched": 200,
       "kept": 6
     },
     {
-      "key": "ashby:wealth-com",
-      "fetched": 18,
-      "kept": 0
-    },
-    {
       "key": "ashby:maintainx",
-      "fetched": 209,
-      "kept": 0
-    },
-    {
-      "key": "ashby:openai",
-      "fetched": 811,
+      "fetched": 215,
       "kept": 0
     },
     {
       "key": "lever:entefy",
       "fetched": 14,
+      "kept": 0
+    },
+    {
+      "key": "ashby:openai",
+      "fetched": 813,
+      "kept": 0
+    },
+    {
+      "key": "lever:wealthfront",
+      "fetched": 23,
       "kept": 0
     },
     {
@@ -190,8 +190,8 @@
       "kept": 0
     },
     {
-      "key": "lever:glsllc",
-      "fetched": 44,
+      "key": "lever:atomcomputing",
+      "fetched": 42,
       "kept": 0
     },
     {
@@ -200,18 +200,13 @@
       "kept": 0
     },
     {
-      "key": "lever:artera",
-      "fetched": 8,
-      "kept": 0
-    },
-    {
-      "key": "lever:wealthfront",
-      "fetched": 23,
-      "kept": 0
-    },
-    {
       "key": "lever:penumbrainc",
       "fetched": 68,
+      "kept": 0
+    },
+    {
+      "key": "lever:brillio-2",
+      "fetched": 217,
       "kept": 0
     },
     {
@@ -225,13 +220,13 @@
       "kept": 0
     },
     {
-      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
-      "fetched": 20,
+      "key": "lever:glsllc",
+      "fetched": 44,
       "kept": 0
     },
     {
-      "key": "lever:brillio-2",
-      "fetched": 217,
+      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -240,9 +235,9 @@
       "kept": 0
     },
     {
-      "key": "workday:monolithicpower.wd12.myworkdayjobs.com/mps_careers",
-      "fetched": 20,
-      "kept": 0
+      "key": "ashby:ramp",
+      "fetched": 176,
+      "kept": 1
     },
     {
       "key": "workday:ghr.wd1.myworkdayjobs.com/us-emplsv",
@@ -250,9 +245,19 @@
       "kept": 0
     },
     {
-      "key": "lever:atomcomputing",
-      "fetched": 42,
+      "key": "lever:artera",
+      "fetched": 8,
       "kept": 0
+    },
+    {
+      "key": "workday:monolithicpower.wd12.myworkdayjobs.com/mps_careers",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:spacex",
+      "fetched": 2906,
+      "kept": 7
     },
     {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
@@ -260,27 +265,12 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:spacex",
-      "fetched": 2907,
-      "kept": 7
-    },
-    {
       "key": "workday:visa.wd5.myworkdayjobs.com/visa",
       "fetched": 80,
-      "kept": 2
+      "kept": 3
     }
   ],
   "jobs": [
-    {
-      "title": "Senior Software Engineer, Business Systems - Data Trust",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5264711007",
-      "company": "Verkada",
-      "location": "San Mateo, CA United States",
-      "postedAt": "2026-11-09T20:25:22.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "verkada"
-    },
     {
       "title": "Senior Site Reliability Engineer, SecOps",
       "url": "https://job-boards.greenhouse.io/cmt/jobs/8353881",
@@ -290,6 +280,26 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "cmt"
+    },
+    {
+      "title": "Senior Frontend Engineer - Fleet Management",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5287692007",
+      "company": "Verkada",
+      "location": "San Mateo, CA United States",
+      "postedAt": "2026-11-09T21:20:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "verkada"
+    },
+    {
+      "title": "Senior Software Engineer, Business Systems - Data Trust",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5264711007",
+      "company": "Verkada",
+      "location": "San Mateo, CA United States",
+      "postedAt": "2026-11-09T20:25:22.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "verkada"
     },
     {
       "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
@@ -332,14 +342,14 @@
       "board": "fanduel"
     },
     {
-      "title": "Software Engineer, Comms Platform",
-      "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228",
-      "company": "Ramp",
-      "location": "Remote",
-      "postedAt": "2026-11-09T18:22:09.221Z",
+      "title": "Senior Software Engineer, Developer Experience",
+      "url": "https://jobs.ashbyhq.com/thumbtack/7ddfc7e0-81c6-41a5-9b18-1d8e4470c3de",
+      "company": "Thumbtack",
+      "location": "Remote, United States",
+      "postedAt": "2026-11-09T16:14:27.483Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "ramp"
+      "board": "thumbtack"
     },
     {
       "title": "Software Engineer I (Backend, Growth)",
@@ -350,16 +360,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "whoop"
-    },
-    {
-      "title": "Senior Software Engineer, Developer Experience",
-      "url": "https://jobs.ashbyhq.com/thumbtack/7ddfc7e0-81c6-41a5-9b18-1d8e4470c3de",
-      "company": "Thumbtack",
-      "location": "Remote, United States",
-      "postedAt": "2026-11-09T16:14:27.483Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "thumbtack"
     },
     {
       "title": "Software Engineer, Design",
@@ -442,6 +442,16 @@
       "board": "base-power"
     },
     {
+      "title": "Software Engineer, Comms Platform",
+      "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228",
+      "company": "Ramp",
+      "location": "Remote",
+      "postedAt": "2026-11-09T18:22:09.221Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "ramp"
+    },
+    {
       "title": "Sr. Full Stack Engineer, Fight Software",
       "url": "https://boards.greenhouse.io/spacex/jobs/8934570002?gh_jid=8934570002",
       "company": "SpaceX",
@@ -510,6 +520,17 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "spacex"
+    },
+    {
+      "title": "Staff SW Engineer - .NET AI Engineer",
+      "url": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Staff-SW-Engineer---NET-AI-Engineer_REF090087W",
+      "company": "Visa",
+      "location": "US - Austin, TX",
+      "postedAt": "2026-11-09T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "visa",
+      "postedAtSource": "workday-detail"
     },
     {
       "title": "Chief Software Engineer, Database Architecture",
