@@ -1284,4 +1284,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://phreesia.wd1.myworkdayjobs.com/phreesiacanada/job/Remote-Canada/Software-Engineer-4_R4887 | phreesia | Software Engineer 4 | Remote Canada | posted: 2026-11-09
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Remote/Backend-Software-Engineer---Agent-Foundation_R10259809 | ngc | Backend Software Engineer - Agent Foundation | United States-Remote | posted: 2026-11-09
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS-PMTS_JR367127 | salesforce | Software Engineering LMTS/PMTS | 2 Locations | posted: 2026-11-09
+- [ ] https://pwc.wd3.myworkdayjobs.com/us_experienced_careers/job/NY-New-York/Tax-Innovation---Software-Engineering---Experienced-Associate_767775WD | pwc | Tax Innovation - Software Engineering - Experienced Associate | 4 Locations | posted: 2026-11-09
+
 ## Processed
