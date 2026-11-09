@@ -19528,6 +19528,66 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Anterior"
+    careers_url: https://jobs.ashbyhq.com/anterior
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "E2B"
+    careers_url: https://jobs.ashbyhq.com/e2b
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Endex"
+    careers_url: https://jobs.ashbyhq.com/endex
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Garage"
+    careers_url: https://jobs.ashbyhq.com/garage
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "Neocloud General Compute"
+    careers_url: https://jobs.ashbyhq.com/generalcompute
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Harmonic Security"
+    careers_url: https://jobs.ashbyhq.com/harmonic-security-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "FERMÀT"
+    careers_url: https://job-boards.greenhouse.io/fermat
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Zipline"
+    careers_url: https://job-boards.greenhouse.io/flyzipline
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Lumaril"
+    careers_url: https://jobs.lever.co/lumaril-corporation
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
