@@ -1343,4 +1343,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Data-Analyst-III--Data-Platform-Engineering-Support_JR21273 | teladoc | Data Analyst III, Data Platform Engineering Support | USA - Any Location (Remote) | posted: 2026-11-10
 
+- [ ] https://ms.wd5.myworkdayjobs.com/external/job/New-York-New-York-United-States-of-America/Equity-Derivatives-Pricing-Platform-Engineer_PT-JR046069 | ms | Equity Derivatives Pricing Platform Engineer | New York, New York, United States of America | posted: 2026-11-10
+
 ## Processed
