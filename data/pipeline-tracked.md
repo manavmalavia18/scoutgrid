@@ -1631,4 +1631,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-II_R-148845 | The Coca-Cola Company | Software Engineer II | US - GA - Atlanta | posted: 2026-11-10
 - [ ] https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-II--HR-App-Engineering_R31469 | Chewy | Software Engineer II, HR App Engineering | 2 Locations | posted: 2026-11-10
 
+- [ ] https://omnissa.wd501.myworkdayjobs.com/omnissa_external_career_site/job/Atlanta-Georgia-Office/Software-Engineer--Platform-Backend----UEM-Reporting-Pipeline_R-102431 | Omnissa | Software Engineer (Platform/Backend) - UEM Reporting Pipeline | 3 Locations | posted: 2026-11-10
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Reliability-Engineering-Tooling--Remote-_Req192135 | The Home Depot | Software Engineer II - Reliability Engineering Tooling (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-10
+- [ ] https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/AI-Engineer--R-D_R2026-15825 | Church & Dwight Co., Inc. | AI Engineer, R&D | USA, Princeton, NJ | posted: 2026-11-10
+
 ## Processed
