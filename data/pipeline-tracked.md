@@ -1583,4 +1583,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bjakcareer/f829c3d1-3aad-41c4-841d-2ea520641119 | Bjak | Machine Learning Engineer, Applied AI | China · Remote | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/bjakcareer/40514b9d-01c4-4a7c-9ab4-5f465866536b | Bjak | Software Engineer, AI Automation | United States · Remote | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917 | Cursor | Software Engineer, Billing | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa | Cursor | Software Engineer, Client Infrastructure | San Francisco, CA | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/9d756f3e-ec33-4820-9971-f803de7b2d63 | Cursor | Software Engineer, Core Services | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8 | Cursor | Software Engineer, Developer Productivity | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/39928fa7-8acc-41b9-9143-97b760774f05 | Cursor | Software Engineer, Enterprise | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/378409f3-a9d9-4b5e-bc91-8112a582d24c | Cursor | Software Engineer, Model Routing & Inference | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6 | Cursor | Software Engineer, New Grad 2027 | San Francisco, CA · New York, NY · New York · United States · Palo Alto, CA · Palo Alto | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/b236a81e-6c5b-45ce-8b4a-0810ae82ca82 | Cursor | Software Engineer, Storage | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/359cb8e6-77e8-4a77-be67-a39eb46d2c10 | Cursor | Software Engineer, Infrastructure | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/5bbbd83b-2299-4a5e-9f49-d260fd9ca02e | Cursor | Software Engineer, Enterprise Platform | San Francisco, CA | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/6f67c0c9-717c-4eb2-919b-5ab7d54e9a8b | Cursor | Software Engineer, Security | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/cebcf532-f723-4b14-a366-765d04b80d4c | Cursor | Software Engineer, Services Platform | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93 | Cursor | Software Engineer, Bugbot | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8042371003 | Affirm | Software Engineer II, Back-end, (AI Agents) | Remote Canada | posted: 2026-11-10
+
 ## Processed
