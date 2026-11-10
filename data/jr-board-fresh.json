@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T16:05:11.320Z",
+  "fetchedAt": "2026-11-10T16:27:44.525Z",
   "days": 2,
   "leadCount": 44,
   "jobCount": 25,
@@ -25,9 +25,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 214,
-      "kept": 2
+      "key": "greenhouse:homechef",
+      "fetched": 25,
+      "kept": 0
     },
     {
       "key": "greenhouse:undercontrolroboticsinc",
@@ -35,8 +35,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:homechef",
-      "fetched": 25,
+      "key": "greenhouse:affirm",
+      "fetched": 214,
+      "kept": 2
+    },
+    {
+      "key": "greenhouse:impact",
+      "fetched": 77,
       "kept": 0
     },
     {
@@ -50,18 +55,13 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:xai",
+      "fetched": 308,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:thrivemarket",
       "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:impact",
-      "fetched": 77,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:eulerity",
-      "fetched": 12,
       "kept": 0
     },
     {
@@ -75,13 +75,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:chowbus",
-      "fetched": 84,
-      "kept": 1
+      "key": "greenhouse:eulerity",
+      "fetched": 12,
+      "kept": 0
     },
     {
-      "key": "greenhouse:machindustries",
-      "fetched": 179,
+      "key": "greenhouse:chowbus",
+      "fetched": 84,
       "kept": 1
     },
     {
@@ -90,19 +90,24 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:cmt",
+      "fetched": 3,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:lilasciences",
       "fetched": 126,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:machindustries",
+      "fetched": 179,
       "kept": 1
     },
     {
       "key": "greenhouse:external",
       "fetched": 0,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:cmt",
-      "fetched": 3,
-      "kept": 1
     },
     {
       "key": "greenhouse:ciazumano",
@@ -115,12 +120,12 @@
       "kept": 0
     },
     {
-      "key": "ashby:certifyos",
+      "key": "ashby:chartahealth",
       "fetched": 22,
       "kept": 0
     },
     {
-      "key": "ashby:chartahealth",
+      "key": "ashby:certifyos",
       "fetched": 22,
       "kept": 0
     },
@@ -130,8 +135,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:xai",
-      "fetched": 308,
+      "key": "ashby:happyrobot.ai",
+      "fetched": 76,
       "kept": 0
     },
     {
@@ -145,29 +150,29 @@
       "kept": 0
     },
     {
-      "key": "ashby:happyrobot.ai",
-      "fetched": 76,
-      "kept": 0
-    },
-    {
       "key": "ashby:whoop",
       "fetched": 119,
       "kept": 1
     },
     {
       "key": "ashby:openai",
-      "fetched": 826,
+      "fetched": 827,
       "kept": 3
+    },
+    {
+      "key": "lever:field-ai",
+      "fetched": 105,
+      "kept": 0
+    },
+    {
+      "key": "lever:ion",
+      "fetched": 99,
+      "kept": 0
     },
     {
       "key": "lever:spotify",
       "fetched": 87,
       "kept": 1
-    },
-    {
-      "key": "lever:ion",
-      "fetched": 98,
-      "kept": 0
     },
     {
       "key": "workday:campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite",
@@ -180,12 +185,12 @@
       "kept": 1
     },
     {
-      "key": "lever:field-ai",
-      "fetched": 105,
-      "kept": 0
+      "key": "workday:cisco.wd5.myworkdayjobs.com/cisco_careers",
+      "fetched": 20,
+      "kept": 2
     },
     {
-      "key": "workday:ercot.wd1.myworkdayjobs.com/ercot_careers",
+      "key": "workday:lseg.wd3.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
     },
@@ -200,7 +205,7 @@
       "kept": 0
     },
     {
-      "key": "workday:lseg.wd3.myworkdayjobs.com/careers",
+      "key": "workday:ercot.wd1.myworkdayjobs.com/ercot_careers",
       "fetched": 20,
       "kept": 0
     },
@@ -210,19 +215,14 @@
       "kept": 0
     },
     {
-      "key": "lever:pointclickcare",
-      "fetched": 75,
-      "kept": 0
-    },
-    {
-      "key": "workday:cisco.wd5.myworkdayjobs.com/cisco_careers",
-      "fetched": 20,
-      "kept": 2
-    },
-    {
       "key": "greenhouse:andurilindustries",
-      "fetched": 2577,
+      "fetched": 2574,
       "kept": 8
+    },
+    {
+      "key": "lever:pointclickcare",
+      "fetched": 0,
+      "kept": 0
     }
   ],
   "jobs": [
@@ -257,14 +257,14 @@
       "board": "chowbus"
     },
     {
-      "title": "AI Platform Engineer",
-      "url": "https://job-boards.greenhouse.io/machindustries/jobs/4488055009",
-      "company": "Mach Industries",
-      "location": "Huntington Beach, California, United States",
-      "postedAt": "2026-11-10T06:46:29.000Z",
+      "title": "Senior Site Reliability Engineer, SecOps",
+      "url": "https://job-boards.greenhouse.io/cmt/jobs/8353881",
+      "company": "Cambridge Mobile Telematics",
+      "location": "Cambridge, MA",
+      "postedAt": "2026-11-09T17:59:19.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "machindustries"
+      "board": "cmt"
     },
     {
       "title": "Director/ Senior Director, Lab Platform Engineering",
@@ -277,14 +277,14 @@
       "board": "lilasciences"
     },
     {
-      "title": "Senior Site Reliability Engineer, SecOps",
-      "url": "https://job-boards.greenhouse.io/cmt/jobs/8353881",
-      "company": "Cambridge Mobile Telematics",
-      "location": "Cambridge, MA",
-      "postedAt": "2026-11-09T17:59:19.000Z",
+      "title": "AI Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/machindustries/jobs/4488055009",
+      "company": "Mach Industries",
+      "location": "Huntington Beach, California, United States",
+      "postedAt": "2026-11-10T06:46:29.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "cmt"
+      "board": "machindustries"
     },
     {
       "title": "Software Engineer, Security, Stablecoin",
