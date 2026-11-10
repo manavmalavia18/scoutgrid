@@ -1330,4 +1330,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/DevOps-Software-Engineer-III_R50098 | chrobinson | DevOps Software Engineer III | Eden Prairie, MN United States of America | posted: 2026-11-10
 - [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Cloud-DevOps-Engineer_Req-69137 | campbellsoup | Cloud DevOps Engineer | USA - NJ - Camden | posted: 2026-11-10
 
+- [ ] https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138380 | paypal | Software Engineer | San Jose, California, United States of America | posted: 2026-11-10
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Engineer_3170229 | hp | Software Engineer | Fort Collins, Colorado, United States of America | posted: 2026-11-10
+
 ## Processed
