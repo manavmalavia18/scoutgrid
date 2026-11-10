@@ -1621,4 +1621,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300 | Motorola Solutions | Jr. Software Engineer, AI Agent Platform | Ontario Remote Work, More... | posted: 2026-11-10
 - [ ] https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer---Prisma-Access_JR-024639 | Palo Alto Networks | Software Engineer — Prisma Access | Office - USA - CA - Headquarters | posted: 2026-11-10
 
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933 | Statestreet | Junior Platform Engineer, Officer | Quincy, Massachusetts | posted: 2026-11-10
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Java-Full-Stack-Developer_R-1103683-1 | Verizon | Java Full Stack Developer | Temple Terrace, Florida | posted: 2026-11-10
+- [ ] https://pfizer.wd1.myworkdayjobs.com/pfizercareers/job/United-States---Massachusetts---Cambridge/Informatics-and-AI-Engineer--Biotherapeutics_4966440-1 | Pfizer | Informatics and AI Engineer, Biotherapeutics | United States - Massachusetts - Cambridge | posted: 2026-11-10
+- [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/DevOps-Engineer_R188274 | Parsons | DevOps Engineer | US Remote Any Location | posted: 2026-11-10
+
 ## Processed
