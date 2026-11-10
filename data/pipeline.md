@@ -1908,3 +1908,6 @@
 - [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8920562002 | icapitalnetwork | Actuarial Software Engineer II - Associate | Colorado Springs, Colorado, United States | posted: 2026-11-10
 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003 | celonis | Infrastructure Software Engineer | Remote, US, Massachusetts | posted: 2026-11-10
+
+- [ ] https://jobs.ashbyhq.com/lemlist/8b6b8263-ad9c-4f6c-80af-545eeb7c5127 | lemlist | Fullstack Developer – Taplio & TweetHunter | European union · Remote | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003 | celonis | Software Engineer | Remote, US, Massachusetts | posted: 2026-11-10
