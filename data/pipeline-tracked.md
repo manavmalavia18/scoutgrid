@@ -1635,4 +1635,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Reliability-Engineering-Tooling--Remote-_Req192135 | The Home Depot | Software Engineer II - Reliability Engineering Tooling (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-10
 - [ ] https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/AI-Engineer--R-D_R2026-15825 | Church & Dwight Co., Inc. | AI Engineer, R&D | USA, Princeton, NJ | posted: 2026-11-10
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Milpitas-California-United-States-of-America/AI-and-Machine-Learning-Engineer-III_1217962 | Hewlett Packard Enterprise | AI and Machine Learning Engineer III | Milpitas, California, United States of America | posted: 2026-11-10
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Snowflake---Analytics-Platform-Engineer_10331617 | Toyota Motor Corporation | Snowflake & Analytics Platform Engineer | Plano, Texas | posted: 2026-11-10
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Site-Reliability-Engineer---Platforms_10325078 | Toyota Motor Corporation | Site Reliability Engineer - Platforms | Plano, Texas | posted: 2026-11-10
+
 ## Processed
