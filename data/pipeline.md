@@ -1873,3 +1873,9 @@
 - [ ] https://jobs.ashbyhq.com/xona-space/727154d2-d33c-45ca-9f6a-c6ffdc4ade53 | xona-space | GNC Software Engineer | Burlingame, California | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/Coframe/e58e6bae-73bb-47e1-ba80-c0a3f51c048b | coframe | Machine Learning Engineer | SF Bay Area | posted: 2026-11-10
 - [ ] https://www.exiger.com/careers/?gh_jid=6253285004 | exiger | Software Engineer in Test | McLean, Virginia, United States; Richmond, Virginia, United States | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b32e9552-6806-49e8-8d83-0d7929f423af | bjakcareer | Software Engineer, AI Automation | China · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/bjakcareer/40514b9d-01c4-4a7c-9ab4-5f465866536b | bjakcareer | Software Engineer, AI Automation | United States · Remote | posted: 2026-11-10
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5290232007?gh_jid=5290232007 | andurilindustries | Software Engineer, Sentry Software (Manufacturing) | Irvine, California, United States | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5290228007?gh_jid=5290228007 | andurilindustries | Software Engineer, Sentry Software (Ground Based Air Defense) | Irvine, California, United States | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5290223007?gh_jid=5290223007 | andurilindustries | Software Engineer, Sentry Software (Allied Customer Deployment) | Irvine, California, United States | posted: 2026-11-09
