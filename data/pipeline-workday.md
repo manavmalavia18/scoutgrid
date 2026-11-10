@@ -1358,4 +1358,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/AI-and-Machine-Learning-Engineer-III_1217962-1 | hpe | AI and Machine Learning Engineer III | Milpitas, California, United States of America | posted: 2026-11-10
 - [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1 | autodesk | Software Engineer | Novi, MI, USA | posted: 2026-11-10
 
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-148843 | coke | Software Engineer I | US - GA - Atlanta | posted: 2026-11-10
+
 ## Processed
