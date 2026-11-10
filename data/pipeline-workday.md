@@ -1368,4 +1368,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Software-Engineer_J00180196 | equifax | Software Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-11-10
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/Full-stack-Engineer-4_R1005466-1 | capitalone | Full-stack Engineer 4 | 4 Locations | posted: 2026-11-10
 
+- [ ] https://graco.wd501.myworkdayjobs.com/graco_careers/job/Minneapolis-Minnesota-USA-Riverside-Office-Complex/Senior-Software-Engineer---ServiceNow_R0023788-1 | graco | Software Engineer – ServiceNow | Minneapolis, Minnesota, USA (Riverside Office Complex) | posted: 2026-11-10
+
 ## Processed
