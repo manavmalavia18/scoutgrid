@@ -1,19 +1,39 @@
 {
-  "at": "2026-11-10T11:33:06.390Z",
-  "leadsScanned": 5683,
-  "totalBoardsKnown": 2235,
-  "alreadyTracked": 2231,
-  "newlyPromoted": 4,
+  "at": "2026-11-10T14:50:57.731Z",
+  "leadsScanned": 5709,
+  "totalBoardsKnown": 2243,
+  "alreadyTracked": 2235,
+  "newlyPromoted": 8,
   "newBoards": [
     {
-      "name": "Keebo",
-      "careers_url": "https://job-boards.greenhouse.io/keebo-1",
+      "name": "Baton",
+      "careers_url": "https://jobs.ashbyhq.com/Baton",
+      "provider": "ashby"
+    },
+    {
+      "name": "Mavria",
+      "careers_url": "https://jobs.ashbyhq.com/mavria",
+      "provider": "ashby"
+    },
+    {
+      "name": "Chowbus",
+      "careers_url": "https://job-boards.greenhouse.io/chowbus",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Mach Industries",
+      "careers_url": "https://job-boards.greenhouse.io/machindustries",
       "provider": "greenhouse"
     },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
       "provider": "lever"
+    },
+    {
+      "name": "The Campbell's Company",
+      "careers_url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite",
+      "provider": "workday"
     },
     {
       "name": "Montefiore Einstein Technology",
