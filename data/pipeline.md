@@ -1924,3 +1924,5 @@
 - [ ] https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d | supabase | Software Engineer - AI Tooling | Remote, Global | posted: 2026-11-10
 
 - [ ] https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5478385008 | datasystemsanalystsinc | Software Developer - Mid (SMDC) | Colorado Springs, CO | posted: 2026-11-10
+
+- [ ] https://jobs.ashbyhq.com/adaption/75df104c-b7c0-4337-a324-0d472da34153 | adaption | Platform Engineer, APIs and Security | San Francisco | posted: 2026-11-10
