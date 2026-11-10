@@ -1360,4 +1360,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-148843 | coke | Software Engineer I | US - GA - Atlanta | posted: 2026-11-10
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Software-Engineer--CUDA-GPU----Level-4_R10260050 | ngc | Software Engineer (CUDA/GPU) - Level 4 | United States-California-Redondo Beach | posted: 2026-11-10
+
 ## Processed
