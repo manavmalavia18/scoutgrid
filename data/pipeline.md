@@ -1869,3 +1869,7 @@
 
 - [ ] https://jobs.ashbyhq.com/generaltranslation/05d33170-2b35-4597-849c-6efbb612fa9b | generaltranslation | Software Engineer, Infra | San Francisco | posted: 2026-11-10
 - [ ] https://job-boards.greenhouse.io/chowbus/jobs/8199735003 | chowbus | Full Stack Engineer, Business Applications & AI | Chicago | posted: 2026-11-10
+
+- [ ] https://jobs.ashbyhq.com/xona-space/727154d2-d33c-45ca-9f6a-c6ffdc4ade53 | xona-space | GNC Software Engineer | Burlingame, California | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/Coframe/e58e6bae-73bb-47e1-ba80-c0a3f51c048b | coframe | Machine Learning Engineer | SF Bay Area | posted: 2026-11-10
+- [ ] https://www.exiger.com/careers/?gh_jid=6253285004 | exiger | Software Engineer in Test | McLean, Virginia, United States; Richmond, Virginia, United States | posted: 2026-11-09
