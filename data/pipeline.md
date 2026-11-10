@@ -1939,3 +1939,5 @@
 - [ ] https://jobs.ashbyhq.com/nox-metals/773b9da4-42a6-4e04-9cf0-61cef3fc9069 | nox-metals | Growth Software Engineer | San Francisco | posted: 2026-11-10
 
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478726008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-10
+
+- [ ] https://jobs.ashbyhq.com/factory/7ae9da73-0ee6-4529-809d-4544ad33febe | factory | Software Engineer, Mobile | San Francisco, CA | posted: 2026-11-10
