@@ -1608,4 +1608,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-5_Q426SWEFS6 | Snap Inc. | Software Engineer, Full Stack, Level 5 | 5 Locations | posted: 2026-11-10
 - [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Specs--Level-5_R0046458 | Snap Inc. | Software Engineer, Specs C++, Level 5 | 3 Locations | posted: 2026-11-10
 
+- [ ] https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Platform-Software-Engineer_R0045728 | Harris Computer | Platform Software Engineer | Remote - UK | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e | Kalshi | Software Engineer, Marketing | New York Office | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8936222002 | iCapital | Actuarial Software Engineer II - Associate | Salt Lake City, Utah, United States | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/chowbus/jobs/8199735003 | Chowbus | Full Stack Engineer, Business Applications & AI | Chicago | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/machindustries/jobs/4488055009 | Mach Industries | AI Platform Engineer | Huntington Beach, California, United States | posted: 2026-11-10
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Cloud-DevOps-Engineer_Req-69137 | The Campbell's Company | Cloud DevOps Engineer | USA - NJ - Camden | posted: 2026-11-10
+
 ## Processed
