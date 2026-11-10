@@ -1350,4 +1350,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Chicago-Accenture-Tower-Corp/Consultant--AI-Full-Stack-Developer_R00371156 | accenture | Consultant, AI Full-Stack Developer | 2 Locations | posted: 2026-11-10
 
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Reliability-Engineering-Tooling--Remote-_Req192135 | homedepot | Software Engineer II - Reliability Engineering Tooling (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-10
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer--MANTL-_JR-000891 | alkami | Software Engineer (MANTL) | US Remote | posted: 2026-11-10
+
 ## Processed
