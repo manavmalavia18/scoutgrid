@@ -1573,4 +1573,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/navapbc/jobs/4482367009 | Nava | Software Engineer (Backend-Java) | Remote · Remote US | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/xona-space/727154d2-d33c-45ca-9f6a-c6ffdc4ade53 | XONA | GNC Software Engineer | Burlingame, California | posted: 2026-11-10
+
 ## Processed
