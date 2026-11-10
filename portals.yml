@@ -19898,6 +19898,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Aarden AI"
+    careers_url: https://jobs.ashbyhq.com/aarden
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 1 live jobs confirmed)
+  - name: "Adyen"
+    careers_url: https://job-boards.greenhouse.io/adyen
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 255 live jobs confirmed)
+  - name: "Conga"
+    careers_url: https://job-boards.greenhouse.io/conga
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 41 live jobs confirmed)
+  - name: "CoreWeave"
+    careers_url: https://job-boards.greenhouse.io/coreweave
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 303 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
