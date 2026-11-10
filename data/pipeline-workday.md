@@ -1339,4 +1339,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300 | motorolasolutions | Jr. Software Engineer, AI Agent Platform | Ontario Remote Work, More... | posted: 2026-11-10
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-4_R1002523-1 | capitalone | Full Stack Engineer 4 (Global Payment Network) | 2 Locations | posted: 2026-11-10
 
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-II_R-148845 | coke | Software Engineer II | US - GA - Atlanta | posted: 2026-11-10
+
 ## Processed
