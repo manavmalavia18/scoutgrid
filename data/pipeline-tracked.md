@@ -1643,4 +1643,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/kraken.com/decc0dbd-51f7-4fee-9635-130211623f07 | Payward, Inc. | Software Engineer - Database - Bitnomial | United States · Brazil · United Arab Emirates · Ireland · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · Switzerland · Portugal · Lithuania · South Africa · Czech Republic · Canada · Hungary · Mexico · Chile · Poland · Spain · Bulgaria · Remote | posted: 2026-11-10
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Software-Engineer--CUDA-GPU----Level-4_R10260050 | Northrop Grumman | Software Engineer (CUDA/GPU) - Level 4 | United States-California-Redondo Beach | posted: 2026-11-10
 
+- [ ] https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623 | Cox Enterprises | Software Engineer I - 19025 | Atlanta GA | posted: 2026-11-10
+
 ## Processed
