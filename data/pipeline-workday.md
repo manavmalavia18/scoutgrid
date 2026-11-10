@@ -1348,4 +1348,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---Palo-Alto/Senior-Software-Engineer_JR360316 | salesforce | Software Engineering MTS | 4 Locations | posted: 2026-11-10
 - [ ] https://isu.wd1.myworkdayjobs.com/confidentialopensearchwaiver/job/Remote---Iowa/Software-Developer-II_R20190 | isu | Software Developer II | Remote - Iowa | posted: 2026-11-10
 
+- [ ] https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Chicago-Accenture-Tower-Corp/Consultant--AI-Full-Stack-Developer_R00371156 | accenture | Consultant, AI Full-Stack Developer | 2 Locations | posted: 2026-11-10
+
 ## Processed
