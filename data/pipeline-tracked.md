@@ -1575,4 +1575,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/xona-space/727154d2-d33c-45ca-9f6a-c6ffdc4ade53 | XONA | GNC Software Engineer | Burlingame, California | posted: 2026-11-10
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883-1 | Hewlett Packard Enterprise | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-09
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883 | Hpe | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-09
+
 ## Processed
