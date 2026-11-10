@@ -1598,4 +1598,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93 | Cursor | Software Engineer, Bugbot | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8042371003 | Affirm | Software Engineer II, Back-end, (AI Agents) | Remote Canada | posted: 2026-11-10
 
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587 | Thomson Reuters | Software Engineer Co-Op | United States of America Rochester New York | posted: 2026-11-10
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-McLean-Virginia/Generative-AI---Machine-Learning-Engineer_JREQ193871 | Thomson Reuters | Generative AI & Machine Learning Engineer | United States of America McLean Virginia | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Machine-Learning-Engineer--Level-4_Q426SWEML3 | Snap Inc. | Machine Learning Engineer, Level 4 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Machine-Learning-Engineer--Level-5_Q426SWEML5 | Snap Inc. | Machine Learning Engineer, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/New-York-New-York/Machine-Learning-Engineer--Revenue---Level-5_R0047092 | Snap Inc. | Machine Learning Engineer, Revenue+, Level 5 | New York, New York | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--C----Level-4_R0046977 | Snap Inc. | Software Engineer, C++, Level 4 | Los Angeles, California | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--C----Level-5_R0047035 | Snap Inc. | Software Engineer, C++, Level 5 | Los Angeles, California | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-5_Q426SWEFS6 | Snap Inc. | Software Engineer, Full Stack, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Specs--Level-5_R0046458 | Snap Inc. | Software Engineer, Specs C++, Level 5 | 3 Locations | posted: 2026-11-10
+
 ## Processed
