@@ -1896,3 +1896,6 @@
 - [ ] https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa | cursor | Software Engineer, Client Infrastructure | San Francisco, CA | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93 | cursor | Software Engineer, Bugbot | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917 | cursor | Software Engineer, Billing | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4753014005 | dotmatics | DevOps Engineer / Luma | Remote - Ireland | posted: 2026-11-10
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4750986005 | dotmatics | DevOps Engineer / Luma | Remote - United Kingdom | posted: 2026-11-10
