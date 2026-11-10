@@ -1578,4 +1578,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883-1 | Hewlett Packard Enterprise | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-09
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883 | Hpe | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/apex-technology-inc/f228117c-377b-448c-a119-f6ab7a803bf1 | Apex | Site Reliability Engineer | Los Angeles | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1815a891-6854-4ada-9cd3-178009b807d1 | Bjak | Machine Learning Engineer, Ranking & Retrieval | China · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f829c3d1-3aad-41c4-841d-2ea520641119 | Bjak | Machine Learning Engineer, Applied AI | China · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/bjakcareer/40514b9d-01c4-4a7c-9ab4-5f465866536b | Bjak | Software Engineer, AI Automation | United States · Remote | posted: 2026-11-10
+
 ## Processed
