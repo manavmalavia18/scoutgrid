@@ -1906,3 +1906,5 @@
 
 - [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8936222002 | icapitalnetwork | Actuarial Software Engineer II - Associate | Salt Lake City, Utah, United States | posted: 2026-11-10
 - [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8920562002 | icapitalnetwork | Actuarial Software Engineer II - Associate | Colorado Springs, Colorado, United States | posted: 2026-11-10
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003 | celonis | Infrastructure Software Engineer | Remote, US, Massachusetts | posted: 2026-11-10
