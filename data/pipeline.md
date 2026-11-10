@@ -1916,3 +1916,5 @@
 - [ ] https://stripe.com/jobs/search?gh_jid=8187574 | stripe | Machine Learning Engineer, Transaction Risk | Seattle | posted: 2026-11-10
 
 - [ ] https://jobs.ashbyhq.com/st-labs/60b7ed0f-f89c-4286-9f09-090f0973aff5 | st-labs | Software Engineer, Security | NYC, NY | posted: 2026-11-10
+
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4488736009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-11-10
