@@ -1297,4 +1297,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/Senior-Software-Engineer--Full-Stack_JR101421-1 | bitsight | Software Engineer, Full Stack | Boston, MA | posted: 2026-11-10
 - [ ] https://bitsight.wd1.myworkdayjobs.com/broadbean_external/job/Boston-MA/Senior-Software-Engineer--Full-Stack_JR101421 | bitsight | Software Engineer, Full Stack | Boston, MA | posted: 2026-11-10
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883-3 | hpe | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-10
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883 | hpe | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-10
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883-1 | hpe | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-10
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J285227 | highmarkhealth | Software Engineer | 51 Locations | posted: 2026-11-10
+
 ## Processed
