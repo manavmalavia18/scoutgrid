@@ -1294,4 +1294,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverHealth---Software-Engineer_R-106622 | evercommerce | EverHealth - Software Engineer | Remote- US | posted: 2026-11-09
 
+- [ ] https://bitsight.wd1.myworkdayjobs.com/bitsight/job/Boston-MA/Senior-Software-Engineer--Full-Stack_JR101421-1 | bitsight | Software Engineer, Full Stack | Boston, MA | posted: 2026-11-10
+- [ ] https://bitsight.wd1.myworkdayjobs.com/broadbean_external/job/Boston-MA/Senior-Software-Engineer--Full-Stack_JR101421 | bitsight | Software Engineer, Full Stack | Boston, MA | posted: 2026-11-10
+
 ## Processed
