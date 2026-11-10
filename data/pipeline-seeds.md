@@ -1700,4 +1700,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/st-labs/60b7ed0f-f89c-4286-9f09-090f0973aff5 | st-labs | Software Engineer, Security | NYC, NY | posted: 2026-11-10
 - [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007 | tenstorrent | Infrastructure Operations Engineer / SRE | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada | posted: 2026-11-05
 
+- [ ] https://job-boards.greenhouse.io/turing/jobs/6241697004 | turing | ML/AI Engineer | United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/factory/7ae9da73-0ee6-4529-809d-4544ad33febe | factory | Software Engineer, Mobile | San Francisco, CA | posted: 2026-11-10
+- [ ] https://sofi.com/careers/job/8198207003?gh_jid=8198207003 | sofi | Software Engineer, Streaming and Workflows | WA - Seattle | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478726008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478703008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478697008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/nox-metals/773b9da4-42a6-4e04-9cf0-61cef3fc9069 | nox-metals | Growth Software Engineer | San Francisco | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/withpulley/c29ef6f0-20bb-4eaa-88a8-2fa925525593 | withpulley | Platform Engineer | San Francisco | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/onxmaps/jobs/4727602006 | onxmaps | Backend Engineer III - Identity & Access Management | Missoula, Montana, United States | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4753249005 | rvohealth | Software Engineer, Golang | Remote- US | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/workwhilejobs/d2a17dcb-3cc5-40bd-8844-2ff82e8c874f | workwhilejobs | Software Engineer, Backend | Toronto · New York · New York City · United States · San Francisco | posted: 2026-11-10
+
 ## Processed
