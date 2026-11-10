@@ -1649,4 +1649,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/kraken.com/d9d53a94-8f74-49b3-9e16-8c6b3672b995 | Payward, Inc. | Software Engineer - Rust - Consumer | Poland · Brazil · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · South Africa · Czech Republic · Hungary · Mexico · Chile · Spain · Bulgaria · Remote | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f | Handshake | Machine Learning Engineer | San Francisco, CA | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/Clera/33542d09-27af-4dd6-b8b2-8cdd93964ab0 | Clera | Full-Stack Engineer | New York · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/nox-metals/773b9da4-42a6-4e04-9cf0-61cef3fc9069 | Nox Metals | Growth Software Engineer | San Francisco | posted: 2026-11-10
+
 ## Processed
