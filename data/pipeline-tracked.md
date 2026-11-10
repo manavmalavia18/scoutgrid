@@ -1615,4 +1615,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/machindustries/jobs/4488055009 | Mach Industries | AI Platform Engineer | Huntington Beach, California, United States | posted: 2026-11-10
 - [ ] https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Cloud-DevOps-Engineer_Req-69137 | The Campbell's Company | Cloud DevOps Engineer | USA - NJ - Camden | posted: 2026-11-10
 
+- [ ] https://stripe.com/jobs/search?gh_jid=8187574 | Stripe | Machine Learning Engineer, Transaction Risk | Seattle | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/lemlist/8b6b8263-ad9c-4f6c-80af-545eeb7c5127 | lemlist | Fullstack Developer – Taplio & TweetHunter | European union · Remote | posted: 2026-11-10
+
 ## Processed
