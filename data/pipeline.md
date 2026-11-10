@@ -1933,3 +1933,7 @@
 - [ ] https://job-boards.greenhouse.io/onxmaps/jobs/4727602006 | onxmaps | Backend Engineer III - Identity & Access Management | Missoula, Montana, United States | posted: 2026-11-10
 
 - [ ] https://jobs.ashbyhq.com/withpulley/c29ef6f0-20bb-4eaa-88a8-2fa925525593 | withpulley | Platform Engineer | San Francisco | posted: 2026-11-10
+
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478703008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478697008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/nox-metals/773b9da4-42a6-4e04-9cf0-61cef3fc9069 | nox-metals | Growth Software Engineer | San Francisco | posted: 2026-11-10
