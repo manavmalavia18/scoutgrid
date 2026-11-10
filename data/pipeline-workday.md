@@ -1353,4 +1353,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Reliability-Engineering-Tooling--Remote-_Req192135 | homedepot | Software Engineer II - Reliability Engineering Tooling (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-10
 - [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer--MANTL-_JR-000891 | alkami | Software Engineer (MANTL) | US Remote | posted: 2026-11-10
 
+- [ ] https://omnissa.wd501.myworkdayjobs.com/omnissa_external_career_site/job/Atlanta-Georgia-Office/Software-Engineer--Platform-Backend----UEM-Reporting-Pipeline_R-102431 | omnissa | Software Engineer (Platform/Backend) - UEM Reporting Pipeline | 3 Locations | posted: 2026-11-10
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Milpitas-California-United-States-of-America/AI-and-Machine-Learning-Engineer-III_1217962 | hpe | AI and Machine Learning Engineer III | Milpitas, California, United States of America | posted: 2026-11-10
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/AI-and-Machine-Learning-Engineer-III_1217962-1 | hpe | AI and Machine Learning Engineer III | Milpitas, California, United States of America | posted: 2026-11-10
+- [ ] https://autodesk.wd1.myworkdayjobs.com/ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1 | autodesk | Software Engineer | Novi, MI, USA | posted: 2026-11-10
+
 ## Processed
