@@ -1370,4 +1370,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://graco.wd501.myworkdayjobs.com/graco_careers/job/Minneapolis-Minnesota-USA-Riverside-Office-Complex/Senior-Software-Engineer---ServiceNow_R0023788-1 | graco | Software Engineer – ServiceNow | Minneapolis, Minnesota, USA (Riverside Office Complex) | posted: 2026-11-10
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/New-York---New-York/Software-Engineering-PMTS_JR367532 | salesforce | Software Engineering PMTS | New York - New York | posted: 2026-11-10
+
 ## Processed
