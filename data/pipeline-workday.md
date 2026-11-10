@@ -1345,4 +1345,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ms.wd5.myworkdayjobs.com/external/job/New-York-New-York-United-States-of-America/Equity-Derivatives-Pricing-Platform-Engineer_PT-JR046069 | ms | Equity Derivatives Pricing Platform Engineer | New York, New York, United States of America | posted: 2026-11-10
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---Palo-Alto/Senior-Software-Engineer_JR360316 | salesforce | Software Engineering MTS | 4 Locations | posted: 2026-11-10
+- [ ] https://isu.wd1.myworkdayjobs.com/confidentialopensearchwaiver/job/Remote---Iowa/Software-Developer-II_R20190 | isu | Software Developer II | Remote - Iowa | posted: 2026-11-10
+
 ## Processed
