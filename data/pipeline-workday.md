@@ -1302,4 +1302,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Site-Reliability-Engineer_1217883-1 | hpe | Site Reliability Engineer | Sunnyvale, California, United States of America | posted: 2026-11-10
 - [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J285227 | highmarkhealth | Software Engineer | 51 Locations | posted: 2026-11-10
 
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51957 | bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-09
+
 ## Processed
