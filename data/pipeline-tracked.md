@@ -1645,4 +1645,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623 | Cox Enterprises | Software Engineer I - 19025 | Atlanta GA | posted: 2026-11-10
 
+- [ ] https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277 | Jj | Software Engineering Co-Op | Danvers, Massachusetts, United States of America | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/kraken.com/d9d53a94-8f74-49b3-9e16-8c6b3672b995 | Payward, Inc. | Software Engineer - Rust - Consumer | Poland · Brazil · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · South Africa · Czech Republic · Hungary · Mexico · Chile · Spain · Bulgaria · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f | Handshake | Machine Learning Engineer | San Francisco, CA | posted: 2026-11-10
+
 ## Processed
