@@ -1866,3 +1866,6 @@
 - [ ] https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185 | cscgeneration-2 | Junior Software Engineer | Remote - Toronto | posted: 2026-11-09
 
 - [ ] https://job-boards.greenhouse.io/navapbc/jobs/4482367009 | navapbc | Software Engineer (Backend-Java) | Remote · Remote US | posted: 2026-11-09
+
+- [ ] https://jobs.ashbyhq.com/generaltranslation/05d33170-2b35-4597-849c-6efbb612fa9b | generaltranslation | Software Engineer, Infra | San Francisco | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/chowbus/jobs/8199735003 | chowbus | Full Stack Engineer, Business Applications & AI | Chicago | posted: 2026-11-10
