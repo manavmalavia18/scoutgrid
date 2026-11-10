@@ -1333,4 +1333,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138380 | paypal | Software Engineer | San Jose, California, United States of America | posted: 2026-11-10
 - [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Engineer_3170229 | hp | Software Engineer | Fort Collins, Colorado, United States of America | posted: 2026-11-10
 
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Java-Full-Stack-Developer_R-1103683-1 | verizon | Java Full Stack Developer | Temple Terrace, Florida | posted: 2026-11-10
+- [ ] https://pfizer.wd1.myworkdayjobs.com/pfizercareers/job/United-States---Massachusetts---Cambridge/Informatics-and-AI-Engineer--Biotherapeutics_4966440-1 | pfizer | Informatics and AI Engineer, Biotherapeutics | United States - Massachusetts - Cambridge | posted: 2026-11-10
+- [ ] https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Massachusetts---Cambridge/Informatics-and-AI-Engineer--Biotherapeutics_4966440 | pfizer | Informatics and AI Engineer, Biotherapeutics | United States - Massachusetts - Cambridge | posted: 2026-11-10
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300 | motorolasolutions | Jr. Software Engineer, AI Agent Platform | Ontario Remote Work, More... | posted: 2026-11-10
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-4_R1002523-1 | capitalone | Full Stack Engineer 4 (Global Payment Network) | 2 Locations | posted: 2026-11-10
+
 ## Processed
