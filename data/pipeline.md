@@ -1937,3 +1937,5 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478703008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-11-10
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478697008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/nox-metals/773b9da4-42a6-4e04-9cf0-61cef3fc9069 | nox-metals | Growth Software Engineer | San Francisco | posted: 2026-11-10
+
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478726008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-10
