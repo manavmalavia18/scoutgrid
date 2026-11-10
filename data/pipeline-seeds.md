@@ -1663,4 +1663,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3 | ramp | Software Engineer, Security, Stablecoin | New York, NY (HQ) · San Francisco, CA · San Fransisco · USA · Remote (US) · United States | posted: 2026-11-09
 - [ ] https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185 | cscgeneration-2 | Junior Software Engineer | Remote - Toronto | posted: 2026-11-09
 
+- [ ] https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e | kalshi | Software Engineer, Marketing | New York Office | posted: 2026-11-10
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4753014005 | dotmatics | DevOps Engineer / Luma | Remote - Ireland | posted: 2026-11-10
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4750986005 | dotmatics | DevOps Engineer / Luma | Remote - United Kingdom | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8042371003 | affirm | Software Engineer II, Back-end, (AI Agents) | Remote Canada | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/378409f3-a9d9-4b5e-bc91-8112a582d24c | cursor | Software Engineer, Model Routing & Inference | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/5bbbd83b-2299-4a5e-9f49-d260fd9ca02e | cursor | Software Engineer, Enterprise Platform | San Francisco, CA | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/cebcf532-f723-4b14-a366-765d04b80d4c | cursor | Software Engineer, Services Platform | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/b236a81e-6c5b-45ce-8b4a-0810ae82ca82 | cursor | Software Engineer, Storage | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/6f67c0c9-717c-4eb2-919b-5ab7d54e9a8b | cursor | Software Engineer, Security | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6 | cursor | Software Engineer, New Grad 2027 | San Francisco, CA · New York, NY · New York · United States · Palo Alto, CA · Palo Alto | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17 | cursor | Software Engineer, Model Lifecycle and Signals | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/39928fa7-8acc-41b9-9143-97b760774f05 | cursor | Software Engineer, Enterprise | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8 | cursor | Software Engineer, Developer Productivity | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/359cb8e6-77e8-4a77-be67-a39eb46d2c10 | cursor | Software Engineer, Infrastructure | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/9d756f3e-ec33-4820-9971-f803de7b2d63 | cursor | Software Engineer, Core Services | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462 | cursor | Software Engineer, Compute Infra | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa | cursor | Software Engineer, Client Infrastructure | San Francisco, CA | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93 | cursor | Software Engineer, Bugbot | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917 | cursor | Software Engineer, Billing | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
+
 ## Processed
