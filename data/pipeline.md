@@ -1901,3 +1901,5 @@
 - [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4750986005 | dotmatics | DevOps Engineer / Luma | Remote - United Kingdom | posted: 2026-11-10
 
 - [ ] https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e | kalshi | Software Engineer, Marketing | New York Office | posted: 2026-11-10
+
+- [ ] https://boards.greenhouse.io/flagshippioneeringinc/jobs/8923519002?gh_jid=8923519002 | flagshippioneeringinc | Engineer, Software Engineering | Cambridge, MA USA | posted: 2026-11-10
