@@ -1922,3 +1922,5 @@
 - [ ] https://job-boards.greenhouse.io/broadwayventures/jobs/5478149008 | broadwayventures | Application Developer (Java, JavaScript) (Full-Stack) | Remote - United States | posted: 2026-11-10
 
 - [ ] https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d | supabase | Software Engineer - AI Tooling | Remote, Global | posted: 2026-11-10
+
+- [ ] https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5478385008 | datasystemsanalystsinc | Software Developer - Mid (SMDC) | Colorado Springs, CO | posted: 2026-11-10
