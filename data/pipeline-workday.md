@@ -1304,4 +1304,30 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51957 | bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-09
 
+- [ ] https://web.wd1.myworkdayjobs.com/externalcareersite/job/Argentina---Remote/AI---Software-Development-Engineer-in-Test--AI---SDET-_R15363 | web | AI - Software Development Engineer in Test (AI - SDET) | 2 Locations | posted: 2026-11-10
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-McLean-Virginia/Generative-AI---Machine-Learning-Engineer_JREQ193871 | thomsonreuters | Generative AI & Machine Learning Engineer | United States of America McLean Virginia | posted: 2026-11-10
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-McLean-Virginia/Software-Engineer_JREQ193870 | thomsonreuters | Software Engineer | United States of America McLean Virginia | posted: 2026-11-10
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587 | thomsonreuters | Software Engineer Co-Op | United States of America Rochester New York | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Specs--Level-5_R0046458-1 | snapchat | Software Engineer, Specs C++, Level 5 | 3 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Machine-Learning-Engineer--Generative-ML--Level-4_H226SWEGML3 | snapchat | Machine Learning Engineer, Generative ML, Level 4 | 3 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Specs--Level-5_R0046458 | snapchat | Software Engineer, Specs C++, Level 5 | 3 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-5_Q426SWEB6-1 | snapchat | Software Engineer, Backend, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--C----Level-4_R0046977-1 | snapchat | Software Engineer, C++, Level 4 | Los Angeles, California | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--C----Level-5_R0047035-1 | snapchat | Software Engineer, C++, Level 5 | Los Angeles, California | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-5_Q426SWEFS6-1 | snapchat | Software Engineer, Full Stack, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-5_Q426SWEFS6 | snapchat | Software Engineer, Full Stack, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--Backend--Level-4_Q326SWEB2 | snapchat | Software Engineer, Backend, Level 4 | 6 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--C----Level-4_R0046977 | snapchat | Software Engineer, C++, Level 4 | Los Angeles, California | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--C----Level-5_R0047035 | snapchat | Software Engineer, C++, Level 5 | Los Angeles, California | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Palo-Alto-California/Machine-Learning-Engineer--Level-4_Q426SWEML3-1 | snapchat | Machine Learning Engineer, Level 4 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Palo-Alto-California/Machine-Learning-Engineer--Level-5_Q426SWEML5-1 | snapchat | Machine Learning Engineer, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/New-York-New-York/Machine-Learning-Engineer--Revenue---Level-5_R0047092-1 | snapchat | Machine Learning Engineer, Revenue+, Level 5 | New York, New York | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Machine-Learning-Engineer--Level-4_Q426SWEML3 | snapchat | Machine Learning Engineer, Level 4 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Machine-Learning-Engineer--Level-5_Q426SWEML5 | snapchat | Machine Learning Engineer, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/New-York-New-York/Machine-Learning-Engineer--Revenue---Level-5_R0047092 | snapchat | Machine Learning Engineer, Revenue+, Level 5 | New York, New York | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/referral19/job/Los-Angeles-California/Software-Engineer--Backend--Level-5_Q426SWEB6 | snapchat | Software Engineer, Backend, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://snapchat.wd1.myworkdayjobs.com/referral19/job/Los-Angeles-California/Software-Engineer--Full-Stack--Level-5_Q426SWEFS6-2 | snapchat | Software Engineer, Full Stack, Level 5 | 5 Locations | posted: 2026-11-10
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/DevOps-Software-Engineer-III_R50098 | chrobinson | DevOps Software Engineer III | Eden Prairie, MN United States of America | posted: 2026-11-10
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Cloud-DevOps-Engineer_Req-69137 | campbellsoup | Cloud DevOps Engineer | USA - NJ - Camden | posted: 2026-11-10
+
 ## Processed
