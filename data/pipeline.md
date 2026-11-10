@@ -1911,3 +1911,6 @@
 
 - [ ] https://jobs.ashbyhq.com/lemlist/8b6b8263-ad9c-4f6c-80af-545eeb7c5127 | lemlist | Fullstack Developer – Taplio & TweetHunter | European union · Remote | posted: 2026-11-10
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003 | celonis | Software Engineer | Remote, US, Massachusetts | posted: 2026-11-10
+
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8200470003 | oddball | Front End Engineer | Remote · Remote | posted: 2026-11-10
+- [ ] https://stripe.com/jobs/search?gh_jid=8187574 | stripe | Machine Learning Engineer, Transaction Risk | Seattle | posted: 2026-11-10
