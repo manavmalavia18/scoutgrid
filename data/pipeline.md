@@ -1926,3 +1926,6 @@
 - [ ] https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5478385008 | datasystemsanalystsinc | Software Developer - Mid (SMDC) | Colorado Springs, CO | posted: 2026-11-10
 
 - [ ] https://jobs.ashbyhq.com/adaption/75df104c-b7c0-4337-a324-0d472da34153 | adaption | Platform Engineer, APIs and Security | San Francisco | posted: 2026-11-10
+
+- [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4753249005 | rvohealth | Software Engineer, Golang | Remote- US | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/workwhilejobs/d2a17dcb-3cc5-40bd-8844-2ff82e8c874f | workwhilejobs | Software Engineer, Backend | Toronto · New York · New York City · United States · San Francisco | posted: 2026-11-10
