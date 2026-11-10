@@ -1639,4 +1639,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Snowflake---Analytics-Platform-Engineer_10331617 | Toyota Motor Corporation | Snowflake & Analytics Platform Engineer | Plano, Texas | posted: 2026-11-10
 - [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Site-Reliability-Engineer---Platforms_10325078 | Toyota Motor Corporation | Site Reliability Engineer - Platforms | Plano, Texas | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/kraken.com/6d3b6e08-97ec-4eda-b3ad-bbf5fd955840 | Payward, Inc. | Software Engineer - DevOps - Bitnomial | United States · Brazil · United Arab Emirates · Ireland · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · Switzerland · Portugal · Lithuania · South Africa · Czech Republic · Canada · Hungary · Mexico · Chile · Poland · Spain · United Kingdom · London · Bulgaria · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/kraken.com/decc0dbd-51f7-4fee-9635-130211623f07 | Payward, Inc. | Software Engineer - Database - Bitnomial | United States · Brazil · United Arab Emirates · Ireland · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · Switzerland · Portugal · Lithuania · South Africa · Czech Republic · Canada · Hungary · Mexico · Chile · Poland · Spain · Bulgaria · Remote | posted: 2026-11-10
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Software-Engineer--CUDA-GPU----Level-4_R10260050 | Northrop Grumman | Software Engineer (CUDA/GPU) - Level 4 | United States-California-Redondo Beach | posted: 2026-11-10
+
 ## Processed
