@@ -1362,4 +1362,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Software-Engineer--CUDA-GPU----Level-4_R10260050 | ngc | Software Engineer (CUDA/GPU) - Level 4 | United States-California-Redondo Beach | posted: 2026-11-10
 
+- [ ] https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623 | cox | Software Engineer I - 19025 | Atlanta GA | posted: 2026-11-10
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-4_R1005555-1 | capitalone | Full-stack Engineer 4 | Chicago, IL | posted: 2026-11-10
+
 ## Processed
