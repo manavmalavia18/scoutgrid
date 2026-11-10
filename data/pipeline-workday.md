@@ -1292,4 +1292,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://rakuten.wd1.myworkdayjobs.com/rakutenrewards/job/San-Mateo-California/Platform-Engineer_1036999-1 | rakuten | Platform Engineer | San Mateo, California | posted: 2026-11-09
 - [ ] https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Remote-USA/AI-Engineer_R-100743 | csiweb | AI Engineer | Remote, USA | posted: 2026-11-09
 
+- [ ] https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverHealth---Software-Engineer_R-106622 | evercommerce | EverHealth - Software Engineer | Remote- US | posted: 2026-11-09
+
 ## Processed
