@@ -1683,4 +1683,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93 | cursor | Software Engineer, Bugbot | New York, NY · San Francisco, CA · San Francisco · United States | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917 | cursor | Software Engineer, Billing | San Francisco, CA · New York, NY · New York · United States | posted: 2026-11-10
 
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8200470003 | oddball | Front End Engineer | Remote · Remote | posted: 2026-11-10
+- [ ] https://stripe.com/jobs/search?gh_jid=8187574 | stripe | Machine Learning Engineer, Transaction Risk | Seattle, New York City | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/lemlist/8b6b8263-ad9c-4f6c-80af-545eeb7c5127 | lemlist | Fullstack Developer – Taplio & TweetHunter | European union · Remote | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003 | celonis | Software Engineer | Remote, US, Massachusetts | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003 | celonis | Software Engineer - Infrastructure | Remote, US, Massachusetts | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8936222002 | icapitalnetwork | Actuarial Software Engineer II - Associate | Salt Lake City, Utah, United States | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8920562002 | icapitalnetwork | Actuarial Software Engineer II - Associate | Colorado Springs, Colorado, United States | posted: 2026-11-10
+- [ ] https://boards.greenhouse.io/flagshippioneeringinc/jobs/8923519002?gh_jid=8923519002 | flagshippioneeringinc | Engineer, Software Engineering | Cambridge, MA USA | posted: 2026-11-10
+
 ## Processed
