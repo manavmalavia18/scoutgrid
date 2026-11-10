@@ -1341,4 +1341,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-II_R-148845 | coke | Software Engineer II | US - GA - Atlanta | posted: 2026-11-10
 
+- [ ] https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Data-Analyst-III--Data-Platform-Engineering-Support_JR21273 | teladoc | Data Analyst III, Data Platform Engineering Support | USA - Any Location (Remote) | posted: 2026-11-10
+
 ## Processed
