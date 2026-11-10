@@ -1692,4 +1692,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8920562002 | icapitalnetwork | Actuarial Software Engineer II - Associate | Colorado Springs, Colorado, United States | posted: 2026-11-10
 - [ ] https://boards.greenhouse.io/flagshippioneeringinc/jobs/8923519002?gh_jid=8923519002 | flagshippioneeringinc | Engineer, Software Engineering | Cambridge, MA USA | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/adaption/75df104c-b7c0-4337-a324-0d472da34153 | adaption | Platform Engineer, APIs and Security | San Francisco | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5478385008 | datasystemsanalystsinc | Software Developer - Mid (SMDC) | Colorado Springs, CO | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d | supabase | Software Engineer - AI Tooling | Remote, Global | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/broadwayventures/jobs/5478149008 | broadwayventures | Application Developer (Java, JavaScript) (Full-Stack) | Remote - United States | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4488736009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/st-labs/60b7ed0f-f89c-4286-9f09-090f0973aff5 | st-labs | Software Engineer, Security | NYC, NY | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007 | tenstorrent | Infrastructure Operations Engineer / SRE | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada | posted: 2026-11-05
+
 ## Processed
