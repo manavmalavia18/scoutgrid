@@ -1618,4 +1618,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://stripe.com/jobs/search?gh_jid=8187574 | Stripe | Machine Learning Engineer, Transaction Risk | Seattle | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/lemlist/8b6b8263-ad9c-4f6c-80af-545eeb7c5127 | lemlist | Fullstack Developer – Taplio & TweetHunter | European union · Remote | posted: 2026-11-10
 
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300 | Motorola Solutions | Jr. Software Engineer, AI Agent Platform | Ontario Remote Work, More... | posted: 2026-11-10
+- [ ] https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer---Prisma-Access_JR-024639 | Palo Alto Networks | Software Engineer — Prisma Access | Office - USA - CA - Headquarters | posted: 2026-11-10
+
 ## Processed
