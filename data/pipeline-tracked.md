@@ -1652,4 +1652,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/Clera/33542d09-27af-4dd6-b8b2-8cdd93964ab0 | Clera | Full-Stack Engineer | New York · Remote | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/nox-metals/773b9da4-42a6-4e04-9cf0-61cef3fc9069 | Nox Metals | Growth Software Engineer | San Francisco | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/factory/7ae9da73-0ee6-4529-809d-4544ad33febe | Factory | Software Engineer, Mobile | San Francisco, CA | posted: 2026-11-10
+
 ## Processed
