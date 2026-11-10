@@ -1626,4 +1626,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://pfizer.wd1.myworkdayjobs.com/pfizercareers/job/United-States---Massachusetts---Cambridge/Informatics-and-AI-Engineer--Biotherapeutics_4966440-1 | Pfizer | Informatics and AI Engineer, Biotherapeutics | United States - Massachusetts - Cambridge | posted: 2026-11-10
 - [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/DevOps-Engineer_R188274 | Parsons | DevOps Engineer | US Remote Any Location | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/st-labs/60b7ed0f-f89c-4286-9f09-090f0973aff5 | Standard Template Labs | Software Engineer, Security | NYC, NY | posted: 2026-11-10
+
 ## Processed
