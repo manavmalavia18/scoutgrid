@@ -1648,4 +1648,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | cohere | Applied AI Engineer, Agents & Automations | Toronto · Canada · New York · United States · United Kingdom · Ottawa · Montreal · Remote | posted: 2026-11-03
 - [ ] https://jobs.ashbyhq.com/rula/93215a80-a855-4b86-8e5c-e4ee29d64bdf | rula | Software Engineer II | Remote - United States | posted: 2026-11-03
 
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b32e9552-6806-49e8-8d83-0d7929f423af | bjakcareer | Software Engineer, AI Automation | China · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/bjakcareer/40514b9d-01c4-4a7c-9ab4-5f465866536b | bjakcareer | Software Engineer, AI Automation | United States · Remote | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/xona-space/727154d2-d33c-45ca-9f6a-c6ffdc4ade53 | xona-space | GNC Software Engineer | Burlingame, California | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/Coframe/e58e6bae-73bb-47e1-ba80-c0a3f51c048b | coframe | Machine Learning Engineer | SF Bay Area | posted: 2026-11-10
+- [ ] https://jobs.ashbyhq.com/generaltranslation/05d33170-2b35-4597-849c-6efbb612fa9b | generaltranslation | Software Engineer, Infra | San Francisco | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/chowbus/jobs/8199735003 | chowbus | Full Stack Engineer, Business Applications & AI | Chicago | posted: 2026-11-10
+- [ ] https://job-boards.greenhouse.io/navapbc/jobs/4482367009 | navapbc | Software Engineer (Backend-Java) | Remote · Remote US | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47 | openai | Full-Stack Software Engineer, Child Safety Tools & Systems | San Francisco · New York City · New York · United States | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5290232007?gh_jid=5290232007 | andurilindustries | Software Engineer, Sentry Software (Manufacturing) | Irvine, California, United States | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5290228007?gh_jid=5290228007 | andurilindustries | Software Engineer, Sentry Software (Ground Based Air Defense) | Irvine, California, United States | posted: 2026-11-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5290223007?gh_jid=5290223007 | andurilindustries | Software Engineer, Sentry Software (Allied Customer Deployment) | Irvine, California, United States | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/mercor/4b0920c5-49f9-4851-a8ca-26825ff570f8 | mercor | Software Engineer, Applied AI- Evals | San Francisco | posted: 2026-11-09
+- [ ] https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3 | ramp | Software Engineer, Security, Stablecoin | New York, NY (HQ) · San Francisco, CA · San Fransisco · USA · Remote (US) · United States | posted: 2026-11-09
+- [ ] https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185 | cscgeneration-2 | Junior Software Engineer | Remote - Toronto | posted: 2026-11-09
+
 ## Processed
