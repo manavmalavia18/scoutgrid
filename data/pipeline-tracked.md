@@ -1628,4 +1628,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/st-labs/60b7ed0f-f89c-4286-9f09-090f0973aff5 | Standard Template Labs | Software Engineer, Security | NYC, NY | posted: 2026-11-10
 
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-II_R-148845 | The Coca-Cola Company | Software Engineer II | US - GA - Atlanta | posted: 2026-11-10
+- [ ] https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-II--HR-App-Engineering_R31469 | Chewy | Software Engineer II, HR App Engineering | 2 Locations | posted: 2026-11-10
+
 ## Processed
