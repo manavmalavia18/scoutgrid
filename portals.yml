@@ -19848,6 +19848,56 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Concurrence"
+    careers_url: https://jobs.ashbyhq.com/concurrence
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hyperbolic"
+    careers_url: https://jobs.ashbyhq.com/hyperbolic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Marble Health"
+    careers_url: https://jobs.ashbyhq.com/marblehealth
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Odyssey"
+    careers_url: https://jobs.ashbyhq.com/odysseyml
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "P-1 AI"
+    careers_url: https://jobs.ashbyhq.com/p-1-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Spade"
+    careers_url: https://jobs.ashbyhq.com/spade
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Coast"
+    careers_url: https://job-boards.greenhouse.io/coast
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
