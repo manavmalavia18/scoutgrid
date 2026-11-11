@@ -1699,4 +1699,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Surface---Mechanical-Inspector--CWWFront-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00353223 | ASML | Optical Surface & Mechanical Inspector- CWWFront End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-11-11
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00353178 | ASML | Optical Fabrication Tech CWW Front End Days | Wilton, CT, USA | posted: 2026-11-11
 
+- [ ] https://job-boards.greenhouse.io/rushdownstudios/jobs/4503214009 | Rushdown Studios | Platform Engineer | United States (Remote) | posted: 2026-11-11
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8170816?gh_jid=8170816 | Crunchyroll | Software Engineer III, Service Monetization | Los Angeles, California, United States | posted: 2026-11-11
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00352604 | ASML | Optical Fabrication Technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13 | Antithesis | Applied AI Software Engineer | Vienna, VA, USA · San Francisco, CA · San Francisco · United States | posted: 2026-11-11
+
 ## Processed
