@@ -1395,4 +1395,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer--Project--AI-Platforms_R26-7926-1 | rockwellautomation | Software Engineer, Project, AI Platforms | 2 Locations | posted: 2026-11-11
 
+- [ ] https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0138924 | paypal | Software Engineer | Scottsdale, Arizona, United States of America | posted: 2026-11-11
+
 ## Processed
