@@ -1941,3 +1941,7 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5478726008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-10
 
 - [ ] https://jobs.ashbyhq.com/factory/7ae9da73-0ee6-4529-809d-4544ad33febe | factory | Software Engineer, Mobile | San Francisco, CA | posted: 2026-11-10
+
+- [ ] https://careers.roblox.com/jobs/8356764?gh_jid=8356764 | roblox | Software Engineer, ROS Open Platform & AI Enablement | San Mateo, CA, United States | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/turing/jobs/6241697004 | turing | ML/AI Engineer | United States | posted: 2026-11-10
+- [ ] https://sofi.com/careers/job/8198207003?gh_jid=8198207003 | sofi | Software Engineer, Streaming and Workflows | WA - Seattle | posted: 2026-11-10
