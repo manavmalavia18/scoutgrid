@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T17:25:23.204Z",
+  "fetchedAt": "2026-11-11T17:50:17.156Z",
   "days": 2,
   "leadCount": 46,
   "jobCount": 23,
@@ -16,17 +16,17 @@
     },
     {
       "key": "greenhouse:clear",
+      "fetched": 59,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:geotab",
       "fetched": 60,
       "kept": 0
     },
     {
       "key": "greenhouse:kairospower",
       "fetched": 69,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:geotab",
-      "fetched": 60,
       "kept": 0
     },
     {
@@ -41,8 +41,13 @@
     },
     {
       "key": "greenhouse:virtu",
-      "fetched": 44,
+      "fetched": 45,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:esri",
+      "fetched": 492,
+      "kept": 1
     },
     {
       "key": "greenhouse:feedzai",
@@ -65,8 +70,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:canonical",
-      "fetched": 316,
+      "key": "greenhouse:xai",
+      "fetched": 298,
       "kept": 0
     },
     {
@@ -75,23 +80,23 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:xai",
-      "fetched": 297,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:reddit",
       "fetched": 159,
       "kept": 3
     },
     {
-      "key": "ashby:ivo-inc",
-      "fetched": 45,
+      "key": "ashby:antithesis",
+      "fetched": 21,
       "kept": 0
     },
     {
-      "key": "ashby:antithesis",
-      "fetched": 21,
+      "key": "ashby:cape",
+      "fetched": 24,
+      "kept": 0
+    },
+    {
+      "key": "ashby:ivo-inc",
+      "fetched": 45,
       "kept": 0
     },
     {
@@ -105,18 +110,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:esri",
-      "fetched": 492,
-      "kept": 1
-    },
-    {
       "key": "ashby:plaid",
       "fetched": 143,
-      "kept": 0
-    },
-    {
-      "key": "ashby:cape",
-      "fetched": 24,
       "kept": 0
     },
     {
@@ -125,13 +120,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:happyrobot.ai",
-      "fetched": 77,
-      "kept": 0
-    },
-    {
-      "key": "ashby:brainco",
-      "fetched": 56,
+      "key": "ashby:baseten",
+      "fetched": 101,
       "kept": 0
     },
     {
@@ -140,14 +130,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:openai",
-      "fetched": 824,
-      "kept": 3
+      "key": "ashby:happyrobot.ai",
+      "fetched": 77,
+      "kept": 0
     },
     {
-      "key": "ashby:patreon",
-      "fetched": 21,
-      "kept": 0
+      "key": "ashby:openai",
+      "fetched": 822,
+      "kept": 3
     },
     {
       "key": "ashby:with-fulcrum",
@@ -155,8 +145,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:liquid-ai",
-      "fetched": 25,
+      "key": "ashby:patreon",
+      "fetched": 21,
+      "kept": 0
+    },
+    {
+      "key": "ashby:brainco",
+      "fetched": 56,
       "kept": 0
     },
     {
@@ -165,14 +160,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:baseten",
-      "fetched": 101,
+      "key": "ashby:liquid-ai",
+      "fetched": 25,
       "kept": 0
     },
     {
-      "key": "greenhouse:stripe",
-      "fetched": 782,
-      "kept": 1
+      "key": "greenhouse:canonical",
+      "fetched": 316,
+      "kept": 0
     },
     {
       "key": "lever:unusual",
@@ -182,6 +177,11 @@
     {
       "key": "lever:nationaljournal",
       "fetched": 5,
+      "kept": 0
+    },
+    {
+      "key": "lever:crypto",
+      "fetched": 84,
       "kept": 0
     },
     {
@@ -205,8 +205,8 @@
       "kept": 0
     },
     {
-      "key": "lever:crypto",
-      "fetched": 84,
+      "key": "workday:lennar.wd1.myworkdayjobs.com/lennar_jobs",
+      "fetched": 40,
       "kept": 0
     },
     {
@@ -220,11 +220,6 @@
       "kept": 0
     },
     {
-      "key": "workday:lennar.wd1.myworkdayjobs.com/lennar_jobs",
-      "fetched": 40,
-      "kept": 0
-    },
-    {
       "key": "workday:lonza.wd3.myworkdayjobs.com/lonza_careers",
       "fetched": 80,
       "kept": 0
@@ -233,9 +228,24 @@
       "key": "workday:nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
       "fetched": 80,
       "kept": 12
+    },
+    {
+      "key": "greenhouse:stripe",
+      "fetched": 782,
+      "kept": 1
     }
   ],
   "jobs": [
+    {
+      "title": "Principal Software Development Engineer – National Imagery",
+      "url": "https://www.esri.com/careers/5218015007?gh_jid=5218015007",
+      "company": "Esri",
+      "location": "Vienna, Virginia, United States",
+      "postedAt": "2026-11-10T18:48:19.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "esri"
+    },
     {
       "title": "Applied AI Engineer: Product & Experience",
       "url": "https://job-boards.greenhouse.io/flowcode/jobs/4753183005",
@@ -287,16 +297,6 @@
       "board": "reddit"
     },
     {
-      "title": "Principal Software Development Engineer – National Imagery",
-      "url": "https://www.esri.com/careers/5218015007?gh_jid=5218015007",
-      "company": "Esri",
-      "location": "Vienna, Virginia, United States",
-      "postedAt": "2026-11-10T18:48:19.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "esri"
-    },
-    {
       "title": "Principal Software Engineer, Full Stack — Codex",
       "url": "https://jobs.ashbyhq.com/openai/74842880-e750-4664-9e2e-83b4c96c5a03",
       "company": "OpenAI",
@@ -325,16 +325,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "openai"
-    },
-    {
-      "title": "Machine Learning Engineer, Transaction Risk",
-      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
-      "company": "Stripe",
-      "location": "Seattle, New York City",
-      "postedAt": "2026-11-10T15:52:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "stripe"
     },
     {
       "title": "Software Engineering AMTS (College Grad)",
@@ -478,6 +468,16 @@
       "ats": "Workday",
       "board": "NVIDIAExternalCareerSite",
       "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Machine Learning Engineer, Transaction Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
+      "company": "Stripe",
+      "location": "Seattle, New York City",
+      "postedAt": "2026-11-10T15:52:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "stripe"
     }
   ],
   "leadSources": [
