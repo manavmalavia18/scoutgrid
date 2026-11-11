@@ -1678,4 +1678,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://kcura.wd1.myworkdayjobs.com/external_career_site/job/Illinois/Software-Engineer_26-0512 | Relativity | Software Engineer | Illinois | posted: 2026-11-11
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174 | Northrop Grumman | 2027 Associate Software Engineer - Pathways - Colorado Springs | United States-Colorado-Colorado Springs | posted: 2026-11-11
 
+- [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Test_R-4331 | Cboe | Software Engineer, Test | Chicago, IL | posted: 2026-11-11
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/Work-at-Home---Ohio-USA-WOHA/Full-Stack-Software-Engineer_JR0150756 | McKesson Corporation | Full Stack Software Engineer | 8 Locations | posted: 2026-11-11
+
 ## Processed
