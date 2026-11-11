@@ -1666,4 +1666,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bjakcareer/6fed297e-4579-4820-a24f-a54e8f1a1381 | Bjak | Backend Software Engineer - AI Finance Agent | Austria · Remote | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/bjakcareer/462f63af-1ec9-4ff8-a8e1-943e49bd05d7 | Bjak | Mobile Application Developer | Austria · Remote | posted: 2026-11-11
 
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8937278002 | Twitch Interactive | Software Engineer II, Fintech | San Francisco, CA | posted: 2026-11-11
+
 ## Processed
