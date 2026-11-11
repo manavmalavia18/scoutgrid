@@ -2122,3 +2122,6 @@
 - [ ] https://job-boards.greenhouse.io/rushdownstudios/jobs/4503214009 | rushdownstudios | Platform Engineer | United States (Remote) | posted: 2026-11-11
 
 - [ ] https://boards.greenhouse.io/crunchyroll/jobs/8170816?gh_jid=8170816 | crunchyroll | Software Engineer III, Service Monetization | Los Angeles, California, United States | posted: 2026-11-11
+
+- [ ] https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871 | openai | Partner Applied AI Engineer, Oracle and Cloud ISV | San Francisco | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e | openai | Partner Applied AI Engineer, Google Cloud | San Francisco | posted: 2026-11-11
