@@ -1384,4 +1384,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047 | salesforce | Software Engineering AMTS (College Grad) | 7 Locations | posted: 2026-11-11
 - [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408 | jci | Software Engineering Co-Op | Burlington-Massachusetts-United States of America | posted: 2026-11-11
 
+- [ ] https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Software-Engineer-II_836722 | unum | Software Engineer II | 2 Locations | posted: 2026-11-11
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174 | ngc | 2027 Associate Software Engineer - Pathways - Colorado Springs | United States-Colorado-Colorado Springs | posted: 2026-11-11
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171 | ngc | 2027 Associate Software Engineer - Pathways - Boulder CO | United States-Colorado-Boulder | posted: 2026-11-11
+- [ ] https://kcura.wd1.myworkdayjobs.com/external_career_site/job/Illinois/Software-Engineer_26-0512 | kcura | Software Engineer | Illinois | posted: 2026-11-11
+- [ ] https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---New-York/Software-Development-Engineer-III_R12426 | clearwateranalytics | Software Development Engineer III | Office - New York | posted: 2026-11-11
+
 ## Processed
