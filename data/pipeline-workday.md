@@ -1390,4 +1390,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://kcura.wd1.myworkdayjobs.com/external_career_site/job/Illinois/Software-Engineer_26-0512 | kcura | Software Engineer | Illinois | posted: 2026-11-11
 - [ ] https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---New-York/Software-Development-Engineer-III_R12426 | clearwateranalytics | Software Development Engineer III | Office - New York | posted: 2026-11-11
 
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/Work-at-Home---Ohio-USA-WOHA/Full-Stack-Software-Engineer_JR0150756 | mckesson | Full Stack Software Engineer | 8 Locations | posted: 2026-11-11
+- [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Test_R-4331 | cboe | Software Engineer, Test | Chicago, IL | posted: 2026-11-11
+
 ## Processed
