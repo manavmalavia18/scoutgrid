@@ -1393,4 +1393,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/Work-at-Home---Ohio-USA-WOHA/Full-Stack-Software-Engineer_JR0150756 | mckesson | Full Stack Software Engineer | 8 Locations | posted: 2026-11-11
 - [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Test_R-4331 | cboe | Software Engineer, Test | Chicago, IL | posted: 2026-11-11
 
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer--Project--AI-Platforms_R26-7926-1 | rockwellautomation | Software Engineer, Project, AI Platforms | 2 Locations | posted: 2026-11-11
+
 ## Processed
