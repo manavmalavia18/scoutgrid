@@ -1674,4 +1674,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer---Developer--Associate-or-Experienced-_JR2026526838 | Boeing | Software Engineer - Developer (Associate or Experienced) | USA - El Segundo, CA | posted: 2026-11-11
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171 | Northrop Grumman | 2027 Associate Software Engineer - Pathways - Boulder CO | United States-Colorado-Boulder | posted: 2026-11-11
 
+- [ ] https://jobs.ashbyhq.com/litellm/ee96c797-fb2b-4f91-9639-6017ae73c34c | LiteLLM | ML Engineer | San Francisco | posted: 2026-11-11
+- [ ] https://kcura.wd1.myworkdayjobs.com/external_career_site/job/Illinois/Software-Engineer_26-0512 | Relativity | Software Engineer | Illinois | posted: 2026-11-11
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174 | Northrop Grumman | 2027 Associate Software Engineer - Pathways - Colorado Springs | United States-Colorado-Colorado Springs | posted: 2026-11-11
+
 ## Processed
