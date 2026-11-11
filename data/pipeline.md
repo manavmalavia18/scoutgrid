@@ -1945,3 +1945,5 @@
 - [ ] https://careers.roblox.com/jobs/8356764?gh_jid=8356764 | roblox | Software Engineer, ROS Open Platform & AI Enablement | San Mateo, CA, United States | posted: 2026-11-11
 - [ ] https://job-boards.greenhouse.io/turing/jobs/6241697004 | turing | ML/AI Engineer | United States | posted: 2026-11-10
 - [ ] https://sofi.com/careers/job/8198207003?gh_jid=8198207003 | sofi | Software Engineer, Streaming and Workflows | WA - Seattle | posted: 2026-11-10
+
+- [ ] https://jobs.ashbyhq.com/partiful/af070c2e-89e0-49d3-abdc-6cb8ce19b85b | partiful | 🔮 Product Engineer (Full Stack) | New York, NY | posted: 2026-11-11
