@@ -61,8 +61,11 @@ jobs:
       - name: Disconnect from Tailscale exit node
         run: sudo tailscale down || true
 
-      - name: Run board discovery (promote any ATS-hosted LinkedIn leads)
-        run: node discover-boards.mjs
+      # Promotion left to the dedicated board-discovery.yml workflow (runs
+      # every 30min, reads this same linkedin-feed.json) -- was calling
+      # discover-boards.mjs here too, which meant two workflows writing the
+      # same shared registry/heartbeat and colliding often enough to lose
+      # even an 8-attempt/64s-backoff retry. See a16z.yml for the same fix.
 
       - name: Commit results
         run: |

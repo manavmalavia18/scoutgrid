@@ -40,7 +40,18 @@ jobs:
           # until scrape-jobright.py is migrated to the new NetworkRecorder
           # API (session.network.search(...) instead of page.captured_xhr).
           pip install 'scrapling[fetchers]>=0.4.13,<0.5'
-          python3 -m patchright install chromium --with-deps
+          # apt mirrors (azure.archive.ubuntu.com etc.) occasionally have
+          # transient DNS/availability blips on GitHub's runners -- retry
+          # a few times with backoff instead of failing the whole job.
+          # Confirmed live 2026-11-11: "Temporary failure resolving
+          # 'azure.archive.ubuntu.com'" killed 2 consecutive runs.
+          for attempt in 1 2 3 4; do
+            if python3 -m patchright install chromium --with-deps; then
+              break
+            fi
+            echo "patchright install attempt $attempt failed, retrying in $((attempt * 15))s..."
+            sleep $((attempt * 15))
+          done
 
       # Cookie-based auth (JOBRIGHT_COOKIE secret, captured once from the
       # user's own logged-in session — never a password) runs headless per

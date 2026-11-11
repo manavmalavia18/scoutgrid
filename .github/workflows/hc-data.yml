@@ -39,7 +39,19 @@ jobs:
       - name: Install patchright + Xvfb
         run: |
           pip install patchright
-          python3 -m patchright install chromium --with-deps
+          # apt/npm mirrors (azure.archive.ubuntu.com etc.) occasionally
+          # have transient DNS/availability blips on GitHub's runners --
+          # retry a few times with backoff instead of failing the whole
+          # job outright. Confirmed live 2026-11-11: "Temporary failure
+          # resolving 'azure.archive.ubuntu.com'" killed 2 consecutive
+          # runs 15 minutes apart.
+          for attempt in 1 2 3 4; do
+            if python3 -m patchright install chromium --with-deps; then
+              break
+            fi
+            echo "patchright install attempt $attempt failed, retrying in $((attempt * 15))s..."
+            sleep $((attempt * 15))
+          done
           sudo apt-get update -y && sudo apt-get install -y xvfb
 
       - name: Connect to Tailscale exit node

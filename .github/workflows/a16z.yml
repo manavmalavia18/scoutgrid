@@ -33,8 +33,17 @@ jobs:
       - name: Run a16z portfolio lead fetch
         run: node fetch-a16z-feed.mjs
 
-      - name: Run board discovery (promote any direct-ATS a16z leads)
-        run: node discover-boards.mjs
+      # Promotion to official-board-registry.json is left to the dedicated
+      # board-discovery.yml workflow (runs every 30min on its own schedule
+      # and reads this same data/a16z-feed.json). Used to call
+      # discover-boards.mjs here too for immediate promotion, but that
+      # meant TWO workflows writing the same shared registry/heartbeat
+      # files -- a collision that kept losing even an 8-attempt/64s-backoff
+      # retry (confirmed live 2026-11-11, board-discovery was committing
+      # more often than that whole retry window). 30min of extra lead-time
+      # before promotion is a non-issue for a feed this low-frequency (runs
+      # every 6h) -- removing the duplicate write eliminates the race
+      # outright instead of racing against it.
 
       - name: Commit results
         run: |
