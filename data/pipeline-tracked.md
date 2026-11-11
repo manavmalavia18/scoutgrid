@@ -1704,4 +1704,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00352604 | ASML | Optical Fabrication Technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13 | Antithesis | Applied AI Software Engineer | Vienna, VA, USA · San Francisco, CA · San Francisco · United States | posted: 2026-11-11
 
+- [ ] https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e | OpenAI | Partner Applied AI Engineer, Google Cloud | San Francisco | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871 | OpenAI | Partner Applied AI Engineer, Oracle and Cloud ISV | San Francisco | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6255478004 | Self Financial, Inc. | Associate Software Engineer | Austin, TX | posted: 2026-11-11
+
 ## Processed
