@@ -1375,4 +1375,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Dallas/Software-Engineering-LMTS_JR366708 | salesforce | Software Engineering LMTS | 3 Locations | posted: 2026-11-11
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR366707 | salesforce | Software Engineering LMTS | 4 Locations | posted: 2026-11-11
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CO-Boulder/Software-Development-Engineer_JR-0107838 | workday | Software Development Engineer - Developer Platform | USA, CO, Boulder | posted: 2026-11-11
+- [ ] https://meijer.wd5.myworkdayjobs.com/fresh_thyme_stores_external_career_site/job/Chicago-IL/Front-End-Supervisor_R000717770 | meijer | Front End Supervisor | Chicago, IL | posted: 2026-11-11
+
 ## Processed
