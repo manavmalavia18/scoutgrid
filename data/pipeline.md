@@ -2120,3 +2120,5 @@
 - [ ] https://jobs.ashbyhq.com/sosafe/79785e29-2e8b-4f8e-b2ce-3b959674b32b | sosafe | Mid-level Fullstack Engineer (Typescript, Node, React) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-11
 
 - [ ] https://job-boards.greenhouse.io/rushdownstudios/jobs/4503214009 | rushdownstudios | Platform Engineer | United States (Remote) | posted: 2026-11-11
+
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8170816?gh_jid=8170816 | crunchyroll | Software Engineer III, Service Monetization | Los Angeles, California, United States | posted: 2026-11-11
