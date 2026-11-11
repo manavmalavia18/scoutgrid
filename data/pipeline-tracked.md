@@ -1681,4 +1681,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Test_R-4331 | Cboe | Software Engineer, Test | Chicago, IL | posted: 2026-11-11
 - [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/Work-at-Home---Ohio-USA-WOHA/Full-Stack-Software-Engineer_JR0150756 | McKesson Corporation | Full Stack Software Engineer | 8 Locations | posted: 2026-11-11
 
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer--Project--AI-Platforms_R26-7926-1 | Rockwell Automation | Software Engineer, Project, AI Platforms | 2 Locations | posted: 2026-11-11
+- [ ] https://symbotic.wd504.myworkdayjobs.com/symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496 | Symbotic | New Grad- Robotics Software Engineer | USA Wilmington, MA - HQ | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/mistral.ai/fe471824-c80a-4ea4-9625-2217f81c52ae | Mistral Ai | Site Reliability Engineer, Mistral Cloud | New York | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/Coframe/e58e6bae-73bb-47e1-ba80-c0a3f51c048b | Coframe | Machine Learning Engineer | SF Bay Area | posted: 2026-11-10
+
 ## Processed
