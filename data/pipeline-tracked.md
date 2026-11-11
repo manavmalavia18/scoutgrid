@@ -1654,4 +1654,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/factory/7ae9da73-0ee6-4529-809d-4544ad33febe | Factory | Software Engineer, Mobile | San Francisco, CA | posted: 2026-11-10
 
+- [ ] https://sofi.com/careers/job/8198207003?gh_jid=8198207003 | SoFi | Software Engineer, Streaming and Workflows | WA - Seattle | posted: 2026-11-10
+
 ## Processed
