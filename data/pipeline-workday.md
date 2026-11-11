@@ -1403,4 +1403,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Development-Engineer-in-Test--SDET-_333296 | caci | Software Development Engineer in Test (SDET) | 2 Locations | posted: 2026-11-11
 
+- [ ] https://republic.wd5.myworkdayjobs.com/republic/job/Chattanooga-TN-USA/Front-End-Loader-Driver---CDL--B-_R-188318 | republic | Front End Loader Driver - CDL (B) | Chattanooga, TN, USA | posted: 2026-11-11
+- [ ] https://calix.wd1.myworkdayjobs.com/external/job/Remote---USA/Data---AI-Engineer_R-11941 | calix | Data & AI Engineer | Remote - USA | posted: 2026-11-11
+
 ## Processed
