@@ -1656,4 +1656,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://sofi.com/careers/job/8198207003?gh_jid=8198207003 | SoFi | Software Engineer, Streaming and Workflows | WA - Seattle | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/partiful/af070c2e-89e0-49d3-abdc-6cb8ce19b85b | Partiful | 🔮 Product Engineer (Full Stack) | New York, NY | posted: 2026-11-11
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CO-Boulder/Software-Development-Engineer_JR-0107838 | Workday | Software Development Engineer - Developer Platform | USA, CO, Boulder | posted: 2026-11-10
+
 ## Processed
