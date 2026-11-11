@@ -1712,4 +1712,160 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4753249005 | rvohealth | Software Engineer, Golang | Remote- US | posted: 2026-11-10
 - [ ] https://jobs.ashbyhq.com/workwhilejobs/d2a17dcb-3cc5-40bd-8844-2ff82e8c874f | workwhilejobs | Software Engineer, Backend | Toronto · New York · New York City · United States · San Francisco | posted: 2026-11-10
 
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8937278002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f5ce0694-b062-4504-bd3e-fc1d48c4706c | bjakcareer | Mobile Application Developer | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7ee08089-f679-46c7-a8a0-bb12f2091b52 | bjakcareer | Mobile Application Developer | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/clubhouse/e189d3c3-149c-4c11-8008-670e89fe4768 | clubhouse | 🎉 Backend Engineer, Engagement | Remote (US) | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/462f63af-1ec9-4ff8-a8e1-943e49bd05d7 | bjakcareer | Mobile Application Developer | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/63b6c3fe-2dcd-4ef2-b172-2d5657c5a161 | bjakcareer | Mobile Application Developer | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/748bf734-0910-4446-871c-433e05b7b339 | bjakcareer | Mobile Application Developer | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f58010ea-138c-4452-8706-f2ddcb8ed4cc | bjakcareer | Mobile Application Developer | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e619732c-c7ff-4b2d-afe1-1acde334d6db | bjakcareer | Mobile Application Developer | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/071e7a5b-af0f-4daf-846f-092db3321bbd | bjakcareer | Mobile Application Developer | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/99aee288-831b-459f-af68-cc50ef6f7b6f | bjakcareer | Mobile Application Developer | India · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3552d9df-bd2a-4ef1-8108-41226c45a030 | bjakcareer | Mobile Application Developer | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b2427783-38a8-465c-a46a-22805cbda81a | bjakcareer | Mobile Application Developer | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/45b6a482-d62b-4c4f-8121-2ddaadef10e6 | bjakcareer | Mobile Application Developer | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f8016717-ff43-4691-93ae-72848dbd3926 | bjakcareer | Mobile Application Developer | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/463e7547-d743-4d1c-9486-1c70d6cc7afa | bjakcareer | Mobile Application Developer | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/38dc6aab-6c1c-4641-86da-cf6b9b68fd29 | bjakcareer | Mobile Application Developer | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9de313c4-7d22-4b97-92e4-1563145665d3 | bjakcareer | Mobile Application Developer | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a692981c-4349-4d38-afe9-21d207aabb29 | bjakcareer | Mobile Application Developer | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/463ca735-160a-4779-b35f-2ed27e80c706 | bjakcareer | Mobile Application Developer | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/04129559-7c61-48dd-8811-db77ea8ae004 | bjakcareer | Mobile Application Developer | Seoul, Korea · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/72061081-f3b0-4266-bd5e-7911b31b7162 | bjakcareer | Mobile Application Developer | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1817057d-04f6-41b7-9d14-d7e90eb428b6 | bjakcareer | Mobile Application Developer | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5670043b-39f5-479e-9a0c-13a7f25a2dcb | bjakcareer | Mobile Application Developer - AI Finance Agent | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b29691d4-564c-4869-a43c-6114a9c680a3 | bjakcareer | Mobile Application Developer - AI Finance Agent | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/41fae14b-3d6b-4ae3-b384-3d442cfc4322 | bjakcareer | Mobile Application Developer - AI Finance Agent | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/66c0b998-a4c4-4aff-aef5-706bb7c334a8 | bjakcareer | Mobile Application Developer - AI Finance Agent | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/762d0b96-f124-4ae2-96c3-1a0efd38ae98 | bjakcareer | Mobile Application Developer - AI Finance Agent | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2c767bfe-1620-4ba5-aa4c-da93d66d91d6 | bjakcareer | Mobile Application Developer - AI Finance Agent | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/8a6cdaae-c1b7-4910-bad1-ac902c36047b | bjakcareer | Mobile Application Developer - AI Finance Agent | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5e7a0488-8b81-4d8a-b2c2-73f7ef7f9cbd | bjakcareer | Mobile Application Developer - AI Finance Agent | Netherlands · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/df515e35-b39b-4278-8709-e4ed148ff74a | bjakcareer | Mobile Application Developer - AI Finance Agent | Philippines · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/094148c7-0e2a-4546-9297-8307a608c98c | bjakcareer | Mobile Application Developer - AI Finance Agent | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a11c911e-c22e-45a2-9acf-b2f169a8cef1 | bjakcareer | Mobile Application Developer - AI Finance Agent | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d79bb3dd-30b3-4d3a-a5ef-9b401acf973c | bjakcareer | Mobile Application Developer - AI Finance Agent | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/30042422-3c2d-466b-877b-38cc9fb14720 | bjakcareer | Mobile Application Developer - AI Finance Agent | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/06616f8f-3912-4bbe-873f-5c805ffc344d | bjakcareer | Mobile Application Developer - AI Finance Agent | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/09c3e540-d827-4877-92d2-7c807e3ca5c4 | bjakcareer | Mobile Application Developer - AI Finance Agent | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/db61f2d4-9cfb-47b5-a77d-4a8abc031298 | bjakcareer | Mobile Application Developer - AI Finance Agent | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/cfd29bfe-0161-4ea6-ae6e-bdf44249c3c9 | bjakcareer | Mobile Application Developer - AI Finance Agent | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/fc5bea15-6583-4424-b24c-bc58de778bc5 | bjakcareer | Applied AI Engineer | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/57f33e54-bac9-411f-9125-8793025bfa24 | bjakcareer | Applied AI Engineer | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/79dfac47-281d-4c31-ae6a-b49210c87bfe | bjakcareer | Applied AI Engineer | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/bbc89cf7-ebc9-4c2d-a210-6d63d7083b90 | bjakcareer | Applied AI Engineer | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6d748287-846e-4744-ada0-bed5bcbbc04b | bjakcareer | Applied AI Engineer | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/57da6a29-0eb4-4889-8c74-541582eaea04 | bjakcareer | Applied AI Engineer | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f9882272-1379-4e75-8c3f-296893a2fdbe | bjakcareer | Applied AI Engineer | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c57c28f2-1a91-4cfc-89c4-2f80ac7e9903 | bjakcareer | Applied AI Engineer | Philippines · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a3f67ac5-e206-4b4d-bcf9-750c3cdd42d7 | bjakcareer | Applied AI Engineer | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d3f3a6b6-8ffc-4d5c-a4e2-a80d785931de | bjakcareer | Applied AI Engineer | Seoul, Korea · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/413d5017-6862-4042-a3f2-b0d83798d56b | bjakcareer | Applied AI Engineer | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6a61e626-6032-4ef9-9596-5b34a3f76972 | bjakcareer | Applied AI Engineer | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b31dd1ba-841d-4ce8-851a-9cb6a6bcae7a | bjakcareer | Applied AI Engineer | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b9420b5f-529a-4b5b-a968-a233cc72f5e8 | bjakcareer | Applied AI Engineer | Netherlands · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/08b116b5-2b8d-49c8-9a43-3f84ea1623d2 | bjakcareer | Applied AI Engineer | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a88550fb-d5ce-4ecf-ba8a-9583629a02d7 | bjakcareer | Applied AI Engineer | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a0cf9485-96a1-4ee2-b292-92f574f569cc | bjakcareer | Applied AI Engineer | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/da5c7066-9250-44ee-a247-b135f3a6008d | bjakcareer | Applied AI Engineer | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/bf2b3174-ff77-48c8-8a33-483e33e4cec1 | bjakcareer | Applied AI Engineer - AI Finance Agent | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/35cdb157-679d-478d-ab81-71e7ce956767 | bjakcareer | Applied AI Engineer - AI Finance Agent | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/51e8420b-bdc3-4ce2-996d-f4216e0e4ce8 | bjakcareer | Applied AI Engineer - AI Finance Agent | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/08e32dad-a253-4391-9e61-c7b04a4a4343 | bjakcareer | Applied AI Engineer - AI Finance Agent | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2a947103-662f-4eca-a9c9-28388297da2a | bjakcareer | Applied AI Engineer - AI Finance Agent | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/89ad2be8-f664-4224-8d17-9e53d84dcfd2 | bjakcareer | Applied AI Engineer - AI Finance Agent | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/fb619341-77e3-47ad-a297-14fb63e093bc | bjakcareer | Applied AI Engineer - AI Finance Agent | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b2a499c8-3cdc-48a5-acec-ef653f43669c | bjakcareer | Applied AI Engineer - AI Finance Agent | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b4b2a2a0-fe31-4ee8-9a41-dc4f87c62784 | bjakcareer | Applied AI Engineer - AI Finance Agent | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d589e32b-96e0-44ec-b2e2-f14295bd34f8 | bjakcareer | Applied AI Engineer - AI Finance Agent | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/afaa7843-ff27-469f-8dc6-79dd88b52133 | bjakcareer | Applied AI Engineer - AI Finance Agent | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1383bcef-dec5-41ff-b532-cd463841f866 | bjakcareer | Applied AI Engineer - AI Finance Agent | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/4226ad7e-a43a-4a8c-b30f-80aadf39b69e | bjakcareer | Applied AI Engineer - AI Finance Agent | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b1e73b18-5191-4c06-8f66-3ede3b88702b | bjakcareer | Applied AI Engineer - AI Finance Agent | Netherlands · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/dc793cea-4f93-4c89-8936-55db9200427b | bjakcareer | Applied AI Engineer - AI Finance Agent | Philippines · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/fb767790-c1cb-4f0d-8fb9-e7d6551fcc31 | bjakcareer | Applied AI Engineer - AI Finance Agent | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1ac3b80d-893c-402a-8fc9-5d8660602d5b | bjakcareer | Applied AI Engineer - AI Finance Agent | Seoul, Korea · Remote | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/okx/jobs/8201140003 | okx | Machine Learning Engineer — Risk & AI | San Jose, California, United States | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/84783e9d-681e-46a0-9056-4de122d4f88c | bjakcareer | Applied AI Engineer - AI Finance Agent | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/57c1d037-9cbe-49be-b556-079641daf4d0 | bjakcareer | Full Stack Engineer | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/0ece7fda-b279-41a0-ac1f-00920248a91a | bjakcareer | Full Stack Engineer | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/91aa4995-1fdf-4080-91b2-2e259d6bd391 | bjakcareer | Full Stack Engineer | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e6cfc400-96d7-4442-8950-a77833ed4bcb | bjakcareer | Full Stack Engineer | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3fb02fa6-f7ec-46e0-bb77-8113a19c9474 | bjakcareer | Full Stack Engineer | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/ac84b25d-a649-4721-9dae-5d2b30e87f0b | bjakcareer | Full Stack Engineer | Philippines · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/0e752dfa-6396-4e27-856b-fbaca8a10f06 | bjakcareer | Full Stack Engineer | Seoul, Korea · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/33df8f34-bcea-4df7-8e34-2c5c1174933b | bjakcareer | Full Stack Engineer | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e2e8b8c8-479c-4163-bb07-0674a234aff6 | bjakcareer | Full Stack Engineer | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/950b1dda-8cd9-4138-b612-f4fd30894c61 | bjakcareer | Full Stack Engineer | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/92fe422f-2d44-495c-9b3a-ca7554051f3d | bjakcareer | Full Stack Engineer | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6f01ea71-d239-4373-ba6d-4101205a91ce | bjakcareer | Full Stack Engineer | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a8bf6ffe-bca3-4366-856f-5dec2f194f27 | bjakcareer | Full Stack Engineer | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6010e258-30c9-4c5d-9f7e-5d4593c4df16 | bjakcareer | Full Stack Engineer | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7c0c98f8-cf15-4182-8ad6-d4ce79b52c53 | bjakcareer | Full Stack Engineer | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5264e346-7ff1-4efb-9b78-a591c8c3e0cd | bjakcareer | Full Stack Engineer | Netherlands · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e8e65467-179b-4baa-b5f1-7ac68112c46c | bjakcareer | Full Stack Engineer | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5303c74c-4c01-4e32-ba45-043bb0509aa6 | bjakcareer | Full Stack Engineer | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/278f5ef7-50c9-4514-93eb-d3d07f596181 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/56d78fe5-23e5-4f0a-9a81-35cc661b5f8e | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/85864507-b772-4dfe-801c-2416864ea941 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e214fc4d-21b7-409d-8c35-e809858bb63f | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1182d191-2c74-4518-b902-b26cb44cec9e | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/07e5c4f1-6e8f-4aaf-8f7c-a8158c1924c6 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3dbb8589-d8f5-4eab-b1a1-103d841425ff | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e0d83246-3866-45ac-9bf7-a0b58ac2cafb | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1ea2287b-da2f-43d4-a77a-57a06b80f04e | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Seoul, Korea · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/08454ce3-a782-45b8-834e-a3c9452b1647 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | India · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9c655d10-2353-4ee2-a128-060022766926 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5f246594-8913-4fd5-bcdb-32324fb3ef48 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Philippines · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/0a59e5aa-984f-4825-a806-093052ec1423 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/39152fe9-4f88-495c-91a0-2f6c065d9063 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Netherlands · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/fe8a0fa5-880c-4fae-acf8-53aa603cb364 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/4b7a62bd-8ab8-4051-8499-2de021c8166a | bjakcareer | Full Stack Software Engineer - AI Finance Agent | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9013a76a-c202-4d68-adea-86bea56b1fb5 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/ddb5ec47-aa3a-408f-afb0-0a57705043f2 | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9f2c725b-6782-45f2-a1a3-352c229a811c | bjakcareer | Full Stack Software Engineer - AI Finance Agent | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1550f7e1-7c08-4ee2-bb14-8a8c0ac35224 | bjakcareer | Backend Developer | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b75e432f-888a-414a-87a5-b525d6d58ae9 | bjakcareer | Backend Developer | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/edf32655-b793-4171-93aa-618fae28d89f | bjakcareer | Backend Developer | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/debb0351-aef6-4d17-b215-40529353c33d | bjakcareer | Backend Developer | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9fc31129-b2fc-4cc9-9747-06d10f6b66dd | bjakcareer | Backend Developer | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b09bcff8-83aa-431f-b432-1ac9b0459ff5 | bjakcareer | Backend Developer | Seoul, Korea · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1f2df53f-7775-4902-93b7-96044b702171 | bjakcareer | Backend Developer | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2309f296-ea7e-4c94-ab1e-e05c82110121 | bjakcareer | Backend Developer | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/590020ff-507d-4bcf-bf8e-9361485e0290 | bjakcareer | Backend Developer | Netherlands · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/430d5c86-023a-4219-ba44-018c7f70ef08 | bjakcareer | Backend Developer | Philippines · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e46b7647-9dc4-4466-b116-b3637bff4db3 | bjakcareer | Backend Developer | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7f550882-ee00-495f-a1ce-9dbdc10ce217 | bjakcareer | Backend Developer | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a82ddf99-4f80-4431-b336-d59e4b606ed4 | bjakcareer | Backend Developer | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/dcec72a1-e9b7-4e9b-b252-d864f4363c66 | bjakcareer | Backend Developer | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2c4da6a6-1562-41dc-86f5-20f692e473d7 | bjakcareer | Backend Developer | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7be3e8ec-79d6-495b-b813-7225cf9013de | bjakcareer | Backend Developer | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/4b9d0d38-830e-464f-810d-92f3f93807a7 | bjakcareer | Backend Developer | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/fc32ed2f-19e6-4841-a5f1-07a15bc86ad7 | bjakcareer | Backend Developer | Portugal · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5c6f4125-84f3-4b58-ae36-c100c436ffbb | bjakcareer | Backend Software Engineer - AI Finance Agent | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c7a4c56d-6996-4258-9a81-6eb75b15f97e | bjakcareer | Backend Software Engineer - AI Finance Agent | Thailand · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/0cac93ef-04d8-42c4-b698-efb4664cd91b | bjakcareer | Backend Software Engineer - AI Finance Agent | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/cf705995-4c22-4615-a660-6fab9ba9b8cf | bjakcareer | Backend Software Engineer - AI Finance Agent | Singapore · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6fed297e-4579-4820-a24f-a54e8f1a1381 | bjakcareer | Backend Software Engineer - AI Finance Agent | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/714f7499-fece-423c-b513-21029f3b9a59 | bjakcareer | Backend Software Engineer - AI Finance Agent | Seoul, Korea · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9534b3a1-8a39-434d-939b-a9b1b5f9f57e | bjakcareer | Backend Software Engineer - AI Finance Agent | Hong Kong · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/dc451f57-c619-4da5-8870-fb94b30ea167 | bjakcareer | Backend Software Engineer - AI Finance Agent | Philippines · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1f968d3e-dcaf-403d-9dc3-f885b76af31b | bjakcareer | Backend Software Engineer - AI Finance Agent | Netherlands · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/fdc22ac4-fd6b-410f-b91c-1bd4a60c116d | bjakcareer | Backend Software Engineer - AI Finance Agent | Vietnam · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7f6692fb-eed1-4134-9baa-76cb68850037 | bjakcareer | Backend Software Engineer - AI Finance Agent | India · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/427de79c-6561-465b-9cb4-fab70fb9e581 | bjakcareer | Backend Software Engineer - AI Finance Agent | Sydney, Australia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/903b8c3a-17d6-48c8-a520-50d6be73f104 | bjakcareer | Backend Software Engineer - AI Finance Agent | Germany · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/33e14081-d696-45e7-873d-d0cafb3e53bf | bjakcareer | Backend Software Engineer - AI Finance Agent | Poland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f13373de-c97a-4d25-a65b-df5c3b562316 | bjakcareer | Backend Software Engineer - AI Finance Agent | Sweden · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/b40a76d9-d71e-47f1-a44e-1638d20990de | bjakcareer | Backend Software Engineer - AI Finance Agent | United States · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/dafc18b6-ed97-47e0-ace4-c9c1a0612043 | bjakcareer | Backend Software Engineer - AI Finance Agent | Ireland · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/91d0229f-45ce-4b89-b60c-de7cae4408c5 | bjakcareer | Backend Software Engineer - AI Finance Agent | Spain · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/15cfa586-6448-4c49-94c1-db075a1d7d59 | bjakcareer | Backend Software Engineer - AI Finance Agent | Portugal · Remote | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/flowcode/jobs/4753183005 | flowcode | Applied AI Engineer: Product & Experience | New York, NY | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/flowcode/jobs/4753182005 | flowcode | Applied AI Engineer: Solutions & Infrastructure | New York, NY | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/partiful/af070c2e-89e0-49d3-abdc-6cb8ce19b85b | partiful | 🔮 Product Engineer (Full Stack) | New York, NY | posted: 2026-11-11
+- [ ] https://careers.roblox.com/jobs/8356764?gh_jid=8356764 | roblox | Software Engineer, ROS Open Platform & AI Enablement | San Mateo, CA, United States | posted: 2026-11-11
+
 ## Processed
