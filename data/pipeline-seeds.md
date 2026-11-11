@@ -1876,4 +1876,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705 | people-culture-talent | Software Engineer – ML Infrastructure | San Francisco, CA | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/nascent/c9482147-5f04-45c1-85b1-40a2a8e6f0e4 | nascent | Applied ML Engineer - Model R&D | Remote - United States · Remote - Canada · Canada | posted: 2026-11-11
 
+- [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6255478004 | selffinancial | Associate Software Engineer | Austin, TX | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871 | openai | Partner Applied AI Engineer, Oracle and Cloud ISV | San Francisco | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e | openai | Partner Applied AI Engineer, Google Cloud | San Francisco | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/rushdownstudios/jobs/4503214009 | rushdownstudios | Platform Engineer | United States (Remote) | posted: 2026-11-11
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8170816?gh_jid=8170816 | crunchyroll | Software Engineer III, Service Monetization | Los Angeles, California, United States | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/sosafe/79785e29-2e8b-4f8e-b2ce-3b959674b32b | sosafe | Mid-level Fullstack Engineer (Typescript, Node, React) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13 | antithesis | Applied AI Software Engineer | Vienna, VA, USA · San Francisco, CA · San Francisco · United States | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5292628007 | chaosindustries | Mid-Career Software Engineer | Los Angeles, California, United States | posted: 2026-11-11
+
 ## Processed
