@@ -1372,4 +1372,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/New-York---New-York/Software-Engineering-PMTS_JR367532 | salesforce | Software Engineering PMTS | New York - New York | posted: 2026-11-10
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Texas---Dallas/Software-Engineering-LMTS_JR366708 | salesforce | Software Engineering LMTS | 3 Locations | posted: 2026-11-11
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR366707 | salesforce | Software Engineering LMTS | 4 Locations | posted: 2026-11-11
+
 ## Processed
