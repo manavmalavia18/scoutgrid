@@ -1708,4 +1708,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871 | OpenAI | Partner Applied AI Engineer, Oracle and Cloud ISV | San Francisco | posted: 2026-11-11
 - [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6255478004 | Self Financial, Inc. | Associate Software Engineer | Austin, TX | posted: 2026-11-11
 
+- [ ] https://jobs.ashbyhq.com/solstice/22b5a774-ad70-41a5-972b-13343553c17a | Solstice | Machine Learning Engineer | New York City | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/zip/0c1b3417-9ba4-4630-8590-f6b45c40310a | Zip | Software Engineer, Frontend (All Levels) | San Francisco | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5479397008 | New Relic | Software Engineer-Infrastructure | Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | posted: 2026-11-11
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/AI---Data-Platform-Engineer_R0074577 | Global Payments | AI & Data Platform Engineer | ALPHARETTA, GEORGIA | posted: 2026-11-11
+
 ## Processed
