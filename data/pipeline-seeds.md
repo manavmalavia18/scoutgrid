@@ -1885,4 +1885,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13 | antithesis | Applied AI Software Engineer | Vienna, VA, USA · San Francisco, CA · San Francisco · United States | posted: 2026-11-11
 - [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5292628007 | chaosindustries | Mid-Career Software Engineer | Los Angeles, California, United States | posted: 2026-11-11
 
+- [ ] https://job-boards.greenhouse.io/spacekinetic/jobs/5479084008 | spacekinetic | Software Developer – Manufacturing Automation & Process Optimization | El Segundo, California | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/edmentum/jobs/6255572004 | edmentum | Software Engineer I | Bloomington, Minnesota, United States | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/zip/0c1b3417-9ba4-4630-8590-f6b45c40310a | zip | Software Engineer, Frontend (All Levels) | San Francisco | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8934067002 | Twitch | Software Engineer I, Commerce | San Francisco, CA | posted: 2026-11-11
+
 ## Processed
