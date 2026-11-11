@@ -1691,4 +1691,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer-III---Core-Platform-Infrastructure_R72869 | Blue Origin | Software Engineer III - Core Platform Infrastructure | Greater Seattle Area | posted: 2026-11-11
 - [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Software-Engineer--AI_R0151825 | Hitachi | Software Engineer, AI | Santa Clara, California, United States | posted: 2026-11-11
 
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Development-Engineer-in-Test--SDET-_333296 | CACI | Software Development Engineer in Test (SDET) | 2 Locations | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/flowcode/jobs/4753183005 | Flowcode | Applied AI Engineer: Product & Experience | New York, NY | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/flowcode/jobs/4753182005 | Flowcode | Applied AI Engineer: Solutions & Infrastructure | New York, NY | posted: 2026-11-11
+
 ## Processed
