@@ -2125,3 +2125,5 @@
 
 - [ ] https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871 | openai | Partner Applied AI Engineer, Oracle and Cloud ISV | San Francisco | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e | openai | Partner Applied AI Engineer, Google Cloud | San Francisco | posted: 2026-11-11
+
+- [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6255478004 | selffinancial | Associate Software Engineer | Austin, TX | posted: 2026-11-11
