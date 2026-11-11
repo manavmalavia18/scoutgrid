@@ -2127,3 +2127,7 @@
 - [ ] https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e | openai | Partner Applied AI Engineer, Google Cloud | San Francisco | posted: 2026-11-11
 
 - [ ] https://job-boards.greenhouse.io/selffinancial/jobs/6255478004 | selffinancial | Associate Software Engineer | Austin, TX | posted: 2026-11-11
+
+- [ ] https://job-boards.greenhouse.io/spacekinetic/jobs/5479084008 | spacekinetic | Software Developer – Manufacturing Automation & Process Optimization | El Segundo, California | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/edmentum/jobs/6255572004 | edmentum | Software Engineer I | Bloomington, Minnesota, United States | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/zip/0c1b3417-9ba4-4630-8590-f6b45c40310a | zip | Software Engineer, Frontend (All Levels) | San Francisco | posted: 2026-11-11
