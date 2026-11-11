@@ -1378,4 +1378,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CO-Boulder/Software-Development-Engineer_JR-0107838 | workday | Software Development Engineer - Developer Platform | USA, CO, Boulder | posted: 2026-11-11
 - [ ] https://meijer.wd5.myworkdayjobs.com/fresh_thyme_stores_external_career_site/job/Chicago-IL/Front-End-Supervisor_R000717770 | meijer | Front End Supervisor | Chicago, IL | posted: 2026-11-11
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111561 | workday | Software Development Engineer - US Federal | USA.VA.Reston | posted: 2026-11-10
+
 ## Processed
