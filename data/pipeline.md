@@ -2113,3 +2113,6 @@
 - [ ] https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705 | people-culture-talent | Software Engineer – ML Infrastructure | San Francisco, CA | posted: 2026-11-11
 
 - [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5292628007 | chaosindustries | Mid-Career Software Engineer | Los Angeles, California, United States | posted: 2026-11-11
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8934067002 | twitch | Software Engineer I, Commerce | San Francisco, CA | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13 | antithesis | Applied AI Software Engineer | Vienna, VA, USA · San Francisco, CA · San Francisco · United States | posted: 2026-11-11
