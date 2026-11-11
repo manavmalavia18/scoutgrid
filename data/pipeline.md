@@ -2111,3 +2111,5 @@
 - [ ] https://boards.eu.greenhouse.io/nice/jobs/4982447101?gh_jid=4982447101 | nice | NOC Engineer / SRE | United Kingdom - Remote | posted: 2026-11-11
 
 - [ ] https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705 | people-culture-talent | Software Engineer – ML Infrastructure | San Francisco, CA | posted: 2026-11-11
+
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5292628007 | chaosindustries | Mid-Career Software Engineer | Los Angeles, California, United States | posted: 2026-11-11
