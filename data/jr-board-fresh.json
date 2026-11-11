@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-11T18:15:29.646Z",
+  "fetchedAt": "2026-11-11T18:51:47.515Z",
   "days": 2,
   "leadCount": 46,
-  "jobCount": 23,
+  "jobCount": 24,
   "boards": [
     {
       "key": "greenhouse:samsungresearchamerica",
@@ -12,6 +12,11 @@
     {
       "key": "greenhouse:clear",
       "fetched": 59,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:emergenceai",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -25,13 +30,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:emergenceai",
-      "fetched": 9,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:fnsinc",
-      "fetched": 87,
+      "key": "greenhouse:flexport",
+      "fetched": 194,
       "kept": 0
     },
     {
@@ -40,28 +40,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:flyzipline",
-      "fetched": 344,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:fervoenergy",
-      "fetched": 72,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:canonical",
-      "fetched": 316,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:feedzai",
-      "fetched": 10,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:candidate",
-      "fetched": 0,
+      "key": "greenhouse:fnsinc",
+      "fetched": 87,
       "kept": 0
     },
     {
@@ -70,14 +50,34 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:feedzai",
+      "fetched": 10,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:fervoenergy",
+      "fetched": 72,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:candidate",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:flyzipline",
+      "fetched": 344,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:canonical",
+      "fetched": 316,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:flowcode",
       "fetched": 18,
       "kept": 2
-    },
-    {
-      "key": "greenhouse:reddit",
-      "fetched": 157,
-      "kept": 3
     },
     {
       "key": "greenhouse:xai",
@@ -86,7 +86,12 @@
     },
     {
       "key": "ashby:antithesis",
-      "fetched": 21,
+      "fetched": 22,
+      "kept": 1
+    },
+    {
+      "key": "ashby:ivo-inc",
+      "fetched": 45,
       "kept": 0
     },
     {
@@ -95,13 +100,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:cape",
-      "fetched": 24,
-      "kept": 0
+      "key": "greenhouse:reddit",
+      "fetched": 157,
+      "kept": 3
     },
     {
-      "key": "ashby:ivo-inc",
-      "fetched": 45,
+      "key": "ashby:cape",
+      "fetched": 24,
       "kept": 0
     },
     {
@@ -110,38 +115,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:meridianlink",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
       "key": "ashby:plaid",
       "fetched": 143,
       "kept": 0
     },
     {
-      "key": "ashby:happyrobot.ai",
-      "fetched": 77,
-      "kept": 0
-    },
-    {
-      "key": "ashby:baseten",
-      "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "ashby:openai",
-      "fetched": 822,
-      "kept": 3
-    },
-    {
-      "key": "ashby:patreon",
-      "fetched": 21,
-      "kept": 0
-    },
-    {
-      "key": "ashby:brainco",
-      "fetched": 56,
+      "key": "ashby:meridianlink",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -150,13 +130,33 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:flexport",
-      "fetched": 194,
+      "key": "ashby:happyrobot.ai",
+      "fetched": 77,
       "kept": 0
+    },
+    {
+      "key": "ashby:openai",
+      "fetched": 822,
+      "kept": 3
     },
     {
       "key": "ashby:with-fulcrum",
       "fetched": 10,
+      "kept": 0
+    },
+    {
+      "key": "ashby:patreon",
+      "fetched": 21,
+      "kept": 0
+    },
+    {
+      "key": "ashby:baseten",
+      "fetched": 103,
+      "kept": 0
+    },
+    {
+      "key": "ashby:brainco",
+      "fetched": 56,
       "kept": 0
     },
     {
@@ -170,8 +170,18 @@
       "kept": 0
     },
     {
+      "key": "lever:nationaljournal",
+      "fetched": 6,
+      "kept": 0
+    },
+    {
       "key": "lever:unusual",
       "fetched": 8,
+      "kept": 0
+    },
+    {
+      "key": "lever:crypto",
+      "fetched": 84,
       "kept": 0
     },
     {
@@ -180,8 +190,8 @@
       "kept": 1
     },
     {
-      "key": "lever:crypto",
-      "fetched": 84,
+      "key": "lever:field-ai",
+      "fetched": 103,
       "kept": 0
     },
     {
@@ -195,18 +205,18 @@
       "kept": 0
     },
     {
-      "key": "workday:lennar.wd1.myworkdayjobs.com/lennar_jobs",
+      "key": "workday:seic.wd1.myworkdayjobs.com/sei_global_services",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:synechron.wd1.myworkdayjobs.com/synechroncareers",
       "fetched": 40,
       "kept": 0
     },
     {
-      "key": "lever:nationaljournal",
-      "fetched": 5,
-      "kept": 0
-    },
-    {
-      "key": "workday:seic.wd1.myworkdayjobs.com/sei_global_services",
-      "fetched": 20,
+      "key": "workday:lennar.wd1.myworkdayjobs.com/lennar_jobs",
+      "fetched": 40,
       "kept": 0
     },
     {
@@ -215,24 +225,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stripe",
-      "fetched": 781,
-      "kept": 1
-    },
-    {
       "key": "workday:nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
       "fetched": 80,
       "kept": 12
     },
     {
-      "key": "lever:field-ai",
-      "fetched": 103,
-      "kept": 0
-    },
-    {
-      "key": "workday:synechron.wd1.myworkdayjobs.com/synechroncareers",
-      "fetched": 40,
-      "kept": 0
+      "key": "greenhouse:stripe",
+      "fetched": 780,
+      "kept": 1
     }
   ],
   "jobs": [
@@ -265,6 +265,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "flowcode"
+    },
+    {
+      "title": "Applied AI Software Engineer",
+      "url": "https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13",
+      "company": "Antithesis",
+      "location": "Vienna, VA, USA · San Francisco, CA · San Francisco · United States",
+      "postedAt": "2026-11-11T18:30:45.307Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "antithesis"
     },
     {
       "title": "Principal Software Engineer, Infrastructure ",
@@ -336,16 +346,6 @@
       "ats": "Workday",
       "board": "futureforce_newgradroles",
       "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Machine Learning Engineer, Transaction Risk",
-      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
-      "company": "Stripe",
-      "location": "Seattle, New York City",
-      "postedAt": "2026-11-10T15:52:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "stripe"
     },
     {
       "title": "Senior Software Engineer - Distributed Systems Engineer, EDA Infrastructure",
@@ -478,10 +478,19 @@
       "ats": "Workday",
       "board": "NVIDIAExternalCareerSite",
       "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Machine Learning Engineer, Transaction Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
+      "company": "Stripe",
+      "location": "Seattle, New York City",
+      "postedAt": "2026-11-10T15:52:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "stripe"
     }
   ],
   "leadSources": [
-    "jobright-cache",
-    "hiringcafe"
+    "jobright-cache"
   ]
 }
