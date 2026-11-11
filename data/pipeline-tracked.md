@@ -1668,4 +1668,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8937278002 | Twitch Interactive | Software Engineer II, Fintech | San Francisco, CA | posted: 2026-11-11
 
+- [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408 | Johnson Controls | Software Engineering Co-Op | Burlington-Massachusetts-United States of America | posted: 2026-11-11
+- [ ] https://mwe.wd5.myworkdayjobs.com/mwe_careers/job/Chicago/Applied-AI-Solutions-Analyst--Legal-Practice-Groups_R-100930 | McDermott Will & Emery | Applied AI Solutions Analyst, Legal Practice Groups | 15 Locations | posted: 2026-11-11
+
 ## Processed
