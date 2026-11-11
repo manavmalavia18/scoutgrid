@@ -20208,6 +20208,21 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "FanDuel"
+    careers_url: https://job-boards.greenhouse.io/fanduel
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 98 live jobs confirmed)
+  - name: "Fonzi AI"
+    careers_url: https://jobs.ashbyhq.com/fonzi
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4 live jobs confirmed)
+  - name: "Jobgether"
+    careers_url: https://jobs.lever.co/jobgether
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4055 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
