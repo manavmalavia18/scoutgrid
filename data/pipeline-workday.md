@@ -1380,4 +1380,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111561 | workday | Software Development Engineer - US Federal | USA.VA.Reston | posted: 2026-11-10
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1 | salesforce | Software Engineering AMTS (College Grad) | 7 Locations | posted: 2026-11-11
+- [ ] https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047 | salesforce | Software Engineering AMTS (College Grad) | 7 Locations | posted: 2026-11-11
+- [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408 | jci | Software Engineering Co-Op | Burlington-Massachusetts-United States of America | posted: 2026-11-11
+
 ## Processed
