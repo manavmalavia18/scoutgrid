@@ -1868,4 +1868,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/partiful/af070c2e-89e0-49d3-abdc-6cb8ce19b85b | partiful | 🔮 Product Engineer (Full Stack) | New York, NY | posted: 2026-11-11
 - [ ] https://careers.roblox.com/jobs/8356764?gh_jid=8356764 | roblox | Software Engineer, ROS Open Platform & AI Enablement | San Mateo, CA, United States | posted: 2026-11-11
 
+- [ ] https://jobs.ashbyhq.com/SKELAR/62c7080f-87fa-4f05-85ff-321b577040a0 | skelar | Backend Engineer - Dressly | Any of our Offices (Kyiv / Lviv / Warsaw) · Remote | posted: 2026-11-11
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4750993005 | dotmatics | DevOps Engineer / Luma | Boston, MA | posted: 2026-11-11
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4982447101?gh_jid=4982447101 | nice | NOC Engineer / SRE | United Kingdom - Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9f0d6be2-e5ba-4cc2-9239-c4a761ceaf61 | bjakcareer | Machine Learning Engineer, Ranking & Retrieval | China · Remote | posted: 2026-11-11
+
 ## Processed
