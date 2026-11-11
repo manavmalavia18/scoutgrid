@@ -2116,3 +2116,5 @@
 
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8934067002 | twitch | Software Engineer I, Commerce | San Francisco, CA | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13 | antithesis | Applied AI Software Engineer | Vienna, VA, USA · San Francisco, CA · San Francisco · United States | posted: 2026-11-11
+
+- [ ] https://jobs.ashbyhq.com/sosafe/79785e29-2e8b-4f8e-b2ce-3b959674b32b | sosafe | Mid-level Fullstack Engineer (Typescript, Node, React) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-11
