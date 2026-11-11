@@ -2104,3 +2104,8 @@
 
 - [ ] https://jobs.ashbyhq.com/bjakcareer/9f0d6be2-e5ba-4cc2-9239-c4a761ceaf61 | bjakcareer | Machine Learning Engineer, Ranking & Retrieval | China · Remote | posted: 2026-11-11
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8937278002 | twitch | Software Engineer II, Fintech | San Francisco, CA | posted: 2026-11-11
+
+- [ ] https://jobs.ashbyhq.com/nascent/c9482147-5f04-45c1-85b1-40a2a8e6f0e4 | nascent | Applied ML Engineer - Model R&D | Remote - United States · Remote - Canada · Canada | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/SKELAR/62c7080f-87fa-4f05-85ff-321b577040a0 | skelar | Backend Engineer - Dressly | Any of our Offices (Kyiv / Lviv / Warsaw) · Remote | posted: 2026-11-11
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4750993005 | dotmatics | DevOps Engineer / Luma | Boston, MA | posted: 2026-11-11
+- [ ] https://boards.eu.greenhouse.io/nice/jobs/4982447101?gh_jid=4982447101 | nice | NOC Engineer / SRE | United Kingdom - Remote | posted: 2026-11-11
