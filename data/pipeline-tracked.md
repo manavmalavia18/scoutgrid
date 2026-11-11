@@ -1686,4 +1686,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mistral.ai/fe471824-c80a-4ea4-9625-2217f81c52ae | Mistral Ai | Site Reliability Engineer, Mistral Cloud | New York | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/Coframe/e58e6bae-73bb-47e1-ba80-c0a3f51c048b | Coframe | Machine Learning Engineer | SF Bay Area | posted: 2026-11-10
 
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Backend--Remote-_Req197124 | The Home Depot | Software Engineer II - Backend (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-11
+
 ## Processed
