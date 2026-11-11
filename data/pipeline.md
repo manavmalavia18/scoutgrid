@@ -2109,3 +2109,5 @@
 - [ ] https://jobs.ashbyhq.com/SKELAR/62c7080f-87fa-4f05-85ff-321b577040a0 | skelar | Backend Engineer - Dressly | Any of our Offices (Kyiv / Lviv / Warsaw) · Remote | posted: 2026-11-11
 - [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4750993005 | dotmatics | DevOps Engineer / Luma | Boston, MA | posted: 2026-11-11
 - [ ] https://boards.eu.greenhouse.io/nice/jobs/4982447101?gh_jid=4982447101 | nice | NOC Engineer / SRE | United Kingdom - Remote | posted: 2026-11-11
+
+- [ ] https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705 | people-culture-talent | Software Engineer – ML Infrastructure | San Francisco, CA | posted: 2026-11-11
