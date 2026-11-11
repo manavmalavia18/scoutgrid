@@ -1397,4 +1397,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0138924 | paypal | Software Engineer | Scottsdale, Arizona, United States of America | posted: 2026-11-11
 
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Backend--Remote-_Req197124 | homedepot | Software Engineer II - Backend (Remote) | GEORGIA - VIRTUAL - GA01 | posted: 2026-11-11
+- [ ] https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Software-Engineer--AI_R0151825 | hitachi | Software Engineer, AI | Santa Clara, California, United States | posted: 2026-11-11
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer-III---Core-Platform-Infrastructure_R72869 | blueorigin | Software Engineer III - Core Platform Infrastructure | Greater Seattle Area | posted: 2026-11-11
+
 ## Processed
