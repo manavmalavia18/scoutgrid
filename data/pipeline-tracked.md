@@ -1659,4 +1659,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/partiful/af070c2e-89e0-49d3-abdc-6cb8ce19b85b | Partiful | 🔮 Product Engineer (Full Stack) | New York, NY | posted: 2026-11-11
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CO-Boulder/Software-Development-Engineer_JR-0107838 | Workday | Software Development Engineer - Developer Platform | USA, CO, Boulder | posted: 2026-11-10
 
+- [ ] https://jobs.ashbyhq.com/clubhouse/e189d3c3-149c-4c11-8008-670e89fe4768 | Clubhouse | 🎉 Backend Engineer, Engagement | Remote (US) | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/07e5c4f1-6e8f-4aaf-8f7c-a8158c1924c6 | Bjak | Full Stack Software Engineer - AI Finance Agent | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/89ad2be8-f664-4224-8d17-9e53d84dcfd2 | Bjak | Applied AI Engineer - AI Finance Agent | China · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d79bb3dd-30b3-4d3a-a5ef-9b401acf973c | Bjak | Mobile Application Developer - AI Finance Agent | Indonesia · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6fed297e-4579-4820-a24f-a54e8f1a1381 | Bjak | Backend Software Engineer - AI Finance Agent | Austria · Remote | posted: 2026-11-11
+- [ ] https://jobs.ashbyhq.com/bjakcareer/462f63af-1ec9-4ff8-a8e1-943e49bd05d7 | Bjak | Mobile Application Developer | Austria · Remote | posted: 2026-11-11
+
 ## Processed
