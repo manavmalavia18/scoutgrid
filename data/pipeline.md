@@ -2101,3 +2101,6 @@
 - [ ] https://jobs.ashbyhq.com/bjakcareer/dafc18b6-ed97-47e0-ace4-c9c1a0612043 | bjakcareer | Backend Software Engineer - AI Finance Agent | Ireland · Remote | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/bjakcareer/91d0229f-45ce-4b89-b60c-de7cae4408c5 | bjakcareer | Backend Software Engineer - AI Finance Agent | Spain · Remote | posted: 2026-11-11
 - [ ] https://jobs.ashbyhq.com/bjakcareer/15cfa586-6448-4c49-94c1-db075a1d7d59 | bjakcareer | Backend Software Engineer - AI Finance Agent | Portugal · Remote | posted: 2026-11-11
+
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9f0d6be2-e5ba-4cc2-9239-c4a761ceaf61 | bjakcareer | Machine Learning Engineer, Ranking & Retrieval | China · Remote | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8937278002 | twitch | Software Engineer II, Fintech | San Francisco, CA | posted: 2026-11-11
