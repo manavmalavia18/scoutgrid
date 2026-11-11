@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T18:51:47.515Z",
+  "fetchedAt": "2026-11-11T19:13:38.995Z",
   "days": 2,
   "leadCount": 46,
   "jobCount": 24,
@@ -10,13 +10,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:emergenceai",
+      "fetched": 9,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:clear",
       "fetched": 59,
       "kept": 0
     },
     {
-      "key": "greenhouse:emergenceai",
-      "fetched": 9,
+      "key": "greenhouse:kairospower",
+      "fetched": 69,
       "kept": 0
     },
     {
@@ -25,8 +30,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:kairospower",
-      "fetched": 69,
+      "key": "greenhouse:fnsinc",
+      "fetched": 87,
       "kept": 0
     },
     {
@@ -40,14 +45,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:fnsinc",
-      "fetched": 87,
+      "key": "greenhouse:canonical",
+      "fetched": 316,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:esri",
-      "fetched": 492,
-      "kept": 1
     },
     {
       "key": "greenhouse:feedzai",
@@ -70,11 +70,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:canonical",
-      "fetched": 316,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:flowcode",
       "fetched": 18,
       "kept": 2
@@ -83,6 +78,16 @@
       "key": "greenhouse:xai",
       "fetched": 298,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:esri",
+      "fetched": 492,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:reddit",
+      "fetched": 157,
+      "kept": 3
     },
     {
       "key": "ashby:antithesis",
@@ -95,14 +100,19 @@
       "kept": 0
     },
     {
+      "key": "ashby:camunda",
+      "fetched": 54,
+      "kept": 0
+    },
+    {
       "key": "ashby:1password",
       "fetched": 82,
       "kept": 0
     },
     {
-      "key": "greenhouse:reddit",
-      "fetched": 157,
-      "kept": 3
+      "key": "ashby:meridianlink",
+      "fetched": 16,
+      "kept": 0
     },
     {
       "key": "ashby:cape",
@@ -110,18 +120,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:camunda",
-      "fetched": 54,
+      "key": "ashby:happyrobot.ai",
+      "fetched": 77,
       "kept": 0
     },
     {
-      "key": "ashby:plaid",
-      "fetched": 143,
+      "key": "ashby:brainco",
+      "fetched": 56,
       "kept": 0
     },
     {
-      "key": "ashby:meridianlink",
-      "fetched": 17,
+      "key": "ashby:baseten",
+      "fetched": 103,
       "kept": 0
     },
     {
@@ -130,8 +140,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:happyrobot.ai",
-      "fetched": 77,
+      "key": "ashby:plaid",
+      "fetched": 143,
+      "kept": 0
+    },
+    {
+      "key": "ashby:patreon",
+      "fetched": 21,
       "kept": 0
     },
     {
@@ -142,21 +157,6 @@
     {
       "key": "ashby:with-fulcrum",
       "fetched": 10,
-      "kept": 0
-    },
-    {
-      "key": "ashby:patreon",
-      "fetched": 21,
-      "kept": 0
-    },
-    {
-      "key": "ashby:baseten",
-      "fetched": 103,
-      "kept": 0
-    },
-    {
-      "key": "ashby:brainco",
-      "fetched": 56,
       "kept": 0
     },
     {
@@ -180,8 +180,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:stripe",
+      "fetched": 779,
+      "kept": 1
+    },
+    {
       "key": "lever:crypto",
       "fetched": 84,
+      "kept": 0
+    },
+    {
+      "key": "workday:vhr-otsuka.wd1.myworkdayjobs.com/recorexternal",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -197,11 +207,6 @@
     {
       "key": "workday:directsupply.wd501.myworkdayjobs.com/direct-supply-careers",
       "fetched": 20,
-      "kept": 0
-    },
-    {
-      "key": "workday:vhr-otsuka.wd1.myworkdayjobs.com/recorexternal",
-      "fetched": 0,
       "kept": 0
     },
     {
@@ -228,24 +233,9 @@
       "key": "workday:nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
       "fetched": 80,
       "kept": 12
-    },
-    {
-      "key": "greenhouse:stripe",
-      "fetched": 780,
-      "kept": 1
     }
   ],
   "jobs": [
-    {
-      "title": "Principal Software Development Engineer – National Imagery",
-      "url": "https://www.esri.com/careers/5218015007?gh_jid=5218015007",
-      "company": "Esri",
-      "location": "Vienna, Virginia, United States",
-      "postedAt": "2026-11-10T18:48:19.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "esri"
-    },
     {
       "title": "Applied AI Engineer: Product & Experience",
       "url": "https://job-boards.greenhouse.io/flowcode/jobs/4753183005",
@@ -267,14 +257,14 @@
       "board": "flowcode"
     },
     {
-      "title": "Applied AI Software Engineer",
-      "url": "https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13",
-      "company": "Antithesis",
-      "location": "Vienna, VA, USA · San Francisco, CA · San Francisco · United States",
-      "postedAt": "2026-11-11T18:30:45.307Z",
+      "title": "Principal Software Development Engineer – National Imagery",
+      "url": "https://www.esri.com/careers/5218015007?gh_jid=5218015007",
+      "company": "Esri",
+      "location": "Vienna, Virginia, United States",
+      "postedAt": "2026-11-10T18:48:19.000Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "antithesis"
+      "ats": "Greenhouse",
+      "board": "esri"
     },
     {
       "title": "Principal Software Engineer, Infrastructure ",
@@ -307,6 +297,16 @@
       "board": "reddit"
     },
     {
+      "title": "Applied AI Software Engineer",
+      "url": "https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13",
+      "company": "Antithesis",
+      "location": "Vienna, VA, USA · San Francisco, CA · San Francisco · United States",
+      "postedAt": "2026-11-11T18:30:45.307Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "antithesis"
+    },
+    {
       "title": "Principal Software Engineer, Full Stack — Codex",
       "url": "https://jobs.ashbyhq.com/openai/74842880-e750-4664-9e2e-83b4c96c5a03",
       "company": "OpenAI",
@@ -335,6 +335,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "openai"
+    },
+    {
+      "title": "Machine Learning Engineer, Transaction Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
+      "company": "Stripe",
+      "location": "Seattle, New York City",
+      "postedAt": "2026-11-10T15:52:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "stripe"
     },
     {
       "title": "Software Engineering AMTS (College Grad)",
@@ -478,16 +488,6 @@
       "ats": "Workday",
       "board": "NVIDIAExternalCareerSite",
       "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Machine Learning Engineer, Transaction Risk",
-      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
-      "company": "Stripe",
-      "location": "Seattle, New York City",
-      "postedAt": "2026-11-10T15:52:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "stripe"
     }
   ],
   "leadSources": [
