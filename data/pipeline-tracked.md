@@ -1695,4 +1695,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/flowcode/jobs/4753183005 | Flowcode | Applied AI Engineer: Product & Experience | New York, NY | posted: 2026-11-11
 - [ ] https://job-boards.greenhouse.io/flowcode/jobs/4753182005 | Flowcode | Applied AI Engineer: Solutions & Infrastructure | New York, NY | posted: 2026-11-11
 
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8934067002 | Twitch Interactive | Software Engineer I, Commerce | San Francisco, CA | posted: 2026-11-11
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Surface---Mechanical-Inspector--CWWFront-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00353223 | ASML | Optical Surface & Mechanical Inspector- CWWFront End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-11-11
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Tech-CWW-Front-End-Days_J-00353178 | ASML | Optical Fabrication Tech CWW Front End Days | Wilton, CT, USA | posted: 2026-11-11
+
 ## Processed
