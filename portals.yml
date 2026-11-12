@@ -359,6 +359,11 @@ search_queries:
 trust_filter:
   enabled: true
 tracked_companies:
+  - name: Bask Health
+    careers_url: https://apply.workable.com/bask-health-1/
+    provider: workable
+    enabled: true
+    notes: HiringCafe lead independently verified on official Workable board; direct ATS scan
   - name: SWIFT
     careers_url: https://swift.wd3.myworkdayjobs.com/join-swift
     provider: workday
