@@ -20653,6 +20653,16 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "LPL Financial"
+    careers_url: https://job-boards.greenhouse.io/lpl
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4 live jobs confirmed)
+  - name: "MongoDB"
+    careers_url: https://job-boards.greenhouse.io/mongodb
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 379 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
