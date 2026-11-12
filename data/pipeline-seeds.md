@@ -1916,4 +1916,18 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e | zoox | Contract Student Worker - Machine Learning Engineer | Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA | posted: 2026-11-12
 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | andurilindustries | Software Engineer, AI | Costa Mesa, California, United States | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/kaizenlabs/9d7babf0-5bf7-4629-9d0c-f2095d4bf749 | kaizenlabs | AI/ML Engineer | New York, NY | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/patreon/9ab71088-7bd6-4742-9232-4c0345db6081 | patreon | Software Engineer, Backend (Product Engineering) | San Francisco | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126 | openai | Business Platform Engineer | San Francisco | posted: 2026-11-12
+- [ ] https://www.brex.com/careers/8939939002?gh_jid=8939939002 | brex | Software Engineer II, Frontend (Banking) | Seattle, Washington, United States | posted: 2026-11-12
+- [ ] https://www.brex.com/careers/8939938002?gh_jid=8939938002 | brex | Software Engineer II, Frontend (Banking) | San Francisco, California, United States | posted: 2026-11-12
+- [ ] https://www.brex.com/careers/8928935002?gh_jid=8928935002 | brex | Software Engineer II, Frontend (Banking) | New York, New York, United States | posted: 2026-11-12
+- [ ] https://www.optiver.com/join-us/jobs/8226163002/?gh_jid=8226163002 | optiverus | Software Engineer - AI Lab | New York, New York | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/vitvio/54e12f86-ce09-4b9b-9de2-37645c10c80b | vitvio | Full-Stack Software Engineer (Infrastructure Focus) | Remote · United States · USA · Europe · European Union | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/vitvio/99db843a-9609-4bab-a788-faacf6d5643e | vitvio | Full-Stack Software Engineer (Frontend & Mobile Focus) | Remote · United States · USA · Europe · European Union | posted: 2026-11-12
+- [ ] https://jobs.lever.co/funxyz/885f9d6b-9c9d-4720-97e4-14739e1660e9 | funxyz | Backend Engineer | San Francisco | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8199147003 | pokemoncareers | Software Development Engineer in Test | Bellevue, Washington, United States | posted: 2026-11-12
+- [ ] https://jobs.lever.co/fundrise/d4f3529b-8ebc-41bf-99f1-1d75c4e1c0c3 | fundrise | Software Engineer II (CloudOps) | Remote; Washington, District of Columbia | posted: 2026-11-12
+
 ## Processed
