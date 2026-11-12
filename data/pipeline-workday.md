@@ -1417,4 +1417,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833 | asml | Optical Fabrication Technician Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-11-12
 
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/EHS-Software-Engineer_R122175 | sec | EHS Software Engineer | 12100 Samsung Blvd, Austin, TX, USA | posted: 2026-11-12
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Application-Developer-III_R189154 | ryder | Application Developer III | USA - Remote FL | posted: 2026-11-12
+- [ ] https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/AI-Engineer---Medical-Imaging---Surgical-Robotics--Cambridge--MA-_594332 | philips | AI Engineer – Medical Imaging & Surgical Robotics (Cambridge, MA) | Cambridge (US), Massachusetts, United States | posted: 2026-11-12
+
 ## Processed
