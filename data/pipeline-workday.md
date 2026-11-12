@@ -1439,4 +1439,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cloud-DevOps-Engineer_RQ232021-1 | gdit | Cloud DevOps Engineer | USA VA Falls Church | posted: 2026-11-12
 - [ ] https://davita.wd1.myworkdayjobs.com/dkc_external/job/09514---California-Remote/DevOps-Sr-Engineer---FinOps_R0478967-1 | davita | DevOps Engineer - FinOps | 09514 - California Remote | posted: 2026-11-12
 
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Bedford-MA/Software-Engineer-II_JR_15406 | guidewire | Software Engineer II | United States - Bedford, MA | posted: 2026-11-12
+
 ## Processed
