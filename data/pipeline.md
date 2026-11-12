@@ -2168,3 +2168,5 @@
 - [ ] https://jobs.lever.co/funxyz/885f9d6b-9c9d-4720-97e4-14739e1660e9 | funxyz | Backend Engineer | New York, NY | posted: 2026-11-12
 
 - [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8199147003 | pokemoncareers | Software Development Engineer in Test | Bellevue, Washington, United States | posted: 2026-11-12
+
+- [ ] https://jobs.ashbyhq.com/vitvio/99db843a-9609-4bab-a788-faacf6d5643e | vitvio | Full-Stack Software Engineer (Frontend & Mobile Focus) | Remote · United States · USA · Europe · European Union | posted: 2026-11-12
