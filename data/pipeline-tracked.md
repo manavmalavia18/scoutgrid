@@ -1720,4 +1720,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/AI-Engineer---Medical-Imaging---Surgical-Robotics--Cambridge--MA-_594332 | Royal Philips | AI Engineer – Medical Imaging & Surgical Robotics (Cambridge, MA) | Cambridge (US), Massachusetts, United States | posted: 2026-11-12
 
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833 | ASML | Optical Fabrication Technician Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-11-12
+
 ## Processed
