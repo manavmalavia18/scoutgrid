@@ -1757,4 +1757,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://davita.wd1.myworkdayjobs.com/dkc_external/job/09514---California-Remote/DevOps-Sr-Engineer---FinOps_R0478967-1 | DaVita | DevOps Engineer - FinOps | 09514 - California Remote | posted: 2026-11-12
 
+- [ ] https://jobs.lever.co/funxyz/885f9d6b-9c9d-4720-97e4-14739e1660e9 | Hustle Fund | Backend Engineer | New York, NY | posted: 2026-11-12
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cloud-DevOps-Engineer_RQ232021-1 | General Dynamics Information Technology | Cloud DevOps Engineer | USA VA Falls Church | posted: 2026-11-12
+
 ## Processed
