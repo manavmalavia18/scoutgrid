@@ -2178,3 +2178,6 @@
 - [ ] https://www.brex.com/careers/8939939002?gh_jid=8939939002 | brex | Software Engineer II, Frontend | Seattle, Washington, United States | posted: 2026-11-12
 - [ ] https://www.brex.com/careers/8939938002?gh_jid=8939938002 | brex | Software Engineer II, Frontend | San Francisco, California, United States | posted: 2026-11-12
 - [ ] https://www.brex.com/careers/8928935002?gh_jid=8928935002 | brex | Software Engineer II, Frontend | New York, New York, United States | posted: 2026-11-12
+
+- [ ] https://jobs.ashbyhq.com/patreon/9ab71088-7bd6-4742-9232-4c0345db6081 | patreon | Software Engineer, Backend (Product Engineering) | San Francisco | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126 | openai | Business Platform Engineer | San Francisco | posted: 2026-11-12
