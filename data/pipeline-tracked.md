@@ -1730,4 +1730,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Full-Stack-Software-Developer-Level-3-or-4--AHT-_R10244715 | Northrop Grumman | Full Stack Software Developer Level 3 or 4 (AHT) | United States-Colorado-Aurora | posted: 2026-11-12
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/Software-Engineer-Level-3-or-4_R10246628 | Northrop Grumman | Software Engineer - Level 3 or 4 - Morrisville | United States-North Carolina-Morrisville | posted: 2026-11-12
 
+- [ ] https://apply.workable.com/j/137567261C | Bask Health | AI Engineer, Merchant Copilots | Remote · United States | posted: 2026-11-12
+- [ ] https://apply.workable.com/j/A1FC3200F3 | Bask Health | Applied AI Engineer, Patient Experience | Remote · United States | posted: 2026-11-12
+- [ ] https://apply.workable.com/j/026DCCFE04 | Bask Health | Backend Engineer, Billing & Revenue Systems | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/639C2A43D0 | Bask Health | Backend Engineer, Care Platform & EMR | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/472CF47F60 | Bask Health | Backend Engineer, New Grad | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/8B7DE370C7 | Bask Health | Backend Engineer, Pharmacy Integrations | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/645D296669 | Bask Health | Creative Frontend Developer | Remote · United States | posted: 2026-11-12
+- [ ] https://apply.workable.com/j/2BB3DEFBD5 | Bask Health | Frontend Engineer, EMR & Clinical Workflows | Remote · United States | posted: 2026-11-12
+- [ ] https://apply.workable.com/j/95FB1074E4 | Bask Health | Frontend Engineer, New Grad | Remote · United States | posted: 2026-11-12
+- [ ] https://apply.workable.com/j/5A14E8105A | Bask Health | Frontend Engineer, Patient Experience & Intakes | Remote · United States | posted: 2026-11-12
+- [ ] https://apply.workable.com/j/8B640DC484 | Bask Health | Frontend Engineer, Sites & Studio | Remote · United States | posted: 2026-11-12
+- [ ] https://apply.workable.com/j/DFB173ADB0 | Bask Health | Full Stack Product Engineer, Merchant Platform | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/007CBE9F1D | Bask Health | Junior Backend Engineer | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/1A2C5E6D86 | Bask Health | Junior Backend Engineer, Platform | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/DFC51193B4 | Bask Health | Junior Full Stack Engineer | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/A48E0F40EA | Bask Health | Junior Full Stack Engineer, Merchant Tools | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/D5336F02A9 | Bask Health | Platform Engineer, APIs & Workflow Automation | Remote · United States | posted: 2026-11-11
+- [ ] https://apply.workable.com/j/3AC4353728 | Bask Health | Software Engineer, Early Career | Remote · United States | posted: 2026-11-11
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/ESS-Mission-Planning-Associate-Experienced-Software-Engineer_JR2026512722-2 | Boeing | SATCOM Mission Planning Software Engineer (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-11-12
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1003494-1 | Capital One | AI Engineer 5 (FM Hosting, LLM Inference) | 5 Locations | posted: 2026-11-12
+
 ## Processed
