@@ -1430,4 +1430,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-5_R1005670 | capitalone | Full-stack Engineer 5 | Chicago, IL | posted: 2026-11-12
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1003494-1 | capitalone | AI Engineer 5 (FM Hosting, LLM Inference) | 5 Locations | posted: 2026-11-12
 
+- [ ] https://wk.wd3.myworkdayjobs.com/external/job/USA---Waltham-MA/Product-Software-Engineer_R0061394 | wk | Product Software Engineer | USA - Waltham, MA | posted: 2026-11-12
+- [ ] https://wk.wd3.myworkdayjobs.com/external/job/USA---Waltham-MA/Enterprise-Software-Engineer_R0061393 | wk | Enterprise Software Engineer | USA - Waltham, MA | posted: 2026-11-12
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286267 | highmarkhealth | Software Engineer (IBM Cognos) | 39 Locations | posted: 2026-11-12
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Infrastructure_R0035440 | epiqsystems | Software Engineer, Infrastructure | 2 Locations | posted: 2026-11-12
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/MES-Software-Engineer_R027823-1 | broadcom | MES Software Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road | posted: 2026-11-12
+
 ## Processed
