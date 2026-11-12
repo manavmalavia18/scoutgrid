@@ -2183,3 +2183,8 @@
 - [ ] https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126 | openai | Business Platform Engineer | San Francisco | posted: 2026-11-12
 
 - [ ] https://jobs.ashbyhq.com/kaizenlabs/9d7babf0-5bf7-4629-9d0c-f2095d4bf749 | kaizenlabs | AI/ML Engineer | New York, NY | posted: 2026-11-12
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8384325 | stripe | Software Engineer – Backend Engineer – Tax Engineering | Seattle, WA | posted: 2026-11-12
+- [ ] https://stripe.com/jobs/search?gh_jid=8384287 | stripe | Software Engineer, Full Stack | New York, NY | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/flexe/jobs/4729304006 | flexe | Software Development Engineer II - Pre-Reservation Team | Seattle, Hybrid | posted: 2026-11-12
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | andurilindustries | Software Engineer, AI | Costa Mesa, California, United States | posted: 2026-11-12
