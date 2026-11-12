@@ -1715,4 +1715,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-II---CRM_R81671-2 | Medtronic | Software Engineer II - CRM | Minneapolis, Minnesota, United States of America | posted: 2026-11-11
 
+- [ ] https://jobs.lever.co/massive-rocket/6c13223b-504b-463f-b573-100ee3ccbeb1 | Massive Rocket | Software Development Engineer in Test (SDET) | Anywhere in Europe | posted: 2026-11-12
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8351199 | MongoDB | Software Engineer 3 | New York City | posted: 2026-11-12
+
 ## Processed
