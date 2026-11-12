@@ -11,16 +11,26 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
 import urllib.parse
 from pathlib import Path
 
+from browser_runtime import (
+    BrowserInitError,
+    CleanupError,
+    NavigationError,
+    UnknownBrowserEngine,
+    get_runtime,
+)
+
 ROOT = Path(__file__).resolve().parent
 DEFAULT_PROFILE = ROOT / "data" / "hiringcafe-profile"
 DEFAULT_OUT = ROOT / "data" / "hc-hits.tmp.json"
 ORIGIN = "https://hiringcafe.com"
+DEFAULT_ENGINE = "patchright"
 
 NEXT_DATA_RE = re.compile(
     r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>',
@@ -87,104 +97,105 @@ def props_from_html(html: str):
         raise RuntimeError(f"parser_failure: invalid __NEXT_DATA__ ({err})") from err
 
 
-def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path) -> dict:
-    from patchright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
+def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path, engine: str = DEFAULT_ENGINE) -> dict:
+    """Pagination/dedup/parsing logic is unchanged from the pre-refactor
+    inline-patchright version. The only change is that browser init,
+    navigation, and cleanup now go through `browser_runtime.BrowserSession`
+    instead of calling `patchright` directly, so a future authorized engine
+    only needs a new `BrowserRuntime` implementation, not a scrape rewrite."""
+    try:
+        runtime = get_runtime(engine)
+    except UnknownBrowserEngine as err:
+        raise RuntimeError(f"browser_engine_unavailable: {err}") from err
 
     state = search_state(query, days)
-    profile.mkdir(parents=True, exist_ok=True)
     hits: list = []
     seen: set[str] = set()
     total = None
     pages_fetched = 0
     truncated = False
 
-    with sync_playwright() as p:
-        ctx = p.chromium.launch_persistent_context(
-            user_data_dir=str(profile),
-            channel="chrome",
-            headless=False,
-            no_viewport=True,
-            args=[
-                "--window-position=-32000,-32000",
-                "--window-size=800,600",
-            ],
-        )
-        page = ctx.pages[0] if ctx.pages else ctx.new_page()
-        try:
-            def minimize():
-                try:
-                    cdp = page.context.new_cdp_session(page)
-                    info = cdp.send("Browser.getWindowForTarget")
-                    cdp.send(
-                        "Browser.setWindowBounds",
-                        {
-                            "windowId": info["windowId"],
-                            "bounds": {"windowState": "minimized"},
-                        },
-                    )
-                except Exception:
-                    pass
+    try:
+        session = runtime.open(profile)
+    except BrowserInitError as err:
+        raise RuntimeError(f"browser_init_failed: {err}") from err
 
-            for i in range(pages):
-                t0 = time.time()
-                response = page.goto(url_for(state, i), wait_until="domcontentloaded", timeout=60_000)
-                if i == 0:
-                    minimize()
-                status = response.status if response else None
-                immediate = diagnose_page(status, page.title(), page.content())
-                if immediate in ("cloudflare_challenge", "http_403"):
-                    raise RuntimeError(f"{immediate}: HTTP {status} on page {i}")
-                try:
-                    page.wait_for_selector("#__NEXT_DATA__", state="attached", timeout=45_000)
-                except PlaywrightTimeoutError as err:
-                    observed = diagnose_page(status, page.title(), page.content())
-                    raise RuntimeError(f"{observed}: HTTP {status} on page {i}") from err
-                pp = props_from_html(page.content())
-                if total is None:
-                    raw_total = pp.get("ssrTotalCount")
-                    if isinstance(raw_total, (int, float)) and raw_total == raw_total:
-                        total = int(raw_total)
-                batch = pp.get("ssrHits") or []
-                added = 0
-                for h in batch:
-                    if not isinstance(h, dict) or h.get("is_expired"):
-                        continue
-                    url = (h.get("apply_url") or "").strip().lower()
-                    if not url or url in seen:
-                        continue
-                    seen.add(url)
-                    hits.append(h)
-                    added += 1
-                pages_fetched = i + 1
-                print(
-                    f"HC [{query}] page {pages_fetched}/{pages} "
-                    f"hits={len(batch)} new={added} kept={len(seen)}"
-                    + (f"/{total}" if total is not None else "")
-                    + f" {int((time.time() - t0) * 1000)}ms",
-                    file=sys.stderr,
-                    flush=True,
-                )
-                is_last = (
-                    len(batch) == 0
-                    or added == 0
-                    or (total is not None and len(seen) >= total)
-                )
-                if is_last:
-                    truncated = False
-                    break
-                if i + 1 >= pages:
-                    truncated = True
-                    break
-                time.sleep(sleep_s)
-            else:
-                truncated = total is None or len(seen) < total
-        finally:
-            ctx.close()
+    try:
+        for i in range(pages):
+            t0 = time.time()
+            try:
+                status = session.goto(url_for(state, i), timeout_ms=60_000)
+            except NavigationError as err:
+                raise RuntimeError(f"navigation_error: {err} on page {i}") from err
+            if i == 0:
+                session.minimize_window()
+            immediate = diagnose_page(status, session.title(), session.content())
+            if immediate in ("cloudflare_challenge", "http_403"):
+                raise RuntimeError(f"{immediate}: HTTP {status} on page {i}")
+            try:
+                session.wait_for_selector("#__NEXT_DATA__", timeout_ms=45_000)
+            except NavigationError as err:
+                raise RuntimeError(f"navigation_error: {err} on page {i}") from err
+            except Exception as err:
+                # The underlying engine's own timeout type (e.g. patchright's
+                # TimeoutError) propagates unchanged — see
+                # BrowserSession.wait_for_selector's contract — and is
+                # treated the same way the inline version always did: as
+                # its own content-based diagnostic, not a navigation error.
+                observed = diagnose_page(status, session.title(), session.content())
+                raise RuntimeError(f"{observed}: HTTP {status} on page {i}") from err
+            pp = props_from_html(session.content())
+            if total is None:
+                raw_total = pp.get("ssrTotalCount")
+                if isinstance(raw_total, (int, float)) and raw_total == raw_total:
+                    total = int(raw_total)
+            batch = pp.get("ssrHits") or []
+            added = 0
+            for h in batch:
+                if not isinstance(h, dict) or h.get("is_expired"):
+                    continue
+                url = (h.get("apply_url") or "").strip().lower()
+                if not url or url in seen:
+                    continue
+                seen.add(url)
+                hits.append(h)
+                added += 1
+            pages_fetched = i + 1
+            print(
+                f"HC [{query}] page {pages_fetched}/{pages} "
+                f"hits={len(batch)} new={added} kept={len(seen)}"
+                + (f"/{total}" if total is not None else "")
+                + f" {int((time.time() - t0) * 1000)}ms",
+                file=sys.stderr,
+                flush=True,
+            )
+            is_last = (
+                len(batch) == 0
+                or added == 0
+                or (total is not None and len(seen) >= total)
+            )
+            if is_last:
+                truncated = False
+                break
+            if i + 1 >= pages:
+                truncated = True
+                break
+            time.sleep(sleep_s)
+        else:
+            truncated = total is None or len(seen) < total
+    finally:
+        try:
+            session.close()
+        except CleanupError as err:
+            # Never let a cleanup failure mask whatever happened above (a
+            # real scrape error, or nothing at all) — just surface it.
+            print(f"HC [{query}] browser cleanup failed: {err}", file=sys.stderr, flush=True)
 
     return {
         "ok": True,
         "query": query,
         "days": days,
+        "engine": engine,
         "pagesFetched": pages_fetched,
         "truncated": truncated,
         "totalCount": total,
@@ -201,11 +212,16 @@ def main() -> int:
     ap.add_argument("--sleep", type=float, default=1.5)
     ap.add_argument("--out", default=str(DEFAULT_OUT))
     ap.add_argument("--profile", default=str(DEFAULT_PROFILE))
+    # BROWSER_ENGINE/--engine selects which registered BrowserRuntime to use.
+    # Only "patchright" is registered for this production scanner — see
+    # browser_runtime.py's module docstring for why "cloakbrowser" stays
+    # out of this list.
+    ap.add_argument("--engine", default=os.environ.get("BROWSER_ENGINE", DEFAULT_ENGINE))
     args = ap.parse_args()
     pages = max(1, min(80, args.pages))
     days = max(1, min(7, args.days))
     try:
-        payload = scrape(pages, days, args.query, max(0.4, args.sleep), Path(args.profile))
+        payload = scrape(pages, days, args.query, max(0.4, args.sleep), Path(args.profile), engine=args.engine)
     except Exception as err:
         print(f"HC scrape failed: {err}", file=sys.stderr)
         return 1
@@ -218,6 +234,7 @@ def main() -> int:
         "pagesFetched": payload["pagesFetched"],
         "truncated": payload["truncated"],
         "totalCount": payload["totalCount"],
+        "engine": payload["engine"],
         "out": str(out),
     }))
     return 0
