@@ -2164,3 +2164,5 @@
 - [ ] https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e | zoox | Contract Student Worker - Machine Learning Engineer | Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA | posted: 2026-11-12
 
 - [ ] https://jobs.lever.co/fundrise/d4f3529b-8ebc-41bf-99f1-1d75c4e1c0c3 | fundrise | Software Engineer II (CloudOps) | Remote; Washington, District of Columbia | posted: 2026-11-12
+
+- [ ] https://jobs.lever.co/funxyz/885f9d6b-9c9d-4720-97e4-14739e1660e9 | funxyz | Backend Engineer | New York, NY | posted: 2026-11-12
