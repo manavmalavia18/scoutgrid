@@ -1914,4 +1914,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/sosafe/533db1f7-d45b-4354-a2f5-f7542cfed4df | sosafe | Typescript Fullstack Engineer (Backend-leaning) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-12
 - [ ] https://jobs.ashbyhq.com/sosafe/eb0b9d80-8320-4a09-a880-254ec512d91a | sosafe | Node.js Fullstack Engineer (Backend-leaning) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-12
 
+- [ ] https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e | zoox | Contract Student Worker - Machine Learning Engineer | Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA | posted: 2026-11-12
+
 ## Processed
