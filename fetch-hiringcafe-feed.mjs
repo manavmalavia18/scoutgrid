@@ -28,6 +28,7 @@ import {
   acceptHiringCafeJob,
 } from './lib/hiringcafe-query.mjs';
 import { httpLooksBlocked } from './lib/hiringcafe-http-blocked.mjs';
+import { assessHiringCafeScan, recordFailedHiringCafeScan } from './lib/hiringcafe-scan-health.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 // Overridable so the same script can run a second, independent feed (e.g.
@@ -260,6 +261,26 @@ async function fetchFeed() {
   }
 
   const previous = loadPreviousSnapshot();
+  const failedQueries = transport === 'patchright'
+    ? Object.values(totals).filter((n) => n == null).length
+    : 0;
+  const health = assessHiringCafeScan({
+    pagesFetched,
+    incomingCount: incoming.length,
+    queryCount: QUERIES.length,
+    failedQueries,
+    previousCount: previous.jobs.length,
+  });
+  if (!health.publish) {
+    recordFailedHiringCafeScan({
+      heartbeatPath: HEARTBEAT,
+      reason: health.reason,
+      queryCount: QUERIES.length,
+      failedQueries,
+      pagesFetched,
+    });
+    throw new Error(`HiringCafe scan unavailable (${health.reason}): preserved prior feed`);
+  }
   const jobs = mergeDiscoveredJobs(previous.jobs, incoming, {
     keyOf: jobKey,
     now: new Date().toISOString(),

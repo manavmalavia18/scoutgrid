@@ -1,0 +1,45 @@
+name: Browser runtime lab (local fixture only)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  local-smoke:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install isolated, pinned lab dependencies
+        run: npm ci --prefix browser-lab --ignore-scripts --no-audit --no-fund
+      - name: Install system libraries and standard Chromium
+        run: |
+          browser-lab/node_modules/.bin/playwright-core install-deps chromium
+          browser-lab/node_modules/.bin/playwright-core install chromium
+      - name: Unit tests for adapter and page diagnostics
+        run: node --test test/browser-lab-*.test.mjs
+      - name: Standard Playwright on loopback fixture
+        run: BROWSER_LAB_RUNTIME=playwright node browser-lab/smoke.mjs
+      - name: Detect optional CloakBrowser license
+        id: license
+        env:
+          CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
+        run: |
+          if [ -n "$CLOAKBROWSER_LICENSE_KEY" ]; then
+            echo 'available=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'available=false' >> "$GITHUB_OUTPUT"
+            echo 'CloakBrowser smoke not run: repository license secret is absent.'
+          fi
+      - name: CloakBrowser on same loopback fixture (only with license)
+        if: steps.license.outputs.available == 'true'
+        env:
+          CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
+        run: |
+          browser-lab/node_modules/.bin/cloakbrowser install
+          BROWSER_LAB_RUNTIME=cloakbrowser node browser-lab/smoke.mjs

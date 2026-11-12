@@ -76,6 +76,8 @@ jobs:
           args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
 
       - name: Run HiringCafe feed fetch (under Xvfb)
+        id: scrape
+        continue-on-error: true
         # --hours 96 (was defaulting to --days*24=48) decouples local merge
         # retention from the search query's day-window: a sustained outage
         # like the 2026-11-12 Cloudflare-challenge one shouldn't wipe the
@@ -93,15 +95,28 @@ jobs:
           # whatever a one-time override says.
 
       - name: Disconnect from Tailscale exit node
+        if: always()
         # GitHub became unreachable through the residential exit node after
         # long scrapes (DNS: "Could not resolve host: github.com"). Restore the
         # runner's normal network before git pull/push.
         run: sudo tailscale down || true
 
       - name: Commit results
+        if: steps.scrape.outcome == 'success'
         run: |
           git config user.name "scoutgrid-bot"
           git config user.email "actions@users.noreply.github.com"
           # Publish only this workflow's outputs onto current main;
           # never recommit an old checkout's unrelated files.
           bash scripts/push-owned-snapshot.sh hc data/hiringcafe-feed.json data/scan-hc-heartbeat.json
+
+      - name: Publish failed heartbeat without overwriting the feed
+        if: always() && steps.scrape.outcome == 'failure'
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          bash scripts/push-owned-snapshot.sh hc-failure data/scan-hc-heartbeat.json
+
+      - name: Mark unavailable scan as failed
+        if: always() && steps.scrape.outcome == 'failure'
+        run: exit 1
