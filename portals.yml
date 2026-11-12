@@ -20853,6 +20853,36 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Airbyte"
+    careers_url: https://jobs.ashbyhq.com/airbyte
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 14 live jobs confirmed)
+  - name: "Atlas Consulting Group, LLC."
+    careers_url: https://jobs.ashbyhq.com/atlas
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 2 live jobs confirmed)
+  - name: "Bloom Healthcare"
+    careers_url: https://jobs.lever.co/bloom
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 8 live jobs confirmed)
+  - name: "Camunda"
+    careers_url: https://jobs.ashbyhq.com/camunda
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 51 live jobs confirmed)
+  - name: "Crexi"
+    careers_url: https://job-boards.greenhouse.io/crexi
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 17 live jobs confirmed)
+  - name: "Education Analytics"
+    careers_url: https://job-boards.greenhouse.io/education
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 5 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
