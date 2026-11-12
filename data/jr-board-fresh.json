@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-12T15:58:44.522Z",
+  "fetchedAt": "2026-11-12T17:12:20.344Z",
   "days": 2,
   "leadCount": 34,
-  "jobCount": 9,
+  "jobCount": 11,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
@@ -15,23 +15,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 61,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:podium81",
-      "fetched": 72,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:fashionnova",
       "fetched": 96,
       "kept": 0
     },
     {
       "key": "greenhouse:xai",
-      "fetched": 299,
+      "fetched": 298,
       "kept": 0
     },
     {
@@ -40,17 +30,32 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:quantifind",
-      "fetched": 21,
+      "key": "greenhouse:podium81",
+      "fetched": 72,
       "kept": 0
     },
     {
-      "key": "greenhouse:careers",
-      "fetched": 0,
+      "key": "greenhouse:affirm",
+      "fetched": 215,
+      "kept": 2
+    },
+    {
+      "key": "greenhouse:quantifind",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:stepstone",
+      "fetched": 62,
       "kept": 0
     },
     {
       "key": "greenhouse:en-us",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:careers",
       "fetched": 0,
       "kept": 0
     },
@@ -60,18 +65,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 213,
-      "kept": 2
-    },
-    {
       "key": "greenhouse:knack-direct-applicants",
       "fetched": 1,
       "kept": 0
     },
     {
-      "key": "ashby:hockeystack",
-      "fetched": 3,
+      "key": "greenhouse:doordashusa",
+      "fetched": 436,
       "kept": 0
     },
     {
@@ -80,18 +80,23 @@
       "kept": 0
     },
     {
-      "key": "ashby:harmonic",
-      "fetched": 9,
-      "kept": 0
-    },
-    {
       "key": "ashby:reducto",
       "fetched": 38,
       "kept": 0
     },
     {
+      "key": "ashby:hockeystack",
+      "fetched": 3,
+      "kept": 0
+    },
+    {
+      "key": "ashby:harmonic",
+      "fetched": 9,
+      "kept": 0
+    },
+    {
       "key": "ashby:langchain",
-      "fetched": 100,
+      "fetched": 101,
       "kept": 0
     },
     {
@@ -106,13 +111,8 @@
     },
     {
       "key": "ashby:mercor",
-      "fetched": 92,
+      "fetched": 91,
       "kept": 0
-    },
-    {
-      "key": "ashby:snowflake",
-      "fetched": 379,
-      "kept": 1
     },
     {
       "key": "ashby:baseten",
@@ -120,19 +120,19 @@
       "kept": 0
     },
     {
+      "key": "ashby:snowflake",
+      "fetched": 378,
+      "kept": 1
+    },
+    {
       "key": "lever:avivesolutions",
       "fetched": 8,
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 436,
-      "kept": 0
-    },
-    {
-      "key": "lever:zoox",
-      "fetched": 229,
-      "kept": 0
+      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
+      "fetched": 20,
+      "kept": 1
     },
     {
       "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
@@ -140,8 +140,8 @@
       "kept": 0
     },
     {
-      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
-      "fetched": 20,
+      "key": "lever:zoox",
+      "fetched": 233,
       "kept": 2
     },
     {
@@ -157,7 +157,7 @@
     {
       "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
       "fetched": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
@@ -218,15 +218,24 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Manager, GitHub DevOps Engineer/Architect",
-      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Seattle-1191-2nd-Avenue-Corp/Manager--GitHub-DevOps-Engineer-Architect_R00353328",
-      "company": "Avanade",
-      "location": "4 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
+      "title": "Contract Student Worker - Machine Learning Engineer",
+      "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
+      "company": "Zoox",
+      "location": "Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA",
+      "postedAt": "2026-11-12T00:07:08.573Z",
       "salary": "",
-      "ats": "Workday",
-      "board": "avanadecareers",
-      "postedAtSource": "workday-detail"
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Contract Student Worker - Software Engineer (20/hrs week)",
+      "url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-11-11T21:48:33.716Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
     },
     {
       "title": "Senior Systems Software Engineer (C++)",
@@ -237,6 +246,17 @@
       "salary": "",
       "ats": "Workday",
       "board": "search",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Engineer / Senior AI Engineer",
+      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481",
+      "company": "Elsevier",
+      "location": "3 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "elsevierjobs",
       "postedAtSource": "workday-detail"
     },
     {
@@ -251,8 +271,8 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Principal Software Engineer / Architect – AI – Legal FDE",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Job-Posting-Title-Principal-Software-Engineer---Architect---AI---Legal-FDE_JREQ205196",
+      "title": "Manager, Software Development Engineering, CoCounsel FDE",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Manager--Software-Development-Engineering--CoCounsel-FDE_JREQ202145",
       "company": "Thomson Reuters",
       "location": "United States of America Frisco Texas",
       "postedAt": "2026-11-11T12:00:00.000Z",
@@ -262,8 +282,8 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Manager, Software Development Engineering, CoCounsel FDE",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Manager--Software-Development-Engineering--CoCounsel-FDE_JREQ202145",
+      "title": "Principal Software Engineer / Architect – AI – Legal FDE",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Job-Posting-Title-Principal-Software-Engineer---Architect---AI---Legal-FDE_JREQ205196",
       "company": "Thomson Reuters",
       "location": "United States of America Frisco Texas",
       "postedAt": "2026-11-11T12:00:00.000Z",
