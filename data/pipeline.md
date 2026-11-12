@@ -2188,3 +2188,9 @@
 - [ ] https://stripe.com/jobs/search?gh_jid=8384287 | stripe | Software Engineer, Full Stack | New York, NY | posted: 2026-11-12
 - [ ] https://job-boards.greenhouse.io/flexe/jobs/4729304006 | flexe | Software Development Engineer II - Pre-Reservation Team | Seattle, Hybrid | posted: 2026-11-12
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | andurilindustries | Software Engineer, AI | Costa Mesa, California, United States | posted: 2026-11-12
+
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5465827008 | backblaze | Site Reliability Engineer lII (DBA) - LATAM | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8181185003 | affirm | Software Engineer I, Backend (Continuous Delivery) | Remote Canada | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8181183003 | affirm | Software Engineer I, Backend (Continuous Delivery) | Remote US | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/zip/e7bcd788-ca5f-4e90-9728-0de7b57026a1 | zip | Software Engineer, Backend (All Levels) | San Francisco | posted: 2026-11-12
+- [ ] https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003 | klaviyo | Software Engineer II - Flows Experience | Boston, MA | posted: 2026-11-12
