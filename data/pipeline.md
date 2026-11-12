@@ -2142,3 +2142,6 @@
 - [ ] https://www.mongodb.com/careers/job/?gh_jid=8366703 | mongodb | Software Engineer 3 | New York City | posted: 2026-11-12
 - [ ] https://www.mongodb.com/careers/job/?gh_jid=8367902 | mongodb | Software Engineer 3 | New York City | posted: 2026-11-12
 - [ ] https://www.mongodb.com/careers/job/?gh_jid=8351199 | mongodb | Software Engineer 3 | New York City | posted: 2026-11-12
+
+- [ ] https://careers.godaddy/jobs?gh_jid=8020267003 | godaddy | Software Development Engineer | United States | posted: 2026-11-12
+- [ ] https://jobs.lever.co/massive-rocket/6c13223b-504b-463f-b573-100ee3ccbeb1 | massive-rocket | Software Development Engineer in Test (SDET) | Anywhere in Europe | posted: 2026-11-12
