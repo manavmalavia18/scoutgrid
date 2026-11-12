@@ -1900,4 +1900,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126 | OpenAI | Business Platform Engineer | San Francisco | posted: 2026-11-12
 - [ ] https://jobs.ashbyhq.com/kaizenlabs/9d7babf0-5bf7-4629-9d0c-f2095d4bf749 | Kaizen Labs | AI/ML Engineer | New York, NY | posted: 2026-11-12
 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | Anduril Industries | Software Engineer, AI | Costa Mesa, California, United States | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/smartrent/jobs/6250702004 | SmartRent | Data Engineer | Phoenix, Arizona | posted: 2026-11-12
+
 ## Processed
