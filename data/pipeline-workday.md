@@ -1430,4 +1430,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-5_R1005670 | capitalone | Full-stack Engineer 5 | Chicago, IL | posted: 2026-11-12
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1003494-1 | capitalone | AI Engineer 5 (FM Hosting, LLM Inference) | 5 Locations | posted: 2026-11-12
 
+- [ ] https://wk.wd3.myworkdayjobs.com/external/job/USA---Waltham-MA/Product-Software-Engineer_R0061394 | wk | Product Software Engineer | USA - Waltham, MA | posted: 2026-11-12
+- [ ] https://wk.wd3.myworkdayjobs.com/external/job/USA---Waltham-MA/Enterprise-Software-Engineer_R0061393 | wk | Enterprise Software Engineer | USA - Waltham, MA | posted: 2026-11-12
+
 ## Processed

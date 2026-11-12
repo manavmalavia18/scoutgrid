@@ -359,11 +359,6 @@ search_queries:
 trust_filter:
   enabled: true
 tracked_companies:
-  - name: Bask Health
-    careers_url: https://apply.workable.com/bask-health-1/
-    provider: workable
-    enabled: true
-    notes: HiringCafe lead independently verified on official Workable board; direct ATS scan
   - name: SWIFT
     careers_url: https://swift.wd3.myworkdayjobs.com/join-swift
     provider: workday
@@ -20758,26 +20753,6 @@ tracked_companies:
     provider: lever
     enabled: true
     notes: auto-discovered from linkedin
-  - name: "Montefiore Einstein Technology"
-    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
-    provider: workday
-    enabled: true
-    notes: auto-discovered from linkedin
-  - name: "Elsevier"
-    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
-    provider: workday
-    enabled: true
-    notes: auto-discovered from linkedin
-  - name: "CesiumAstro"
-    careers_url: https://jobs.lever.co/CesiumAstro
-    provider: lever
-    enabled: true
-    notes: auto-discovered from linkedin
-  - name: "Avanade"
-    careers_url: https://accenture.wd103.myworkdayjobs.com/avanadecareers
-    provider: workday
-    enabled: true
-    notes: auto-discovered from jobright
   - name: "Montefiore Einstein Technology"
     careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
     provider: workday
