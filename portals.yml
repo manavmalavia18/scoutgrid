@@ -20688,6 +20688,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Refer"
+    careers_url: https://job-boards.greenhouse.io/refer
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 3 live jobs confirmed)
+  - name: "Ro"
+    careers_url: https://jobs.lever.co/ro
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 55 live jobs confirmed)
+  - name: "SBG Associates"
+    careers_url: https://job-boards.greenhouse.io/sbg
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 3 live jobs confirmed)
+  - name: "U.S. Venture, Inc."
+    careers_url: https://job-boards.greenhouse.io/us
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 1 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
