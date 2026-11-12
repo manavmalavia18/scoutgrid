@@ -1890,4 +1890,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/zip/0c1b3417-9ba4-4630-8590-f6b45c40310a | zip | Software Engineer, Frontend (All Levels) | San Francisco | posted: 2026-11-11
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8934067002 | Twitch | Software Engineer I, Commerce | San Francisco, CA | posted: 2026-11-11
 
+- [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4753567005 | rvohealth | Software Engineer, Red Platform | Remote- US | posted: 2026-11-12
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8348102 | mongodb | Software Engineer 3 | New York City | posted: 2026-11-12
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8366703 | mongodb | Software Engineer 3 | New York City | posted: 2026-11-12
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8367902 | mongodb | Software Engineer 3 | New York City | posted: 2026-11-12
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8351199 | mongodb | Software Engineer 3 | New York City | posted: 2026-11-12
+- [ ] https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004 | jamf | Associate Software Engineer (Full Stack) | US Remote | posted: 2026-11-11
+- [ ] https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004&gh_jid=6253670004 | jamf | Associate Software Engineer | US Remote | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5479397008 | newrelic | Software Engineer-Infrastructure | Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | posted: 2026-11-11
+- [ ] https://job-boards.greenhouse.io/rewardsnetwork/jobs/5292899007 | rewardsnetwork | Front End Engineer (Hybrid) | Chicago, IL | posted: 2026-11-11
+
 ## Processed
