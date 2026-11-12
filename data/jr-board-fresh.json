@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-12T19:02:33.576Z",
+  "fetchedAt": "2026-11-12T19:24:42.481Z",
   "days": 2,
-  "leadCount": 34,
-  "jobCount": 13,
+  "leadCount": 33,
+  "jobCount": 14,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
@@ -15,18 +15,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 62,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:fashionnova",
       "fetched": 96,
       "kept": 0
     },
     {
-      "key": "greenhouse:podium81",
-      "fetched": 72,
+      "key": "greenhouse:xai",
+      "fetched": 297,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:applovin",
+      "fetched": 44,
       "kept": 0
     },
     {
@@ -35,8 +35,13 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 44,
+      "key": "greenhouse:stepstone",
+      "fetched": 62,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:podium81",
+      "fetched": 72,
       "kept": 0
     },
     {
@@ -50,11 +55,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:en-us",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:baselayer",
       "fetched": 14,
       "kept": 0
@@ -62,11 +62,6 @@
     {
       "key": "greenhouse:knack-direct-applicants",
       "fetched": 1,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 297,
       "kept": 0
     },
     {
@@ -80,13 +75,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:hockeystack",
-      "fetched": 3,
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
-      "key": "ashby:harmonic",
-      "fetched": 9,
+      "key": "ashby:hockeystack",
+      "fetched": 3,
       "kept": 0
     },
     {
@@ -100,7 +95,12 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
+      "key": "ashby:harmonic",
+      "fetched": 9,
+      "kept": 0
+    },
+    {
+      "key": "ashby:baseten",
       "fetched": 101,
       "kept": 0
     },
@@ -110,34 +110,19 @@
       "kept": 0
     },
     {
-      "key": "ashby:baseten",
-      "fetched": 102,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 435,
-      "kept": 0
-    },
-    {
       "key": "ashby:snowflake",
       "fetched": 377,
       "kept": 1
     },
     {
-      "key": "lever:zoox",
-      "fetched": 235,
-      "kept": 3
-    },
-    {
-      "key": "lever:avivesolutions",
-      "fetched": 8,
+      "key": "greenhouse:doordashusa",
+      "fetched": 434,
       "kept": 0
     },
     {
-      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
-      "fetched": 19,
-      "kept": 1
+      "key": "lever:avivesolutions",
+      "fetched": 9,
+      "kept": 0
     },
     {
       "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
@@ -145,9 +130,19 @@
       "kept": 0
     },
     {
+      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
+      "fetched": 20,
+      "kept": 2
+    },
+    {
       "key": "workday:kla.wd1.myworkdayjobs.com/search",
       "fetched": 20,
       "kept": 1
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 235,
+      "kept": 3
     },
     {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
@@ -165,14 +160,14 @@
       "kept": 0
     },
     {
-      "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
-      "fetched": 79,
-      "kept": 0
-    },
-    {
       "key": "workday:thomsonreuters.wd5.myworkdayjobs.com/external_career_site",
       "fetched": 80,
       "kept": 3
+    },
+    {
+      "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
+      "fetched": 80,
+      "kept": 0
     }
   ],
   "jobs": [
@@ -207,6 +202,39 @@
       "board": "snowflake"
     },
     {
+      "title": "Associate Manager, GitHub DevOps Engineer/Architect",
+      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Seattle-1191-2nd-Avenue-Corp/Associate-Manager--GitHub-DevOps-Engineer-Architect_R00365079",
+      "company": "Avanade",
+      "location": "4 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "avanadecareers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Manager, GitHub DevOps Engineer/Architect",
+      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Seattle-1191-2nd-Avenue-Corp/Manager--GitHub-DevOps-Engineer-Architect_R00353328",
+      "company": "Avanade",
+      "location": "4 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "avanadecareers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Systems Software Engineer (C++)",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Senior-Systems-Software-Engineer--C---_2637703-1",
+      "company": "KLA",
+      "location": "Ann Arbor, MI",
+      "postedAt": "2026-11-11T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "search",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Senior Software Engineer - Autonomy Safety Metric",
       "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
       "company": "Zoox",
@@ -235,28 +263,6 @@
       "salary": "",
       "ats": "Lever",
       "board": "zoox"
-    },
-    {
-      "title": "Associate Manager, GitHub DevOps Engineer/Architect",
-      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Seattle-1191-2nd-Avenue-Corp/Associate-Manager--GitHub-DevOps-Engineer-Architect_R00365079",
-      "company": "Avanade",
-      "location": "4 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "avanadecareers",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Systems Software Engineer (C++)",
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Senior-Systems-Software-Engineer--C---_2637703-1",
-      "company": "KLA",
-      "location": "Ann Arbor, MI",
-      "postedAt": "2026-11-11T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "search",
-      "postedAtSource": "workday-detail"
     },
     {
       "title": "Senior Site Reliability Engineer I",
