@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-12T14:26:29.561Z",
+  "fetchedAt": "2026-11-12T13:36:11.713Z",
   "days": 2,
   "leadCount": 33,
-  "jobCount": 6,
+  "jobCount": 5,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
@@ -10,13 +10,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 61,
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
       "kept": 0
     },
     {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
+      "key": "greenhouse:stepstone",
+      "fetched": 61,
       "kept": 0
     },
     {
@@ -30,14 +30,19 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:affirm",
+      "fetched": 207,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:applovin",
       "fetched": 44,
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 209,
-      "kept": 1
+      "key": "greenhouse:careers",
+      "fetched": 0,
+      "kept": 0
     },
     {
       "key": "greenhouse:quantifind",
@@ -47,11 +52,6 @@
     {
       "key": "greenhouse:xai",
       "fetched": 299,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:careers",
-      "fetched": 0,
       "kept": 0
     },
     {
@@ -70,13 +70,23 @@
       "kept": 0
     },
     {
+      "key": "ashby:reducto",
+      "fetched": 38,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 436,
+      "kept": 0
+    },
+    {
       "key": "ashby:hockeystack",
       "fetched": 3,
       "kept": 0
     },
     {
-      "key": "ashby:reducto",
-      "fetched": 38,
+      "key": "ashby:plaid",
+      "fetched": 143,
       "kept": 0
     },
     {
@@ -85,8 +95,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:plaid",
-      "fetched": 143,
+      "key": "ashby:baseten",
+      "fetched": 103,
       "kept": 0
     },
     {
@@ -105,19 +115,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:baseten",
-      "fetched": 103,
-      "kept": 0
-    },
-    {
       "key": "ashby:snowflake",
       "fetched": 380,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 436,
-      "kept": 0
     },
     {
       "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
@@ -130,24 +130,24 @@
       "kept": 0
     },
     {
-      "key": "lever:zoox",
-      "fetched": 229,
-      "kept": 0
-    },
-    {
       "key": "lever:avivesolutions",
       "fetched": 8,
       "kept": 0
     },
     {
-      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
-      "fetched": 20,
+      "key": "lever:zoox",
+      "fetched": 229,
       "kept": 0
     },
     {
       "key": "workday:kla.wd1.myworkdayjobs.com/search",
       "fetched": 20,
       "kept": 1
+    },
+    {
+      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
@@ -171,16 +171,6 @@
     }
   ],
   "jobs": [
-    {
-      "title": "Senior Software Engineer, Backend (ML Feature Platform)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8199419003",
-      "company": "Affirm",
-      "location": "Remote US",
-      "postedAt": "2026-11-12T14:14:53.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "affirm"
-    },
     {
       "title": "SENIOR SOFTWARE ENGINEER",
       "url": "https://jobs.ashbyhq.com/snowflake/c03acc32-f60b-40de-9838-e954d3f419b9",
