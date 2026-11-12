@@ -1444,4 +1444,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/AI-Engineer---GenAI-and-Agentic-AI_R-1103671-1 | verizon | AI Engineer - GenAI and Agentic AI | 3 Locations | posted: 2026-11-12
 - [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Platform-Engineer_J286297 | highmarkhealth | Platform Engineer | 51 Locations | posted: 2026-11-12
 
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165025-2 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165025-1 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+
 ## Processed
