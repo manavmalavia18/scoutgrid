@@ -1930,4 +1930,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8199147003 | pokemoncareers | Software Development Engineer in Test | Bellevue, Washington, United States | posted: 2026-11-12
 - [ ] https://jobs.lever.co/fundrise/d4f3529b-8ebc-41bf-99f1-1d75c4e1c0c3 | fundrise | Software Engineer II (CloudOps) | Remote; Washington, District of Columbia | posted: 2026-11-12
 
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5465827008 | backblaze | Site Reliability Engineer lII (DBA) - LATAM | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8181185003 | affirm | Software Engineer I, Backend (Continuous Delivery) | Remote Canada | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8181183003 | affirm | Software Engineer I, Backend (Continuous Delivery) | Remote US | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/zip/e7bcd788-ca5f-4e90-9728-0de7b57026a1 | zip | Software Engineer, Backend (All Levels) | San Francisco | posted: 2026-11-12
+- [ ] https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003 | klaviyo | Software Engineer II - Flows Experience | Boston, MA | posted: 2026-11-12
+- [ ] https://stripe.com/jobs/search?gh_jid=8384325 | stripe | Software Engineer – Backend Engineer – Tax Engineering | Seattle, WA | posted: 2026-11-12
+- [ ] https://stripe.com/jobs/search?gh_jid=8384287 | stripe | Software Engineer, Full Stack | New York, NY | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/flexe/jobs/4729304006 | flexe | Software Development Engineer II - Pre-Reservation Team | Seattle, Hybrid | posted: 2026-11-12
+
 ## Processed
