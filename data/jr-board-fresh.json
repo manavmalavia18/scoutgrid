@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-12T15:36:39.649Z",
+  "fetchedAt": "2026-11-12T15:14:09.368Z",
   "days": 2,
   "leadCount": 34,
-  "jobCount": 8,
+  "jobCount": 7,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
@@ -15,33 +15,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 61,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:fashionnova",
       "fetched": 96,
       "kept": 0
     },
     {
-      "key": "greenhouse:podium81",
-      "fetched": 72,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 299,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:applovin",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:quantifind",
-      "fetched": 21,
+      "key": "greenhouse:stepstone",
+      "fetched": 61,
       "kept": 0
     },
     {
@@ -50,8 +30,23 @@
       "kept": 2
     },
     {
+      "key": "greenhouse:applovin",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:podium81",
+      "fetched": 72,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:careers",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:quantifind",
+      "fetched": 21,
       "kept": 0
     },
     {
@@ -70,28 +65,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 436,
-      "kept": 0
-    },
-    {
       "key": "ashby:evenup",
       "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "ashby:reducto",
-      "fetched": 38,
-      "kept": 0
-    },
-    {
-      "key": "ashby:hockeystack",
-      "fetched": 3,
-      "kept": 0
-    },
-    {
-      "key": "ashby:langchain",
-      "fetched": 100,
       "kept": 0
     },
     {
@@ -100,13 +75,23 @@
       "kept": 0
     },
     {
+      "key": "ashby:hockeystack",
+      "fetched": 3,
+      "kept": 0
+    },
+    {
       "key": "ashby:harmonic",
       "fetched": 9,
       "kept": 0
     },
     {
-      "key": "ashby:mercor",
-      "fetched": 92,
+      "key": "ashby:langchain",
+      "fetched": 100,
+      "kept": 0
+    },
+    {
+      "key": "ashby:reducto",
+      "fetched": 38,
       "kept": 0
     },
     {
@@ -125,28 +110,33 @@
       "kept": 0
     },
     {
-      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
-      "fetched": 20,
+      "key": "greenhouse:xai",
+      "fetched": 299,
+      "kept": 0
+    },
+    {
+      "key": "ashby:mercor",
+      "fetched": 92,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 437,
+      "kept": 0
+    },
+    {
+      "key": "lever:avivesolutions",
+      "fetched": 8,
       "kept": 0
     },
     {
       "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
       "fetched": 20,
-      "kept": 2
-    },
-    {
-      "key": "workday:kla.wd1.myworkdayjobs.com/search",
-      "fetched": 20,
-      "kept": 1
-    },
-    {
-      "key": "workday:amat.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:zoox",
-      "fetched": 229,
+      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -155,13 +145,23 @@
       "kept": 0
     },
     {
-      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
-      "fetched": 80,
+      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 229,
       "kept": 0
     },
     {
-      "key": "lever:avivesolutions",
-      "fetched": 8,
+      "key": "workday:amat.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
+      "fetched": 80,
       "kept": 0
     },
     {
@@ -172,7 +172,7 @@
     {
       "key": "workday:thomsonreuters.wd5.myworkdayjobs.com/external_career_site",
       "fetched": 80,
-      "kept": 2
+      "kept": 3
     }
   ],
   "jobs": [
@@ -207,28 +207,6 @@
       "board": "snowflake"
     },
     {
-      "title": "Associate Manager, GitHub DevOps Engineer/Architect",
-      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Seattle-1191-2nd-Avenue-Corp/Associate-Manager--GitHub-DevOps-Engineer-Architect_R00365079",
-      "company": "Avanade",
-      "location": "4 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "avanadecareers",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Manager, GitHub DevOps Engineer/Architect",
-      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Seattle-1191-2nd-Avenue-Corp/Manager--GitHub-DevOps-Engineer-Architect_R00353328",
-      "company": "Avanade",
-      "location": "4 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "avanadecareers",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "Senior Systems Software Engineer (C++)",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Senior-Systems-Software-Engineer--C---_2637703-1",
       "company": "KLA",
@@ -245,6 +223,17 @@
       "company": "Thomson Reuters",
       "location": "United States of America New York New York",
       "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "external_career_site",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Manager, Software Development Engineering, CoCounsel FDE",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Frisco-Texas/Manager--Software-Development-Engineering--CoCounsel-FDE_JREQ202145",
+      "company": "Thomson Reuters",
+      "location": "United States of America Frisco Texas",
+      "postedAt": "2026-11-11T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
       "board": "external_career_site",
