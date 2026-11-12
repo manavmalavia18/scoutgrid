@@ -39,16 +39,21 @@ jobs:
           if git diff --cached --quiet; then
             echo "no changes to commit"
           else
-            git commit -m "wellfound: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             pushed=0
-            # 8 attempts with real backoff (was 3 at a flat 5s) -- several
-            # workflows (a16z/board-discovery/linkedin/wellfound/etc.) write
-            # to the same shared data/official-board-registry.json via
-            # discover-boards.mjs and collide often enough that 3 quick
-            # attempts routinely lost the race. Confirmed live 2026-11-09.
+            # This workflow writes exclusively to its own dedicated feed
+            # file (no other workflow touches it), and each run is a
+            # complete fresh snapshot, not an incremental edit -- a
+            # textual rebase between two concurrent runs conflicts almost
+            # every time regardless of retry count (confirmed live
+            # 2026-11-12 on hc.yml's near-identical file). Instead: fetch
+            # latest and move the branch pointer onto it (soft reset),
+            # then recommit -- this run's freshly-fetched data always
+            # wins for its own files, no line-level merge needed.
             for attempt in 1 2 3 4 5 6 7 8; do
-              git rebase --abort >/dev/null 2>&1 || true
-              if git pull --rebase --quiet && git push; then
+              git fetch origin main --quiet
+              git reset --soft origin/main
+              git commit -m "wellfound: $(date -u +%Y-%m-%dT%H:%M:%SZ)" --quiet
+              if git push; then
                 pushed=1
                 break
               fi
