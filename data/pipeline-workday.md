@@ -1406,4 +1406,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://republic.wd5.myworkdayjobs.com/republic/job/Chattanooga-TN-USA/Front-End-Loader-Driver---CDL--B-_R-188318 | republic | Front End Loader Driver - CDL (B) | Chattanooga, TN, USA | posted: 2026-11-11
 - [ ] https://calix.wd1.myworkdayjobs.com/external/job/Remote---USA/Data---AI-Engineer_R-11941 | calix | Data & AI Engineer | Remote - USA | posted: 2026-11-11
 
+- [ ] https://zillow.wd5.myworkdayjobs.com/zillow_group_external/job/Remote-USA/Software-Development-Engineer_P748929-1 | zillow | Software Development Engineer, Fullstack | Remote-USA | posted: 2026-11-12
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/AI---Data-Platform-Engineer_R0074577 | tsys | AI & Data Platform Engineer | ALPHARETTA, GEORGIA | posted: 2026-11-12
+- [ ] https://republic.wd5.myworkdayjobs.com/republic/job/USA---Remote/DevOps-Engineer-II_R-188305 | republic | DevOps Engineer II | USA - Remote | posted: 2026-11-12
+- [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1 | cdk | Associate Software Engineer | Austin, TX, USA | posted: 2026-11-12
+- [ ] https://avesis.wd5.myworkdayjobs.com/avesis/job/Remote-USA/AI-Platform-Engineer_JR1401 | avesis | AI Platform Engineer | Remote, USA | posted: 2026-11-12
+
 ## Processed
