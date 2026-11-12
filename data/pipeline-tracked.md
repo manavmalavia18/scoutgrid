@@ -1896,4 +1896,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-1 | Hpe | Systems/Software Engineer I | Sunnyvale, California, United States of America | posted: 2026-11-12
 - [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Data-Analyst_100294 | Nationwide | Investment Data Analyst | Ohio Columbus One Nationwide Plaza | posted: 2026-11-12
 
+- [ ] https://jobs.ashbyhq.com/patreon/9ab71088-7bd6-4742-9232-4c0345db6081 | Patreon | Software Engineer, Backend (Product Engineering) | San Francisco | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126 | OpenAI | Business Platform Engineer | San Francisco | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/kaizenlabs/9d7babf0-5bf7-4629-9d0c-f2095d4bf749 | Kaizen Labs | AI/ML Engineer | New York, NY | posted: 2026-11-12
+
 ## Processed
