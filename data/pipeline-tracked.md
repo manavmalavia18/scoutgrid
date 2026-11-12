@@ -1713,4 +1713,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/newrelic/jobs/5479397008 | New Relic | Software Engineer-Infrastructure | Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | posted: 2026-11-11
 - [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/AI---Data-Platform-Engineer_R0074577 | Global Payments | AI & Data Platform Engineer | ALPHARETTA, GEORGIA | posted: 2026-11-11
 
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-II---CRM_R81671-2 | Medtronic | Software Engineer II - CRM | Minneapolis, Minnesota, United States of America | posted: 2026-11-11
+
 ## Processed
