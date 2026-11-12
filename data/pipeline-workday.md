@@ -1436,4 +1436,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Infrastructure_R0035440 | epiqsystems | Software Engineer, Infrastructure | 2 Locations | posted: 2026-11-12
 - [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/MES-Software-Engineer_R027823-1 | broadcom | MES Software Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road | posted: 2026-11-12
 
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cloud-DevOps-Engineer_RQ232021-1 | gdit | Cloud DevOps Engineer | USA VA Falls Church | posted: 2026-11-12
+- [ ] https://davita.wd1.myworkdayjobs.com/dkc_external/job/09514---California-Remote/DevOps-Sr-Engineer---FinOps_R0478967-1 | davita | DevOps Engineer - FinOps | 09514 - California Remote | posted: 2026-11-12
+
 ## Processed
