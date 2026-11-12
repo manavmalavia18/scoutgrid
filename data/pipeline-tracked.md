@@ -1755,4 +1755,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286267 | Highmark Health | Software Engineer (IBM Cognos) | 39 Locations | posted: 2026-11-12
 - [ ] https://job-boards.greenhouse.io/machindustries/jobs/4505286009 | Mach Industries | Enterprise Software Engineer | Huntington Beach, California, United States | posted: 2026-11-12
 
+- [ ] https://davita.wd1.myworkdayjobs.com/dkc_external/job/09514---California-Remote/DevOps-Sr-Engineer---FinOps_R0478967-1 | DaVita | DevOps Engineer - FinOps | 09514 - California Remote | posted: 2026-11-12
+
 ## Processed
