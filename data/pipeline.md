@@ -2145,3 +2145,5 @@
 
 - [ ] https://careers.godaddy/jobs?gh_jid=8020267003 | godaddy | Software Development Engineer | United States | posted: 2026-11-12
 - [ ] https://jobs.lever.co/massive-rocket/6c13223b-504b-463f-b573-100ee3ccbeb1 | massive-rocket | Software Development Engineer in Test (SDET) | Anywhere in Europe | posted: 2026-11-12
+
+- [ ] https://job-boards.greenhouse.io/examplecorpsandbox/jobs/7440098 | examplecorpsandbox | Software Engineer | New York, NY, United States | posted: 2026-11-12
