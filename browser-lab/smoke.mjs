@@ -13,9 +13,14 @@ export async function runLocalSmoke({ runtime = process.env.BROWSER_LAB_RUNTIME 
   await once(server, 'listening');
   let browser;
   try {
+    const launchStarted = performance.now();
     browser = await launchBrowserFn({ runtime });
+    const startupMs = performance.now() - launchStarted;
     const page = await browser.newPage();
+    const navigationStarted = performance.now();
     const response = await page.goto(`http://127.0.0.1:${server.address().port}/`, { waitUntil: 'domcontentloaded' });
+    const navigationMs = performance.now() - navigationStarted;
+    const parsingStarted = performance.now();
     const status = response?.status() ?? null;
     const title = await page.title();
     const html = await page.content();
@@ -27,7 +32,9 @@ export async function runLocalSmoke({ runtime = process.env.BROWSER_LAB_RUNTIME 
       catch (error) { parseError = error; }
     }
     const classification = classifyBrowserPage({ status, title, html, dataPresent, dataValid: Array.isArray(data?.jobs), parseError });
-    return { runtime, status, classification, count: data?.jobs?.length ?? 0, title };
+    const domParseMs = performance.now() - parsingStarted;
+    return { runtime, status, classification, count: data?.jobs?.length ?? 0, title,
+      startupMs: Number(startupMs.toFixed(2)), navigationMs: Number(navigationMs.toFixed(2)), domParseMs: Number(domParseMs.toFixed(2)) };
   } finally {
     if (browser) await browser.close();
     await new Promise((resolve, reject) => server.close((err) => err ? reject(err) : resolve()));

@@ -24,7 +24,15 @@ jobs:
       - name: Unit tests for adapter and page diagnostics
         run: node --test test/browser-lab-*.test.mjs
       - name: Standard Playwright on loopback fixture
-        run: BROWSER_LAB_RUNTIME=playwright node browser-lab/smoke.mjs
+        id: playwright
+        run: |
+          set +e
+          output=$(BROWSER_LAB_RUNTIME=playwright node browser-lab/smoke.mjs)
+          status=$?
+          set -e
+          printf '%s\n' "$output"
+          echo "exit_code=$status"
+          exit "$status"
       - name: Detect optional CloakBrowser license
         id: license
         env:
@@ -37,9 +45,32 @@ jobs:
             echo 'CloakBrowser smoke not run: repository license secret is absent.'
           fi
       - name: CloakBrowser on same loopback fixture (only with license)
+        id: cloak
         if: steps.license.outputs.available == 'true'
         env:
           CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
         run: |
+          set +e
           browser-lab/node_modules/.bin/cloakbrowser install
-          BROWSER_LAB_RUNTIME=cloakbrowser node browser-lab/smoke.mjs
+          status=$?
+          if [ "$status" -eq 0 ]; then
+            output=$(BROWSER_LAB_RUNTIME=cloakbrowser node browser-lab/smoke.mjs)
+            status=$?
+            printf '%s\n' "$output"
+          fi
+          echo "exit_code=$status"
+          exit "$status"
+      - name: Summarize runtime comparison
+        if: always()
+        env:
+          PLAYWRIGHT_OUTCOME: ${{ steps.playwright.outcome }}
+          CLOAK_OUTCOME: ${{ steps.cloak.outcome }}
+          CLOAK_AVAILABLE: ${{ steps.license.outputs.available }}
+        run: |
+          echo "Playwright: $PLAYWRIGHT_OUTCOME (same loopback fixture; timings above)" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$CLOAK_AVAILABLE" = 'true' ]; then
+            echo "CloakBrowser: $CLOAK_OUTCOME (same loopback fixture; timings above)" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo 'CloakBrowser: SKIPPED — repository license secret is absent.' >> "$GITHUB_STEP_SUMMARY"
+            echo 'CloakBrowser: SKIPPED — repository license secret is absent.'
+          fi
