@@ -1760,4 +1760,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/funxyz/885f9d6b-9c9d-4720-97e4-14739e1660e9 | Hustle Fund | Backend Engineer | New York, NY | posted: 2026-11-12
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cloud-DevOps-Engineer_RQ232021-1 | General Dynamics Information Technology | Cloud DevOps Engineer | USA VA Falls Church | posted: 2026-11-12
 
+- [ ] https://jobs.ashbyhq.com/kraken.com/932fa767-7a6d-45bb-807b-48f881b53aeb | Payward, Inc. | Software Engineer II - Frontend - Developer Platform | United Kingdom · Brazil · United Arab Emirates · Ireland · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · Switzerland · Portugal · Lithuania · South Africa · Czech Republic · Canada · Hungary · Mexico · Chile · Poland · Spain · Bulgaria · Remote | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8199147003 | The Pokémon Company International, Inc. | Software Development Engineer in Test | Bellevue, Washington, United States | posted: 2026-11-12
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Bedford-MA/Software-Engineer-II_JR_15406 | Guidewire Software | Software Engineer II | United States - Bedford, MA | posted: 2026-11-12
+- [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Backend_R0035437 | Epiq | Software Engineer, Backend | 2 Locations | posted: 2026-11-12
+
 ## Processed
