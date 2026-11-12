@@ -1,17 +1,12 @@
 {
-  "fetchedAt": "2026-11-12T18:18:21.914Z",
+  "fetchedAt": "2026-11-12T18:40:35.332Z",
   "days": 2,
   "leadCount": 34,
-  "jobCount": 13,
+  "jobCount": 14,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
       "fetched": 23,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
       "kept": 0
     },
     {
@@ -20,23 +15,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:fashionnova",
-      "fetched": 96,
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:affirm",
-      "fetched": 215,
-      "kept": 2
     },
     {
       "key": "greenhouse:applovin",
       "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:quantifind",
-      "fetched": 20,
       "kept": 0
     },
     {
@@ -45,7 +30,27 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:xai",
+      "fetched": 297,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:careers",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:quantifind",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:affirm",
+      "fetched": 216,
+      "kept": 2
+    },
+    {
+      "key": "greenhouse:en-us",
       "fetched": 0,
       "kept": 0
     },
@@ -55,18 +60,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:en-us",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 435,
+      "key": "greenhouse:fashionnova",
+      "fetched": 96,
       "kept": 0
     },
     {
       "key": "greenhouse:knack-direct-applicants",
       "fetched": 1,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 435,
       "kept": 0
     },
     {
@@ -85,8 +90,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:plaid",
-      "fetched": 144,
+      "key": "ashby:langchain",
+      "fetched": 101,
       "kept": 0
     },
     {
@@ -100,19 +105,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 101,
+      "key": "ashby:plaid",
+      "fetched": 144,
       "kept": 0
-    },
-    {
-      "key": "ashby:baseten",
-      "fetched": 102,
-      "kept": 0
-    },
-    {
-      "key": "ashby:snowflake",
-      "fetched": 378,
-      "kept": 1
     },
     {
       "key": "ashby:mercor",
@@ -120,8 +115,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:xai",
-      "fetched": 297,
+      "key": "ashby:snowflake",
+      "fetched": 377,
+      "kept": 1
+    },
+    {
+      "key": "ashby:baseten",
+      "fetched": 102,
       "kept": 0
     },
     {
@@ -131,23 +131,13 @@
     },
     {
       "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
-      "fetched": 18,
-      "kept": 1
-    },
-    {
-      "key": "lever:avivesolutions",
-      "fetched": 8,
-      "kept": 0
+      "fetched": 20,
+      "kept": 2
     },
     {
       "key": "lever:zoox",
       "fetched": 234,
       "kept": 3
-    },
-    {
-      "key": "workday:kla.wd1.myworkdayjobs.com/search",
-      "fetched": 20,
-      "kept": 1
     },
     {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
@@ -160,8 +150,18 @@
       "kept": 2
     },
     {
+      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
       "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
       "fetched": 80,
+      "kept": 0
+    },
+    {
+      "key": "lever:avivesolutions",
+      "fetched": 8,
       "kept": 0
     },
     {
@@ -218,6 +218,17 @@
       "postedAtSource": "workday-detail"
     },
     {
+      "title": "Manager, GitHub DevOps Engineer/Architect",
+      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Seattle-1191-2nd-Avenue-Corp/Manager--GitHub-DevOps-Engineer-Architect_R00353328",
+      "company": "Avanade",
+      "location": "4 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "avanadecareers",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Senior Software Engineer - Autonomy Safety Metric",
       "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
       "company": "Zoox",
@@ -248,17 +259,6 @@
       "board": "zoox"
     },
     {
-      "title": "Senior Systems Software Engineer (C++)",
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Senior-Systems-Software-Engineer--C---_2637703-1",
-      "company": "KLA",
-      "location": "Ann Arbor, MI",
-      "postedAt": "2026-11-11T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "search",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "Senior Site Reliability Engineer I",
       "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia-PA-Market-St/Senior-Site-Reliability-Engineer-I_R119025",
       "company": "Elsevier",
@@ -278,6 +278,17 @@
       "salary": "",
       "ats": "Workday",
       "board": "elsevierjobs",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Systems Software Engineer (C++)",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Senior-Systems-Software-Engineer--C---_2637703-1",
+      "company": "KLA",
+      "location": "Ann Arbor, MI",
+      "postedAt": "2026-11-11T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "search",
       "postedAtSource": "workday-detail"
     },
     {
