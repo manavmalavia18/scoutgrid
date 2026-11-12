@@ -1751,4 +1751,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/ESS-Mission-Planning-Associate-Experienced-Software-Engineer_JR2026512722-2 | Boeing | SATCOM Mission Planning Software Engineer (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-11-12
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1003494-1 | Capital One | AI Engineer 5 (FM Hosting, LLM Inference) | 5 Locations | posted: 2026-11-12
 
+- [ ] https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e | Zoox | Contract Student Worker - Machine Learning Engineer | Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA | posted: 2026-11-12
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286267 | Highmark Health | Software Engineer (IBM Cognos) | 39 Locations | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/machindustries/jobs/4505286009 | Mach Industries | Enterprise Software Engineer | Huntington Beach, California, United States | posted: 2026-11-12
+
 ## Processed
