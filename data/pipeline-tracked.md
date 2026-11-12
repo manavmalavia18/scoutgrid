@@ -1890,4 +1890,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Financial-Data-Analyst-III_1675556 | Centene Corporation | Financial Data Analyst III | 3 Locations | posted: 2026-11-12
 - [ ] https://www.fanduel.careers/open-positions?gh_jid=8368191 | FanDuel | Analytics Engineer | New York City | posted: 2026-11-12
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer---PhD_1218794-1 | Hewlett Packard Enterprise | Finance AI/ML Engineer - PhD | Spring, Texas, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2 | Hewlett Packard Enterprise | Systems/Software Engineer I | Sunnyvale, California, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer---PhD_1218794 | Hpe | Finance AI/ML Engineer - PhD | Spring, Texas, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-1 | Hpe | Systems/Software Engineer I | Sunnyvale, California, United States of America | posted: 2026-11-12
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Data-Analyst_100294 | Nationwide | Investment Data Analyst | Ohio Columbus One Nationwide Plaza | posted: 2026-11-12
+
 ## Processed
