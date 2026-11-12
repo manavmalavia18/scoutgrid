@@ -38,8 +38,11 @@ function resolveApiUrl(entry) {
     return entry.api;
   }
   const url = entry.careers_url || '';
-  const match = url.match(/job-boards(?:\.eu)?\.greenhouse\.io\/([^/?#]+)/);
-  if (match) return `https://boards-api.greenhouse.io/v1/boards/${match[1]}/jobs`;
+  let board;
+  try { board = new URL(url); } catch { return null; }
+  if (board.protocol !== 'https:' || !['boards.greenhouse.io', 'job-boards.greenhouse.io', 'job-boards.eu.greenhouse.io'].includes(board.hostname)) return null;
+  const slug = board.pathname.split('/').filter(Boolean)[0];
+  if (slug && slug !== 'embed') return `https://boards-api.greenhouse.io/v1/boards/${slug}/jobs`;
   return null;
 }
 

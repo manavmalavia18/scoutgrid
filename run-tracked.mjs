@@ -17,6 +17,7 @@ const r = spawnSync(process.execPath, ['scan.mjs', '--since', SINCE], {
   encoding: 'utf8',
   env: {
     ...process.env,
+    CAREER_OPS_INCLUDE_DATA: '1',
     CAREER_OPS_SCAN_HISTORY: 'data/scan-history-tracked.tsv',
     CAREER_OPS_PIPELINE: 'data/pipeline-tracked.md',
   },

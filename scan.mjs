@@ -49,6 +49,7 @@ import { withPipelineLock } from './pipeline-lock.mjs';
 import { flagValue, hasFlag } from './lib/cli-flags.mjs';
 import { withPortalHealthLock } from './portal-health-lock.mjs';
 import { compileKeyword, buildTitleFilter } from './lib/title-filter.mjs';
+import { buildCombinedTitleFilter } from './lib/track-title-filter.mjs';
 import { groundWorkdayPostedDates } from './lib/workday-date-ground.mjs';
 import { fetchWorkdayJobPostedAt } from './providers/workday.mjs';
 
@@ -1547,7 +1548,10 @@ export function formatScanHistoryRow(offer, date, status = 'added') {
     offer.fingerprint ?? fingerprintText(offer.description),
     // New trailing column: posting date. Existing readers index by position up to
     // col 7, so appending col 8 is backward-compatible.
-    postedAtIsoDate(offer.postedAt),
+    // Preserve the exact employer publication time for rolling 24-hour
+    // coverage. Older TSV rows contain YYYY-MM-DD; both parse as ISO dates.
+    typeof offer.postedAt === 'number' && Number.isFinite(offer.postedAt) && offer.postedAt > 0 &&
+      Number.isFinite(new Date(offer.postedAt).getTime()) ? new Date(offer.postedAt).toISOString() : '',
     // Trust/legitimacy signal (#1743): score (only when the scanner flagged the
     // posting, i.e. < 100) + comma-joined flags. Trailing cols 9-10, so existing
     // index-based readers (fingerprint@7, postedAt@8) are unaffected; a clean
@@ -2054,7 +2058,10 @@ async function main() {
   const config = rawConfig && typeof rawConfig === 'object' ? rawConfig : {};
   const companies = Array.isArray(config.tracked_companies) ? config.tracked_companies : [];
   const boards = Array.isArray(config.job_boards) ? config.job_boards : [];
-  const titleFilter = buildTitleFilter(config.title_filter);
+  const titleFilter = buildCombinedTitleFilter(buildTitleFilter(config.title_filter), {
+    includeData: process.env.CAREER_OPS_INCLUDE_DATA === '1',
+    negativeFilter: buildTitleFilter({ negative: config.title_filter?.negative }),
+  });
 
   // Seniority tier classifier integration
   let classifyTier = null;
