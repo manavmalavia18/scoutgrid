@@ -1886,4 +1886,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/generaltranslation/05d33170-2b35-4597-849c-6efbb612fa9b | General Translation | Software Engineer, Infra | San Francisco | posted: 2026-11-10
 - [ ] https://job-boards.greenhouse.io/zennioptical/jobs/5474110008 | Zenni Optical | Database Administrator | Novato, California, United States | posted: 2026-11-05
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015 | Boeing | Entry Flight Software Engineer - Vehicle Management Systems | USA - El Segundo, CA | posted: 2026-11-12
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-NY/Financial-Data-Analyst-III_1675556 | Centene Corporation | Financial Data Analyst III | 3 Locations | posted: 2026-11-12
+- [ ] https://www.fanduel.careers/open-positions?gh_jid=8368191 | FanDuel | Analytics Engineer | New York City | posted: 2026-11-12
+
 ## Processed
