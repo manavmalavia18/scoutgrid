@@ -2157,3 +2157,6 @@
 
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4504954009 | grvty | Software Developer (Systems Software) | Chantilly, Virginia, United States | posted: 2026-11-12
 - [ ] https://jobs.lever.co/provectus/df849a0d-d8f4-4f34-ac72-1fae23b5cb85 | provectus | Talent Acquisition & People Partner (AI Engineering, Product, GTM), New York / New Jersey | New York City Metropolitan Area; New Jersey | posted: 2026-11-12
+
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4505149009 | grvty | Software Engineer | Reston, Virginia, United States | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4505117009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-11-12
