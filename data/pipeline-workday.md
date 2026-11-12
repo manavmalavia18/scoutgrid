@@ -1412,4 +1412,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1 | cdk | Associate Software Engineer | Austin, TX, USA | posted: 2026-11-12
 - [ ] https://avesis.wd5.myworkdayjobs.com/avesis/job/Remote-USA/AI-Platform-Engineer_JR1401 | avesis | AI Platform Engineer | Remote, USA | posted: 2026-11-12
 
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-II---CRM_R81671 | medtronic | Software Engineer II - CRM | Minneapolis, Minnesota, United States of America | posted: 2026-11-12
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-II---CRM_R81671-2 | medtronic | Software Engineer II - CRM | Minneapolis, Minnesota, United States of America | posted: 2026-11-12
+
 ## Processed
