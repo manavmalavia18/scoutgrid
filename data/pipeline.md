@@ -2150,3 +2150,7 @@
 
 - [ ] https://jobs.ashbyhq.com/sosafe/533db1f7-d45b-4354-a2f5-f7542cfed4df | sosafe | Typescript Fullstack Engineer (Backend-leaning) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-12
 - [ ] https://jobs.ashbyhq.com/sosafe/eb0b9d80-8320-4a09-a880-254ec512d91a | sosafe | Node.js Fullstack Engineer (Backend-leaning) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-12
+
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8939443002 | tenet3 | DevOps Engineer - Hybrid | Dayton, Ohio | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/rain/5074d899-f321-4eb2-be3a-f33f849f98a2 | rain | Data Platform Engineer | San Juan, Puerto Rico · New York, NY · New York · USA · District of Columbia · DC · US · Europe / Spain | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5254821007 | chaosindustries | GNC Software Engineer | El Segundo, California, United States | posted: 2026-11-12
