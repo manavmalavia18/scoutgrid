@@ -1456,4 +1456,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165028-1 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165028 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
 
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Development-Engineer-3_R23347-1 | wexinc | Software Development Engineer 3 | US - Remote | posted: 2026-11-12
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077 | globalhr | Software Engineer I - Air Traffic Solutions (Onsite) | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | posted: 2026-11-12
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Full-Stack-Java-Developer_R-10406956 | fiserv | Full-Stack Java Developer | Alpharetta, Georgia | posted: 2026-11-12
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51968 | bcbst | Software Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165032-1 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165030-1 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165032 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165030 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+
 ## Processed
