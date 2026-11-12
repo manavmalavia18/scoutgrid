@@ -2147,3 +2147,6 @@
 - [ ] https://jobs.lever.co/massive-rocket/6c13223b-504b-463f-b573-100ee3ccbeb1 | massive-rocket | Software Development Engineer in Test (SDET) | Anywhere in Europe | posted: 2026-11-12
 
 - [ ] https://job-boards.greenhouse.io/examplecorpsandbox/jobs/7440098 | examplecorpsandbox | Software Engineer | New York, NY, United States | posted: 2026-11-12
+
+- [ ] https://jobs.ashbyhq.com/sosafe/533db1f7-d45b-4354-a2f5-f7542cfed4df | sosafe | Typescript Fullstack Engineer (Backend-leaning) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/sosafe/eb0b9d80-8320-4a09-a880-254ec512d91a | sosafe | Node.js Fullstack Engineer (Backend-leaning) | Lisbon · Portugal Remote · Portugal | posted: 2026-11-12
