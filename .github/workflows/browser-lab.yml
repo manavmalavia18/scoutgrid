@@ -35,37 +35,46 @@ jobs:
           echo "$status" > "$RUNNER_TEMP/playwright.exit"
           echo "exit_code=$status"
           exit "$status"
-      - name: Detect optional CloakBrowser license
-        id: license
-        env:
-          CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
-        run: |
-          if [ -n "$CLOAKBROWSER_LICENSE_KEY" ]; then
-            echo 'available=true' >> "$GITHUB_OUTPUT"
-          else
-            echo 'available=false' >> "$GITHUB_OUTPUT"
-            echo 'CloakBrowser smoke not run: repository license secret is absent.'
-          fi
-      - name: CloakBrowser on same loopback fixture (only with license)
-        id: cloak
-        if: steps.license.outputs.available == 'true'
+      - name: Strict CloakBrowser preflight (license, binary, install, launch)
+        id: preflight
         env:
           CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
         run: |
           set +e
-          browser-lab/node_modules/.bin/cloakbrowser install
+          node browser-lab/preflight.mjs > "$RUNNER_TEMP/preflight.json"
           status=$?
-          if [ "$status" -eq 0 ]; then
-            output=$(BROWSER_LAB_RUNTIME=cloakbrowser node browser-lab/smoke.mjs)
-            status=$?
-            printf '%s\n' "$output"
-            printf '%s\n' "$output" > "$RUNNER_TEMP/cloakbrowser.json"
-          fi
+          set -e
+          cat "$RUNNER_TEMP/preflight.json"
+          echo "exit_code=$status"
+          # preflight.mjs itself already wrote available=/status= to
+          # $GITHUB_OUTPUT (it reads GITHUB_OUTPUT directly) and exits 0 for
+          # both "ok" and the expected no-secret "license_missing" case —
+          # only a real binary_missing/install_failed/launch_failed exits
+          # non-zero here, which this step surfaces without failing the job
+          # (the later steps/summary decide what to do with it).
+          exit 0
+      - name: CloakBrowser on same loopback fixture (only when preflight is ok)
+        id: cloak
+        if: steps.preflight.outputs.status == 'ok'
+        env:
+          CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
+        run: |
+          set +e
+          output=$(BROWSER_LAB_RUNTIME=cloakbrowser node browser-lab/smoke.mjs)
+          status=$?
+          printf '%s\n' "$output"
+          printf '%s\n' "$output" > "$RUNNER_TEMP/cloakbrowser.json"
           echo "$status" > "$RUNNER_TEMP/cloakbrowser.exit"
           echo "exit_code=$status"
           exit "$status"
       - name: Summarize runtime comparison
         if: always()
         env:
-          CLOAK_AVAILABLE: ${{ steps.license.outputs.available }}
+          CLOAK_AVAILABLE: ${{ steps.preflight.outputs.status == 'ok' }}
+          CLOAK_PREFLIGHT_STATUS: ${{ steps.preflight.outputs.status }}
         run: node browser-lab/report.mjs
+      - name: Fail the job on a real preflight failure (not a missing license)
+        if: always() && steps.preflight.outputs.status != 'ok' && steps.preflight.outputs.status != 'license_missing'
+        run: |
+          echo "CloakBrowser preflight failed with status '${{ steps.preflight.outputs.status }}' while a license secret IS configured — see the preflight JSON above."
+          exit 1
