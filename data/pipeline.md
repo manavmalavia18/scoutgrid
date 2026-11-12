@@ -2162,3 +2162,5 @@
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4505117009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-11-12
 
 - [ ] https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e | zoox | Contract Student Worker - Machine Learning Engineer | Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA | posted: 2026-11-12
+
+- [ ] https://jobs.lever.co/fundrise/d4f3529b-8ebc-41bf-99f1-1d75c4e1c0c3 | fundrise | Software Engineer II (CloudOps) | Remote; Washington, District of Columbia | posted: 2026-11-12
