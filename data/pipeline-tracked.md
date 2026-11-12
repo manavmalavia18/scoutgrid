@@ -1722,4 +1722,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00357833 | ASML | Optical Fabrication Technician Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-11-12
 
+- [ ] https://jobs.ashbyhq.com/rain/5074d899-f321-4eb2-be3a-f33f849f98a2 | Rain | Data Platform Engineer | San Juan, Puerto Rico · New York, NY · New York · USA · District of Columbia · DC · US · Europe / Spain | posted: 2026-11-12
+- [ ] https://sec.wd3.myworkdayjobs.com/samsung_careers/job/12100-Samsung-Blvd-Austin-TX-USA/EHS-Software-Engineer_R122175 | Samsung Electronics | EHS Software Engineer | 12100 Samsung Blvd, Austin, TX, USA | posted: 2026-11-12
+- [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Application-Developer-III_R189154 | Ryder | Application Developer III | USA - Remote FL | posted: 2026-11-12
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Graphic-Designer--Mid_R0245443 | Booz Allen Hamilton | Web Developer | Washington, DC | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/tenet3/jobs/8939443002 | Tenet3 | DevOps Engineer - Hybrid | Dayton, Ohio | posted: 2026-11-12
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Full-Stack-Software-Developer-Level-3-or-4--AHT-_R10244715 | Northrop Grumman | Full Stack Software Developer Level 3 or 4 (AHT) | United States-Colorado-Aurora | posted: 2026-11-12
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/Software-Engineer-Level-3-or-4_R10246628 | Northrop Grumman | Software Engineer - Level 3 or 4 - Morrisville | United States-North Carolina-Morrisville | posted: 2026-11-12
+
 ## Processed

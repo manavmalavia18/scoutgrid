@@ -1427,4 +1427,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Graphic-Designer--Mid_R0245443 | bah | Web Developer | Washington, DC | posted: 2026-11-12
 - [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer--Activations--MANTL-_JR-000851 | alkami | Software Engineer, Activations (MANTL) | US Remote | posted: 2026-11-12
 
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-5_R1005670 | capitalone | Full-stack Engineer 5 | Chicago, IL | posted: 2026-11-12
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1003494-1 | capitalone | AI Engineer 5 (FM Hosting, LLM Inference) | 5 Locations | posted: 2026-11-12
+
 ## Processed
