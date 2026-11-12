@@ -1421,4 +1421,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Application-Developer-III_R189154 | ryder | Application Developer III | USA - Remote FL | posted: 2026-11-12
 - [ ] https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/AI-Engineer---Medical-Imaging---Surgical-Robotics--Cambridge--MA-_594332 | philips | AI Engineer – Medical Imaging & Surgical Robotics (Cambridge, MA) | Cambridge (US), Massachusetts, United States | posted: 2026-11-12
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Full-Stack-Software-Developer-Level-3-or-4--AHT-_R10244715 | ngc | Full Stack Software Developer Level 3 or 4 (AHT) | United States-Colorado-Aurora | posted: 2026-11-12
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/Software-Engineer-Level-3-or-4_R10246628 | ngc | Software Engineer - Level 3 or 4 - Morrisville | United States-North Carolina-Morrisville | posted: 2026-11-12
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060 | ngc | 2027 Associate Software Engineer / Software Engineer | United States-Florida-Melbourne | posted: 2026-11-12
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Graphic-Designer--Mid_R0245443 | bah | Web Developer | Washington, DC | posted: 2026-11-12
+- [ ] https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer--Activations--MANTL-_JR-000851 | alkami | Software Engineer, Activations (MANTL) | US Remote | posted: 2026-11-12
+
 ## Processed
