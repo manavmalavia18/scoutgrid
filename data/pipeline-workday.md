@@ -1465,4 +1465,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165032 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165030 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
 
+- [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-OH-Columbus/Software-Engineer---Identity---Access-Management_JR0157206-1 | mckesson | Software Engineer – Identity & Access Management | 2 Locations | posted: 2026-11-12
+- [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-OH-Columbus/Software-Engineer---Identity---Access-Management_JR0157206 | mckesson | Software Engineer – Identity & Access Management | 2 Locations | posted: 2026-11-12
+
 ## Processed
