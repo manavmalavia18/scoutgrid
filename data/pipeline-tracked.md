@@ -1765,4 +1765,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Bedford-MA/Software-Engineer-II_JR_15406 | Guidewire Software | Software Engineer II | United States - Bedford, MA | posted: 2026-11-12
 - [ ] https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/New-York-NY/Software-Engineer--Backend_R0035437 | Epiq | Software Engineer, Backend | 2 Locations | posted: 2026-11-12
 
+- [ ] https://jobs.ashbyhq.com/runpod/139e583c-021a-493f-bc65-49d6fdc3a042 | Runpod | Full Stack Security Engineer (Application & Product) | Remote - USA | posted: 2026-11-12
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-6098-1 | Rockwell Automation | Associate Software Engineer | Mayfield Heights, Ohio, United States | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/Commure/3380135f-ab20-44a4-b73f-8378ed40e1be | Commure | Software Engineer, Claims & AI Billing | Mountain View, CA · Los Angeles, CA · Los Angeles · United States · San Francisco, CA · San Francisco | posted: 2026-11-12
+
 ## Processed
