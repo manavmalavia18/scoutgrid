@@ -1769,4 +1769,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-6098-1 | Rockwell Automation | Associate Software Engineer | Mayfield Heights, Ohio, United States | posted: 2026-11-12
 - [ ] https://jobs.ashbyhq.com/Commure/3380135f-ab20-44a4-b73f-8378ed40e1be | Commure | Software Engineer, Claims & AI Billing | Mountain View, CA · Los Angeles, CA · Los Angeles · United States · San Francisco, CA · San Francisco | posted: 2026-11-12
 
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/AI-Engineer---GenAI-and-Agentic-AI_R-1103671-1 | Verizon | AI Engineer - GenAI and Agentic AI | 3 Locations | posted: 2026-11-12
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Platform-Engineer_J286297 | Highmark Health | Platform Engineer | 51 Locations | posted: 2026-11-12
+- [ ] https://www.brex.com/careers/8928935002?gh_jid=8928935002 | Brex | Software Engineer II, Frontend | New York, New York, United States | posted: 2026-11-12
+
 ## Processed
