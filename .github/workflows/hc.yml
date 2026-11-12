@@ -2,7 +2,16 @@ name: HiringCafe feed (via Tailscale exit node)
 
 on:
   schedule:
-    - cron: '11-59/15 * * * *'
+    # Dialed back 15min->45min on 2026-11-12: HiringCafe started serving a
+    # Cloudflare "Just a moment..." managed-challenge page to every single
+    # query, 100% fail rate for ~2 days straight (confirmed via
+    # hcTotals/queriesSkipped history). Likely cumulative IP-reputation
+    # decay on the shared Tailscale exit node (100.108.228.9), which also
+    # serves NextPlay/LinkedIn/JobRight — same root cause and same fix
+    # that worked for LinkedIn's near-identical 2026-10-28 soft-block
+    # (30min cadence -> 14h block -> throttled to 2h, cleared). Not
+    # touching NextPlay/JobRight yet; revisit if this alone doesn't help.
+    - cron: '11-59/45 * * * *'
   workflow_dispatch: {}
 
 concurrency:
@@ -67,7 +76,15 @@ jobs:
           args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
 
       - name: Run HiringCafe feed fetch (under Xvfb)
-        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs
+        # --hours 96 (was defaulting to --days*24=48) decouples local merge
+        # retention from the search query's day-window: a sustained outage
+        # like the 2026-11-12 Cloudflare-challenge one shouldn't wipe the
+        # whole feed down to zero once the retention window lapses. Each
+        # job's own posted_at still drives dashboard freshness bucketing
+        # independently, so this only affects how long a stale-feed outage
+        # can run before genuinely-old jobs get dropped, not what looks
+        # "fresh" to the user.
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs --hours 96
         env:
           HC_PYTHON: python3
           # No HC_QUERIES override — inherit DEFAULT_HIRINGCAFE_QUERIES from

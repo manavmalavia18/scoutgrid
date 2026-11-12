@@ -2,7 +2,11 @@ name: HiringCafe feed — data roles (via Tailscale exit node)
 
 on:
   schedule:
-    - cron: '6-59/15 * * * *'
+    # Dialed back 15min->45min on 2026-11-12, same reason/fix as hc.yml --
+    # HiringCafe started Cloudflare-challenging every single query, 100%
+    # fail rate for ~2 days, likely cumulative IP-reputation decay on the
+    # shared Tailscale exit node from all 4 workflows routing through it.
+    - cron: '6-59/45 * * * *'
   workflow_dispatch: {}
 
 concurrency:
@@ -61,7 +65,11 @@ jobs:
           args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
 
       - name: Run HiringCafe feed fetch for data roles (under Xvfb)
-        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs
+        # --hours 96 decouples local merge retention from the search
+        # query's day-window: a sustained outage (like the 2026-11-12
+        # Cloudflare-challenge one) shouldn't wipe the feed to zero once
+        # retention lapses. See hc.yml for the full rationale.
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs --hours 96
         env:
           HC_PYTHON: python3
           HC_OUT: data/hiringcafe-feed-data.json
