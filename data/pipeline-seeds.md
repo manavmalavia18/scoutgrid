@@ -1900,4 +1900,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/newrelic/jobs/5479397008 | newrelic | Software Engineer-Infrastructure | Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | posted: 2026-11-11
 - [ ] https://job-boards.greenhouse.io/rewardsnetwork/jobs/5292899007 | rewardsnetwork | Front End Engineer (Hybrid) | Chicago, IL | posted: 2026-11-11
 
+- [ ] https://job-boards.greenhouse.io/examplecorpsandbox/jobs/7440098 | examplecorpsandbox | Software Engineer | New York, NY, United States | posted: 2026-11-12
+- [ ] https://careers.godaddy/jobs?gh_jid=8020267003 | godaddy | Software Development Engineer | United States | posted: 2026-11-12
+- [ ] https://jobs.lever.co/massive-rocket/6c13223b-504b-463f-b573-100ee3ccbeb1 | massive-rocket | Software Development Engineer in Test (SDET) | Anywhere in Europe | posted: 2026-11-12
+
 ## Processed
