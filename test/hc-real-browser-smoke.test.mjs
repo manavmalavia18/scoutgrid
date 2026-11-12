@@ -294,6 +294,122 @@ with tempfile.TemporaryDirectory() as tmp:
   assert.deepEqual(hcOwnedSnapshot(), before, 'HC-owned output files must be untouched — scrape() never writes to disk');
 });
 
+test('real browser: HC_NAV_TIMEOUT_MS actually shortens a real stuck navigation', { skip }, async () => {
+  await withFixtureServer(async (port) => {
+    const code = `
+import importlib.util, json, time, tempfile
+from pathlib import Path
+spec = importlib.util.spec_from_file_location('hc', ${JSON.stringify(script)})
+m = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(m)
+m.url_for = lambda state, page: 'http://127.0.0.1:${port}/slow'
+with tempfile.TemporaryDirectory() as tmp:
+    t0 = time.time()
+    try:
+        m.scrape(1, 2, 'q', 0.1, Path(tmp), engine='patchright', nav_timeout_ms=1500)
+        print(json.dumps(['no_error', None]))
+    except RuntimeError as e:
+        print(json.dumps(['raised', str(e).startswith('navigation_error:'), round(time.time() - t0, 1)]))
+`;
+    // With HC_NAV_TIMEOUT_MS-equivalent set to 1.5s instead of the 60s
+    // default, this must fail in low single-digit seconds against a
+    // fixture that never responds at all — not anywhere near 60s. That's
+    // the real behavioral proof the config actually reaches patchright's
+    // own goto() timeout, not just that the value is stored somewhere.
+    const result = pyRun(code, { timeout: 15000 });
+    assert.equal(result.status, 0, result.stderr);
+    const [status, isNavError, elapsed] = JSON.parse(result.stdout.trim().split('\n').pop());
+    assert.equal(status, 'raised');
+    assert.equal(isNavError, true);
+    assert.ok(elapsed < 10, `expected a ~1.5s timeout to fail well under 10s, took ${elapsed}s`);
+  });
+});
+
+test('real browser: HC_SELECTOR_TIMEOUT_MS actually shortens a real missing-job-data wait', { skip }, async () => {
+  await withFixtureServer(async (port) => {
+    const code = `
+import importlib.util, json, time, tempfile
+from pathlib import Path
+spec = importlib.util.spec_from_file_location('hc', ${JSON.stringify(script)})
+m = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(m)
+m.url_for = lambda state, page: 'http://127.0.0.1:${port}/no-next-data'
+with tempfile.TemporaryDirectory() as tmp:
+    t0 = time.time()
+    try:
+        m.scrape(1, 2, 'q', 0.1, Path(tmp), engine='patchright', selector_timeout_ms=2000)
+        print(json.dumps(['no_error', None]))
+    except RuntimeError as e:
+        print(json.dumps(['raised', str(e).startswith('missing_job_data:'), round(time.time() - t0, 1)]))
+`;
+    // Default is 45s (see the earlier "missing __NEXT_DATA__" test, which
+    // needs a 60s subprocess budget for exactly that reason). With a 2s
+    // override this must resolve in low single digits, proving
+    // HC_SELECTOR_TIMEOUT_MS reaches the real wait_for_selector call.
+    const result = pyRun(code, { timeout: 15000 });
+    assert.equal(result.status, 0, result.stderr);
+    const [status, isMissingData, elapsed] = JSON.parse(result.stdout.trim().split('\n').pop());
+    assert.equal(status, 'raised');
+    assert.equal(isMissingData, true);
+    assert.ok(elapsed < 10, `expected a ~2s timeout to fail well under 10s, took ${elapsed}s`);
+  });
+});
+
+test('real browser: a profile already held by a live Chrome surfaces through scrape() as browser_profile_locked', { skip }, async () => {
+  const profile = mkdtempSync(join(tmpdir(), 'hc-profile-lock-scrape-'));
+  try {
+    const holder = spawn('python3', ['-c', `
+import browser_runtime as br, time
+from pathlib import Path
+rt = br.get_runtime('patchright')
+session = rt.open(Path(${JSON.stringify(profile)}))
+print('held', flush=True)
+time.sleep(8)
+session.close()
+`], { cwd: fileURLToPath(new URL('..', import.meta.url)), stdio: ['ignore', 'pipe', 'pipe'] });
+    await new Promise((resolve, reject) => {
+      let buf = '';
+      holder.stdout.on('data', (c) => {
+        buf += c.toString();
+        if (buf.includes('held')) resolve();
+      });
+      holder.once('error', reject);
+      setTimeout(() => reject(new Error('holder did not report ready in time')), 10000);
+    });
+    try {
+      const code = `
+import importlib.util, json
+from pathlib import Path
+spec = importlib.util.spec_from_file_location('hc', ${JSON.stringify(script)})
+m = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(m)
+try:
+    m.scrape(1, 2, 'q', 0.1, Path(${JSON.stringify(profile)}), engine='patchright')
+    print(json.dumps(['no_error']))
+except RuntimeError as e:
+    print(json.dumps(['raised', str(e).startswith('browser_profile_locked:')]))
+`;
+      const result = pyRun(code);
+      assert.equal(result.status, 0, result.stderr);
+      const out = JSON.parse(result.stdout.trim().split('\n').pop());
+      assert.deepEqual(out, ['raised', true]);
+    } finally {
+      holder.kill();
+      await new Promise((resolve) => holder.once('exit', resolve));
+    }
+  } finally {
+    for (let attempt = 1; attempt <= 5; attempt += 1) {
+      try {
+        rmSync(profile, { recursive: true, force: true });
+        break;
+      } catch (err) {
+        if (attempt === 5) throw err;
+        await new Promise((r) => setTimeout(r, attempt * 300));
+      }
+    }
+  }
+});
+
 test('environment note: whether this run actually exercised a real browser', () => {
   if (skip) {
     console.log(`[hc-real-browser-smoke] SKIPPED — ${avail.reason}`);

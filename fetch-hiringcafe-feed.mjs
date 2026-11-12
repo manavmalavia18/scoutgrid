@@ -38,6 +38,15 @@ const OUT = resolve(ROOT, process.env.HC_OUT || 'data/hiringcafe-feed.json');
 const HITS_TMP = resolve(ROOT, process.env.HC_HITS_TMP || 'data/hc-hits.tmp.json');
 const HEARTBEAT = resolve(ROOT, process.env.HC_HEARTBEAT || 'data/scan-hc-heartbeat.json');
 const LOCK = resolve(ROOT, process.env.HC_LOCK || 'data/hc-feed.lock');
+// Each independent track MUST use its own Chrome profile directory — a
+// patchright persistent context takes a real OS-level lock on its
+// user_data_dir (Chrome's SingletonLock), so two tracks sharing the default
+// here would silently race for the lock the moment their schedules (or a
+// manual workflow_dispatch) overlap, rather than failing loudly in an
+// obvious way. hc-data.yml sets HC_PROFILE to a distinct directory; see
+// browser_runtime.py's profile-lock diagnostics for what the failure looks
+// like if a future track forgets to set this.
+const PROFILE = resolve(ROOT, process.env.HC_PROFILE || 'data/hiringcafe-profile');
 const PY = process.env.HC_PYTHON || 'python3';
 const SCRAPE = join(ROOT, 'scrape-hiringcafe.py');
 
@@ -153,6 +162,7 @@ function fetchViaPatchright(query) {
     '--days', String(HC_DAYS),
     '--query', query,
     '--out', HITS_TMP,
+    '--profile', PROFILE,
   ], {
     cwd: ROOT,
     encoding: 'utf8',
@@ -167,10 +177,20 @@ function fetchViaPatchright(query) {
     // not just the slow query. Confirmed live 2026-10-27: a run got killed
     // at exactly 25:00 mid-scrape, and the cancel-in-progress:false
     // concurrency group then blocked every other scheduled trigger behind
-    // it for hours — this is what caused the "stale" report. 60s gives
+    // it for hours — this is what caused the stale report. 60s gives
     // ~16x headroom over the normal case while keeping the worst-case total
     // (all queries timing out) at ~16-17 minutes, comfortably inside the
     // job budget.
+    //
+    // NOTE: this is an outer wall-clock ceiling on the WHOLE python
+    // subprocess (all pages for one query), independent of
+    // scrape-hiringcafe.py's own per-navigation HC_NAV_TIMEOUT_MS/
+    // HC_SELECTOR_TIMEOUT_MS. Raising either of those env vars much past
+    // ~55s risks this outer timeout killing the subprocess first — it has
+    // no idea a slow page load is "expected", it just sees the process
+    // still running at 60s and kills it, which then surfaces here as a
+    // generic non-zero exit rather than scrape-hiringcafe.py's own
+    // navigation_error/missing_job_data diagnosis.
     timeout: 60_000,
   });
   if (r.stderr) process.stderr.write(r.stderr);

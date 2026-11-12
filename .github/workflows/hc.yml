@@ -89,6 +89,13 @@ jobs:
         run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs --hours 96
         env:
           HC_PYTHON: python3
+          # Explicit default profile (same value fetch-hiringcafe-feed.mjs
+          # falls back to without this) — named here so it's visible
+          # alongside hc-data.yml's distinct HC_PROFILE, since the two
+          # tracks sharing one would silently race for patchright's
+          # SingletonLock the moment their schedules (or a manual dispatch)
+          # overlap.
+          HC_PROFILE: data/hiringcafe-profile
           # No HC_QUERIES override — inherit DEFAULT_HIRINGCAFE_QUERIES from
           # lib/hiringcafe-query.mjs so broadening the role list in code
           # actually takes effect here instead of being silently pinned to

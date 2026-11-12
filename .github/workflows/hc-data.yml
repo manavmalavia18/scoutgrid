@@ -78,6 +78,10 @@ jobs:
           HC_HITS_TMP: data/hc-hits-data.tmp.json
           HC_HEARTBEAT: data/scan-hc-heartbeat-data.json
           HC_LOCK: data/hc-feed-data.lock
+          # Distinct Chrome profile from hc.yml's software track — sharing
+          # one would silently race for patchright's SingletonLock the
+          # moment the two tracks' schedules (or a manual dispatch) overlap.
+          HC_PROFILE: data/hiringcafe-profile-data
           # No hardcoded query list — inherits DEFAULT_DATA_QUERIES from
           # lib/data-query.mjs once run-hc.mjs is pointed at it (see
           # fetch-hiringcafe-feed.mjs's HC_QUERIES fallback). Until that

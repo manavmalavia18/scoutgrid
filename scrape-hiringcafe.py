@@ -32,10 +32,78 @@ DEFAULT_OUT = ROOT / "data" / "hc-hits.tmp.json"
 ORIGIN = "https://hiringcafe.com"
 DEFAULT_ENGINE = "patchright"
 
+# Navigation (page.goto) and job-data-selector (#__NEXT_DATA__) timeouts.
+# Configurable via HC_NAV_TIMEOUT_MS/HC_SELECTOR_TIMEOUT_MS (or --nav-timeout-ms/
+# --selector-timeout-ms) for ops tuning, but the defaults below are the exact
+# pre-existing hardcoded values — nothing about default behavior changes.
+#
+# Evidence on the 45s selector default (investigated before touching it, per
+# the "do not shorten without evidence" instruction): walking every historical
+# data/scan-hc-heartbeat.json commit, the healthiest fully-successful real-
+# browser run on record (2026-11-02T18:33:26Z, queriesSkipped=0, all 16
+# queries ok) fetched 18 pages across 16 queries in 99s total — roughly 5.5s
+# per page. That's the only clean (zero-failed-query) patchright sample in
+# the last 353 heartbeat commits; every other low-skip sample is in the
+# hundreds of seconds for the full multi-query cycle, consistent with ~5-10s
+# legitimate per-page hydration plus network/queue variance, not anywhere
+# close to 45s. This means the 45s default has roughly an order of magnitude
+# of headroom over observed legitimate hydration time — but GitHub's shared
+# runners can have materially more network/CPU variance than this one data
+# point, and HC's own Cloudflare-challenge behavior (see hc.yml) has been
+# actively hostile recently, so the default stays at 45_000 rather than being
+# tightened on a single historical sample. An operator with stronger evidence
+# can lower it via HC_SELECTOR_TIMEOUT_MS without a code change.
+DEFAULT_NAV_TIMEOUT_MS = 60_000
+DEFAULT_SELECTOR_TIMEOUT_MS = 45_000
+# Keep both inside a sane range: too low risks false navigation_error/
+# missing_job_data on legitimate slow pages; too high risks exceeding
+# fetch-hiringcafe-feed.mjs's own 60s outer spawnSync timeout per query (see
+# its comment next to `timeout: 60_000`), which would kill the whole python
+# subprocess with no diagnostic from this module at all.
+MIN_TIMEOUT_MS = 1_000
+MAX_TIMEOUT_MS = 180_000
+
 NEXT_DATA_RE = re.compile(
     r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>',
     re.S,
 )
+
+
+def _resolve_timeout_ms(explicit: int | None, env_name: str, default: int) -> int:
+    """Resolve a timeout: an explicit argument wins (used by direct callers/
+    tests), else HC_NAV_TIMEOUT_MS/HC_SELECTOR_TIMEOUT_MS from the
+    environment, else `default`. Always clamped to [MIN_TIMEOUT_MS,
+    MAX_TIMEOUT_MS] so a malformed/extreme env value can't produce a timeout
+    of 0 or an effectively-infinite wait."""
+    if explicit is not None:
+        value = explicit
+    else:
+        raw = os.environ.get(env_name)
+        if raw is None or not raw.strip():
+            value = default
+        else:
+            try:
+                value = int(raw)
+            except ValueError:
+                value = default
+    return max(MIN_TIMEOUT_MS, min(MAX_TIMEOUT_MS, value))
+
+
+_PROFILE_LOCK_MARKERS = (
+    "already in use",
+    "existing browser session",
+    "singletonlock",
+    "profile appears to be in use",
+)
+
+
+def _looks_like_profile_lock(message: str) -> bool:
+    """True when a BrowserInitError's text matches the real patchright/Chrome
+    wording for 'another instance already has this user_data_dir open' —
+    confirmed against the actual message a live lock produces (see
+    test/hc-real-browser-smoke.test.mjs's profile-lock test)."""
+    lowered = (message or "").lower()
+    return any(marker in lowered for marker in _PROFILE_LOCK_MARKERS)
 
 
 def search_state(query: str, days: int) -> dict:
@@ -97,12 +165,29 @@ def props_from_html(html: str):
         raise RuntimeError(f"parser_failure: invalid __NEXT_DATA__ ({err})") from err
 
 
-def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path, engine: str = DEFAULT_ENGINE) -> dict:
+def scrape(
+    pages: int,
+    days: int,
+    query: str,
+    sleep_s: float,
+    profile: Path,
+    engine: str = DEFAULT_ENGINE,
+    nav_timeout_ms: int | None = None,
+    selector_timeout_ms: int | None = None,
+) -> dict:
     """Pagination/dedup/parsing logic is unchanged from the pre-refactor
     inline-patchright version. The only change is that browser init,
     navigation, and cleanup now go through `browser_runtime.BrowserSession`
     instead of calling `patchright` directly, so a future authorized engine
-    only needs a new `BrowserRuntime` implementation, not a scrape rewrite."""
+    only needs a new `BrowserRuntime` implementation, not a scrape rewrite.
+
+    `nav_timeout_ms`/`selector_timeout_ms` override HC_NAV_TIMEOUT_MS/
+    HC_SELECTOR_TIMEOUT_MS (which in turn override the 60s/45s defaults) —
+    pass them explicitly for a direct/test call, or leave None to resolve
+    from the environment the way `main()` does."""
+    nav_timeout_ms = _resolve_timeout_ms(nav_timeout_ms, "HC_NAV_TIMEOUT_MS", DEFAULT_NAV_TIMEOUT_MS)
+    selector_timeout_ms = _resolve_timeout_ms(selector_timeout_ms, "HC_SELECTOR_TIMEOUT_MS", DEFAULT_SELECTOR_TIMEOUT_MS)
+
     try:
         runtime = get_runtime(engine)
     except UnknownBrowserEngine as err:
@@ -118,13 +203,19 @@ def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path, eng
     try:
         session = runtime.open(profile)
     except BrowserInitError as err:
+        if _looks_like_profile_lock(str(err)):
+            raise RuntimeError(
+                f"browser_profile_locked: {profile} is already in use by another "
+                f"browser instance — concurrent HC workers must each use a distinct "
+                f"--profile/HC_PROFILE directory, not share one: {err}"
+            ) from err
         raise RuntimeError(f"browser_init_failed: {err}") from err
 
     try:
         for i in range(pages):
             t0 = time.time()
             try:
-                status = session.goto(url_for(state, i), timeout_ms=60_000)
+                status = session.goto(url_for(state, i), timeout_ms=nav_timeout_ms)
             except NavigationError as err:
                 raise RuntimeError(f"navigation_error: {err} on page {i}") from err
             if i == 0:
@@ -133,7 +224,7 @@ def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path, eng
             if immediate in ("cloudflare_challenge", "http_403"):
                 raise RuntimeError(f"{immediate}: HTTP {status} on page {i}")
             try:
-                session.wait_for_selector("#__NEXT_DATA__", timeout_ms=45_000)
+                session.wait_for_selector("#__NEXT_DATA__", timeout_ms=selector_timeout_ms)
             except NavigationError as err:
                 raise RuntimeError(f"navigation_error: {err} on page {i}") from err
             except Exception as err:
@@ -196,6 +287,8 @@ def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path, eng
         "query": query,
         "days": days,
         "engine": engine,
+        "navTimeoutMs": nav_timeout_ms,
+        "selectorTimeoutMs": selector_timeout_ms,
         "pagesFetched": pages_fetched,
         "truncated": truncated,
         "totalCount": total,
@@ -217,11 +310,22 @@ def main() -> int:
     # browser_runtime.py's module docstring for why "cloakbrowser" stays
     # out of this list.
     ap.add_argument("--engine", default=os.environ.get("BROWSER_ENGINE", DEFAULT_ENGINE))
+    # No default here (None) — scrape() resolves HC_NAV_TIMEOUT_MS/
+    # HC_SELECTOR_TIMEOUT_MS itself when the CLI doesn't pass one, so there's
+    # exactly one place (`_resolve_timeout_ms`) that implements the
+    # env-overrides-default / explicit-overrides-env precedence.
+    ap.add_argument("--nav-timeout-ms", type=int, default=None)
+    ap.add_argument("--selector-timeout-ms", type=int, default=None)
     args = ap.parse_args()
     pages = max(1, min(80, args.pages))
     days = max(1, min(7, args.days))
     try:
-        payload = scrape(pages, days, args.query, max(0.4, args.sleep), Path(args.profile), engine=args.engine)
+        payload = scrape(
+            pages, days, args.query, max(0.4, args.sleep), Path(args.profile),
+            engine=args.engine,
+            nav_timeout_ms=args.nav_timeout_ms,
+            selector_timeout_ms=args.selector_timeout_ms,
+        )
     except Exception as err:
         print(f"HC scrape failed: {err}", file=sys.stderr)
         return 1
@@ -235,6 +339,8 @@ def main() -> int:
         "truncated": payload["truncated"],
         "totalCount": payload["totalCount"],
         "engine": payload["engine"],
+        "navTimeoutMs": payload["navTimeoutMs"],
+        "selectorTimeoutMs": payload["selectorTimeoutMs"],
         "out": str(out),
     }))
     return 0
