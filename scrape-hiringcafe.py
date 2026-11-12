@@ -62,18 +62,33 @@ def url_for(state: dict, page: int) -> str:
     return ORIGIN + "/?" + urllib.parse.urlencode(qs)
 
 
+def diagnose_page(status: int | None, title: str, html: str) -> str:
+    """Report the observed failure; never attempt to handle a challenge."""
+    evidence = f"{title} {html}"
+    if re.search(r"just a moment|cf-chl|challenge-platform|checking your browser", evidence, re.I):
+        return "cloudflare_challenge"
+    if status == 403:
+        return "http_403"
+    if not NEXT_DATA_RE.search(html or ""):
+        return "missing_job_data"
+    return "ok"
+
+
 def props_from_html(html: str):
     m = NEXT_DATA_RE.search(html or "")
     if not m:
-        return None
+        raise RuntimeError("missing_job_data: __NEXT_DATA__ absent")
     try:
-        return json.loads(m.group(1)).get("props", {}).get("pageProps")
-    except Exception:
-        return None
+        page_props = json.loads(m.group(1))["props"]["pageProps"]
+        if not isinstance(page_props, dict):
+            raise ValueError("pageProps is not an object")
+        return page_props
+    except (ValueError, TypeError, KeyError) as err:
+        raise RuntimeError(f"parser_failure: invalid __NEXT_DATA__ ({err})") from err
 
 
 def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path) -> dict:
-    from patchright.sync_api import sync_playwright
+    from patchright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
 
     state = search_state(query, days)
     profile.mkdir(parents=True, exist_ok=True)
@@ -112,13 +127,19 @@ def scrape(pages: int, days: int, query: str, sleep_s: float, profile: Path) -> 
 
             for i in range(pages):
                 t0 = time.time()
-                page.goto(url_for(state, i), wait_until="domcontentloaded", timeout=60_000)
+                response = page.goto(url_for(state, i), wait_until="domcontentloaded", timeout=60_000)
                 if i == 0:
                     minimize()
-                page.wait_for_selector("#__NEXT_DATA__", state="attached", timeout=45_000)
+                status = response.status if response else None
+                immediate = diagnose_page(status, page.title(), page.content())
+                if immediate in ("cloudflare_challenge", "http_403"):
+                    raise RuntimeError(f"{immediate}: HTTP {status} on page {i}")
+                try:
+                    page.wait_for_selector("#__NEXT_DATA__", state="attached", timeout=45_000)
+                except PlaywrightTimeoutError as err:
+                    observed = diagnose_page(status, page.title(), page.content())
+                    raise RuntimeError(f"{observed}: HTTP {status} on page {i}") from err
                 pp = props_from_html(page.content())
-                if not pp:
-                    raise RuntimeError(f"hiringcafe: missing __NEXT_DATA__ on page {i}")
                 if total is None:
                     raw_total = pp.get("ssrTotalCount")
                     if isinstance(raw_total, (int, float)) and raw_total == raw_total:
