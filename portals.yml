@@ -20608,6 +20608,51 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Aleph"
+    careers_url: https://jobs.ashbyhq.com/aleph
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "DeepJudge"
+    careers_url: https://jobs.ashbyhq.com/deepjudge
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Dovetail"
+    careers_url: https://jobs.ashbyhq.com/dovetail
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Fractile"
+    careers_url: https://jobs.ashbyhq.com/fractile
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Prefect"
+    careers_url: https://jobs.ashbyhq.com/prefect
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Clara"
+    careers_url: https://job-boards.greenhouse.io/clara
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
