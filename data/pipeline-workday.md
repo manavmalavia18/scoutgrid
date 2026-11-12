@@ -1447,4 +1447,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165025-2 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165025-1 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer---PhD_1218794-2 | hpe | Finance AI/ML Engineer - PhD | Spring, Texas, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821 | hpe | Systems/Software Engineer I | Sunnyvale, California, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer---PhD_1218794 | hpe | Finance AI/ML Engineer - PhD | Spring, Texas, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-1 | hpe | Systems/Software Engineer I | Sunnyvale, California, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Finance-AI-ML-Engineer---PhD_1218794-1 | hpe | Finance AI/ML Engineer - PhD | Spring, Texas, United States of America | posted: 2026-11-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2 | hpe | Systems/Software Engineer I | Sunnyvale, California, United States of America | posted: 2026-11-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165028-1 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165028 | abbott | Software Engineer II | United States > Madison : 1 Exact Lane | posted: 2026-11-12
+
 ## Processed
