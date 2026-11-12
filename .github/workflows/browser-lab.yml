@@ -31,6 +31,8 @@ jobs:
           status=$?
           set -e
           printf '%s\n' "$output"
+          printf '%s\n' "$output" > "$RUNNER_TEMP/playwright.json"
+          echo "$status" > "$RUNNER_TEMP/playwright.exit"
           echo "exit_code=$status"
           exit "$status"
       - name: Detect optional CloakBrowser license
@@ -57,20 +59,13 @@ jobs:
             output=$(BROWSER_LAB_RUNTIME=cloakbrowser node browser-lab/smoke.mjs)
             status=$?
             printf '%s\n' "$output"
+            printf '%s\n' "$output" > "$RUNNER_TEMP/cloakbrowser.json"
           fi
+          echo "$status" > "$RUNNER_TEMP/cloakbrowser.exit"
           echo "exit_code=$status"
           exit "$status"
       - name: Summarize runtime comparison
         if: always()
         env:
-          PLAYWRIGHT_OUTCOME: ${{ steps.playwright.outcome }}
-          CLOAK_OUTCOME: ${{ steps.cloak.outcome }}
           CLOAK_AVAILABLE: ${{ steps.license.outputs.available }}
-        run: |
-          echo "Playwright: $PLAYWRIGHT_OUTCOME (same loopback fixture; timings above)" >> "$GITHUB_STEP_SUMMARY"
-          if [ "$CLOAK_AVAILABLE" = 'true' ]; then
-            echo "CloakBrowser: $CLOAK_OUTCOME (same loopback fixture; timings above)" >> "$GITHUB_STEP_SUMMARY"
-          else
-            echo 'CloakBrowser: SKIPPED — repository license secret is absent.' >> "$GITHUB_STEP_SUMMARY"
-            echo 'CloakBrowser: SKIPPED — repository license secret is absent.'
-          fi
+        run: node browser-lab/report.mjs

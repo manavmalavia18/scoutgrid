@@ -16,8 +16,10 @@ test('manual GitHub workflow runs only a loopback fixture and isolates the licen
   assert.match(source, /BROWSER_LAB_RUNTIME=playwright/);
   assert.match(source, /BROWSER_LAB_RUNTIME=cloakbrowser/);
   assert.match(source, /secrets\.CLOAKBROWSER_LICENSE_KEY/);
-  assert.match(source, /CloakBrowser: SKIPPED.*secret is absent/);
+  assert.match(source, /node browser-lab\/report\.mjs/);
   assert.match(source, /exit_code=\$status/);
-  assert.match(source, /steps\.cloak\.outcome/);
+  assert.match(source, /RUNNER_TEMP\/playwright\.json/);
+  assert.match(source, /RUNNER_TEMP\/cloakbrowser\.json/);
+  assert.match(source, /if: always\(\)/);
   assert.doesNotMatch(source, /hiringcafe|tailscale|searchState|CLOAKBROWSER_LICENSE_KEY:.*TAILSCALE/i);
 });
