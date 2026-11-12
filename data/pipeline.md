@@ -2174,3 +2174,7 @@
 - [ ] https://jobs.ashbyhq.com/Commure/3380135f-ab20-44a4-b73f-8378ed40e1be | commure | Software Engineer, Claims & AI Billing | Mountain View, CA · Los Angeles, CA · Los Angeles · United States · San Francisco, CA · San Francisco | posted: 2026-11-12
 - [ ] https://www.optiver.com/join-us/jobs/8226163002/?gh_jid=8226163002 | optiverus | Software Engineer - AI Lab | New York, New York | posted: 2026-11-12
 - [ ] https://jobs.ashbyhq.com/vitvio/54e12f86-ce09-4b9b-9de2-37645c10c80b | vitvio | Full-Stack Software Engineer (Infrastructure Focus) | Remote · United States · USA · Europe · European Union | posted: 2026-11-12
+
+- [ ] https://www.brex.com/careers/8939939002?gh_jid=8939939002 | brex | Software Engineer II, Frontend | Seattle, Washington, United States | posted: 2026-11-12
+- [ ] https://www.brex.com/careers/8939938002?gh_jid=8939938002 | brex | Software Engineer II, Frontend | San Francisco, California, United States | posted: 2026-11-12
+- [ ] https://www.brex.com/careers/8928935002?gh_jid=8928935002 | brex | Software Engineer II, Frontend | New York, New York, United States | posted: 2026-11-12
