@@ -1487,4 +1487,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2 | jci | NextGen Software Engineer | Glendale-Wisconsin-United States of America | posted: 2026-11-13
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-3--AI-Foundations-_R1005770-1 | capitalone | AI Engineer 3 (AI Foundations) | 3 Locations | posted: 2026-11-13
 
+- [ ] https://ovationhealthcare.wd5.myworkdayjobs.com/ovationhealthcare/job/United-States-Remote/Azure-Application-Developer_R2870 | ovationhealthcare | Azure Application Developer | United States (Remote) | posted: 2026-11-13
+
 ## Processed
