@@ -1494,4 +1494,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111286 | workday | Software Development Engineer - US Federal | USA.VA.Reston | posted: 2026-11-13
 - [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1 | etsy | Machine Learning Engineer IC3.1. Ads Recommendations | Brooklyn, New York | posted: 2026-11-13
 
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer---Java---AWS_R0121814 | truist | Software Engineer – Java / AWS | Atlanta, GA | posted: 2026-11-13
+
 ## Processed
