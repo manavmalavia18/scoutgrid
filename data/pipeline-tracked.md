@@ -1951,4 +1951,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Spain---Remote/Data-Product-Engineer--Data---Analytics_R58016 | Trimble | Data Product Engineer, Data & Analytics | 2 Locations | posted: 2026-11-13
 
+- [ ] https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519 | Fresenius Medical Care | Analytics and AI Business Analyst Co-op | Lawrence, MA, USA | posted: 2026-11-13
+
 ## Processed
