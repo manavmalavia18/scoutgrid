@@ -1941,4 +1941,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/scope-labs/fd6e7ed6-4595-4bb1-8056-1efc265fdc9b | Scope Labs | Software Engineer (DreamLever) | New York City | posted: 2026-11-12
 - [ ] https://jobs.ashbyhq.com/scope-labs/0ac9ceec-0a3e-4147-8847-441fe8902463 | Scope Labs | Software Engineer (UpNext) | New York City | posted: 2026-11-12
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering---AgentExchange-Buyer-Experience---LMTS_JR368156 | Salesforce | Software Engineering - AgentExchange Buyer Experience - LMTS | 2 Locations | posted: 2026-11-13
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-3--AI-Foundations-_R1005770-1 | Capital One | AI Engineer 3 (AI Foundations) | 3 Locations | posted: 2026-11-13
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-McLean-Virginia/Data-Engineer_JREQ205310 | Thomson Reuters | Data Engineer | United States of America McLean Virginia | posted: 2026-11-13
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Software-Engineer_REQ-12953 | Q2 | Software Engineer | Austin, TX | posted: 2026-11-13
+
 ## Processed
