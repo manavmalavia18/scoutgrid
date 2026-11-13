@@ -10,13 +10,24 @@
  * via Python Playwright's `connect_over_cdp`) can attach, drive pages, and
  * disconnect without owning the process lifecycle at all.
  *
- * Hardening in this version: an explicit, self-owned temp profile
- * directory (so it can be reliably removed instead of relying on
- * Playwright's internal cleanup, which never runs if the process is
- * SIGKILLed); detection of an unexpected browser crash/disconnect versus a
- * deliberate close(); and a graceful-close-then-forced-kill sequence so a
- * hung `browser.close()` can't leave the real Chromium process running
- * forever.
+ * Hardening in this version: detection of an unexpected browser
+ * crash/disconnect versus a deliberate close(); and a
+ * graceful-close-then-forced-kill sequence so a hung `browser.close()`
+ * can't leave the real Chromium process running forever.
+ *
+ * Note on profile directories: an earlier version of this module passed
+ * an explicit `--user-data-dir` so it could track and remove its own temp
+ * profile. A real run in GitHub Actions caught this immediately —
+ * Playwright's `chromium.launch()` actively rejects a `--user-data-dir`
+ * argument (`browserType.launch: Pass userDataDir parameter to
+ * 'browserType.launchPersistentContext(userDataDir, options)' instead of
+ * specifying '--user-data-dir' argument`). Profile management is left to
+ * Playwright's own internal temp directory, which it removes itself on a
+ * clean `browser.close()`. The one residual gap this leaves (documented,
+ * not silently ignored): if `close()` ever has to escalate to a forced
+ * `SIGKILL` of the browser process, Playwright's own cleanup code never
+ * runs either, so that internal temp directory's on-disk files can be
+ * left behind — no running process survives, only inert temp files.
  *
  * No production import, no Tailscale route, no request to HiringCafe or
  * any other real target — this module only ever navigates the loopback
@@ -24,9 +35,6 @@
  */
 import { createServer } from 'node:net';
 import { setTimeout as delay } from 'node:timers/promises';
-import { mkdtemp, rm } from 'node:fs/promises';
-import { tmpdir } from 'node:os';
-import { join } from 'node:path';
 
 export class CdpBridgeError extends Error {}
 
@@ -63,19 +71,6 @@ export async function waitForCdpReady(port, { timeoutMs = 10000, intervalMs = 10
   throw new CdpBridgeError(`CDP endpoint on 127.0.0.1:${port} never became ready: ${lastErr?.message || 'timeout'}`);
 }
 
-/** Best-effort recursive removal of the temp profile dir. Never throws —
- * a cleanup failure must not mask whatever the caller was already doing,
- * and there's nothing more we can do about a directory the OS won't
- * remove (still-open file handles from a not-fully-dead process, etc). */
-async function removeProfileDir(profileDir) {
-  if (!profileDir) return;
-  try {
-    await rm(profileDir, { recursive: true, force: true });
-  } catch {
-    // Best-effort only.
-  }
-}
-
 /**
  * Launch CloakBrowser with a loopback-only CDP endpoint. Returns
  * `{ port, cdpUrl, close, crashed }`:
@@ -83,8 +78,7 @@ async function removeProfileDir(profileDir) {
  *     gracefully, and if that doesn't resolve within `killTimeoutMs`
  *     (default 5000), force-kills the real OS process via
  *     `browser.process().kill('SIGKILL')` so a hung close() can never
- *     leave an orphaned Chromium behind. Always removes the self-owned
- *     temp profile directory afterward, win or lose.
+ *     leave an orphaned Chromium behind.
  *   - `crashed` is a Promise that resolves `true` the moment the browser
  *     disconnects WITHOUT `close()` having been called first (a real
  *     crash/unexpected exit) — never resolves on a deliberate close. A
@@ -103,8 +97,6 @@ export async function launchCdpBridge({
   playwrightCore,
   pickPort = pickEphemeralPort,
   waitForReady = waitForCdpReady,
-  mkdtempImpl = mkdtemp,
-  removeProfileDirImpl = removeProfileDir,
 } = {}) {
   if (!licenseKey) {
     throw new CdpBridgeError('CLOAKBROWSER_LICENSE_KEY is required for the CDP bridge experiment');
@@ -114,24 +106,18 @@ export async function launchCdpBridge({
   const { chromium } = playwrightCore || await import('playwright-core');
 
   const port = await pickPort();
-  const profileDir = await mkdtempImpl(join(tmpdir(), 'cdp-bridge-profile-'));
   const base = await buildLaunchOptions({ headless: true, licenseKey });
   const args = [
     ...(base.args || []),
     `--remote-debugging-port=${port}`,
     // Explicit loopback restriction — never 0.0.0.0, never a public bind.
     '--remote-debugging-address=127.0.0.1',
-    // Self-owned, explicitly-tracked profile dir — never rely on
-    // Playwright's internal temp-dir cleanup, which only runs on a clean
-    // browser.close() and never after a SIGKILL.
-    `--user-data-dir=${profileDir}`,
   ];
 
   let browser;
   try {
     browser = await chromium.launch({ ...base, args });
   } catch (err) {
-    await removeProfileDirImpl(profileDir);
     // Never log licenseKey, base.env, or args here — only a sanitized message.
     throw new CdpBridgeError(`failed to launch CloakBrowser for the CDP bridge: ${err.message}`);
   }
@@ -148,7 +134,6 @@ export async function launchCdpBridge({
   } catch (err) {
     closedByUs = true;
     await browser.close().catch(() => {});
-    await removeProfileDirImpl(profileDir);
     throw err;
   }
 
@@ -171,10 +156,9 @@ export async function launchCdpBridge({
         // Best-effort only.
       }
     }
-    await removeProfileDirImpl(profileDir);
   }
 
-  return { port, cdpUrl: `http://127.0.0.1:${port}`, close, crashed, profileDir, _browser: browser };
+  return { port, cdpUrl: `http://127.0.0.1:${port}`, close, crashed, _browser: browser };
 }
 
 if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {

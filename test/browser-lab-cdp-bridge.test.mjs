@@ -17,16 +17,12 @@ function fakeBrowserFactory({ closeImpl, killImpl } = {}) {
   return { browser, killCalls, closeCalls };
 }
 
-function fakeDeps({ launchImpl, buildLaunchOptionsImpl, mkdtempImpl, removeProfileDirImpl } = {}) {
+function fakeDeps({ launchImpl, buildLaunchOptionsImpl } = {}) {
   const { browser: fakeBrowser, killCalls, closeCalls } = fakeBrowserFactory();
-  const profileDirs = [];
-  const removedDirs = [];
   return {
     closeCalls,
     killCalls,
     fakeBrowser,
-    profileDirs,
-    removedDirs,
     cloakBrowser: {
       buildLaunchOptions: buildLaunchOptionsImpl || (async (options) => ({ ...options, executablePath: '/fake/chrome', args: ['--fake-stealth-flag'] })),
     },
@@ -35,12 +31,6 @@ function fakeDeps({ launchImpl, buildLaunchOptionsImpl, mkdtempImpl, removeProfi
         launch: launchImpl || (async () => fakeBrowser),
       },
     },
-    mkdtempImpl: mkdtempImpl || (async (prefix) => {
-      const dir = `${prefix}${profileDirs.length}`;
-      profileDirs.push(dir);
-      return dir;
-    }),
-    removeProfileDirImpl: removeProfileDirImpl || (async (dir) => { removedDirs.push(dir); }),
   };
 }
 
@@ -54,7 +44,7 @@ test('fails before any launch attempt when no license key is present', async () 
   assert.equal(launchCalled, false);
 });
 
-test('merges a loopback-only --remote-debugging-port/address and a self-owned --user-data-dir into the launch args', async () => {
+test('merges a loopback-only --remote-debugging-port/address into the launch args, never --user-data-dir (Playwright rejects it — caught by a real CI run)', async () => {
   let seenOptions;
   const deps = fakeDeps({
     launchImpl: async (options) => { seenOptions = options; return deps.fakeBrowser; },
@@ -69,7 +59,7 @@ test('merges a loopback-only --remote-debugging-port/address and a self-owned --
   assert.equal(bridge.cdpUrl, 'http://127.0.0.1:54321');
   assert.ok(seenOptions.args.includes('--remote-debugging-port=54321'));
   assert.ok(seenOptions.args.includes('--remote-debugging-address=127.0.0.1'));
-  assert.ok(seenOptions.args.some((a) => a.startsWith('--user-data-dir=')));
+  assert.ok(!seenOptions.args.some((a) => a.startsWith('--user-data-dir=')));
   // The vendor's own stealth arg must survive unchanged alongside the new ones.
   assert.ok(seenOptions.args.includes('--fake-stealth-flag'));
   await bridge.close();
@@ -87,18 +77,6 @@ test('close() is idempotent — the underlying browser.close() runs exactly once
   assert.equal(deps.closeCalls.length, 1);
 });
 
-test('close() removes the self-owned temp profile directory exactly once', async () => {
-  const deps = fakeDeps();
-  const bridge = await launchCdpBridge({
-    licenseKey: 'test-key', ...deps,
-    pickPort: async () => 1, waitForReady: async () => true,
-  });
-  await bridge.close();
-  await bridge.close();
-  assert.equal(deps.removedDirs.length, 1);
-  assert.equal(deps.removedDirs[0], bridge.profileDir);
-});
-
 test('close() force-kills the underlying process via SIGKILL if browser.close() hangs past the timeout', async () => {
   const { browser, killCalls } = fakeBrowserFactory({
     closeImpl: () => new Promise(() => {}), // never resolves — simulates a hung close()
@@ -110,10 +88,9 @@ test('close() force-kills the underlying process via SIGKILL if browser.close() 
   });
   await bridge.close({ killTimeoutMs: 20 });
   assert.deepEqual(killCalls, ['SIGKILL']);
-  assert.equal(deps.removedDirs.length, 1, 'the profile dir must still be cleaned up even after a forced kill');
 });
 
-test('a launch failure surfaces as CdpBridgeError with a sanitized message (no license key echoed), and still removes the profile dir', async () => {
+test('a launch failure surfaces as CdpBridgeError with a sanitized message (no license key echoed)', async () => {
   const deps = fakeDeps({
     launchImpl: async () => { throw new Error('spawn ENOENT: /fake/chrome'); },
   });
@@ -126,10 +103,9 @@ test('a launch failure surfaces as CdpBridgeError with a sanitized message (no l
       return true;
     },
   );
-  assert.equal(deps.removedDirs.length, 1);
 });
 
-test('a CDP endpoint that never becomes ready (e.g. a port conflict) closes the browser and removes the profile dir before rethrowing', async () => {
+test('a CDP endpoint that never becomes ready (e.g. a port conflict) closes the browser before rethrowing', async () => {
   const deps = fakeDeps();
   await assert.rejects(
     () => launchCdpBridge({
@@ -140,7 +116,6 @@ test('a CDP endpoint that never becomes ready (e.g. a port conflict) closes the 
     CdpBridgeError,
   );
   assert.equal(deps.closeCalls.length, 1, 'the browser launched before the readiness check must still be closed on failure');
-  assert.equal(deps.removedDirs.length, 1);
 });
 
 test('`crashed` resolves when the browser disconnects unexpectedly, but never fires for a deliberate close()', async () => {
@@ -175,7 +150,7 @@ test('`crashed` resolves true for a browser that disconnects without close() eve
   assert.equal(result, true);
 });
 
-test('five sequential launch/close cycles each get their own profile dir, all removed, no leaked state', async () => {
+test('five sequential launch/close cycles each launch and close cleanly, in order, with no leaked state', async () => {
   const deps = fakeDeps();
   for (let i = 0; i < 5; i += 1) {
     const bridge = await launchCdpBridge({
@@ -185,9 +160,6 @@ test('five sequential launch/close cycles each get their own profile dir, all re
     assert.equal(bridge.port, 1000 + i);
     await bridge.close();
   }
-  assert.equal(deps.profileDirs.length, 5);
-  assert.equal(new Set(deps.profileDirs).size, 5, 'every cycle must get a distinct profile dir');
-  assert.deepEqual(deps.removedDirs, deps.profileDirs, 'every created dir must be removed exactly once, in order');
   assert.equal(deps.closeCalls.length, 5);
 });
 
@@ -210,8 +182,6 @@ test('a launch failure mid-cycle does not block the next cycle from succeeding c
   });
   assert.equal(bridge.port, 2);
   await bridge.close();
-  assert.equal(deps.profileDirs.length, 2);
-  assert.equal(deps.removedDirs.length, 2);
 });
 
 test('waitForCdpReady resolves once a fake endpoint answers 200, and times out cleanly otherwise', async () => {

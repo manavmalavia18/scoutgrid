@@ -42,13 +42,17 @@ function pyRun(code, { timeout = 20000 } = {}) {
 }
 
 function listChromeProcesses() {
-  // macOS/Linux-portable enough for this lab's CI runner: list PIDs of any
-  // process whose command line mentions our own profile-dir prefix, which
-  // only ever appears in --user-data-dir=<prefix>NNN for bridges WE
-  // launched in this test file.
+  // macOS/Linux-portable enough for this lab's CI runner: list full
+  // command lines so we can grep for our own distinctive CDP flag.
   const res = spawnSync('ps', ['-eo', 'pid,command']);
   return (res.stdout || Buffer.from('')).toString();
 }
+
+// '--remote-debugging-address=127.0.0.1' is a flag only cdp-bridge.mjs
+// ever adds (no other process in this test file or vendor code emits
+// it) — a reliable, orphan-detecting proxy without needing a real
+// profile-dir path, which Playwright itself now owns and names.
+const CDP_BRIDGE_FLAG = '--remote-debugging-address=127.0.0.1';
 
 async function withFixtureServer(fn) {
   const server = spawn('python3', [fixtureServer, '0'], { stdio: ['ignore', 'pipe', 'pipe'] });
@@ -157,10 +161,10 @@ test('real hardening: a startup timeout kills the whole process group — no orp
     },
   );
   // Give the OS a brief moment to finish reaping, then confirm no leftover
-  // cdp-bridge.mjs/cloakbrowser-profile process is still listed.
+  // CloakBrowser/cdp-bridge process is still listed.
   await new Promise((r) => setTimeout(r, 1500));
   const ps = listChromeProcesses();
-  assert.doesNotMatch(ps, /cdp-bridge-profile-/, 'a profile-dir-tagged Chromium process must not survive a readiness-timeout kill');
+  assert.ok(!ps.includes(CDP_BRIDGE_FLAG), 'a CDP-bridge-launched Chromium process must not survive a readiness-timeout kill');
 });
 
 test('real hardening: repeated real launch/terminate cycles leave no leftover bridge or Chromium processes', { skip }, async () => {
@@ -183,7 +187,7 @@ print(json.dumps(m.is_browser_reachable('http://127.0.0.1:${cdpPort}')))
   }
   await new Promise((r) => setTimeout(r, 1000));
   const ps = listChromeProcesses();
-  assert.doesNotMatch(ps, /cdp-bridge-profile-/, 'no profile-dir-tagged Chromium process should survive two full launch/terminate cycles');
+  assert.ok(!ps.includes(CDP_BRIDGE_FLAG), 'no CDP-bridge-launched Chromium process should survive two full launch/terminate cycles');
 });
 
 test('environment note: whether the real CDP interop/hardening experiment actually ran', () => {
