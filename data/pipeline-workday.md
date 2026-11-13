@@ -1499,4 +1499,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer--Strategic-Accounts---Mid-Law_JREQ205322 | thomsonreuters | Legal AI Engineer, Strategic Accounts - Mid Law | United States of America Eagan Minnesota | posted: 2026-11-13
 - [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286286 | highmarkhealth | Software Engineer | PA, Working at Home - Pennsylvania | posted: 2026-11-13
 
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J290145 | highmarkhealth | Associate Software Engineer | PA, Working at Home - Pennsylvania | posted: 2026-11-13
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Cruise-Automation---San-Francisco-HQ---Cruise-San-Francisco-1201-Bryant-Street-and-530-10th-Street/AI-ML-Engineer_JR-202517415 | generalmotors | ML / AI Software Engineer - C++ Metrics Frameworks | 4 Locations | posted: 2026-11-13
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1 | generalmotors | AI/ML Engineer - Model Inference | Sunnyvale, California, United States of America | posted: 2026-11-13
+
 ## Processed
