@@ -2222,3 +2222,5 @@
 - [ ] https://octane.co/o/who-we-are/careers/jobs-open?gh_jid=8203601003 | octanelending | Software Engineer II | Irving, Texas, United States; New York, New York, United States; Remote | posted: 2026-11-13
 
 - [ ] https://careers.airbnb.com/positions/8386065?gh_jid=8386065 | airbnb | Software Engineer, Profile & Community, Web | Remote, USA | posted: 2026-11-13
+
+- [ ] https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267 | esrtreit | Applied AI Engineer | New York, New York, United States | posted: 2026-11-12
