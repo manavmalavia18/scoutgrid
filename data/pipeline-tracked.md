@@ -1967,4 +1967,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/syllo/jobs/4505507009 | Syllo | Platform Software Engineer | Remote · United States - Remote | posted: 2026-11-13
 - [ ] https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Remote--USA/Technical-Product-Analyst-I---Image-RPS_261315WD | Deluxe | Technical Product Analyst I - Image RPS | Remote, , USA | posted: 2026-11-13
 
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6260703004 | Sonyinteractiveentertainmentglobal | Software Engineer II | United States, San Mateo, CA | posted: 2026-11-13
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer---Java---AWS_R0121814 | Truist | Software Engineer – Java / AWS | Atlanta, GA | posted: 2026-11-13
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer--Strategic-Accounts---Mid-Law_JREQ205322 | Thomson Reuters | Legal AI Engineer, Strategic Accounts - Mid Law | United States of America Eagan Minnesota | posted: 2026-11-13
+- [ ] https://symbotic.wd504.myworkdayjobs.com/symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111 | Symbotic | Co-op - Software Engineer | USA Wilmington, MA - HQ | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/airspace-intelligence.com/137579af-c726-4f28-9055-9d2f508e0bd2 | Airspace Intelligence | Frontend Engineer | Boston, US | posted: 2026-11-13
+- [ ] https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Data-Engineer_Req-52305 | Edwards Lifesciences | Data Engineer | USA - California – Irvine | posted: 2026-11-13
+
 ## Processed
