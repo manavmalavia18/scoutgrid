@@ -1491,4 +1491,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Canada/EverPro---Software-Development-Engineer-in-Test_R-106664 | evercommerce | EverPro - Software Development Engineer in Test | Remote (Canada) | posted: 2026-11-13
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0111286 | workday | Software Development Engineer - US Federal | USA.VA.Reston | posted: 2026-11-13
+- [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1 | etsy | Machine Learning Engineer IC3.1. Ads Recommendations | Brooklyn, New York | posted: 2026-11-13
+
 ## Processed
