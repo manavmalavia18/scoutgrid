@@ -67,6 +67,12 @@ jobs:
           echo "$status" > "$RUNNER_TEMP/cloakbrowser.exit"
           echo "exit_code=$status"
           exit "$status"
+      - name: Search-page-shaped fixture compatibility check (only when preflight is ok)
+        id: compat
+        if: steps.preflight.outputs.status == 'ok'
+        env:
+          CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
+        run: node --test test/browser-lab-hc-shaped-compat.test.mjs
       - name: Summarize runtime comparison
         if: always()
         env:
