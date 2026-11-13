@@ -1958,4 +1958,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Digital-Product-Owner---Unified-Catalog_R0000387651-1 | Caterpillar Inc. | Digital Product Owner - Data Analytics | 5 Locations | posted: 2026-11-13
 - [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-PA/Data-Analyst-III-SQL--Snowflake_1672733-1 | Centene Corporation | Data Analyst III SQL, Snowflake | 3 Locations | posted: 2026-11-13
 
+- [ ] https://ally.wd1.myworkdayjobs.com/Ally/job/Remote-NC/Auto-Fraud-Analytics-Analyst_R2601151 | Ally Financial | Auto Fraud Analytics Analyst | Remote NC | posted: 2026-11-13
+- [ ] https://careers.airbnb.com/positions/8386065?gh_jid=8386065 | Airbnb | Software Engineer, Profile & Community, Web | Remote, USA | posted: 2026-11-13
+
 ## Processed
