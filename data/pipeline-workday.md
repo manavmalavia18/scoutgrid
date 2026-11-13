@@ -1503,4 +1503,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Cruise-Automation---San-Francisco-HQ---Cruise-San-Francisco-1201-Bryant-Street-and-530-10th-Street/AI-ML-Engineer_JR-202517415 | generalmotors | ML / AI Software Engineer - C++ Metrics Frameworks | 4 Locations | posted: 2026-11-13
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1 | generalmotors | AI/ML Engineer - Model Inference | Sunnyvale, California, United States of America | posted: 2026-11-13
 
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Risk--Data---AI-Software-Engineer--Remote--US-_R36643-1 | allstate | Risk, Data & AI Software Engineer (Remote, US) | US - Remote | posted: 2026-11-13
+
 ## Processed
