@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T16:48:21.296Z",
+  "fetchedAt": "2026-11-13T17:14:57.081Z",
   "days": 2,
   "leadCount": 33,
   "jobCount": 21,
@@ -10,13 +10,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 64,
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
       "kept": 0
     },
     {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
+      "key": "greenhouse:stepstone",
+      "fetched": 64,
       "kept": 0
     },
     {
@@ -25,9 +25,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:podium81",
-      "fetched": 72,
-      "kept": 0
+      "key": "greenhouse:affirm",
+      "fetched": 219,
+      "kept": 4
     },
     {
       "key": "greenhouse:applovin",
@@ -35,18 +35,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 219,
-      "kept": 4
-    },
-    {
-      "key": "greenhouse:careers",
-      "fetched": 0,
+      "key": "greenhouse:podium81",
+      "fetched": 72,
       "kept": 0
     },
     {
       "key": "greenhouse:quantifind",
       "fetched": 19,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:careers",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -60,8 +60,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:doordashusa",
+      "fetched": 432,
+      "kept": 1
+    },
+    {
       "key": "ashby:evenup",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:xai",
+      "fetched": 294,
+      "kept": 0
+    },
+    {
+      "key": "ashby:plaid",
+      "fetched": 142,
       "kept": 0
     },
     {
@@ -75,8 +90,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:plaid",
-      "fetched": 142,
+      "key": "ashby:clark",
+      "fetched": 18,
       "kept": 0
     },
     {
@@ -91,12 +106,7 @@
     },
     {
       "key": "ashby:baseten",
-      "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "ashby:clark",
-      "fetched": 18,
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -105,19 +115,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 432,
-      "kept": 1
-    },
-    {
       "key": "ashby:snowflake",
       "fetched": 375,
       "kept": 4
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 294,
-      "kept": 0
     },
     {
       "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
@@ -155,6 +155,11 @@
       "kept": 2
     },
     {
+      "key": "workday:thomsonreuters.wd5.myworkdayjobs.com/external_career_site",
+      "fetched": 80,
+      "kept": 1
+    },
+    {
       "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
       "fetched": 80,
       "kept": 4
@@ -163,11 +168,6 @@
       "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
       "fetched": 80,
       "kept": 2
-    },
-    {
-      "key": "workday:thomsonreuters.wd5.myworkdayjobs.com/external_career_site",
-      "fetched": 80,
-      "kept": 1
     }
   ],
   "jobs": [
@@ -314,6 +314,17 @@
       "postedAtSource": "workday-detail"
     },
     {
+      "title": "Senior Cloud and DevOps Engineer",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-and-DevOps-Engineer_JREQ205291-1",
+      "company": "Thomson Reuters",
+      "location": "United States of America Eagan Minnesota",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "external_career_site",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Agentic AI Engineer, Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/global/job/Quincy-Massachusetts/Agentic-AI-Engineer--Vice-President_R-799048-1",
       "company": "State Street",
@@ -377,17 +388,6 @@
       "salary": "",
       "ats": "Workday",
       "board": "mtb",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Cloud and DevOps Engineer",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-and-DevOps-Engineer_JREQ205291-1",
-      "company": "Thomson Reuters",
-      "location": "United States of America Eagan Minnesota",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "external_career_site",
       "postedAtSource": "workday-detail"
     }
   ],
