@@ -2226,3 +2226,5 @@
 - [ ] https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267 | esrtreit | Applied AI Engineer | New York, New York, United States | posted: 2026-11-12
 
 - [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6260703004 | sonyinteractiveentertainmentglobal | Software Engineer II | United States, San Mateo, CA | posted: 2026-11-13
+
+- [ ] https://job-boards.greenhouse.io/sustainment/jobs/4729533006 | sustainment | Software Engineer | Austin, Texas, United States | posted: 2026-11-13
