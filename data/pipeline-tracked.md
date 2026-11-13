@@ -1926,4 +1926,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mecka.ai/2c75ff82-1aab-455b-ade1-a20e68740823 | Mecka AI | Software Developer, Robotic Data & Deliveries | New York · Toronto GTA · Richmond Hill · Canada · San Francisco · United States | posted: 2026-11-13
 - [ ] https://job-boards.greenhouse.io/diracinc/jobs/4506200009 | Dirac, Inc. | Software Engineer | New York City | posted: 2026-11-13
 
+- [ ] https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003 | Abnormal AI | Software Engineer I, Data Platforms | Remote - USA | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/wayve/330f5ef2-63e5-4de1-aa2c-a7581a07ea1a | Wayve | Data Engineer, Security Analytics | Sunnyvale, California USA | posted: 2026-11-13
+- [ ] https://gundersenhealth.wd5.myworkdayjobs.com/Gundersen/job/La-Crosse-WI/Front-End-Merchandising-Specialist_JR-33652 | Gundersen Health System | Front-End Merchandising Specialist | La Crosse WI | posted: 2026-11-12
+
 ## Processed
