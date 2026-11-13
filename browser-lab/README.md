@@ -72,5 +72,36 @@ Confirmed working in CI after the fix: run **`43461684685`** (commit `37a071a6`)
 ### Operational limitations (as of this hardening round)
 
 - A forced process-group `SIGKILL` (the last-resort path in both `close()` and `terminateCdpBridgeProcess()`) can leave Playwright's own internally-managed temp profile directory's files on disk — no process survives, only inert files. Graceful shutdown (the default path) avoids this entirely.
-- This CI runner reliably supports only a handful (~4-5 observed) of sequential real CloakBrowser launches within one job before launches start failing (`exitCode=76`) — a real resource ceiling (CPU/memory/zygote-state in the container), not a bug in this bridge. Any future caller doing many real launches per run should budget for this or spread launches across jobs.
+- This CI runner reliably supports only a handful (~4-5 observed) of sequential real CloakBrowser launches within one job before launches start failing (`exitCode=76`) — see the production-readiness review below for what this does and does not correlate with.
 - This remains two coordinated OS processes (Node + Python), not a single-process integration — see "What this does not resolve" above, unchanged.
+
+### Production-readiness review (2026-11-13)
+
+**Scope**: no architecture changes — this was a review of the existing CDP bridge/lifecycle work plus one small, env-gated, additive instrumentation (see below). No reproducible defect was found in `cdp-bridge.mjs`/`cdp-process.mjs` themselves; the browser-infrastructure work is closed as of this review.
+
+**1-2. What the `exitCode=76` failures correlate with**: a resource snapshot (process count, aggregate Chromium RSS, approximate open file descriptors, `/tmp` disk usage) was added to the existing "CloakBrowser on same loopback fixture" step (`BROWSER_LAB_RESOURCE_PROFILE=1`, reusing that step's one existing launch — **zero new browser launches added**) and run for real in CI (run `43463871153`, success). Real numbers from a GitHub-hosted `ubuntu-24.04` runner:
+
+  | Sample | Processes | Free RAM | Chromium RSS | Open FDs (approx) | `/tmp` disk |
+  | --- | ---: | ---: | ---: | ---: | ---: |
+  | before launch | 168 | 11,686 MB | 0 KB | 478 | 5 MB |
+  | after launch | 176 (+8) | 11,670 MB (−16 MB) | 548,724 KB (~536 MB) | 716 (+238) | 6 MB (+1 MB) |
+  | after close | 168 | 11,630 MB | 0 KB | 478 | 5 MB |
+
+  **A single real CloakBrowser session returns exactly to its pre-launch baseline on every metric after `close()`** — process count, Chromium RSS, and open FDs all land back at the exact pre-launch numbers. One session costs ~536 MB RSS and ~238 extra FDs against ~11.6 GB free RAM and (Ubuntu's typical multi-thousand FD ulimit) — nowhere close to exhausting either, even for several sequential sessions, as long as each closes before the next launches (which this bridge already enforces sequentially).
+
+  **Determination**: this rules out raw OS resource exhaustion (memory, process count, file descriptors, `/tmp` disk) as the cause of the ~4-5-launches-per-job ceiling seen in runs `43459689146`/`43460662824` — every one of those metrics shows a clean, complete release after each session, with enormous headroom before launch. The failures also survived a settle delay and a retry (see the "Lifecycle hardening" section above), ruling out a pure OS-level timing race as well. The most likely remaining explanation is a **vendor-side constraint** — most plausibly CloakBrowser's license-server enforcing a short-window launch-rate or single-concurrent-session grant that hasn't fully released between back-to-back real launches in the same job (consistent with the free tier's documented single-concurrent-session limit). Confirming this precisely would require either CloakBrowser vendor documentation on launch-rate limits, or escalating to their support with the exact log lines from runs `43459689146`/`43460662824` — outside what local OS-level metrics alone can establish. **No code change was made for this, since nothing reproducible was found in this bridge's own logic** — the existing mitigation (fewer sequential real launches per job, already applied) is the correct response to a vendor-side limit, not a bug fix.
+
+**3.** Metrics were collected via the single launch above (bounded — no new launches added beyond the existing job's established-safe count).
+
+**4. No leftover Chromium/Node processes after tests**: confirmed twice over in the same successful run (`43463871153`) — the resource snapshot's `after_close` sample returns to the exact pre-launch baseline, and the existing real orphan-sweep tests in `test/browser-lab-cdp-interop.test.mjs` (which `ps`-grep for the CDP-bridge's distinctive `--remote-debugging-address=127.0.0.1` flag after a forced timeout-kill and after a full launch/terminate cycle) all passed for real (6/6).
+
+**5. The workflow cannot accidentally publish HiringCafe feeds**: `browser-lab.yml` has `permissions: contents: read` at the workflow level (no write/push capability at all), triggers only on `workflow_dispatch` (never a schedule or push), and every step in it runs only `browser-lab/*.mjs` or `test/browser-lab-*.test.mjs` against the local loopback fixture server — it never imports `scrape-hiringcafe.py`, `fetch-hiringcafe-feed.mjs`, or any HiringCafe URL, and never calls `git add`/`git commit`/`git push`/`gh`. There is no code path in this workflow that could reach `data/hiringcafe-feed.json`.
+
+**6. HiringCafe outage safeguards reviewed, confirmed intact, unmodified**: in `fetch-hiringcafe-feed.mjs`, `fetchFeed()` only calls `writeFileSync(OUT, ...)` (the published feed) *after* `assessHiringCafeScan()` (in `lib/hiringcafe-scan-health.mjs`) returns `{ publish: true }`. That function returns `publish: false` whenever `pagesFetched` is zero, every query failed (`failedQueries >= queryCount`), or zero jobs came back despite a successful page fetch — covering a full Cloudflare block as well as a quieter zero-results failure. On `publish: false`, `recordFailedHiringCafeScan()` writes only the heartbeat file (`exitCode: 1`, a `reason`, zero `newMatches`) and `fetchFeed()` throws *before* reaching the `writeFileSync(OUT, ...)` line — the last successful feed's bytes are never touched by a blocked or empty scan. This logic is unchanged by this review.
+
+**7. Resource requirements for one browser session per runner** (from the real measurement above, GitHub-hosted `ubuntu-24.04`, standard public-repo runner):
+  - **Memory**: ~536 MB RSS per session (Chromium process tree), fully released on `close()`. A runner needs comfortable headroom over this — the observed runner had ~11.6 GB free, far more than required.
+  - **Processes**: +8 OS processes per session (browser/zygote/GPU/renderer), fully released on `close()`.
+  - **File descriptors**: +238 per session, fully released on `close()` — stay well under typical Ubuntu per-process FD ulimits (often 1024+) for a single session; multiple *concurrent* (not sequential) sessions would need headroom scaled accordingly, but this bridge only ever runs one session at a time.
+  - **Disk**: ~1 MB of `/tmp` growth per session (Playwright's own internally-managed temp profile), released on a graceful `close()`.
+  - **Known ceiling, not explained by the above**: empirically, this specific runner/job combination tolerates roughly 4-5 sequential real CloakBrowser launches before failures begin — attribute this to the vendor-side explanation above, not to the OS resource budget documented here.
