@@ -2232,3 +2232,7 @@
 - [ ] https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | kira | Software Engineer (Backend, Infrastructure Focus) | New York or San Francisco | posted: 2026-11-13
 
 - [ ] https://jobs.ashbyhq.com/talkiatry/4343b2d6-b89f-4534-b208-515963523015 | talkiatry | Software Engineer DOLCE | Remote | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9 | openai | Full Stack Software Engineer, ChatGPT Finances | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1 | openai | Full Stack Software Engineer, Travel | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/joyfulhealth/ba51a0a3-0dc2-4bdb-9344-d646b182ddaa | joyfulhealth | AI Engineer | New York City | posted: 2026-11-13
