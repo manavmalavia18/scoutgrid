@@ -1923,4 +1923,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Cyber-Software-Engineer---Level-6_R10260433 | Northrop Grumman | Cyber Software Engineer - Level 6 | United States-California-Redondo Beach | posted: 2026-11-12
 - [ ] https://jobs.lever.co/convergentresearch/2d04acd9-f54b-4cae-8751-940155884221 | Convergent Research | E11 Bio - Machine Learning Scientist I/II | Alameda, CA, Open to Remote | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/mecka.ai/2c75ff82-1aab-455b-ade1-a20e68740823 | Mecka AI | Software Developer, Robotic Data & Deliveries | New York · Toronto GTA · Richmond Hill · Canada · San Francisco · United States | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/diracinc/jobs/4506200009 | Dirac, Inc. | Software Engineer | New York City | posted: 2026-11-13
+
 ## Processed
