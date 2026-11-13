@@ -2228,3 +2228,5 @@
 - [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6260703004 | sonyinteractiveentertainmentglobal | Software Engineer II | United States, San Mateo, CA | posted: 2026-11-13
 
 - [ ] https://job-boards.greenhouse.io/sustainment/jobs/4729533006 | sustainment | Software Engineer | Austin, Texas, United States | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | kira | Software Engineer (Backend, Infrastructure Focus) | New York or San Francisco | posted: 2026-11-13
