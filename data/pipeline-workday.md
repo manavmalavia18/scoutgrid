@@ -1489,4 +1489,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ovationhealthcare.wd5.myworkdayjobs.com/ovationhealthcare/job/United-States-Remote/Azure-Application-Developer_R2870 | ovationhealthcare | Azure Application Developer | United States (Remote) | posted: 2026-11-13
 
+- [ ] https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Canada/EverPro---Software-Development-Engineer-in-Test_R-106664 | evercommerce | EverPro - Software Development Engineer in Test | Remote (Canada) | posted: 2026-11-13
+
 ## Processed
