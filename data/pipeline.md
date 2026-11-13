@@ -2202,3 +2202,7 @@
 - [ ] https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003 | abnormalsecurity | Software Engineer I, Data Platforms | Remote - USA | posted: 2026-11-13
 
 - [ ] https://jobs.ashbyhq.com/ruby-labs/fbd0a088-0104-4802-a693-2690be572181 | ruby-labs | AI Engineer | Ukraine · Moldova · Albania · Kazakhstan · Montenegro · European Union · Serbia · Georgia · Remote | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/conduct/002c7fa7-9c58-401c-a8e8-e51f15830471 | conduct | Platform Engineer | NYC, US | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/5f83c6ff-bc79-4199-ba59-6abab6d69567 | elevenlabs | Full-Stack Engineer (Frontend Leaning) - ElevenAI | United Kingdom · Dublin · Ireland · Hungary · Bulgaria · Switzerland · Denmark · Poland · Warsaw · Sweden · Stockholm · Zurich · London · Czechia · UAE · Dubai · United Arab Emirates · Berlin · Germany · Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88 | elevenlabs | Full-Stack Engineer (Backend Leaning) - ElevenAI | United Kingdom · Dublin · Ireland · Hungary · Bulgaria · Sofia · Switzerland · Denmark · Poland · Warsaw · Sweden · Stockholm · Zurich · London · Czechia · UAE · Dubai · United Arab Emirates · Berlin · Germany · Remote | posted: 2026-11-13
