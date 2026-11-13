@@ -2218,3 +2218,5 @@
 - [ ] https://jobs.ashbyhq.com/gamechanger/4b9837dc-85c5-4b16-a07d-bd8c6f8be246 | gamechanger | Software Engineer, Ads | GameChanger Remote - US | posted: 2026-11-13
 
 - [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6260691004 | neuehealth | Backend Software Engineer 3 | Remote · No Office | posted: 2026-11-13
+
+- [ ] https://octane.co/o/who-we-are/careers/jobs-open?gh_jid=8203601003 | octanelending | Software Engineer II | Irving, Texas, United States; New York, New York, United States; Remote | posted: 2026-11-13
