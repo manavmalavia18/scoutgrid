@@ -1939,4 +1939,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://stripe.com/jobs/search?gh_jid=8384287 | stripe | Software Engineer, Full Stack | New York, NY | posted: 2026-11-12
 - [ ] https://job-boards.greenhouse.io/flexe/jobs/4729304006 | flexe | Software Development Engineer II - Pre-Reservation Team | Seattle, Hybrid | posted: 2026-11-12
 
+- [ ] https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003 | abnormalsecurity | Software Engineer I, Data Platforms | Remote - USA | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/diracinc/jobs/4506200009 | diracinc | Software Engineer | New York City | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/Symmetry/a38a695e-8957-4638-ab8b-6515b4e79cd9 | symmetry | Applied AI Engineer | Seattle HQ | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740 | polygon-labs | AI Platform Engineer | EMEA - Remote · USA - Remote · United States | posted: 2026-11-12
+
 ## Processed
