@@ -1992,4 +1992,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bentleysystems.wd5.myworkdayjobs.com/bentley/job/Philadelphia-Pennsylvania-United-States/Applied-AI-Engineer---Engineering-Simulation---Design-Exploration_R249 | Bentley Systems | Applied AI Engineer - Engineering Simulation & Design Exploration | Philadelphia, Pennsylvania, United States | posted: 2026-11-12
 - [ ] https://newchartertech.wd12.myworkdayjobs.com/commtechindustries/job/CommTech-LA---Metairie/Application-Developer_JR0975 | New Charter Technologies | Application Developer | CommTech LA - Metairie | posted: 2026-11-12
 
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Risk--Data---AI-Software-Engineer--Remote--US-_R36643-1 | Allstate | Risk, Data & AI Software Engineer (Remote, US) | US - Remote | posted: 2026-11-13
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Cruise-Automation---San-Francisco-HQ---Cruise-San-Francisco-1201-Bryant-Street-and-530-10th-Street/AI-ML-Engineer_JR-202517415 | General Motors | ML / AI Software Engineer - C++ Metrics Frameworks | 4 Locations | posted: 2026-11-13
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1 | General Motors | AI/ML Engineer - Model Inference | Sunnyvale, California, United States of America | posted: 2026-11-13
+
 ## Processed
