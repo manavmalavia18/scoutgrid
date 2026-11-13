@@ -1932,4 +1932,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Data-Engineer---Risk---Compliance_JR101206 | Circle Fintech | Data Engineer - Risk & Compliance | San Francisco - remote first in US | posted: 2026-11-12
 
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Specialist--Marketing-Analytics_099461 | Nationwide | Specialist, Marketing Analytics | Ohio Columbus One Nationwide Plaza | posted: 2026-11-13
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294371007?gh_jid=5294371007 | Anduril Industries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-13
+- [ ] https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/OpenShift-Platform-Engineer_R91878 | M&T Bank | OpenShift Platform Engineer | Remote, USA | posted: 2026-11-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Wright-Patterson-AFB/DevOps-Engineer_R10260591 | Northrop Grumman | DevOps Engineer | United States-Ohio-Wright-Patterson AFB | posted: 2026-11-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423 | Northrop Grumman | 2027 - Associate Software Engineer - McClellan CA | United States-California-McClellan | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/conduct/002c7fa7-9c58-401c-a8e8-e51f15830471 | Conduct | Platform Engineer | NYC, US | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/scope-labs/fd6e7ed6-4595-4bb1-8056-1efc265fdc9b | Scope Labs | Software Engineer (DreamLever) | New York City | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/scope-labs/0ac9ceec-0a3e-4147-8847-441fe8902463 | Scope Labs | Software Engineer (UpNext) | New York City | posted: 2026-11-12
+
 ## Processed
