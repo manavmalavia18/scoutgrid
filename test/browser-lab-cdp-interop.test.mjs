@@ -2,10 +2,12 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { spawn, spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { spawnCdpBridgeProcess, terminateCdpBridgeProcess, CdpProcessError } from '../browser-lab/cdp-process.mjs';
 
 /**
  * Real integration test: spawns the actual browser-lab/cdp-bridge.mjs
- * (real CloakBrowser, real CDP endpoint on loopback) and drives it from a
+ * (real CloakBrowser, real CDP endpoint on loopback) through the hardened
+ * browser-lab/cdp-process.mjs lifecycle helpers, and drives it from a
  * real Python Playwright client via connect_over_cdp — against the local
  * HC-shaped fixture only, never hiringcafe.com or any other real target.
  * SKIPPED (not silently passed) without CLOAKBROWSER_LICENSE_KEY or a
@@ -13,7 +15,6 @@ import { fileURLToPath } from 'node:url';
  * browser-lab.
  */
 const repoRoot = fileURLToPath(new URL('..', import.meta.url));
-const bridgeScript = fileURLToPath(new URL('../browser-lab/cdp-bridge.mjs', import.meta.url));
 const clientModule = fileURLToPath(new URL('../browser-lab/cdp_client.py', import.meta.url));
 const fixtureServer = fileURLToPath(new URL('./fixtures/hc_local_server.py', import.meta.url));
 
@@ -40,6 +41,15 @@ function pyRun(code, { timeout = 20000 } = {}) {
   return spawnSync('python3', ['-c', code], { encoding: 'utf8', cwd: repoRoot, timeout });
 }
 
+function listChromeProcesses() {
+  // macOS/Linux-portable enough for this lab's CI runner: list PIDs of any
+  // process whose command line mentions our own profile-dir prefix, which
+  // only ever appears in --user-data-dir=<prefix>NNN for bridges WE
+  // launched in this test file.
+  const res = spawnSync('ps', ['-eo', 'pid,command']);
+  return (res.stdout || Buffer.from('')).toString();
+}
+
 async function withFixtureServer(fn) {
   const server = spawn('python3', [fixtureServer, '0'], { stdio: ['ignore', 'pipe', 'pipe'] });
   const port = await new Promise((resolve, reject) => {
@@ -60,31 +70,12 @@ async function withFixtureServer(fn) {
   }
 }
 
-async function withBridge(fn) {
-  const bridge = spawn('node', [bridgeScript], { cwd: repoRoot, stdio: ['ignore', 'pipe', 'pipe'], env: process.env });
-  let stderr = '';
-  bridge.stderr.on('data', (c) => { stderr += c.toString(); });
-  const cdpPort = await new Promise((resolve, reject) => {
-    let buf = '';
-    const onData = (chunk) => {
-      buf += chunk.toString();
-      const m = buf.match(/\{"ok":true,"port":(\d+)\}/);
-      if (m) { bridge.stdout.off('data', onData); resolve(Number(m[1])); }
-    };
-    bridge.stdout.on('data', onData);
-    bridge.once('error', reject);
-    bridge.once('exit', (code) => reject(new Error(`bridge exited early (code ${code}): ${stderr.slice(-500)}`)));
-    setTimeout(() => reject(new Error(`bridge did not report a port in time: ${stderr.slice(-500)}`)), 30000);
-  });
+async function withBridge(fn, spawnOpts = {}) {
+  const { port: cdpPort, child } = await spawnCdpBridgeProcess({ env: process.env, ...spawnOpts });
   try {
-    return await fn(cdpPort, bridge);
+    return await fn(cdpPort, child);
   } finally {
-    if (!bridge.killed) bridge.kill('SIGTERM');
-    await new Promise((resolve) => {
-      if (bridge.exitCode !== null) return resolve();
-      bridge.once('exit', resolve);
-      setTimeout(resolve, 5000);
-    });
+    await terminateCdpBridgeProcess(child, { gracefulTimeoutMs: 5000 });
   }
 }
 
@@ -107,8 +98,8 @@ print(json.dumps(result))
   });
 });
 
-test('real interop: Python disconnecting does not kill the browser — only Node\'s own shutdown does', { skip }, async () => {
-  await withBridge(async (cdpPort, bridge) => {
+test('real interop: Python disconnecting does not kill the browser — only the bridge\'s own shutdown does', { skip }, async () => {
+  await withBridge(async (cdpPort, child) => {
     const probeAlive = (expected) => {
       const code = `
 import importlib.util, json
@@ -128,14 +119,9 @@ print(json.dumps(m.is_browser_reachable('http://127.0.0.1:${cdpPort}')))
     probeAlive(true);
     probeAlive(true);
 
-    // Only Node's own SIGTERM-triggered close() actually ends it.
-    bridge.kill('SIGTERM');
-    await new Promise((resolve) => {
-      if (bridge.exitCode !== null) return resolve();
-      bridge.once('exit', resolve);
-      setTimeout(resolve, 5000);
-    });
-    assert.equal(bridge.killed || bridge.exitCode !== null, true, 'the bridge process should have exited after SIGTERM');
+    // Only the bridge's own graceful SIGTERM-triggered close() actually ends it.
+    await terminateCdpBridgeProcess(child, { gracefulTimeoutMs: 5000 });
+    assert.equal(child.exitCode !== null || child.signalCode !== null, true, 'the bridge process should have exited');
     probeAlive(false);
   });
 });
@@ -157,7 +143,50 @@ except m.CdpClientError as e:
   assert.deepEqual(JSON.parse(result.stdout.trim().split('\n').pop()), ['raised', true]);
 });
 
-test('environment note: whether the real CDP interop experiment actually ran', () => {
+test('real hardening: a startup timeout kills the whole process group — no orphaned Chromium left behind', { skip }, async () => {
+  // An intentionally impossible readiness deadline: the real CloakBrowser
+  // launch takes well over 20ms, so spawnCdpBridgeProcess must time out,
+  // SIGKILL the bridge's process group (not just the Node wrapper), and
+  // leave nothing running that a `ps` sweep a moment later can still see.
+  await assert.rejects(
+    () => spawnCdpBridgeProcess({ env: process.env, readyTimeoutMs: 20 }),
+    (err) => {
+      assert.ok(err instanceof CdpProcessError);
+      assert.match(err.message, /did not become ready within 20ms/);
+      return true;
+    },
+  );
+  // Give the OS a brief moment to finish reaping, then confirm no leftover
+  // cdp-bridge.mjs/cloakbrowser-profile process is still listed.
+  await new Promise((r) => setTimeout(r, 1500));
+  const ps = listChromeProcesses();
+  assert.doesNotMatch(ps, /cdp-bridge-profile-/, 'a profile-dir-tagged Chromium process must not survive a readiness-timeout kill');
+});
+
+test('real hardening: repeated real launch/terminate cycles leave no leftover bridge or Chromium processes', { skip }, async () => {
+  for (let i = 0; i < 2; i += 1) {
+    await withBridge(async (cdpPort) => {
+      // A minimal liveness probe is enough — the point of this test is
+      // the lifecycle (two full real launch+terminate cycles), not a
+      // second full fixture drive (already covered above).
+      const code = `
+import importlib.util, json
+spec = importlib.util.spec_from_file_location('cdp_client', ${JSON.stringify(clientModule)})
+m = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(m)
+print(json.dumps(m.is_browser_reachable('http://127.0.0.1:${cdpPort}')))
+`;
+      const result = pyRun(code);
+      assert.equal(result.status, 0, result.stderr);
+      assert.equal(JSON.parse(result.stdout.trim().split('\n').pop()), true);
+    });
+  }
+  await new Promise((r) => setTimeout(r, 1000));
+  const ps = listChromeProcesses();
+  assert.doesNotMatch(ps, /cdp-bridge-profile-/, 'no profile-dir-tagged Chromium process should survive two full launch/terminate cycles');
+});
+
+test('environment note: whether the real CDP interop/hardening experiment actually ran', () => {
   if (skip) {
     console.log(`[cdp-interop] SKIPPED — ${skip}`);
   } else {

@@ -10,12 +10,23 @@
  * via Python Playwright's `connect_over_cdp`) can attach, drive pages, and
  * disconnect without owning the process lifecycle at all.
  *
+ * Hardening in this version: an explicit, self-owned temp profile
+ * directory (so it can be reliably removed instead of relying on
+ * Playwright's internal cleanup, which never runs if the process is
+ * SIGKILLed); detection of an unexpected browser crash/disconnect versus a
+ * deliberate close(); and a graceful-close-then-forced-kill sequence so a
+ * hung `browser.close()` can't leave the real Chromium process running
+ * forever.
+ *
  * No production import, no Tailscale route, no request to HiringCafe or
  * any other real target — this module only ever navigates the loopback
  * fixture server under test/fixtures/.
  */
 import { createServer } from 'node:net';
 import { setTimeout as delay } from 'node:timers/promises';
+import { mkdtemp, rm } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 
 export class CdpBridgeError extends Error {}
 
@@ -52,12 +63,39 @@ export async function waitForCdpReady(port, { timeoutMs = 10000, intervalMs = 10
   throw new CdpBridgeError(`CDP endpoint on 127.0.0.1:${port} never became ready: ${lastErr?.message || 'timeout'}`);
 }
 
+/** Best-effort recursive removal of the temp profile dir. Never throws —
+ * a cleanup failure must not mask whatever the caller was already doing,
+ * and there's nothing more we can do about a directory the OS won't
+ * remove (still-open file handles from a not-fully-dead process, etc). */
+async function removeProfileDir(profileDir) {
+  if (!profileDir) return;
+  try {
+    await rm(profileDir, { recursive: true, force: true });
+  } catch {
+    // Best-effort only.
+  }
+}
+
 /**
  * Launch CloakBrowser with a loopback-only CDP endpoint. Returns
- * `{ port, cdpUrl, close }` — `close()` is idempotent and is the only
- * sanctioned way to end the browser process; a CDP client disconnecting
- * (Python's `browser.close()` on a `connect_over_cdp()` handle) never
- * kills the process, by Playwright's own CDP-connect semantics.
+ * `{ port, cdpUrl, close, crashed }`:
+ *   - `close({ killTimeoutMs })` is idempotent: tries `browser.close()`
+ *     gracefully, and if that doesn't resolve within `killTimeoutMs`
+ *     (default 5000), force-kills the real OS process via
+ *     `browser.process().kill('SIGKILL')` so a hung close() can never
+ *     leave an orphaned Chromium behind. Always removes the self-owned
+ *     temp profile directory afterward, win or lose.
+ *   - `crashed` is a Promise that resolves `true` the moment the browser
+ *     disconnects WITHOUT `close()` having been called first (a real
+ *     crash/unexpected exit) — never resolves on a deliberate close. A
+ *     caller (e.g. the CLI block below) can race this against a shutdown
+ *     signal to detect "the browser died on its own", not just "someone
+ *     told me to stop".
+ *
+ * A CDP client disconnecting (Python's `browser.close()` on a
+ * `connect_over_cdp()` handle) never reaches any of this — that is a pure
+ * client-side disconnect, by Playwright's own CDP-connect semantics, and
+ * is covered by test/browser-lab-cdp-interop.test.mjs.
  */
 export async function launchCdpBridge({
   licenseKey = process.env.CLOAKBROWSER_LICENSE_KEY || '',
@@ -65,6 +103,8 @@ export async function launchCdpBridge({
   playwrightCore,
   pickPort = pickEphemeralPort,
   waitForReady = waitForCdpReady,
+  mkdtempImpl = mkdtemp,
+  removeProfileDirImpl = removeProfileDir,
 } = {}) {
   if (!licenseKey) {
     throw new CdpBridgeError('CLOAKBROWSER_LICENSE_KEY is required for the CDP bridge experiment');
@@ -74,37 +114,67 @@ export async function launchCdpBridge({
   const { chromium } = playwrightCore || await import('playwright-core');
 
   const port = await pickPort();
+  const profileDir = await mkdtempImpl(join(tmpdir(), 'cdp-bridge-profile-'));
   const base = await buildLaunchOptions({ headless: true, licenseKey });
   const args = [
     ...(base.args || []),
     `--remote-debugging-port=${port}`,
     // Explicit loopback restriction — never 0.0.0.0, never a public bind.
     '--remote-debugging-address=127.0.0.1',
+    // Self-owned, explicitly-tracked profile dir — never rely on
+    // Playwright's internal temp-dir cleanup, which only runs on a clean
+    // browser.close() and never after a SIGKILL.
+    `--user-data-dir=${profileDir}`,
   ];
 
   let browser;
   try {
     browser = await chromium.launch({ ...base, args });
   } catch (err) {
+    await removeProfileDirImpl(profileDir);
     // Never log licenseKey, base.env, or args here — only a sanitized message.
     throw new CdpBridgeError(`failed to launch CloakBrowser for the CDP bridge: ${err.message}`);
   }
 
+  let closedByUs = false;
+  let crashResolve;
+  const crashed = new Promise((resolve) => { crashResolve = resolve; });
+  browser.on('disconnected', () => {
+    if (!closedByUs) crashResolve(true);
+  });
+
   try {
     await waitForReady(port);
   } catch (err) {
+    closedByUs = true;
     await browser.close().catch(() => {});
+    await removeProfileDirImpl(profileDir);
     throw err;
   }
 
   let closed = false;
-  async function close() {
+  async function close({ killTimeoutMs = 5000 } = {}) {
     if (closed) return;
     closed = true;
-    await browser.close().catch(() => {});
+    closedByUs = true;
+    const graceful = browser.close().then(() => true).catch(() => true);
+    const finishedGracefully = await Promise.race([
+      graceful,
+      delay(killTimeoutMs).then(() => false),
+    ]);
+    if (!finishedGracefully) {
+      // browser.close() didn't resolve in time — force-kill the real OS
+      // process so it can never linger as an orphan.
+      try {
+        browser.process()?.kill('SIGKILL');
+      } catch {
+        // Best-effort only.
+      }
+    }
+    await removeProfileDirImpl(profileDir);
   }
 
-  return { port, cdpUrl: `http://127.0.0.1:${port}`, close, _browser: browser };
+  return { port, cdpUrl: `http://127.0.0.1:${port}`, close, crashed, profileDir, _browser: browser };
 }
 
 if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
@@ -119,14 +189,18 @@ if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).
   }
   console.log(JSON.stringify({ ok: true, port: bridge.port }));
   let shuttingDown = false;
-  const shutdown = async () => {
+  const shutdown = async (exitCode) => {
     if (shuttingDown) return;
     shuttingDown = true;
     await bridge.close();
-    process.exit(0);
+    process.exit(exitCode);
   };
-  process.on('SIGTERM', shutdown);
-  process.on('SIGINT', shutdown);
-  // Keep the event loop alive until a signal arrives.
+  process.on('SIGTERM', () => shutdown(0));
+  process.on('SIGINT', () => shutdown(0));
+  // An unexpected browser crash must not leave this process hanging
+  // forever waiting for a signal nobody will send — exit non-zero so a
+  // parent/test harness can distinguish "crashed" from "told to stop".
+  bridge.crashed.then(() => shutdown(1));
+  // Keep the event loop alive until a signal arrives or the browser dies.
   await new Promise(() => {});
 }
