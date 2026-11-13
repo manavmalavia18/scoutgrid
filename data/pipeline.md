@@ -2194,3 +2194,7 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8181183003 | affirm | Software Engineer I, Backend (Continuous Delivery) | Remote US | posted: 2026-11-12
 - [ ] https://jobs.ashbyhq.com/zip/e7bcd788-ca5f-4e90-9728-0de7b57026a1 | zip | Software Engineer, Backend (All Levels) | San Francisco | posted: 2026-11-12
 - [ ] https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003 | klaviyo | Software Engineer II - Flows Experience | Boston, MA | posted: 2026-11-12
+
+- [ ] https://job-boards.greenhouse.io/diracinc/jobs/4506200009 | diracinc | Software Engineer | New York City | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/Symmetry/a38a695e-8957-4638-ab8b-6515b4e79cd9 | symmetry | Applied AI Engineer | Seattle HQ | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740 | polygon-labs | AI Platform Engineer | EMEA - Remote · USA - Remote · United States | posted: 2026-11-12
