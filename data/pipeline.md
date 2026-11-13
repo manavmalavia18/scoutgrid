@@ -2250,3 +2250,6 @@
 
 - [ ] https://job-boards.greenhouse.io/distantjob/jobs/8941192002 | distantjob | Applied AI Engineer | Remote · Remote | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/granted/cc514efc-3a4d-4ebc-847c-a0aa26774dd6 | granted | Backend Engineer - Integrations | Remote - Continental US | posted: 2026-11-12
+
+- [ ] https://jobs.ashbyhq.com/outtake/67a35d51-9e10-4803-a7a1-45f581b7f1a8 | outtake | Software Engineer, Platform | New York City | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8943553002 | twitch | Software Engineer I, Payments | San Francisco, CA | posted: 2026-11-13
