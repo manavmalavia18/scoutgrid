@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T16:04:58.759Z",
+  "fetchedAt": "2026-11-13T16:27:48.212Z",
   "days": 2,
   "leadCount": 33,
   "jobCount": 20,
@@ -10,13 +10,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 64,
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
       "kept": 0
     },
     {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
+      "key": "greenhouse:stepstone",
+      "fetched": 64,
       "kept": 0
     },
     {
@@ -30,8 +30,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 44,
+      "key": "greenhouse:quantifind",
+      "fetched": 19,
       "kept": 0
     },
     {
@@ -40,18 +40,8 @@
       "kept": 4
     },
     {
-      "key": "greenhouse:quantifind",
-      "fetched": 19,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:careers",
       "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 294,
       "kept": 0
     },
     {
@@ -60,18 +50,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:applovin",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:knack-direct-applicants",
       "fetched": 1,
       "kept": 0
     },
     {
-      "key": "ashby:evenup",
-      "fetched": 0,
-      "kept": 0
+      "key": "greenhouse:doordashusa",
+      "fetched": 432,
+      "kept": 1
     },
     {
-      "key": "ashby:hockeystack",
-      "fetched": 3,
+      "key": "ashby:evenup",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -80,8 +75,18 @@
       "kept": 0
     },
     {
+      "key": "ashby:hockeystack",
+      "fetched": 3,
+      "kept": 0
+    },
+    {
       "key": "ashby:langchain",
       "fetched": 100,
+      "kept": 0
+    },
+    {
+      "key": "ashby:harmonic",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -95,9 +100,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:harmonic",
-      "fetched": 9,
-      "kept": 0
+      "key": "ashby:snowflake",
+      "fetched": 375,
+      "kept": 4
     },
     {
       "key": "ashby:baseten",
@@ -110,14 +115,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 375,
-      "kept": 4
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 433,
-      "kept": 1
+      "key": "greenhouse:xai",
+      "fetched": 294,
+      "kept": 0
     },
     {
       "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
@@ -125,14 +125,14 @@
       "kept": 0
     },
     {
-      "key": "lever:avivesolutions",
-      "fetched": 9,
-      "kept": 0
-    },
-    {
       "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 237,
+      "kept": 3
     },
     {
       "key": "workday:kla.wd1.myworkdayjobs.com/search",
@@ -142,6 +142,11 @@
     {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:avivesolutions",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -155,19 +160,14 @@
       "kept": 3
     },
     {
-      "key": "workday:thomsonreuters.wd5.myworkdayjobs.com/external_career_site",
-      "fetched": 80,
-      "kept": 1
-    },
-    {
       "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
       "fetched": 80,
       "kept": 2
     },
     {
-      "key": "lever:zoox",
-      "fetched": 237,
-      "kept": 3
+      "key": "workday:thomsonreuters.wd5.myworkdayjobs.com/external_career_site",
+      "fetched": 80,
+      "kept": 1
     }
   ],
   "jobs": [
@@ -212,6 +212,16 @@
       "board": "affirm"
     },
     {
+      "title": "Senior Software Engineer, ML Serving Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8384127",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-11-12T20:48:36.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
       "title": "Staff Software Engineer - Compiler & Spark Runtime ",
       "url": "https://jobs.ashbyhq.com/snowflake/57131f28-cdf8-4776-aa87-8f9339e494ab",
       "company": "Snowflake",
@@ -252,14 +262,34 @@
       "board": "snowflake"
     },
     {
-      "title": "Senior Software Engineer, ML Serving Platform",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8384127",
-      "company": "DoorDash",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "postedAt": "2026-11-12T20:48:36.000Z",
+      "title": "Senior Software Engineer - Autonomy Safety Metric",
+      "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-11-12T17:28:11.025Z",
       "salary": "",
-      "ats": "Greenhouse",
-      "board": "doordashusa"
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Contract Student Worker - Machine Learning Engineer",
+      "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
+      "company": "Zoox",
+      "location": "Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA",
+      "postedAt": "2026-11-12T00:07:08.573Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Contract Student Worker - Software Engineer (20/hrs week)",
+      "url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-11-11T21:48:33.716Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
     },
     {
       "title": "Senior Site Reliability Engineer I",
@@ -317,17 +347,6 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Senior Cloud and DevOps Engineer",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-and-DevOps-Engineer_JREQ205291-1",
-      "company": "Thomson Reuters",
-      "location": "United States of America Eagan Minnesota",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "external_career_site",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "OpenShift Platform Engineer",
       "url": "https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/OpenShift-Platform-Engineer_R91878",
       "company": "M&T Bank",
@@ -350,34 +369,15 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Senior Software Engineer - Autonomy Safety Metric",
-      "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-11-12T17:28:11.025Z",
+      "title": "Senior Cloud and DevOps Engineer",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-and-DevOps-Engineer_JREQ205291-1",
+      "company": "Thomson Reuters",
+      "location": "United States of America Eagan Minnesota",
+      "postedAt": "2026-11-12T12:00:00.000Z",
       "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Contract Student Worker - Machine Learning Engineer",
-      "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
-      "company": "Zoox",
-      "location": "Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA",
-      "postedAt": "2026-11-12T00:07:08.573Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Contract Student Worker - Software Engineer (20/hrs week)",
-      "url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-11-11T21:48:33.716Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
+      "ats": "Workday",
+      "board": "external_career_site",
+      "postedAtSource": "workday-detail"
     }
   ],
   "leadSources": [
