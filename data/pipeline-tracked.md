@@ -1946,4 +1946,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-McLean-Virginia/Data-Engineer_JREQ205310 | Thomson Reuters | Data Engineer | United States of America McLean Virginia | posted: 2026-11-13
 - [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Software-Engineer_REQ-12953 | Q2 | Software Engineer | Austin, TX | posted: 2026-11-13
 
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-Jersey---Rockaway-100-Enterprise-Drive/Consultant--Software-Engineer--E-Risk-Services---Rockaway--New-Jersey-_101380 | Nationwide | Consultant, Software Engineer (E-Risk Services - Rockaway, New Jersey) | New Jersey Rockaway 100 Enterprise Drive | posted: 2026-11-13
+- [ ] https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Applied-AI-Analyst_R30670-1 | Taylor Corporation | Applied AI Analyst | MN Remote | posted: 2026-11-13
+
 ## Processed
