@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-11-13T18:21:04.876Z",
+  "fetchedAt": "2026-11-13T18:43:16.850Z",
   "days": 2,
   "leadCount": 33,
-  "jobCount": 21,
+  "jobCount": 22,
   "boards": [
-    {
-      "key": "greenhouse:fieldwire",
-      "fetched": 23,
-      "kept": 0
-    },
     {
       "key": "greenhouse:taketwo",
       "fetched": 35,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:fieldwire",
+      "fetched": 23,
       "kept": 0
     },
     {
@@ -20,38 +20,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 217,
-      "kept": 4
-    },
-    {
-      "key": "greenhouse:applovin",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 294,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:quantifind",
-      "fetched": 19,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:careers",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 432,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:knack-direct-applicants",
-      "fetched": 1,
+      "key": "greenhouse:fashionnova",
+      "fetched": 96,
       "kept": 0
     },
     {
@@ -60,13 +30,38 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:xai",
+      "fetched": 294,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:careers",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:quantifind",
+      "fetched": 19,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:affirm",
+      "fetched": 217,
+      "kept": 4
+    },
+    {
       "key": "greenhouse:baselayer",
       "fetched": 14,
       "kept": 0
     },
     {
-      "key": "greenhouse:fashionnova",
-      "fetched": 96,
+      "key": "greenhouse:applovin",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:knack-direct-applicants",
+      "fetched": 1,
       "kept": 0
     },
     {
@@ -80,13 +75,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:harmonic",
-      "fetched": 9,
+      "key": "ashby:reducto",
+      "fetched": 38,
       "kept": 0
     },
     {
-      "key": "ashby:reducto",
-      "fetched": 38,
+      "key": "greenhouse:doordashusa",
+      "fetched": 430,
+      "kept": 1
+    },
+    {
+      "key": "ashby:harmonic",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -95,18 +95,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
-      "kept": 0
-    },
-    {
       "key": "ashby:plaid",
       "fetched": 141,
       "kept": 0
     },
     {
-      "key": "ashby:mercor",
-      "fetched": 91,
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -120,8 +115,8 @@
       "kept": 4
     },
     {
-      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
-      "fetched": 19,
+      "key": "ashby:mercor",
+      "fetched": 91,
       "kept": 0
     },
     {
@@ -130,9 +125,9 @@
       "kept": 0
     },
     {
-      "key": "lever:avivesolutions",
-      "fetched": 9,
-      "kept": 0
+      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
+      "fetched": 19,
+      "kept": 1
     },
     {
       "key": "workday:kla.wd1.myworkdayjobs.com/search",
@@ -140,14 +135,24 @@
       "kept": 0
     },
     {
-      "key": "workday:amat.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
-      "kept": 0
+      "key": "lever:zoox",
+      "fetched": 237,
+      "kept": 3
     },
     {
       "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
       "fetched": 20,
       "kept": 2
+    },
+    {
+      "key": "lever:avivesolutions",
+      "fetched": 9,
+      "kept": 0
+    },
+    {
+      "key": "workday:amat.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
@@ -163,11 +168,6 @@
       "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
       "fetched": 80,
       "kept": 2
-    },
-    {
-      "key": "lever:zoox",
-      "fetched": 237,
-      "kept": 3
     }
   ],
   "jobs": [
@@ -260,6 +260,47 @@
       "salary": "",
       "ats": "Ashby",
       "board": "snowflake"
+    },
+    {
+      "title": "Consultor(a) FullStack Sênior",
+      "url": "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/Sao-Paulo-Torre-Paineira/Consultor-a--FullStack-Snior_R00367081",
+      "company": "Avanade",
+      "location": "4 Locations",
+      "postedAt": "2026-11-13T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "avanadecareers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Engineer - Autonomy Safety Metric",
+      "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-11-12T17:28:11.025Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Contract Student Worker - Machine Learning Engineer",
+      "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
+      "company": "Zoox",
+      "location": "Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA",
+      "postedAt": "2026-11-12T00:07:08.573Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Contract Student Worker - Software Engineer (20/hrs week)",
+      "url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-11-11T21:48:33.716Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
     },
     {
       "title": "Senior Site Reliability Engineer I",
@@ -359,36 +400,6 @@
       "ats": "Workday",
       "board": "mtb",
       "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Engineer - Autonomy Safety Metric",
-      "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-11-12T17:28:11.025Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Contract Student Worker - Machine Learning Engineer",
-      "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
-      "company": "Zoox",
-      "location": "Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA",
-      "postedAt": "2026-11-12T00:07:08.573Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Contract Student Worker - Software Engineer (20/hrs week)",
-      "url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-11-11T21:48:33.716Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
     }
   ],
   "leadSources": [
