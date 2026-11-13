@@ -20933,6 +20933,36 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "National Security Agency"
+    careers_url: https://job-boards.greenhouse.io/national
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 2 live jobs confirmed)
+  - name: "Re:Build"
+    careers_url: https://jobs.ashbyhq.com/rebuild
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4 live jobs confirmed)
+  - name: "Reliable Robotics Corporation"
+    careers_url: https://jobs.ashbyhq.com/reliable-robotics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 60 live jobs confirmed)
+  - name: "Robinhood"
+    careers_url: https://job-boards.greenhouse.io/robinhood
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 160 live jobs confirmed)
+  - name: "Shield Consulting Solutions, Inc."
+    careers_url: https://job-boards.greenhouse.io/shield
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 1 live jobs confirmed)
+  - name: "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you"
+    careers_url: https://job-boards.greenhouse.io/underdog
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 6 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
