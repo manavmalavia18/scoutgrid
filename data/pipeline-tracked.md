@@ -1964,4 +1964,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | Brooklyn, New York | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/277e3b4a-2e6b-4638-94b5-d65986f1bb14 | Superhuman | Software Engineer, Full-Stack - Growth Platform | Hub - San Francisco | posted: 2026-11-13
 
+- [ ] https://job-boards.greenhouse.io/syllo/jobs/4505507009 | Syllo | Platform Software Engineer | Remote · United States - Remote | posted: 2026-11-13
+- [ ] https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Remote--USA/Technical-Product-Analyst-I---Image-RPS_261315WD | Deluxe | Technical Product Analyst I - Image RPS | Remote, , USA | posted: 2026-11-13
+
 ## Processed
