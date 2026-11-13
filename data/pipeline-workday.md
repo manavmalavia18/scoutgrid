@@ -1482,4 +1482,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering---AgentExchange-Buyer-Experience---LMTS_JR368156 | salesforce | Software Engineering - AgentExchange Buyer Experience - LMTS | 2 Locations | posted: 2026-11-13
 
+- [ ] https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Applied-AI-Analyst_R30670-1 | taylor | Applied AI Analyst | MN Remote | posted: 2026-11-13
+- [ ] https://q2ebanking.wd5.myworkdayjobs.com/q2/job/Austin-TX/Software-Engineer_REQ-12953 | q2ebanking | Software Engineer | Austin, TX | posted: 2026-11-13
+- [ ] https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2 | jci | NextGen Software Engineer | Glendale-Wisconsin-United States of America | posted: 2026-11-13
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-3--AI-Foundations-_R1005770-1 | capitalone | AI Engineer 3 (AI Foundations) | 3 Locations | posted: 2026-11-13
+
 ## Processed
