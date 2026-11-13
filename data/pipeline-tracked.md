@@ -1974,4 +1974,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/airspace-intelligence.com/137579af-c726-4f28-9055-9d2f508e0bd2 | Airspace Intelligence | Frontend Engineer | Boston, US | posted: 2026-11-13
 - [ ] https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Data-Engineer_Req-52305 | Edwards Lifesciences | Data Engineer | USA - California – Irvine | posted: 2026-11-13
 
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Scientist-III---Agentic-Experiences_R-111153 | Expedia | Machine Learning Scientist III - Agentic Experiences | 2 Locations | posted: 2026-11-13
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/HCM-Analytics---BI-Developer_331697 | CACI | HCM Analytics & BI Developer | 2 Locations | posted: 2026-11-13
+- [ ] https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/AI---Data-Engineer---Hospital-Patient-Monitoring_589312 | Royal Philips | AI & Data Engineer - Hospital Patient Monitoring | Nashville, Tennessee, United States | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/talkiatry/4343b2d6-b89f-4534-b208-515963523015 | Talkiatry | Software Engineer DOLCE | Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/42dot/d118c92f-1378-404a-a98f-058948606d28 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | Sunnyvale, United States | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/1eb01ef7-8fef-4a7c-ae90-adfdaa46b9b0 | Superhuman | Data Engineer, Foundations | Hub - San Francisco · Hub - Seattle · Seattle · United States | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/Symmetry/a38a695e-8957-4638-ab8b-6515b4e79cd9 | Symmetry AI | Applied AI Engineer | Seattle HQ | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/vitvio/99db843a-9609-4bab-a788-faacf6d5643e | VitVio | Full-Stack Software Engineer (Frontend & Mobile Focus) | Remote · United States · USA · Europe · European Union | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/vitvio/54e12f86-ce09-4b9b-9de2-37645c10c80b | VitVio | Full-Stack Software Engineer (Infrastructure Focus) | Remote · United States · USA · Europe · European Union | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/Tracksuit/835cce1e-019f-47b2-bd82-d14720fff238 | Tracksuit | AI Engineer - GTM | Sydney, Australia · New York, United States · New York · United States | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/valkryn/1d8591ee-58e7-4005-83b5-a3c6c27332d4 | Valkryn Systems | Software Engineer - Backend | Manhattan NYC | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008 | DMC, Inc. | Entry Level Software Engineer | Chicago (Headquarters); Seattle | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/flexe/jobs/4729304006 | Flexe | Software Development Engineer II - Pre-Reservation Team | Seattle, Hybrid | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4753567005 | RVO Health | Software Engineer, Red Platform | Remote- US | posted: 2026-11-12
+- [ ] https://jobs.lever.co/fundrise/d4f3529b-8ebc-41bf-99f1-1d75c4e1c0c3 | Fundrise | Software Engineer II (CloudOps) | Remote; Washington, District of Columbia | posted: 2026-11-12
+- [ ] https://bentleysystems.wd5.myworkdayjobs.com/bentley/job/Philadelphia-Pennsylvania-United-States/Applied-AI-Engineer---Engineering-Simulation---Design-Exploration_R249 | Bentley Systems | Applied AI Engineer - Engineering Simulation & Design Exploration | Philadelphia, Pennsylvania, United States | posted: 2026-11-12
+- [ ] https://newchartertech.wd12.myworkdayjobs.com/commtechindustries/job/CommTech-LA---Metairie/Application-Developer_JR0975 | New Charter Technologies | Application Developer | CommTech LA - Metairie | posted: 2026-11-12
+
 ## Processed
