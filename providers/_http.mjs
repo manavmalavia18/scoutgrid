@@ -38,6 +38,10 @@ async function fetchWithTimeout(url, { timeoutMs = DEFAULT_TIMEOUT_MS, headers =
       err.status = res.status;
       err.body = responseText;
       err.retryAfter = res.headers.get('retry-after');
+      // Raw Headers object, kept in-memory only — callers that need a
+      // persisted diagnostic (see lib/hc-blocked-diagnostics.mjs) sanitize
+      // it down to a small allowlist before it's ever written anywhere.
+      err.headers = res.headers;
       throw err;
     }
     // Body consumption must stay inside the timer window: a server that sends

@@ -83,6 +83,16 @@ class BrowserSession(ABC):
         (patchright, via CDP) may override. Must never raise — a failure to
         minimize the headed window is cosmetic, not a scrape failure."""
 
+    def last_response_headers(self) -> dict[str, str]:
+        """Headers from the most recent `goto()`'s response, lowercase
+        keys, best-effort. Default empty for engines that don't expose
+        them; callers must not assume any particular header is present.
+        Never includes cookies — only the underlying engine's raw header
+        set, which calling code is responsible for sanitizing down to an
+        allowlist before persisting anywhere (see the JS counterpart in
+        lib/hc-blocked-diagnostics.mjs)."""
+        return {}
+
     @abstractmethod
     def close(self) -> None:
         """Release the browser/context. Must raise `CleanupError` (not the
@@ -146,6 +156,7 @@ class PatchrightSession(BrowserSession):
         self._playwright_cm = playwright_cm
         self._ctx = ctx
         self._page = page
+        self._last_response: Any = None
 
     def goto(self, url: str, timeout_ms: int) -> Optional[int]:
         try:
@@ -155,6 +166,7 @@ class PatchrightSession(BrowserSession):
             # successfully loads a non-2xx response (e.g. Cloudflare's 403
             # interstitial) returns a Response object, it doesn't raise.
             raise NavigationError(f"navigation failed for {url}: {err}") from err
+        self._last_response = response
         return response.status if response else None
 
     def content(self) -> str:
@@ -165,6 +177,14 @@ class PatchrightSession(BrowserSession):
 
     def wait_for_selector(self, selector: str, timeout_ms: int) -> None:
         self._page.wait_for_selector(selector, state="attached", timeout=timeout_ms)
+
+    def last_response_headers(self) -> dict[str, str]:
+        if self._last_response is None:
+            return {}
+        try:
+            return {str(k).lower(): str(v) for k, v in dict(self._last_response.headers).items()}
+        except Exception:
+            return {}
 
     def minimize_window(self) -> None:
         try:

@@ -29,6 +29,7 @@ import {
 } from './lib/hiringcafe-query.mjs';
 import { httpLooksBlocked } from './lib/hiringcafe-http-blocked.mjs';
 import { assessHiringCafeScan, recordFailedHiringCafeScan } from './lib/hiringcafe-scan-health.mjs';
+import { buildBlockedDiagnostic } from './lib/hc-blocked-diagnostics.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 // Overridable so the same script can run a second, independent feed (e.g.
@@ -194,8 +195,11 @@ function fetchViaPatchright(query) {
     timeout: 60_000,
   });
   if (r.stderr) process.stderr.write(r.stderr);
+  const diagnostic = extractBlockedDiagnosticFromStderr(r.stderr);
   if ((r.status ?? 1) !== 0) {
-    throw new Error(`patchright HC scrape exited ${r.status ?? 1}: ${(r.stderr || r.stdout || '').slice(0, 400)}`);
+    const err = new Error(`patchright HC scrape exited ${r.status ?? 1}: ${(r.stderr || r.stdout || '').slice(0, 400)}`);
+    if (diagnostic) err.diagnostic = diagnostic;
+    throw err;
   }
   const raw = JSON.parse(readFileSync(HITS_TMP, 'utf8'));
   return {
@@ -204,6 +208,23 @@ function fetchViaPatchright(query) {
     truncated: Boolean(raw.truncated),
     totalCount: Number.isFinite(raw.totalCount) ? raw.totalCount : null,
   };
+}
+
+/**
+ * scrape-hiringcafe.py prints one `HC_BLOCKED_DIAGNOSTIC: {...}` JSON line
+ * to stderr right before raising on a blocked page — already sanitized on
+ * the Python side (status/classification/headers allowlist only, no page
+ * content, no cookies). This just locates and parses that one line; it
+ * never re-derives or widens what's in it.
+ */
+function extractBlockedDiagnosticFromStderr(stderr) {
+  const match = /^HC_BLOCKED_DIAGNOSTIC: (.+)$/m.exec(stderr || '');
+  if (!match) return null;
+  try {
+    return JSON.parse(match[1]);
+  } catch {
+    return null;
+  }
 }
 
 function loadPreviousSnapshot() {
@@ -227,6 +248,10 @@ async function fetchFeed() {
   let transport = 'http';
   const incoming = [];
   const seen = new Set();
+  // Sanitized diagnostic for only the FIRST blocked response this cycle —
+  // never re-captured once set, regardless of how many later queries also
+  // fail, so the heartbeat reflects the earliest, most diagnostic signal.
+  let firstBlockedDiagnostic = null;
 
   try {
     for (const query of QUERIES) {
@@ -238,6 +263,11 @@ async function fetchFeed() {
   } catch (err) {
     if (!httpLooksBlocked(err)) throw err;
     process.stderr.write(`HC http blocked (${err.status || err.message}) — patchright headed Chrome\n`);
+    if (!firstBlockedDiagnostic && err.status) {
+      // markerText comes from err.body only to compute a classification —
+      // the body itself is never attached to the diagnostic or logged.
+      firstBlockedDiagnostic = buildBlockedDiagnostic({ status: err.status, headers: err.headers, markerText: err.body });
+    }
     transport = 'patchright';
     pagesFetched = 0;
     truncated = false;
@@ -276,6 +306,9 @@ async function fetchFeed() {
       } catch (qErr) {
         process.stderr.write(`HC patchright query "${query}" failed, skipping this query for this cycle: ${qErr.message || qErr}\n`);
         totals[query] = totals[query] ?? null;
+        if (!firstBlockedDiagnostic && qErr.diagnostic) {
+          firstBlockedDiagnostic = qErr.diagnostic;
+        }
       }
     }
   }
@@ -298,6 +331,7 @@ async function fetchFeed() {
       queryCount: QUERIES.length,
       failedQueries,
       pagesFetched,
+      diagnostic: firstBlockedDiagnostic,
     });
     throw new Error(`HiringCafe scan unavailable (${health.reason}): preserved prior feed`);
   }

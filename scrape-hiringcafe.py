@@ -16,6 +16,7 @@ import re
 import sys
 import time
 import urllib.parse
+import datetime as _dt
 from pathlib import Path
 
 from browser_runtime import (
@@ -152,6 +153,76 @@ def diagnose_page(status: int | None, title: str, html: str) -> str:
     return "ok"
 
 
+# Sanitized diagnostic capture for the FIRST blocked response per scan —
+# mirrors lib/hc-blocked-diagnostics.mjs's JS logic exactly (same allowlist,
+# same classification rules, same "unknown unless evidence supports it"
+# fallback) since Python and JS can't share a module here. Never includes
+# cookies, auth/session/license material, or raw page content.
+_ALLOWED_HEADER_NAMES = (
+    "server", "cf-ray", "cf-mitigated", "cf-cache-status",
+    "content-type", "date", "via", "retry-after",
+)
+_FORBIDDEN_HEADER_PATTERN = re.compile(r"cookie|auth|token|session|secret|license|credential", re.I)
+_MAX_HEADER_VALUE_LEN = 200
+
+
+def sanitize_headers(headers: dict | None) -> dict[str, str]:
+    out: dict[str, str] = {}
+    if not headers:
+        return out
+    for raw_key, raw_val in headers.items():
+        key = str(raw_key).lower()
+        if _FORBIDDEN_HEADER_PATTERN.search(key):
+            continue
+        if key not in _ALLOWED_HEADER_NAMES:
+            continue
+        out[key] = str(raw_val)[:_MAX_HEADER_VALUE_LEN]
+    return out
+
+
+def classify_blocked_response(status: int | None, headers: dict[str, str], marker_text: str) -> str:
+    """Classify using only in-memory, non-secret evidence (status +
+    sanitized headers + a short marker string, e.g. a page title) — never
+    the raw response body. Falls back to 'unknown' whenever the evidence
+    doesn't clearly support a finer label."""
+    marker = (marker_text or "").lower()
+    server_is_cloudflare = "cloudflare" in (headers.get("server") or "").lower() or bool(headers.get("cf-ray"))
+    looks_like_js_challenge = bool(re.search(r"jschl|__cf_chl_jschl|cf_chl_jschl_tk", marker, re.I))
+    looks_like_managed_challenge = (
+        bool(re.search(r"just a moment|cf-chl-widget|challenge-platform|managed challenge", marker, re.I))
+        or (headers.get("cf-mitigated") or "").lower() == "challenge"
+    )
+    if status == 403 and server_is_cloudflare and looks_like_js_challenge:
+        return "cloudflare_js_challenge"
+    if status == 403 and server_is_cloudflare and looks_like_managed_challenge:
+        return "cloudflare_managed_challenge"
+    if status == 403 and server_is_cloudflare:
+        return "cloudflare_static_403"
+    if status == 403:
+        return "http_403_unspecified"
+    return "unknown"
+
+
+def build_blocked_diagnostic(status: int | None, headers: dict | None, marker_text: str) -> dict:
+    sanitized = sanitize_headers(headers)
+    return {
+        "at": _dt.datetime.now(_dt.timezone.utc).isoformat(),
+        "status": status,
+        "classification": classify_blocked_response(status, sanitized, marker_text),
+        "workflowRunId": os.environ.get("GITHUB_RUN_ID"),
+        "headers": sanitized,
+    }
+
+
+def emit_blocked_diagnostic(status: int | None, headers: dict | None, marker_text: str) -> None:
+    """Prints exactly one HC_BLOCKED_DIAGNOSTIC: {json} line to stderr —
+    fetch-hiringcafe-feed.mjs scans for this marker. Only ever called right
+    before raising on a genuinely blocked page; never for a navigation
+    error or a legitimate empty result."""
+    diagnostic = build_blocked_diagnostic(status, headers, marker_text)
+    print(f"HC_BLOCKED_DIAGNOSTIC: {json.dumps(diagnostic)}", file=sys.stderr, flush=True)
+
+
 def props_from_html(html: str):
     m = NEXT_DATA_RE.search(html or "")
     if not m:
@@ -222,6 +293,7 @@ def scrape(
                 session.minimize_window()
             immediate = diagnose_page(status, session.title(), session.content())
             if immediate in ("cloudflare_challenge", "http_403"):
+                emit_blocked_diagnostic(status, session.last_response_headers(), session.title())
                 raise RuntimeError(f"{immediate}: HTTP {status} on page {i}")
             try:
                 session.wait_for_selector("#__NEXT_DATA__", timeout_ms=selector_timeout_ms)
@@ -234,6 +306,8 @@ def scrape(
                 # treated the same way the inline version always did: as
                 # its own content-based diagnostic, not a navigation error.
                 observed = diagnose_page(status, session.title(), session.content())
+                if observed in ("cloudflare_challenge", "http_403"):
+                    emit_blocked_diagnostic(status, session.last_response_headers(), session.title())
                 raise RuntimeError(f"{observed}: HTTP {status} on page {i}") from err
             pp = props_from_html(session.content())
             if total is None:

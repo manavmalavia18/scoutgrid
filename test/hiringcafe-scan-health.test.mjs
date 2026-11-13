@@ -60,3 +60,28 @@ test('failed scan leaves prior feed bytes and fetchedAt unchanged, but writes a 
     rmSync(dir, { recursive: true, force: true });
   }
 });
+
+test('a captured blocked-response diagnostic is included in the failure heartbeat, additively', () => {
+  const dir = mkdtempSync(join(process.env.SCOUTGRID_TEST_TMP || tmpdir(), 'hc-failure-diag-'));
+  try {
+    const heartbeatPath = join(dir, 'heartbeat.json');
+    const diagnostic = { at: '2026-11-13T00:00:00.000Z', status: 403, classification: 'cloudflare_managed_challenge', workflowRunId: '123', headers: { server: 'cloudflare' } };
+    recordFailedHiringCafeScan({ heartbeatPath, reason: 'all_queries_failed', queryCount: 16, failedQueries: 16, pagesFetched: 0, diagnostic });
+    const heartbeat = JSON.parse(readFileSync(heartbeatPath, 'utf8'));
+    assert.deepEqual(heartbeat.firstBlockedResponse, diagnostic);
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test('omitting a diagnostic keeps the heartbeat shape exactly as before (no empty/null field added)', () => {
+  const dir = mkdtempSync(join(process.env.SCOUTGRID_TEST_TMP || tmpdir(), 'hc-failure-nodiag-'));
+  try {
+    const heartbeatPath = join(dir, 'heartbeat.json');
+    recordFailedHiringCafeScan({ heartbeatPath, reason: 'all_queries_failed', queryCount: 16, failedQueries: 16, pagesFetched: 0 });
+    const heartbeat = JSON.parse(readFileSync(heartbeatPath, 'utf8'));
+    assert.ok(!('firstBlockedResponse' in heartbeat));
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});

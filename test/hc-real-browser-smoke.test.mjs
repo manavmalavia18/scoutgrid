@@ -149,6 +149,41 @@ print(json.dumps({
   assert.deepEqual(hcOwnedSnapshot(), before, 'HC-owned output files must be untouched — scrape() never writes to disk');
 });
 
+test('real browser: a real 403/challenge page emits a sanitized HC_BLOCKED_DIAGNOSTIC line, with the fixture\'s leaked cookie stripped', { skip }, async () => {
+  await withFixtureServer(async (port) => {
+    const code = `
+import importlib.util, json, tempfile
+from pathlib import Path
+spec = importlib.util.spec_from_file_location('hc', ${JSON.stringify(script)})
+m = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(m)
+m.url_for = lambda state, page: 'http://127.0.0.1:${port}/blocked'
+with tempfile.TemporaryDirectory() as tmp:
+    try:
+        m.scrape(2, 2, 'q', 0.1, Path(tmp), engine='patchright')
+        print(json.dumps(['no_error']))
+    except RuntimeError as e:
+        print(json.dumps(['raised', str(e).startswith('cloudflare_challenge:')]))
+`;
+    const result = pyRun(code, { timeout: 30000 });
+    assert.equal(result.status, 0, result.stderr);
+    const out = JSON.parse(result.stdout.trim().split('\n').pop());
+    assert.deepEqual(out, ['raised', true]);
+
+    // The diagnostic line is real stderr output from a real patchright
+    // session that really hit the fixture's 403+cookie response — not a
+    // mock. Assert both the classification AND that the cookie never
+    // survived into the printed line at all.
+    const match = /^HC_BLOCKED_DIAGNOSTIC: (.+)$/m.exec(result.stderr || '');
+    assert.ok(match, `expected an HC_BLOCKED_DIAGNOSTIC line in stderr:\n${result.stderr}`);
+    const diagnostic = JSON.parse(match[1]);
+    assert.equal(diagnostic.status, 403);
+    assert.equal(diagnostic.classification, 'cloudflare_managed_challenge');
+    assert.deepEqual(diagnostic.headers, { 'content-type': 'text/html', server: 'cloudflare', 'cf-ray': '8a1b2c3d4e5f6789-SJC' });
+    assert.doesNotMatch(result.stderr, /__cf_bm|leaked-challenge-token|set-cookie/i);
+  });
+});
+
 test('real browser: missing __NEXT_DATA__ on a real page surfaces as missing_job_data, not a crash', { skip }, async () => {
   await withFixtureServer(async (port) => {
     const code = `
