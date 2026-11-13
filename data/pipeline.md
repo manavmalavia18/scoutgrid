@@ -2247,3 +2247,6 @@
 - [ ] https://jobs.ashbyhq.com/govdash/911b41b3-c74a-44db-88ea-96cafb957466 | govdash | Software Engineer | New York | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/bedrock-robotics/4e041384-82da-4d7c-84f6-33f46d4421df | bedrock-robotics | Software Engineer, State Estimation Foundations | San Francisco, CA | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae | bedrock-robotics | Software Engineer, Calibration | San Francisco, CA | posted: 2026-11-13
+
+- [ ] https://job-boards.greenhouse.io/distantjob/jobs/8941192002 | distantjob | Applied AI Engineer | Remote · Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/granted/cc514efc-3a4d-4ebc-847c-a0aa26774dd6 | granted | Backend Engineer - Integrations | Remote - Continental US | posted: 2026-11-12
