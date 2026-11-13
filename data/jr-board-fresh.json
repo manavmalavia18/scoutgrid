@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T17:37:08.677Z",
+  "fetchedAt": "2026-11-13T17:58:48.545Z",
   "days": 2,
   "leadCount": 33,
   "jobCount": 21,
@@ -15,18 +15,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 64,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:fashionnova",
       "fetched": 96,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:podium81",
-      "fetched": 72,
       "kept": 0
     },
     {
@@ -35,8 +25,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:quantifind",
-      "fetched": 19,
+      "key": "greenhouse:podium81",
+      "fetched": 72,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:stepstone",
+      "fetched": 64,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:xai",
+      "fetched": 294,
       "kept": 0
     },
     {
@@ -50,13 +50,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:baselayer",
-      "fetched": 14,
+      "key": "greenhouse:quantifind",
+      "fetched": 19,
       "kept": 0
     },
     {
-      "key": "greenhouse:xai",
-      "fetched": 294,
+      "key": "greenhouse:baselayer",
+      "fetched": 14,
       "kept": 0
     },
     {
@@ -65,13 +65,18 @@
       "kept": 0
     },
     {
+      "key": "ashby:evenup",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:doordashusa",
-      "fetched": 432,
+      "fetched": 433,
       "kept": 1
     },
     {
-      "key": "ashby:evenup",
-      "fetched": 0,
+      "key": "ashby:hockeystack",
+      "fetched": 3,
       "kept": 0
     },
     {
@@ -80,8 +85,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:hockeystack",
-      "fetched": 3,
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -90,8 +95,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
+      "key": "ashby:harmonic",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -100,8 +105,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:harmonic",
-      "fetched": 9,
+      "key": "ashby:mercor",
+      "fetched": 92,
       "kept": 0
     },
     {
@@ -110,18 +115,8 @@
       "kept": 4
     },
     {
-      "key": "ashby:mercor",
-      "fetched": 92,
-      "kept": 0
-    },
-    {
       "key": "ashby:baseten",
-      "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "lever:avivesolutions",
-      "fetched": 9,
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -140,19 +135,24 @@
       "kept": 0
     },
     {
+      "key": "lever:avivesolutions",
+      "fetched": 9,
+      "kept": 0
+    },
+    {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
-      "fetched": 20,
-      "kept": 2
-    },
-    {
       "key": "lever:zoox",
       "fetched": 237,
       "kept": 3
+    },
+    {
+      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
+      "fetched": 20,
+      "kept": 2
     },
     {
       "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
@@ -262,28 +262,6 @@
       "board": "snowflake"
     },
     {
-      "title": "Senior Site Reliability Engineer I",
-      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia-PA-Market-St/Senior-Site-Reliability-Engineer-I_R119025",
-      "company": "Elsevier",
-      "location": "2 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "elsevierjobs",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Engineer / Senior AI Engineer",
-      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481",
-      "company": "Elsevier",
-      "location": "3 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "elsevierjobs",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "Senior Software Engineer - Autonomy Safety Metric",
       "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
       "company": "Zoox",
@@ -312,6 +290,28 @@
       "salary": "",
       "ats": "Lever",
       "board": "zoox"
+    },
+    {
+      "title": "Senior Site Reliability Engineer I",
+      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia-PA-Market-St/Senior-Site-Reliability-Engineer-I_R119025",
+      "company": "Elsevier",
+      "location": "2 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "elsevierjobs",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Engineer / Senior AI Engineer",
+      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481",
+      "company": "Elsevier",
+      "location": "3 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "elsevierjobs",
+      "postedAtSource": "workday-detail"
     },
     {
       "title": "Agentic AI Engineer, Vice President",
