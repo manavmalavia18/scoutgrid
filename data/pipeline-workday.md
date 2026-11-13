@@ -1480,4 +1480,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423 | ngc | 2027 - Associate Software Engineer - McClellan CA | United States-California-McClellan | posted: 2026-11-13
 - [ ] https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/OpenShift-Platform-Engineer_R91878 | mtb | OpenShift Platform Engineer | Remote, USA | posted: 2026-11-13
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering---AgentExchange-Buyer-Experience---LMTS_JR368156 | salesforce | Software Engineering - AgentExchange Buyer Experience - LMTS | 2 Locations | posted: 2026-11-13
+
 ## Processed
