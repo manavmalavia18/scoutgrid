@@ -1955,4 +1955,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IL/Associate-Actuary---Medicare-Forecasting_1674419 | Centene Corporation | Associate Actuary - Medicare Analytics | 47 Locations | posted: 2026-11-13
 
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Digital-Product-Owner---Unified-Catalog_R0000387651-1 | Caterpillar Inc. | Digital Product Owner - Data Analytics | 5 Locations | posted: 2026-11-13
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-PA/Data-Analyst-III-SQL--Snowflake_1672733-1 | Centene Corporation | Data Analyst III SQL, Snowflake | 3 Locations | posted: 2026-11-13
+
 ## Processed
