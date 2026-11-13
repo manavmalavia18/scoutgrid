@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-13T19:41:11.433Z",
+  "at": "2026-11-13T20:03:36.708Z",
   "exitCode": 1,
   "reason": "all_queries_failed",
   "mode": "hiringcafe-saved-search",
@@ -8,15 +8,15 @@
   "pagesFetched": 0,
   "newMatches": 0,
   "firstBlockedResponse": {
-    "at": "2026-11-13T19:40:03.145Z",
+    "at": "2026-11-13T20:02:12.293Z",
     "status": 403,
     "classification": "cloudflare_managed_challenge",
-    "workflowRunId": "43494226547",
+    "workflowRunId": "43497651068",
     "headers": {
       "cf-mitigated": "challenge",
-      "cf-ray": "a5a03ef74f7a0c50-BOS",
+      "cf-ray": "a5a05f6a69bfc2ef-EWR",
       "content-type": "text/html; charset=UTF-8",
-      "date": "Fri, 13 Nov 2026 19:40:03 GMT",
+      "date": "Fri, 13 Nov 2026 20:02:12 GMT",
       "server": "cloudflare"
     }
   }
