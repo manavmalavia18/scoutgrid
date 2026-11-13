@@ -1473,4 +1473,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Search_R-084578 | quickenloans | Software Developer II - Search | 2 Locations | posted: 2026-11-13
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Cyber-Software-Engineer---Level-6_R10260433 | ngc | Cyber Software Engineer - Level 6 | United States-California-Redondo Beach | posted: 2026-11-13
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972 | globalhr | Software Engineer I | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | posted: 2026-11-12
+
 ## Processed
