@@ -1468,4 +1468,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mckesson.wd3.myworkdayjobs.com/external_careers/job/USA-OH-Columbus/Software-Engineer---Identity---Access-Management_JR0157206-1 | mckesson | Software Engineer – Identity & Access Management | 2 Locations | posted: 2026-11-12
 - [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-OH-Columbus/Software-Engineer---Identity---Access-Management_JR0157206 | mckesson | Software Engineer – Identity & Access Management | 2 Locations | posted: 2026-11-12
 
+- [ ] https://trellix.wd1.myworkdayjobs.com/enterprisecareers/job/Enterprise---US-Texas-Frisco/Software-Development-Engineer---Agentic-AI_JR0038076 | trellix | Software Development Engineer – Agentic AI | Enterprise - US, Texas, Frisco | posted: 2026-11-13
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer_R26-6098-1 | rockwellautomation | Associate Software Engineer | Mayfield Heights, Ohio, United States | posted: 2026-11-13
+- [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Search_R-084578 | quickenloans | Software Developer II - Search | 2 Locations | posted: 2026-11-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Cyber-Software-Engineer---Level-6_R10260433 | ngc | Cyber Software Engineer - Level 6 | United States-California-Redondo Beach | posted: 2026-11-13
+
 ## Processed
