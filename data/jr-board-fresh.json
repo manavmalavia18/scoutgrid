@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-13T15:20:22.853Z",
+  "fetchedAt": "2026-11-13T15:42:53.162Z",
   "days": 2,
   "leadCount": 33,
-  "jobCount": 19,
+  "jobCount": 20,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
@@ -20,24 +20,24 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:podium81",
-      "fetched": 72,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:fashionnova",
       "fetched": 96,
       "kept": 0
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 44,
+      "key": "greenhouse:podium81",
+      "fetched": 72,
       "kept": 0
     },
     {
       "key": "greenhouse:affirm",
-      "fetched": 221,
+      "fetched": 219,
       "kept": 4
+    },
+    {
+      "key": "greenhouse:xai",
+      "fetched": 294,
+      "kept": 0
     },
     {
       "key": "greenhouse:careers",
@@ -55,9 +55,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 433,
-      "kept": 1
+      "key": "greenhouse:applovin",
+      "fetched": 44,
+      "kept": 0
     },
     {
       "key": "greenhouse:knack-direct-applicants",
@@ -90,13 +90,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:clark",
-      "fetched": 18,
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
+      "key": "ashby:clark",
+      "fetched": 18,
       "kept": 0
     },
     {
@@ -105,19 +105,19 @@
       "kept": 0
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 379,
-      "kept": 4
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 294,
-      "kept": 0
-    },
-    {
       "key": "ashby:mercor",
       "fetched": 92,
       "kept": 0
+    },
+    {
+      "key": "ashby:snowflake",
+      "fetched": 376,
+      "kept": 4
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 433,
+      "kept": 1
     },
     {
       "key": "lever:avivesolutions",
@@ -130,6 +130,11 @@
       "kept": 0
     },
     {
+      "key": "lever:zoox",
+      "fetched": 237,
+      "kept": 3
+    },
+    {
       "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
@@ -140,22 +145,22 @@
       "kept": 0
     },
     {
-      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
-      "fetched": 20,
-      "kept": 2
-    },
-    {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:zoox",
-      "fetched": 237,
-      "kept": 3
+      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
+      "fetched": 20,
+      "kept": 2
     },
     {
       "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
+      "fetched": 80,
+      "kept": 3
+    },
+    {
+      "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
       "fetched": 80,
       "kept": 2
     },
@@ -163,11 +168,6 @@
       "key": "workday:thomsonreuters.wd5.myworkdayjobs.com/external_career_site",
       "fetched": 80,
       "kept": 1
-    },
-    {
-      "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
-      "fetched": 80,
-      "kept": 2
     }
   ],
   "jobs": [
@@ -212,16 +212,6 @@
       "board": "affirm"
     },
     {
-      "title": "Senior Software Engineer, ML Serving Platform",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8384127",
-      "company": "DoorDash",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "postedAt": "2026-11-12T20:48:36.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "doordashusa"
-    },
-    {
       "title": "Staff Software Engineer - Compiler & Spark Runtime ",
       "url": "https://jobs.ashbyhq.com/snowflake/57131f28-cdf8-4776-aa87-8f9339e494ab",
       "company": "Snowflake",
@@ -262,26 +252,14 @@
       "board": "snowflake"
     },
     {
-      "title": "Senior Site Reliability Engineer I",
-      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia-PA-Market-St/Senior-Site-Reliability-Engineer-I_R119025",
-      "company": "Elsevier",
-      "location": "2 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
+      "title": "Senior Software Engineer, ML Serving Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8384127",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-11-12T20:48:36.000Z",
       "salary": "",
-      "ats": "Workday",
-      "board": "elsevierjobs",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Engineer / Senior AI Engineer",
-      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481",
-      "company": "Elsevier",
-      "location": "3 Locations",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "elsevierjobs",
-      "postedAtSource": "workday-detail"
+      "ats": "Greenhouse",
+      "board": "doordashusa"
     },
     {
       "title": "Senior Software Engineer - Autonomy Safety Metric",
@@ -314,6 +292,39 @@
       "board": "zoox"
     },
     {
+      "title": "Senior Site Reliability Engineer I",
+      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia-PA-Market-St/Senior-Site-Reliability-Engineer-I_R119025",
+      "company": "Elsevier",
+      "location": "2 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "elsevierjobs",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Engineer / Senior AI Engineer",
+      "url": "https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481",
+      "company": "Elsevier",
+      "location": "3 Locations",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "elsevierjobs",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Software Engineer – Backend Platforms, Assistant Vice President (Wealth Custody & Clearing)",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/global/job/Dallas/Software-Engineer---Backend-Platforms--Assistant-Vice-President--Wealth-Custody---Clearing-_R-793611-1",
+      "company": "State Street",
+      "location": "5 Locations",
+      "postedAt": "2026-11-13T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "global",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Senior Software Engineer – Backend Platforms, Vice President (Wealth Custody & Clearing)",
       "url": "https://statestreet.wd1.myworkdayjobs.com/global/job/Princeton-New-Jersey/Senior-Software-Engineer---Backend-Platforms--Vice-President--Wealth-Custody---Clearing-_R-801112",
       "company": "State Street",
@@ -336,17 +347,6 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Senior Cloud and DevOps Engineer",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-and-DevOps-Engineer_JREQ205291-1",
-      "company": "Thomson Reuters",
-      "location": "United States of America Eagan Minnesota",
-      "postedAt": "2026-11-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "external_career_site",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "OpenShift Platform Engineer",
       "url": "https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/OpenShift-Platform-Engineer_R91878",
       "company": "M&T Bank",
@@ -366,6 +366,17 @@
       "salary": "",
       "ats": "Workday",
       "board": "mtb",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Cloud and DevOps Engineer",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-and-DevOps-Engineer_JREQ205291-1",
+      "company": "Thomson Reuters",
+      "location": "United States of America Eagan Minnesota",
+      "postedAt": "2026-11-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "external_career_site",
       "postedAtSource": "workday-detail"
     }
   ],
