@@ -2009,4 +2009,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae | Bedrock Robotics | Software Engineer, Calibration | San Francisco, CA | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/triumph-arcade/8863c7e0-60a5-4775-b15b-d0e46329a230 | Triumph Labs | Data Engineer | San Francisco HQ | posted: 2026-11-13
 
+- [ ] https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer----AI---Java---Python--AWS-_R260030751-1 | Bmo | Software Developer - (AI / Java / Python/ AWS) | Irving, TX, USA | posted: 2026-11-13
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Analyst---Business-Intelligence--Compliance-and-EthicsAnalyst---Business-Intelligence--Compliance---Ethics_REQ380300-1 | Tmobile | Analyst - Business Intelligence, Compliance and EthicsAnalyst - Business Intelligence, Compliance & Ethics | Bellevue, Washington | posted: 2026-11-13
+- [ ] https://tmobile.wd1.myworkdayjobs.com/alumni/job/Bellevue-Washington/Analyst---Business-Intelligence--Compliance-and-EthicsAnalyst---Business-Intelligence--Compliance---Ethics_REQ380300 | T-Mobile | Analyst - Business Intelligence, Compliance and EthicsAnalyst - Business Intelligence, Compliance & Ethics | Bellevue, Washington | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/granted/cc514efc-3a4d-4ebc-847c-a0aa26774dd6 | Granted | Backend Engineer - Integrations | Remote - Continental US | posted: 2026-11-12
+
 ## Processed
