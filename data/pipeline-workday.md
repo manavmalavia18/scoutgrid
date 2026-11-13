@@ -1475,4 +1475,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972 | globalhr | Software Engineer I | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | posted: 2026-11-12
 
+- [ ] https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Texas/AI-Engineer-II_R14847 | proofpoint | AI Engineer | 8 Locations | posted: 2026-11-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Ohio-Wright-Patterson-AFB/DevOps-Engineer_R10260591 | ngc | DevOps Engineer | United States-Ohio-Wright-Patterson AFB | posted: 2026-11-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423 | ngc | 2027 - Associate Software Engineer - McClellan CA | United States-California-McClellan | posted: 2026-11-13
+- [ ] https://mtb.wd5.myworkdayjobs.com/mtb/job/Remote-USA/OpenShift-Platform-Engineer_R91878 | mtb | OpenShift Platform Engineer | Remote, USA | posted: 2026-11-13
+
 ## Processed
