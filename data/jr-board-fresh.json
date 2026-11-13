@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-13T16:27:48.212Z",
+  "fetchedAt": "2026-11-13T16:48:21.296Z",
   "days": 2,
   "leadCount": 33,
-  "jobCount": 20,
+  "jobCount": 21,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
@@ -10,13 +10,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
+      "key": "greenhouse:stepstone",
+      "fetched": 64,
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 64,
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
       "kept": 0
     },
     {
@@ -30,8 +30,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:quantifind",
-      "fetched": 19,
+      "key": "greenhouse:applovin",
+      "fetched": 44,
       "kept": 0
     },
     {
@@ -45,24 +45,19 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:baselayer",
-      "fetched": 14,
+      "key": "greenhouse:quantifind",
+      "fetched": 19,
       "kept": 0
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 44,
+      "key": "greenhouse:baselayer",
+      "fetched": 14,
       "kept": 0
     },
     {
       "key": "greenhouse:knack-direct-applicants",
       "fetched": 1,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 432,
-      "kept": 1
     },
     {
       "key": "ashby:evenup",
@@ -80,8 +75,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
+      "key": "ashby:plaid",
+      "fetched": 142,
       "kept": 0
     },
     {
@@ -90,8 +85,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:plaid",
-      "fetched": 142,
+      "key": "ashby:langchain",
+      "fetched": 100,
+      "kept": 0
+    },
+    {
+      "key": "ashby:baseten",
+      "fetched": 101,
       "kept": 0
     },
     {
@@ -100,19 +100,19 @@
       "kept": 0
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 375,
-      "kept": 4
-    },
-    {
-      "key": "ashby:baseten",
-      "fetched": 101,
-      "kept": 0
-    },
-    {
       "key": "ashby:mercor",
       "fetched": 92,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 432,
+      "kept": 1
+    },
+    {
+      "key": "ashby:snowflake",
+      "fetched": 375,
+      "kept": 4
     },
     {
       "key": "greenhouse:xai",
@@ -122,6 +122,11 @@
     {
       "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
       "fetched": 19,
+      "kept": 0
+    },
+    {
+      "key": "lever:avivesolutions",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -145,11 +150,6 @@
       "kept": 0
     },
     {
-      "key": "lever:avivesolutions",
-      "fetched": 9,
-      "kept": 0
-    },
-    {
       "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
       "fetched": 20,
       "kept": 2
@@ -157,7 +157,7 @@
     {
       "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
       "fetched": 80,
-      "kept": 3
+      "kept": 4
     },
     {
       "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
@@ -311,6 +311,17 @@
       "salary": "",
       "ats": "Workday",
       "board": "elsevierjobs",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Agentic AI Engineer, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/global/job/Quincy-Massachusetts/Agentic-AI-Engineer--Vice-President_R-799048-1",
+      "company": "State Street",
+      "location": "4 Locations",
+      "postedAt": "2026-11-13T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "global",
       "postedAtSource": "workday-detail"
     },
     {
