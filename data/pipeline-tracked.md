@@ -1996,4 +1996,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Cruise-Automation---San-Francisco-HQ---Cruise-San-Francisco-1201-Bryant-Street-and-530-10th-Street/AI-ML-Engineer_JR-202517415 | General Motors | ML / AI Software Engineer - C++ Metrics Frameworks | 4 Locations | posted: 2026-11-13
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1 | General Motors | AI/ML Engineer - Model Inference | Sunnyvale, California, United States of America | posted: 2026-11-13
 
+- [ ] https://job-boards.greenhouse.io/arvaintelligence/jobs/5479633008 | Arvaintelligence | Business Analyst, Planning & Analytics | Houston, Texas | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9 | OpenAI | Full Stack Software Engineer, ChatGPT Finances | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1 | OpenAI | Full Stack Software Engineer, Travel | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/joyfulhealth/ba51a0a3-0dc2-4bdb-9344-d646b182ddaa | Joyful Health | AI Engineer | New York City | posted: 2026-11-13
+
 ## Processed
