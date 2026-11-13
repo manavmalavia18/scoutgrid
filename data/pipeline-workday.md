@@ -1496,4 +1496,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer---Java---AWS_R0121814 | truist | Software Engineer – Java / AWS | Atlanta, GA | posted: 2026-11-13
 
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer--Strategic-Accounts---Mid-Law_JREQ205322 | thomsonreuters | Legal AI Engineer, Strategic Accounts - Mid Law | United States of America Eagan Minnesota | posted: 2026-11-13
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286286 | highmarkhealth | Software Engineer | PA, Working at Home - Pennsylvania | posted: 2026-11-13
+
 ## Processed
