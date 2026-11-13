@@ -2014,4 +2014,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://tmobile.wd1.myworkdayjobs.com/alumni/job/Bellevue-Washington/Analyst---Business-Intelligence--Compliance-and-EthicsAnalyst---Business-Intelligence--Compliance---Ethics_REQ380300 | T-Mobile | Analyst - Business Intelligence, Compliance and EthicsAnalyst - Business Intelligence, Compliance & Ethics | Bellevue, Washington | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/granted/cc514efc-3a4d-4ebc-847c-a0aa26774dd6 | Granted | Backend Engineer - Integrations | Remote - Continental US | posted: 2026-11-12
 
+- [ ] https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | TensorWave | ML Engineer, Developer Ecosystem | Remote | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8943553002 | Twitch Interactive | Software Engineer I, Payments | San Francisco, CA | posted: 2026-11-13
+
 ## Processed
