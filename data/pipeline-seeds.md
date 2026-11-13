@@ -1954,4 +1954,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88 | elevenlabs | Full-Stack Engineer (Backend Leaning) - ElevenAI | United Kingdom · Dublin · Ireland · Hungary · Bulgaria · Sofia · Switzerland · Denmark · Poland · Warsaw · Sweden · Stockholm · Zurich · London · Czechia · UAE · Dubai · United Arab Emirates · Berlin · Germany · Remote | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/ruby-labs/fbd0a088-0104-4802-a693-2690be572181 | ruby-labs | AI Engineer | Ukraine · Moldova · Albania · Kazakhstan · Montenegro · European Union · Serbia · Georgia · Remote | posted: 2026-11-13
 
+- [ ] https://octane.co/o/who-we-are/careers/jobs-open?gh_jid=8203601003 | octanelending | Software Engineer II | Irving, Texas, United States; New York, New York, United States; Remote | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6260691004 | neuehealth | Backend Software Engineer 3 | Remote · No Office | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/gamechanger/4b9837dc-85c5-4b16-a07d-bd8c6f8be246 | gamechanger | Software Engineer, Ads | GameChanger Remote - US | posted: 2026-11-13
+- [ ] https://jobs.lever.co/evidentid/55001512-8f95-4f25-9c20-f5788664635a | evidentid | Full Stack Engineer | Atlanta, GA | posted: 2026-11-13
+
 ## Processed
