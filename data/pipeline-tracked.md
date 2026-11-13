@@ -1903,4 +1903,24 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | Anduril Industries | Software Engineer, AI | Costa Mesa, California, United States | posted: 2026-11-12
 - [ ] https://job-boards.greenhouse.io/smartrent/jobs/6250702004 | SmartRent | Data Engineer | Phoenix, Arizona | posted: 2026-11-12
 
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Full-Stack-Java-Developer_R-10406956 | Fiserv | Full-Stack Java Developer | Alpharetta, Georgia | posted: 2026-11-12
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Boston-Massachusetts/Cloud-Data-Engineer--AVP_R-795586 | Statestreet | Cloud Data Engineer, AVP | Boston, Massachusetts | posted: 2026-11-12
+- [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-II---Search_R-084578 | Rocket Companies | Software Developer II - Search | 2 Locations | posted: 2026-11-12
+- [ ] https://jobs.ashbyhq.com/revel/a7801a26-a562-423f-9cc1-6e3f3fa69430 | Revel | Site Reliability Engineer, Data Platform | North America / Los Angeles / San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/zip/e7bcd788-ca5f-4e90-9728-0de7b57026a1 | Zip | Software Engineer, Backend (All Levels) | San Francisco | posted: 2026-11-12
+- [ ] https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/IL---Chicago-350-N-Orleans-St-1300N/Software-Engineer--Python--Java--C----or-GoLang----Chicago--IL--ONSITE-2X-Week--FreeWheel_R443638 | Comcast | Agentic/AI Software Engineer (Python, Java, C++, or GoLang) - Chicago, IL- ONSITE 2X Week- FreeWheel | IL - Chicago, 350 N. Orleans St 1300N | posted: 2026-11-12
+- [ ] https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/USA-OH-Columbus/Software-Engineer---Identity---Access-Management_JR0157206 | McKesson Corporation | Software Engineer – Identity & Access Management | 2 Locations | posted: 2026-11-12
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077 | RTX | Software Engineer I - Air Traffic Solutions (Onsite) | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | posted: 2026-11-12
+- [ ] https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Davidson-North-Carolina/Corp-Strat---Analytics-SrMgr_JR-19193 | Trane Technologies | Corp Strat & Analytics SrMgr | Davidson, North Carolina | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8181185003 | Affirm | Software Engineer I, Backend (Continuous Delivery) | Remote Canada | posted: 2026-11-12
+- [ ] https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/BI-Analyst_REQ548907 | JLL | BI Analyst | 3 Locations | posted: 2026-11-12
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5465827008 | Backblaze | Site Reliability Engineer lII (DBA) - LATAM | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-11-12
+- [ ] https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/National-Remote/Analytics---Reporting-Analyst--Remote-_R0055859 | Health Care Service Corporation | Analytics & Reporting Analyst (Remote) | National Remote | posted: 2026-11-12
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MI/Data-Analyst-IV--Healthcare-Analytics-_1670832 | Centene Corporation | Data Analyst IV Healthcare Analytics, Medical Economics | 5 Locations | posted: 2026-11-12
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Development-Engineer-3_R23347-1 | WEX | Software Development Engineer 3 | US - Remote | posted: 2026-11-12
+- [ ] https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003 | Klaviyo | Software Engineer II - Flows Experience | Boston, MA | posted: 2026-11-12
+- [ ] https://stripe.com/jobs/search?gh_jid=8384325 | Stripe | Software Engineer – Backend Engineer – Tax Engineering | Seattle, WA | posted: 2026-11-12
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Cyber-Software-Engineer---Level-6_R10260433 | Northrop Grumman | Cyber Software Engineer - Level 6 | United States-California-Redondo Beach | posted: 2026-11-12
+- [ ] https://jobs.lever.co/convergentresearch/2d04acd9-f54b-4cae-8751-940155884221 | Convergent Research | E11 Bio - Machine Learning Scientist I/II | Alameda, CA, Open to Remote | posted: 2026-11-13
+
 ## Processed
