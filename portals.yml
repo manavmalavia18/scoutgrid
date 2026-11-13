@@ -21413,6 +21413,21 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Archer"
+    careers_url: https://job-boards.greenhouse.io/archer
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 1 live jobs confirmed)
+  - name: "Coderio"
+    careers_url: https://jobs.lever.co/coderio
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 41 live jobs confirmed)
+  - name: "Foundation AI"
+    careers_url: https://jobs.ashbyhq.com/foundation
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
