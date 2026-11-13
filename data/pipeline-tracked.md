@@ -2005,4 +2005,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37 | Ramp | Software Engineer, Fullstack, Spend Controls | New York, NY (HQ) | posted: 2026-11-13
 - [ ] https://oneoncology.wd1.myworkdayjobs.com/oneoncology/job/United-States/Platform-Software-Engineer_R-0000025774 | OneOncology | Platform Software Engineer | United States | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/4e041384-82da-4d7c-84f6-33f46d4421df | Bedrock Robotics | Software Engineer, State Estimation Foundations | San Francisco, CA | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae | Bedrock Robotics | Software Engineer, Calibration | San Francisco, CA | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/triumph-arcade/8863c7e0-60a5-4775-b15b-d0e46329a230 | Triumph Labs | Data Engineer | San Francisco HQ | posted: 2026-11-13
+
 ## Processed
