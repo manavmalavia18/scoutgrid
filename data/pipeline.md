@@ -2240,3 +2240,5 @@
 - [ ] https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5473790008 | renaissancelearning-nam | Software Engineer II (Engineering Enablement) | Remote - US | posted: 2026-11-13
 - [ ] https://job-boards.greenhouse.io/focalsystems/jobs/6261140004 | focalsystems | Platform Engineer (Backend Infrastructure) | Poland/Portugal - Remote | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a | openai | Full Stack Software Engineer, Consumer Health | San Francisco | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37 | ramp | Software Engineer, Fullstack, Spend Controls | New York, NY (HQ) | posted: 2026-11-13
