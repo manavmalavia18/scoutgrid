@@ -1944,4 +1944,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/Symmetry/a38a695e-8957-4638-ab8b-6515b4e79cd9 | symmetry | Applied AI Engineer | Seattle HQ | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740 | polygon-labs | AI Platform Engineer | EMEA - Remote · USA - Remote · United States | posted: 2026-11-12
 
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4753905005 | dotmatics | DevOps Engineer / Luma | Remote - United Kingdom | posted: 2026-11-13
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4753911005 | dotmatics | DevOps Engineer / Luma | Remote - Ireland | posted: 2026-11-13
+- [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4753900005 | dotmatics | DevOps Engineer / Luma | Boston, MA | posted: 2026-11-13
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294371007?gh_jid=5294371007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-13
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294365007?gh_jid=5294365007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/conduct/002c7fa7-9c58-401c-a8e8-e51f15830471 | conduct | Platform Engineer | NYC, US | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/5f83c6ff-bc79-4199-ba59-6abab6d69567 | elevenlabs | Full-Stack Engineer (Frontend Leaning) - ElevenAI | United Kingdom · Dublin · Ireland · Hungary · Bulgaria · Switzerland · Denmark · Poland · Warsaw · Sweden · Stockholm · Zurich · London · Czechia · UAE · Dubai · United Arab Emirates · Berlin · Germany · Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88 | elevenlabs | Full-Stack Engineer (Backend Leaning) - ElevenAI | United Kingdom · Dublin · Ireland · Hungary · Bulgaria · Sofia · Switzerland · Denmark · Poland · Warsaw · Sweden · Stockholm · Zurich · London · Czechia · UAE · Dubai · United Arab Emirates · Berlin · Germany · Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/ruby-labs/fbd0a088-0104-4802-a693-2690be572181 | ruby-labs | AI Engineer | Ukraine · Moldova · Albania · Kazakhstan · Montenegro · European Union · Serbia · Georgia · Remote | posted: 2026-11-13
+
 ## Processed
