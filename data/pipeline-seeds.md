@@ -1967,4 +1967,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.airbnb.com/positions/8386065?gh_jid=8386065 | airbnb | Software Engineer, Profile & Community, Web | Remote, USA | posted: 2026-11-13
 - [ ] https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267 | esrtreit | Applied AI Engineer | New York, New York, United States | posted: 2026-11-12
 
+- [ ] https://job-boards.greenhouse.io/focalsystems/jobs/6261140004 | focalsystems | Platform Engineer (Backend Infrastructure) | Poland/Portugal - Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a | openai | Full Stack Software Engineer, Consumer Health | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9 | openai | Full Stack Software Engineer, ChatGPT Finances | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1 | openai | Full Stack Software Engineer, Travel | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/joyfulhealth/ba51a0a3-0dc2-4bdb-9344-d646b182ddaa | joyfulhealth | AI Engineer | New York City | posted: 2026-11-13
+
 ## Processed
