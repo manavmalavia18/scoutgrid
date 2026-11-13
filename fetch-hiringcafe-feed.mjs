@@ -30,7 +30,7 @@ import {
 import { httpLooksBlocked } from './lib/hiringcafe-http-blocked.mjs';
 import { assessHiringCafeScan, recordFailedHiringCafeScan } from './lib/hiringcafe-scan-health.mjs';
 import { buildBlockedDiagnostic } from './lib/hc-blocked-diagnostics.mjs';
-import { loadReusableJobs } from './lib/hc-reuse-feed.mjs';
+import { loadReusableJobs, restoreReuseDiscoveredAt } from './lib/hc-reuse-feed.mjs';
 import { acceptDataJob } from './lib/data-query.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
@@ -357,6 +357,7 @@ async function fetchFeed() {
   // a reuse source happens to have old data sitting around (requirement:
   // never treat a blocked request as a successful empty result).
   let reusedCount = 0;
+  const reusedJobs = [];
   if (REUSE_FEED_FROM) {
     const reused = loadReusableJobs({ feedPath: REUSE_FEED_FROM, accept: acceptDataJob });
     for (const job of reused) {
@@ -364,6 +365,7 @@ async function fetchFeed() {
       if (!k || seen.has(k)) continue;
       seen.add(k);
       incoming.push(job);
+      reusedJobs.push(job);
       reusedCount += 1;
     }
   }
@@ -374,6 +376,12 @@ async function fetchFeed() {
     keepHours: KEEP_HOURS,
     legacyDiscoveredAt: previous.fetchedAt,
   });
+  // See restoreReuseDiscoveredAt()'s doc comment: a reused job that's new
+  // to THIS track's own history must not look freshly discovered just
+  // because of the reuse mechanism — restore its true original discovery
+  // time from the source track instead of the "now" mergeDiscoveredJobs
+  // assigns by default for any first-time-seen job.
+  restoreReuseDiscoveredAt(jobs, { reusedJobs, previousJobs: previous.jobs, keyOf: jobKey });
 
   mkdirSync(resolve(ROOT, 'data'), { recursive: true });
   const payload = {
