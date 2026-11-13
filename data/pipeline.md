@@ -2253,3 +2253,5 @@
 
 - [ ] https://jobs.ashbyhq.com/outtake/67a35d51-9e10-4803-a7a1-45f581b7f1a8 | outtake | Software Engineer, Platform | New York City | posted: 2026-11-13
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8943553002 | twitch | Software Engineer I, Payments | San Francisco, CA | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | tensorwave | ML Engineer, Developer Ecosystem | Remote | posted: 2026-11-13
