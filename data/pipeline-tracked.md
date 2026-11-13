@@ -2001,4 +2001,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1 | OpenAI | Full Stack Software Engineer, Travel | San Francisco | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/joyfulhealth/ba51a0a3-0dc2-4bdb-9344-d646b182ddaa | Joyful Health | AI Engineer | New York City | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a | OpenAI | Full Stack Software Engineer, Consumer Health | San Francisco | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37 | Ramp | Software Engineer, Fullstack, Spend Controls | New York, NY (HQ) | posted: 2026-11-13
+- [ ] https://oneoncology.wd1.myworkdayjobs.com/oneoncology/job/United-States/Platform-Software-Engineer_R-0000025774 | OneOncology | Platform Software Engineer | United States | posted: 2026-11-13
+
 ## Processed
