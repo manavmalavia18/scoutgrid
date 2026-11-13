@@ -1930,4 +1930,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/wayve/330f5ef2-63e5-4de1-aa2c-a7581a07ea1a | Wayve | Data Engineer, Security Analytics | Sunnyvale, California USA | posted: 2026-11-13
 - [ ] https://gundersenhealth.wd5.myworkdayjobs.com/Gundersen/job/La-Crosse-WI/Front-End-Merchandising-Specialist_JR-33652 | Gundersen Health System | Front-End Merchandising Specialist | La Crosse WI | posted: 2026-11-12
 
+- [ ] https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Data-Engineer---Risk---Compliance_JR101206 | Circle Fintech | Data Engineer - Risk & Compliance | San Francisco - remote first in US | posted: 2026-11-12
+
 ## Processed
