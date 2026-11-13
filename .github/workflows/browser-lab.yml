@@ -68,6 +68,11 @@ jobs:
         if: steps.preflight.outputs.status == 'ok'
         env:
           CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
+          # Reuses this step's single existing launch to also emit a
+          # before/after-launch/after-close resource snapshot (process
+          # count, Chromium RSS, approx open fds, /tmp disk) for the
+          # production-readiness review — adds zero new browser launches.
+          BROWSER_LAB_RESOURCE_PROFILE: '1'
         run: |
           set +e
           output=$(BROWSER_LAB_RUNTIME=cloakbrowser node browser-lab/smoke.mjs)
