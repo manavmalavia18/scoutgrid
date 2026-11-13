@@ -30,6 +30,8 @@ import {
 import { httpLooksBlocked } from './lib/hiringcafe-http-blocked.mjs';
 import { assessHiringCafeScan, recordFailedHiringCafeScan } from './lib/hiringcafe-scan-health.mjs';
 import { buildBlockedDiagnostic } from './lib/hc-blocked-diagnostics.mjs';
+import { loadReusableJobs } from './lib/hc-reuse-feed.mjs';
+import { acceptDataJob } from './lib/data-query.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 // Overridable so the same script can run a second, independent feed (e.g.
@@ -50,6 +52,18 @@ const LOCK = resolve(ROOT, process.env.HC_LOCK || 'data/hc-feed.lock');
 const PROFILE = resolve(ROOT, process.env.HC_PROFILE || 'data/hiringcafe-profile');
 const PY = process.env.HC_PYTHON || 'python3';
 const SCRAPE = join(ROOT, 'scrape-hiringcafe.py');
+// Optional cross-track reuse: path to ANOTHER track's already-published feed
+// (e.g. the software track's data/hiringcafe-feed.json) whose searchState
+// filters are provably identical to this track's own (see
+// lib/hc-reuse-feed.mjs's header comment for why that equivalence holds).
+// When set, this track's hc-data.yml config also drops the query strings
+// that overlap with that other track's list — see findSharedQueries() —
+// since re-requesting them here would be a byte-for-byte redundant request.
+// Unset by default; symmetrically unused by hc.yml, which keeps its full
+// query list untouched.
+const REUSE_FEED_FROM = process.env.HC_REUSE_FEED_FROM
+  ? resolve(ROOT, process.env.HC_REUSE_FEED_FROM)
+  : null;
 
 function argVal(flag, fallback) {
   const i = process.argv.indexOf(flag);
@@ -335,6 +349,25 @@ async function fetchFeed() {
     });
     throw new Error(`HiringCafe scan unavailable (${health.reason}): preserved prior feed`);
   }
+
+  // Cross-track reuse happens ONLY here, after assessHiringCafeScan() has
+  // already decided this track's OWN live fetch is healthy — reused jobs
+  // never factor into pagesFetched/failedQueries/incomingCount above, so a
+  // genuinely blocked live scan is never masked as successful just because
+  // a reuse source happens to have old data sitting around (requirement:
+  // never treat a blocked request as a successful empty result).
+  let reusedCount = 0;
+  if (REUSE_FEED_FROM) {
+    const reused = loadReusableJobs({ feedPath: REUSE_FEED_FROM, accept: acceptDataJob });
+    for (const job of reused) {
+      const k = jobKey(job);
+      if (!k || seen.has(k)) continue;
+      seen.add(k);
+      incoming.push(job);
+      reusedCount += 1;
+    }
+  }
+
   const jobs = mergeDiscoveredJobs(previous.jobs, incoming, {
     keyOf: jobKey,
     now: new Date().toISOString(),
@@ -380,6 +413,10 @@ async function fetchFeed() {
     queriesSkipped: transport === 'patchright'
       ? Object.values(totals).filter((n) => n == null).length
       : 0,
+    // Additive only — present only when a reuse source is configured, so
+    // the heartbeat shape for hc.yml (which never sets HC_REUSE_FEED_FROM)
+    // is byte-identical to before this change.
+    ...(REUSE_FEED_FROM ? { reusedFromOtherTrack: { source: REUSE_FEED_FROM, jobsReused: reusedCount } } : {}),
   }, null, 2));
 
   console.log(JSON.stringify({

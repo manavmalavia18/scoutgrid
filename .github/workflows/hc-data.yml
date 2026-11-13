@@ -87,7 +87,27 @@ jobs:
           # fetch-hiringcafe-feed.mjs's HC_QUERIES fallback). Until that
           # wiring lands, this workflow sets the list explicitly so it
           # doesn't silently fall back to the software-role defaults.
-          HC_QUERIES: "data engineer|data analyst|data scientist|etl developer|power bi developer|database administrator|business intelligence engineer|business intelligence analyst|analytics engineer|machine learning engineer|ai ml engineer|data warehouse engineer|product analyst"
+          #
+          # "data engineer" and "machine learning engineer" are deliberately
+          # DROPPED from this list (2026-11-13): hc.yml's software track
+          # requests the exact same two query strings against the exact
+          # same fixed searchState filters (locations/days/departments/
+          # roleTypes/seniority/clearances — see fetch-hiringcafe-feed.mjs's
+          # searchState()), so HiringCafe would return a byte-for-byte
+          # identical response to this track re-requesting them. Coverage
+          # for these two terms is restored below via HC_REUSE_FEED_FROM,
+          # which pulls them out of hc.yml's already-published feed instead
+          # of a second live request. See lib/hc-reuse-feed.mjs.
+          HC_QUERIES: "data analyst|data scientist|etl developer|power bi developer|database administrator|business intelligence engineer|business intelligence analyst|analytics engineer|ai ml engineer|data warehouse engineer|product analyst"
+          # Reuse hc.yml's already-published feed for the two query strings
+          # dropped above — never a live second request, and never counted
+          # toward this track's own live pagesFetched/failedQueries health
+          # signals (see fetch-hiringcafe-feed.mjs: reuse happens strictly
+          # after assessHiringCafeScan() has already judged THIS track's own
+          # live fetch healthy, so a blocked cycle here is never masked as
+          # successful just because hc.yml's feed has old data sitting
+          # around).
+          HC_REUSE_FEED_FROM: data/hiringcafe-feed.json
 
       - name: Disconnect from Tailscale exit node
         if: always()
