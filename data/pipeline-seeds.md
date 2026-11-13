@@ -1959,4 +1959,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/gamechanger/4b9837dc-85c5-4b16-a07d-bd8c6f8be246 | gamechanger | Software Engineer, Ads | GameChanger Remote - US | posted: 2026-11-13
 - [ ] https://jobs.lever.co/evidentid/55001512-8f95-4f25-9c20-f5788664635a | evidentid | Full Stack Engineer | Atlanta, GA | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/talkiatry/4343b2d6-b89f-4534-b208-515963523015 | talkiatry | Software Engineer DOLCE | Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | kira | Software Engineer (Backend, Infrastructure Focus) | New York or San Francisco | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/sustainment/jobs/4729533006 | sustainment | Software Engineer | Austin, Texas, United States | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6260703004 | sonyinteractiveentertainmentglobal | Software Engineer II | United States, San Mateo, CA | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/overwatch/jobs/4434364009 | Overwatch | Frontend Software Engineer | Boston | posted: 2026-11-13
+- [ ] https://careers.airbnb.com/positions/8386065?gh_jid=8386065 | airbnb | Software Engineer, Profile & Community, Web | Remote, USA | posted: 2026-11-13
+- [ ] https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267 | esrtreit | Applied AI Engineer | New York, New York, United States | posted: 2026-11-12
+
 ## Processed
