@@ -1949,4 +1949,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-Jersey---Rockaway-100-Enterprise-Drive/Consultant--Software-Engineer--E-Risk-Services---Rockaway--New-Jersey-_101380 | Nationwide | Consultant, Software Engineer (E-Risk Services - Rockaway, New Jersey) | New Jersey Rockaway 100 Enterprise Drive | posted: 2026-11-13
 - [ ] https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Applied-AI-Analyst_R30670-1 | Taylor Corporation | Applied AI Analyst | MN Remote | posted: 2026-11-13
 
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Spain---Remote/Data-Product-Engineer--Data---Analytics_R58016 | Trimble | Data Product Engineer, Data & Analytics | 2 Locations | posted: 2026-11-13
+
 ## Processed
