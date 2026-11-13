@@ -1505,4 +1505,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Risk--Data---AI-Software-Engineer--Remote--US-_R36643-1 | allstate | Risk, Data & AI Software Engineer (Remote, US) | US - Remote | posted: 2026-11-13
 
+- [ ] https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer----AI---Java---Python--AWS-_R260030751-1 | bmo | Software Developer - (AI / Java / Python/ AWS) | Irving, TX, USA | posted: 2026-11-13
+
 ## Processed
