@@ -2214,3 +2214,5 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294365007?gh_jid=5294365007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-13
 
 - [ ] https://jobs.lever.co/evidentid/55001512-8f95-4f25-9c20-f5788664635a | evidentid | Full Stack Engineer | Atlanta, GA | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/gamechanger/4b9837dc-85c5-4b16-a07d-bd8c6f8be246 | gamechanger | Software Engineer, Ads | GameChanger Remote - US | posted: 2026-11-13
