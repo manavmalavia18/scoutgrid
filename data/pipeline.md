@@ -2200,3 +2200,5 @@
 - [ ] https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740 | polygon-labs | AI Platform Engineer | EMEA - Remote · USA - Remote · United States | posted: 2026-11-12
 
 - [ ] https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003 | abnormalsecurity | Software Engineer I, Data Platforms | Remote - USA | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/ruby-labs/fbd0a088-0104-4802-a693-2690be572181 | ruby-labs | AI Engineer | Ukraine · Moldova · Albania · Kazakhstan · Montenegro · European Union · Serbia · Georgia · Remote | posted: 2026-11-13
