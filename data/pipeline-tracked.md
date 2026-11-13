@@ -1953,4 +1953,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519 | Fresenius Medical Care | Analytics and AI Business Analyst Co-op | Lawrence, MA, USA | posted: 2026-11-13
 
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-IL/Associate-Actuary---Medicare-Forecasting_1674419 | Centene Corporation | Associate Actuary - Medicare Analytics | 47 Locations | posted: 2026-11-13
+
 ## Processed
