@@ -15,12 +15,22 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: Install isolated, pinned lab dependencies
         run: npm ci --prefix browser-lab --ignore-scripts --no-audit --no-fund
       - name: Install system libraries and standard Chromium
         run: |
           browser-lab/node_modules/.bin/playwright-core install-deps chromium
           browser-lab/node_modules/.bin/playwright-core install chromium
+      - name: Install Python Playwright client (CDP interop experiment only)
+        # Deliberately plain `playwright`, not `patchright` — this is a
+        # generic cross-language protocol experiment, isolated to
+        # browser-lab/, independent of the production scraper's patchright
+        # dependency. No browser install needed here: connect_over_cdp()
+        # only needs the driver/client library, not a bundled browser.
+        run: pip install playwright
       - name: Unit tests for adapter and page diagnostics
         run: node --test test/browser-lab-*.test.mjs
       - name: Standard Playwright on loopback fixture
@@ -73,6 +83,12 @@ jobs:
         env:
           CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
         run: node --test test/browser-lab-hc-shaped-compat.test.mjs
+      - name: Node-to-Python CDP interop experiment (only when preflight is ok)
+        id: cdp-interop
+        if: steps.preflight.outputs.status == 'ok'
+        env:
+          CLOAKBROWSER_LICENSE_KEY: ${{ secrets.CLOAKBROWSER_LICENSE_KEY }}
+        run: node --test test/browser-lab-cdp-interop.test.mjs
       - name: Summarize runtime comparison
         if: always()
         env:

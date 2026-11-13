@@ -38,3 +38,18 @@ test('the preflight step distinguishes license/binary/install/launch failures an
   assert.match(source, /steps\.preflight\.outputs\.status != 'ok' && steps\.preflight\.outputs\.status != 'license_missing'/);
   assert.match(source, /steps\.preflight\.outputs\.status == 'ok'/);
 });
+
+test('the CDP interop step is isolated the same way as preflight/cloak — gated, secret-scoped, loopback only', () => {
+  const source = readFileSync(new URL('.github/workflows/browser-lab.yml', root), 'utf8');
+  assert.match(source, /node --test test\/browser-lab-cdp-interop\.test\.mjs/);
+  assert.match(source, /Node-to-Python CDP interop experiment \(only when preflight is ok\)/);
+  assert.match(source, /if: steps\.preflight\.outputs\.status == 'ok'/);
+  // Three secret-scoped env blocks now: preflight, cloak smoke, cdp-interop.
+  const envBlocks = source.match(/env:\n\s+CLOAKBROWSER_LICENSE_KEY: \$\{\{ secrets\.CLOAKBROWSER_LICENSE_KEY \}\}/g) || [];
+  assert.ok(envBlocks.length >= 3, 'expected the secret wired into preflight, cloak, and cdp-interop steps');
+  // Python Playwright client install is separate from patchright's own
+  // production dependency, and this workflow installs no browser for it
+  // (connect_over_cdp only needs the driver, not a bundled Chromium).
+  assert.match(source, /pip install playwright/);
+  assert.doesNotMatch(source, /pip install patchright/);
+});
