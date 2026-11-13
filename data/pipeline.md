@@ -2220,3 +2220,5 @@
 - [ ] https://job-boards.greenhouse.io/neuehealth/jobs/6260691004 | neuehealth | Backend Software Engineer 3 | Remote · No Office | posted: 2026-11-13
 
 - [ ] https://octane.co/o/who-we-are/careers/jobs-open?gh_jid=8203601003 | octanelending | Software Engineer II | Irving, Texas, United States; New York, New York, United States; Remote | posted: 2026-11-13
+
+- [ ] https://careers.airbnb.com/positions/8386065?gh_jid=8386065 | airbnb | Software Engineer, Profile & Community, Web | Remote, USA | posted: 2026-11-13
