@@ -2242,3 +2242,8 @@
 - [ ] https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a | openai | Full Stack Software Engineer, Consumer Health | San Francisco | posted: 2026-11-13
 
 - [ ] https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37 | ramp | Software Engineer, Fullstack, Spend Controls | New York, NY (HQ) | posted: 2026-11-13
+
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/6261926004 | evolutioniq | Software Engineer (AI Data Engineering) | New York, NY or Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/govdash/911b41b3-c74a-44db-88ea-96cafb957466 | govdash | Software Engineer | New York | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/4e041384-82da-4d7c-84f6-33f46d4421df | bedrock-robotics | Software Engineer, State Estimation Foundations | San Francisco, CA | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae | bedrock-robotics | Software Engineer, Calibration | San Francisco, CA | posted: 2026-11-13
