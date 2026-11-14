@@ -2260,3 +2260,5 @@
 
 - [ ] https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d | arena | Machine Learning Engineer | SF Bay Area | posted: 2026-11-14
 - [ ] https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0 | baseten | Software Engineer, Cloud Platform | San Francisco · Remote · United States · Toronto · Canada · New York · Montreal · Seattle | posted: 2026-11-14
+
+- [ ] https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7 | claylabs | Machine Learning Engineer | San Francisco | posted: 2026-11-14
