@@ -21828,6 +21828,41 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Accenture Federal Services"
+    careers_url: https://job-boards.greenhouse.io/accenturefederalservices
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 731 live jobs confirmed)
+  - name: "Arlo Technologies, Inc."
+    careers_url: https://jobs.ashbyhq.com/arlo
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4 live jobs confirmed)
+  - name: "ASI"
+    careers_url: https://job-boards.greenhouse.io/asi
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 11 live jobs confirmed)
+  - name: "BlackSky"
+    careers_url: https://job-boards.greenhouse.io/blacksky
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 39 live jobs confirmed)
+  - name: "Courier Health"
+    careers_url: https://job-boards.greenhouse.io/courierhealth
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 17 live jobs confirmed)
+  - name: "Mesh"
+    careers_url: https://job-boards.greenhouse.io/mesh
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 24 live jobs confirmed)
+  - name: "Peregrine Advisors"
+    careers_url: https://job-boards.greenhouse.io/peregrine
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 27 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
