@@ -21923,6 +21923,16 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Scout Motors Inc."
+    careers_url: https://job-boards.greenhouse.io/scoutmotors
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 201 live jobs confirmed)
+  - name: "Sphinx Defense"
+    careers_url: https://job-boards.greenhouse.io/sphinxdefense
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 15 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
