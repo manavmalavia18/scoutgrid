@@ -2030,4 +2030,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/outtake/67a35d51-9e10-4803-a7a1-45f581b7f1a8 | Outtake | Software Engineer, Platform | New York City | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/Lambda/08addfcf-1466-4bea-a72e-07fb5b29fb97 | Lambda | Software Engineer - Data Center Tooling | San Francisco Office (Fremont St) · San Jose Office (First St) · San Jose · United States · Bellevue Office · Bellevue | posted: 2026-11-14
+
 ## Processed
