@@ -1973,4 +1973,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1 | openai | Full Stack Software Engineer, Travel | San Francisco | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/joyfulhealth/ba51a0a3-0dc2-4bdb-9344-d646b182ddaa | joyfulhealth | AI Engineer | New York City | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d | arena | Machine Learning Engineer | SF Bay Area | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0 | baseten | Software Engineer, Cloud Platform | San Francisco · Remote · United States · Toronto · Canada · New York · Montreal · Seattle | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/quindar/e0f9e400-95e5-4ff1-ba05-67f57a56ba9f | quindar | Backend Engineer | Denver, CO | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | tensorwave | ML Engineer, Developer Ecosystem | Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/outtake/67a35d51-9e10-4803-a7a1-45f581b7f1a8 | outtake | Software Engineer, Platform | New York City | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8943553002 | Twitch | Software Engineer I, Payments | San Francisco, CA | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/distantjob/jobs/8941192002 | distantjob | Applied AI Engineer | Remote · Remote | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/6261926004 | evolutioniq | Software Engineer (AI Data Engineering) | New York, NY or Remote | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/govdash/911b41b3-c74a-44db-88ea-96cafb957466 | govdash | Software Engineer | New York | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/4e041384-82da-4d7c-84f6-33f46d4421df | bedrock-robotics | Software Engineer, State Estimation Foundations | San Francisco, CA | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae | bedrock-robotics | Software Engineer, Calibration | San Francisco, CA | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37 | ramp | Software Engineer, Fullstack, Spend Controls | New York, NY (HQ) | posted: 2026-11-13
+- [ ] https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5473790008 | renaissancelearning-nam | Software Engineer II (Engineering Enablement) | Remote - US | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/granted/cc514efc-3a4d-4ebc-847c-a0aa26774dd6 | granted | Backend Engineer - Integrations | Remote - Continental US | posted: 2026-11-12
+
 ## Processed
