@@ -2017,4 +2017,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | TensorWave | ML Engineer, Developer Ecosystem | Remote | posted: 2026-11-13
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8943553002 | Twitch Interactive | Software Engineer I, Payments | San Francisco, CA | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/clickhouse/6d2d05da-c1f4-4ff6-9d02-a30306940857 | ClickHouse | Data Platform Engineer | The Netherlands · United Kingdom · London · Spain · Madrid · Germany · Berlin · Remote | posted: 2026-11-14
+
 ## Processed
