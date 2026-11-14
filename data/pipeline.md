@@ -2257,3 +2257,6 @@
 - [ ] https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | tensorwave | ML Engineer, Developer Ecosystem | Remote | posted: 2026-11-13
 
 - [ ] https://jobs.ashbyhq.com/quindar/e0f9e400-95e5-4ff1-ba05-67f57a56ba9f | quindar | Backend Engineer | Denver, CO | posted: 2026-11-14
+
+- [ ] https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d | arena | Machine Learning Engineer | SF Bay Area | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0 | baseten | Software Engineer, Cloud Platform | San Francisco · Remote · United States · Toronto · Canada · New York · Montreal · Seattle | posted: 2026-11-14
