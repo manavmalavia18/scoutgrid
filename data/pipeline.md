@@ -2264,3 +2264,8 @@
 - [ ] https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7 | claylabs | Machine Learning Engineer | San Francisco | posted: 2026-11-14
 
 - [ ] https://jobs.ashbyhq.com/Lambda/08addfcf-1466-4bea-a72e-07fb5b29fb97 | lambda | Software Engineer - Data Center Tooling | San Francisco Office (Fremont St) · San Jose Office (First St) · San Jose · United States · Bellevue Office · Bellevue | posted: 2026-11-14
+
+- [ ] https://jobs.ashbyhq.com/mirage/e1da4a65-5b18-4a9b-873e-5b261a350104 | mirage | Software Engineer, 3D Rendering | Union Square, New York City | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/mirage/5de29162-c5ca-41ad-b8fa-e4bfa8a2b145 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/mirage/894f89d9-8687-462f-8040-9ac535214885 | mirage | Software Engineer, AI Developer Platform | Union Square, New York City | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/mirage/e3ea3be5-779b-4488-813b-7debc6996c45 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-14
