@@ -2019,4 +2019,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/clickhouse/6d2d05da-c1f4-4ff6-9d02-a30306940857 | ClickHouse | Data Platform Engineer | The Netherlands · United Kingdom · London · Spain · Madrid · Germany · Berlin · Remote | posted: 2026-11-14
 
+- [ ] https://jobs.smartrecruiters.com/sbtglobalinc/3743990016859546 | SBT Global | Mid. Software Engineer | Plano, TX, United States | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d | Arena | Machine Learning Engineer | SF Bay Area | posted: 2026-11-14
+- [ ] https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0 | Baseten | Software Engineer, Cloud Platform | San Francisco · Remote · United States · Toronto · Canada · New York · Montreal · Seattle | posted: 2026-11-14
+
 ## Processed
