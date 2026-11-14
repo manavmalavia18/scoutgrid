@@ -2028,4 +2028,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | Kira | Software Engineer (Backend, Infrastructure Focus) | New York or San Francisco | posted: 2026-11-13
 - [ ] https://jobs.lever.co/evidentid/55001512-8f95-4f25-9c20-f5788664635a | Evident | Full Stack Engineer | Atlanta, GA | posted: 2026-11-13
 
+- [ ] https://jobs.ashbyhq.com/outtake/67a35d51-9e10-4803-a7a1-45f581b7f1a8 | Outtake | Software Engineer, Platform | New York City | posted: 2026-11-13
+
 ## Processed
