@@ -21568,6 +21568,21 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Coinbase"
+    careers_url: https://job-boards.greenhouse.io/coinbase
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 265 live jobs confirmed)
+  - name: "Empower Pharmacy"
+    careers_url: https://job-boards.greenhouse.io/empowerpharmacy
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 54 live jobs confirmed)
+  - name: "Foundation Software"
+    careers_url: https://jobs.ashbyhq.com/foundation
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
