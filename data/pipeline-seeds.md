@@ -1988,4 +1988,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5473790008 | renaissancelearning-nam | Software Engineer II (Engineering Enablement) | Remote - US | posted: 2026-11-13
 - [ ] https://jobs.ashbyhq.com/granted/cc514efc-3a4d-4ebc-847c-a0aa26774dd6 | granted | Backend Engineer - Integrations | Remote - Continental US | posted: 2026-11-12
 
+- [ ] https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7 | claylabs | Machine Learning Engineer | San Francisco | posted: 2026-11-14
+
 ## Processed
