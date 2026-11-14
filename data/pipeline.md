@@ -2255,3 +2255,5 @@
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8943553002 | twitch | Software Engineer I, Payments | San Francisco, CA | posted: 2026-11-13
 
 - [ ] https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | tensorwave | ML Engineer, Developer Ecosystem | Remote | posted: 2026-11-13
+
+- [ ] https://jobs.ashbyhq.com/quindar/e0f9e400-95e5-4ff1-ba05-67f57a56ba9f | quindar | Backend Engineer | Denver, CO | posted: 2026-11-14
