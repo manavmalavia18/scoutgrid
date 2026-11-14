@@ -21488,6 +21488,71 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Browserbase"
+    careers_url: https://jobs.ashbyhq.com/browserbase
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Euclid"
+    careers_url: https://jobs.ashbyhq.com/euclid-power
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Ineffable Intelligence"
+    careers_url: https://jobs.ashbyhq.com/ineffable
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Inference"
+    careers_url: https://jobs.ashbyhq.com/inference
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mastra"
+    careers_url: https://jobs.ashbyhq.com/Mastra
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Opal Security"
+    careers_url: https://jobs.ashbyhq.com/Opal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "RoadRunner"
+    careers_url: https://jobs.ashbyhq.com/Roadrunner
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "StackAI"
+    careers_url: https://jobs.ashbyhq.com/stack-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Upflow"
+    careers_url: https://jobs.ashbyhq.com/upflow
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Turnkey"
+    careers_url: https://job-boards.greenhouse.io/turnkeycareers
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
