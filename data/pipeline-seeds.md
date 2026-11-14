@@ -1990,4 +1990,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7 | claylabs | Machine Learning Engineer | San Francisco | posted: 2026-11-14
 
+- [ ] https://jobs.ashbyhq.com/Lambda/08addfcf-1466-4bea-a72e-07fb5b29fb97 | lambda | Software Engineer - Data Center Tooling | San Francisco Office (Fremont St) · San Jose Office (First St) · San Jose · United States · Bellevue Office · Bellevue | posted: 2026-11-14
+
 ## Processed
