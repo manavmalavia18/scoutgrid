@@ -1,9 +1,14 @@
 {
-  "fetchedAt": "2026-11-14T02:24:23.655Z",
+  "fetchedAt": "2026-11-14T02:30:45.826Z",
   "days": 2,
   "leadCount": 78,
   "jobCount": 44,
   "boards": [
+    {
+      "key": "greenhouse:stepstone",
+      "fetched": 63,
+      "kept": 0
+    },
     {
       "key": "greenhouse:fieldwire",
       "fetched": 23,
@@ -15,29 +20,19 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:podium81",
-      "fetched": 72,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:fashionnova",
       "fetched": 95,
       "kept": 0
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 44,
+      "key": "greenhouse:podium81",
+      "fetched": 72,
       "kept": 0
     },
     {
       "key": "greenhouse:affirm",
       "fetched": 217,
       "kept": 4
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 295,
-      "kept": 1
     },
     {
       "key": "greenhouse:quantifind",
@@ -50,9 +45,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 63,
-      "kept": 0
+      "key": "greenhouse:xai",
+      "fetched": 295,
+      "kept": 1
     },
     {
       "key": "greenhouse:en-us",
@@ -65,14 +60,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:diracinc",
-      "fetched": 6,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:samsungsemiconductor",
-      "fetched": 70,
-      "kept": 0
+      "key": "greenhouse:vardaspace",
+      "fetched": 131,
+      "kept": 3
     },
     {
       "key": "greenhouse:knack-direct-applicants",
@@ -80,13 +70,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:diracinc",
+      "fetched": 6,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:doordashusa",
       "fetched": 428,
       "kept": 1
     },
     {
-      "key": "greenhouse:octantbio",
-      "fetched": 7,
+      "key": "greenhouse:applovin",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:samsungsemiconductor",
+      "fetched": 70,
       "kept": 0
     },
     {
@@ -105,13 +105,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:inmobi",
-      "fetched": 74,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:muonspace",
-      "fetched": 143,
+      "key": "greenhouse:octantbio",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -120,13 +115,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:inmobi",
+      "fetched": 74,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:flexe",
       "fetched": 2,
       "kept": 1
     },
     {
-      "key": "greenhouse:skyryse",
-      "fetched": 21,
+      "key": "greenhouse:muonspace",
+      "fetched": 143,
       "kept": 0
     },
     {
@@ -135,13 +135,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:specterops",
-      "fetched": 7,
+      "key": "greenhouse:skyryse",
+      "fetched": 21,
       "kept": 0
     },
     {
-      "key": "greenhouse:samford",
-      "fetched": 0,
+      "key": "greenhouse:specterops",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -150,13 +150,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:join-us",
+      "key": "greenhouse:samford",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:woolpert",
-      "fetched": 114,
+      "key": "greenhouse:join-us",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -175,14 +175,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:tanium",
-      "fetched": 67,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:dillards",
       "fetched": 3,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:tanium",
+      "fetched": 67,
+      "kept": 1
     },
     {
       "key": "greenhouse:pokemoncareers",
@@ -200,23 +200,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:vardaspace",
-      "fetched": 131,
-      "kept": 3
+      "key": "greenhouse:woolpert",
+      "fetched": 114,
+      "kept": 0
     },
     {
       "key": "ashby:reducto",
       "fetched": 38,
-      "kept": 0
-    },
-    {
-      "key": "ashby:plaid",
-      "fetched": 142,
-      "kept": 0
-    },
-    {
-      "key": "ashby:hockeystack",
-      "fetched": 3,
       "kept": 0
     },
     {
@@ -225,8 +215,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
+      "key": "ashby:hockeystack",
+      "fetched": 3,
       "kept": 0
     },
     {
@@ -235,9 +225,19 @@
       "kept": 0
     },
     {
+      "key": "ashby:plaid",
+      "fetched": 142,
+      "kept": 0
+    },
+    {
       "key": "ashby:baseten",
       "fetched": 102,
       "kept": 1
+    },
+    {
+      "key": "ashby:langchain",
+      "fetched": 100,
+      "kept": 0
     },
     {
       "key": "ashby:conduct",
@@ -255,18 +255,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:reacher",
-      "fetched": 16,
-      "kept": 0
-    },
-    {
-      "key": "ashby:aurora-operations-inc",
-      "fetched": 83,
-      "kept": 0
-    },
-    {
       "key": "ashby:mercor",
       "fetched": 91,
+      "kept": 0
+    },
+    {
+      "key": "ashby:reacher",
+      "fetched": 16,
       "kept": 0
     },
     {
@@ -275,23 +270,18 @@
       "kept": 1
     },
     {
-      "key": "ashby:stedi",
-      "fetched": 25,
-      "kept": 0
-    },
-    {
       "key": "ashby:symmetry",
       "fetched": 3,
       "kept": 1
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 376,
-      "kept": 4
+      "key": "ashby:stedi",
+      "fetched": 25,
+      "kept": 0
     },
     {
-      "key": "ashby:zetta2",
-      "fetched": 6,
+      "key": "ashby:aurora-operations-inc",
+      "fetched": 83,
       "kept": 0
     },
     {
@@ -305,14 +295,24 @@
       "kept": 0
     },
     {
-      "key": "ashby:scope-labs",
-      "fetched": 4,
-      "kept": 2
+      "key": "ashby:zetta2",
+      "fetched": 6,
+      "kept": 0
     },
     {
       "key": "ashby:kaizenlabs",
       "fetched": 25,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:spacex",
+      "fetched": 2758,
+      "kept": 9
+    },
+    {
+      "key": "ashby:scope-labs",
+      "fetched": 4,
+      "kept": 2
     },
     {
       "key": "ashby:brainco",
@@ -325,9 +325,9 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:spacex",
-      "fetched": 2758,
-      "kept": 9
+      "key": "ashby:snowflake",
+      "fetched": 376,
+      "kept": 4
     },
     {
       "key": "lever:fundrise",
@@ -335,24 +335,24 @@
       "kept": 1
     },
     {
+      "key": "lever:avivesolutions",
+      "fetched": 9,
+      "kept": 0
+    },
+    {
       "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:avivesolutions",
-      "fetched": 9,
+      "key": "lever:outreach",
+      "fetched": 16,
       "kept": 0
     },
     {
       "key": "lever:funxyz",
       "fetched": 19,
       "kept": 1
-    },
-    {
-      "key": "lever:outreach",
-      "fetched": 16,
-      "kept": 0
     },
     {
       "key": "lever:zoox",
@@ -370,12 +370,12 @@
       "kept": 0
     },
     {
-      "key": "workday:amat.wd1.myworkdayjobs.com/external",
+      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
+      "key": "workday:amat.wd1.myworkdayjobs.com/external",
       "fetched": 0,
       "kept": 0
     },
@@ -445,6 +445,36 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "xai"
+    },
+    {
+      "title": "Senior Mission Software Engineer",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8204007003",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "postedAt": "2026-11-13T21:57:03.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "vardaspace"
+    },
+    {
+      "title": "Senior Flight Software Engineer",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8203793003",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "postedAt": "2026-11-13T19:15:24.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "vardaspace"
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8203704003",
+      "company": "Varda Space Industries",
+      "location": "El Segundo, California, United States",
+      "postedAt": "2026-11-13T18:05:59.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "vardaspace"
     },
     {
       "title": "Software Engineer",
@@ -537,36 +567,6 @@
       "board": "machindustries"
     },
     {
-      "title": "Senior Mission Software Engineer",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8204007003",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "postedAt": "2026-11-13T21:57:03.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "vardaspace"
-    },
-    {
-      "title": "Senior Flight Software Engineer",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8203793003",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "postedAt": "2026-11-13T19:15:24.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "vardaspace"
-    },
-    {
-      "title": "Senior Embedded Software Engineer",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8203704003",
-      "company": "Varda Space Industries",
-      "location": "El Segundo, California, United States",
-      "postedAt": "2026-11-13T18:05:59.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "vardaspace"
-    },
-    {
       "title": "Software Engineer, Cloud Platform",
       "url": "https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0",
       "company": "Baseten",
@@ -607,66 +607,6 @@
       "board": "Symmetry"
     },
     {
-      "title": "Staff Software Engineer - Compiler & Spark Runtime ",
-      "url": "https://jobs.ashbyhq.com/snowflake/57131f28-cdf8-4776-aa87-8f9339e494ab",
-      "company": "Snowflake",
-      "location": "US-CA-Menlo Park · US-WA-Bellevue · Bellevue · United States",
-      "postedAt": "2026-11-13T02:57:31.163Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "snowflake"
-    },
-    {
-      "title": "Staff Software engineer - Storage ",
-      "url": "https://jobs.ashbyhq.com/snowflake/b861ddac-1fc4-4e42-9cde-a81be6f00fe2",
-      "company": "Snowflake",
-      "location": "US-WA-Bellevue",
-      "postedAt": "2026-11-13T02:30:42.702Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "snowflake"
-    },
-    {
-      "title": "Staff Software Engineer",
-      "url": "https://jobs.ashbyhq.com/snowflake/1c8dbe2c-60b3-4d66-a73f-95dffe416626",
-      "company": "Snowflake",
-      "location": "US-WA-Bellevue · US-CA-Menlo Park · Menlo Park · United States",
-      "postedAt": "2026-11-12T21:44:35.016Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "snowflake"
-    },
-    {
-      "title": "Software Engineer, Identity & Access Management",
-      "url": "https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536",
-      "company": "Snowflake",
-      "location": "US-WA-Bellevue",
-      "postedAt": "2026-11-12T20:54:32.604Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "snowflake"
-    },
-    {
-      "title": "Software Engineer (UpNext)",
-      "url": "https://jobs.ashbyhq.com/scope-labs/0ac9ceec-0a3e-4147-8847-441fe8902463",
-      "company": "Scope Labs",
-      "location": "New York City",
-      "postedAt": "2026-11-12T20:11:15.140Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "scope-labs"
-    },
-    {
-      "title": "Software Engineer (DreamLever)",
-      "url": "https://jobs.ashbyhq.com/scope-labs/fd6e7ed6-4595-4bb1-8056-1efc265fdc9b",
-      "company": "Scope Labs",
-      "location": "New York City",
-      "postedAt": "2026-11-12T16:06:34.702Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "scope-labs"
-    },
-    {
       "title": "AI/ML Engineer",
       "url": "https://jobs.ashbyhq.com/kaizenlabs/9d7babf0-5bf7-4629-9d0c-f2095d4bf749",
       "company": "Kaizen Labs",
@@ -675,26 +615,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "kaizenlabs"
-    },
-    {
-      "title": "Senior Backend Engineer, Video Platform Integration",
-      "url": "https://jobs.ashbyhq.com/patreon/d04be41a-654f-43c1-99e7-307f6e2b7f00",
-      "company": "Patreon",
-      "location": "San Francisco · New York · New York City · United States",
-      "postedAt": "2026-11-13T17:28:55.375Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "patreon"
-    },
-    {
-      "title": "Software Engineer, Backend (Product Engineering)",
-      "url": "https://jobs.ashbyhq.com/patreon/9ab71088-7bd6-4742-9232-4c0345db6081",
-      "company": "Patreon",
-      "location": "San Francisco",
-      "postedAt": "2026-11-12T20:11:12.612Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "patreon"
     },
     {
       "title": "Principal Software Engineer, CDN (Starlink)",
@@ -785,6 +705,86 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "spacex"
+    },
+    {
+      "title": "Software Engineer (UpNext)",
+      "url": "https://jobs.ashbyhq.com/scope-labs/0ac9ceec-0a3e-4147-8847-441fe8902463",
+      "company": "Scope Labs",
+      "location": "New York City",
+      "postedAt": "2026-11-12T20:11:15.140Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "scope-labs"
+    },
+    {
+      "title": "Software Engineer (DreamLever)",
+      "url": "https://jobs.ashbyhq.com/scope-labs/fd6e7ed6-4595-4bb1-8056-1efc265fdc9b",
+      "company": "Scope Labs",
+      "location": "New York City",
+      "postedAt": "2026-11-12T16:06:34.702Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "scope-labs"
+    },
+    {
+      "title": "Senior Backend Engineer, Video Platform Integration",
+      "url": "https://jobs.ashbyhq.com/patreon/d04be41a-654f-43c1-99e7-307f6e2b7f00",
+      "company": "Patreon",
+      "location": "San Francisco · New York · New York City · United States",
+      "postedAt": "2026-11-13T17:28:55.375Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "patreon"
+    },
+    {
+      "title": "Software Engineer, Backend (Product Engineering)",
+      "url": "https://jobs.ashbyhq.com/patreon/9ab71088-7bd6-4742-9232-4c0345db6081",
+      "company": "Patreon",
+      "location": "San Francisco",
+      "postedAt": "2026-11-12T20:11:12.612Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "patreon"
+    },
+    {
+      "title": "Staff Software Engineer - Compiler & Spark Runtime ",
+      "url": "https://jobs.ashbyhq.com/snowflake/57131f28-cdf8-4776-aa87-8f9339e494ab",
+      "company": "Snowflake",
+      "location": "US-CA-Menlo Park · US-WA-Bellevue · Bellevue · United States",
+      "postedAt": "2026-11-13T02:57:31.163Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
+    },
+    {
+      "title": "Staff Software engineer - Storage ",
+      "url": "https://jobs.ashbyhq.com/snowflake/b861ddac-1fc4-4e42-9cde-a81be6f00fe2",
+      "company": "Snowflake",
+      "location": "US-WA-Bellevue",
+      "postedAt": "2026-11-13T02:30:42.702Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.ashbyhq.com/snowflake/1c8dbe2c-60b3-4d66-a73f-95dffe416626",
+      "company": "Snowflake",
+      "location": "US-WA-Bellevue · US-CA-Menlo Park · Menlo Park · United States",
+      "postedAt": "2026-11-12T21:44:35.016Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
+    },
+    {
+      "title": "Software Engineer, Identity & Access Management",
+      "url": "https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536",
+      "company": "Snowflake",
+      "location": "US-WA-Bellevue",
+      "postedAt": "2026-11-12T20:54:32.604Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
     },
     {
       "title": "Software Engineer II  (CloudOps)",
