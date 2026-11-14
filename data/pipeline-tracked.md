@@ -2023,4 +2023,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d | Arena | Machine Learning Engineer | SF Bay Area | posted: 2026-11-14
 - [ ] https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0 | Baseten | Software Engineer, Cloud Platform | San Francisco · Remote · United States · Toronto · Canada · New York · Montreal · Seattle | posted: 2026-11-14
 
+- [ ] https://jobs.ashbyhq.com/gamechanger/4b9837dc-85c5-4b16-a07d-bd8c6f8be246 | GameChanger | Software Engineer, Ads | GameChanger Remote - US | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/govdash/911b41b3-c74a-44db-88ea-96cafb957466 | GovDash | Software Engineer | New York | posted: 2026-11-13
+- [ ] https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | Kira | Software Engineer (Backend, Infrastructure Focus) | New York or San Francisco | posted: 2026-11-13
+- [ ] https://jobs.lever.co/evidentid/55001512-8f95-4f25-9c20-f5788664635a | Evident | Full Stack Engineer | Atlanta, GA | posted: 2026-11-13
+
 ## Processed
