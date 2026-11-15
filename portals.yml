@@ -22113,6 +22113,16 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "DigiCert"
+    careers_url: https://job-boards.greenhouse.io/digicert
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 51 live jobs confirmed)
+  - name: "Schrödinger"
+    careers_url: https://job-boards.greenhouse.io/schrdinger
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 38 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
