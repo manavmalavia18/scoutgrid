@@ -2032,4 +2032,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/Lambda/08addfcf-1466-4bea-a72e-07fb5b29fb97 | Lambda | Software Engineer - Data Center Tooling | San Francisco Office (Fremont St) · San Jose Office (First St) · San Jose · United States · Bellevue Office · Bellevue | posted: 2026-11-14
 
+- [ ] https://jobs.ashbyhq.com/black-forest-labs/f83d3aee-d270-4ef6-b7a4-845a38afb3aa | Black Forest Labs | Machine Learning Engineer - Moderation | San Francisco (United States) | posted: 2026-11-15
+
 ## Processed
