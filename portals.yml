@@ -22273,6 +22273,41 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Charlie Health"
+    careers_url: https://job-boards.greenhouse.io/charliehealth
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 279 live jobs confirmed)
+  - name: "Databricks"
+    careers_url: https://job-boards.greenhouse.io/databricks
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 895 live jobs confirmed)
+  - name: "Dex"
+    careers_url: https://jobs.ashbyhq.com/dex
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 5 live jobs confirmed)
+  - name: "E-Space"
+    careers_url: https://jobs.lever.co/espace
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 99 live jobs confirmed)
+  - name: "Experient"
+    careers_url: https://job-boards.greenhouse.io/experient
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 12 live jobs confirmed)
+  - name: "Judi Health"
+    careers_url: https://job-boards.greenhouse.io/judihealth
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 82 live jobs confirmed)
+  - name: "Pattern"
+    careers_url: https://jobs.lever.co/pattern
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 99 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
