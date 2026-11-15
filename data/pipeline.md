@@ -2269,3 +2269,5 @@
 - [ ] https://jobs.ashbyhq.com/mirage/5de29162-c5ca-41ad-b8fa-e4bfa8a2b145 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-11-14
 - [ ] https://jobs.ashbyhq.com/mirage/894f89d9-8687-462f-8040-9ac535214885 | mirage | Software Engineer, AI Developer Platform | Union Square, New York City | posted: 2026-11-14
 - [ ] https://jobs.ashbyhq.com/mirage/e3ea3be5-779b-4488-813b-7debc6996c45 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-11-14
+
+- [ ] https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245 | netic | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-15
