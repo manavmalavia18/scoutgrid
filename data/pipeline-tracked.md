@@ -2034,4 +2034,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/black-forest-labs/f83d3aee-d270-4ef6-b7a4-845a38afb3aa | Black Forest Labs | Machine Learning Engineer - Moderation | San Francisco (United States) | posted: 2026-11-15
 
+- [ ] https://jobs.ashbyhq.com/netic/2ae2cae2-03cb-4bc7-986a-a93de10f46df | Netic | Software Engineer, Product | San Francisco | posted: 2026-11-15
+- [ ] https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245 | Netic | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-15
+
 ## Processed
