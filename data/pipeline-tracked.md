@@ -2037,4 +2037,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/netic/2ae2cae2-03cb-4bc7-986a-a93de10f46df | Netic | Software Engineer, Product | San Francisco | posted: 2026-11-15
 - [ ] https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245 | Netic | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-15
 
+- [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4740955005 | Nimble Gravity | Data Engineer | LATAM (Remote) | posted: 2026-11-15
+
 ## Processed
