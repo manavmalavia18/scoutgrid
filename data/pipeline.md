@@ -2331,3 +2331,5 @@
 - [ ] https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006 | cpisecurity | Full Stack Software Engineer | Charlotte, North Carolina, United States | posted: 2026-11-16
 
 - [ ] https://job-boards.greenhouse.io/pointwild/jobs/5474748008 | pointwild | DevOps Engineer | Remote India | posted: 2026-11-16
+
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8131089 | twilio | Software Engineer (L2) | Remote - US | posted: 2026-11-16
