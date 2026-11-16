@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-16T22:05:22.337Z",
+  "fetchedAt": "2026-11-16T22:33:51.510Z",
   "days": 2,
   "leadCount": 77,
-  "jobCount": 47,
+  "jobCount": 56,
   "boards": [
     {
       "key": "greenhouse:fieldwire",
@@ -10,18 +10,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 212,
+      "key": "greenhouse:taketwo",
+      "fetched": 33,
       "kept": 0
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 43,
+      "key": "greenhouse:stepstone",
+      "fetched": 62,
       "kept": 0
     },
     {
       "key": "greenhouse:podium81",
       "fetched": 68,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:applovin",
+      "fetched": 43,
       "kept": 0
     },
     {
@@ -35,13 +40,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:taketwo",
-      "fetched": 33,
+      "key": "greenhouse:en-us",
+      "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:en-us",
-      "fetched": 0,
+      "key": "greenhouse:baselayer",
+      "fetched": 16,
       "kept": 0
     },
     {
@@ -55,37 +60,7 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:baselayer",
-      "fetched": 16,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:stepstone",
-      "fetched": 62,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:citrusfl",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 426,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:mechanicallicensingcollective",
-      "fetched": 2,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 297,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:mcckc",
       "fetched": 0,
       "kept": 0
     },
@@ -100,8 +75,28 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:washington",
+      "key": "greenhouse:mechanicallicensingcollective",
+      "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:machindustries",
+      "fetched": 191,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:psiquantum",
+      "fetched": 101,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:mcckc",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:vast",
+      "fetched": 201,
       "kept": 0
     },
     {
@@ -110,18 +105,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:washington",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:ablairenterprises",
       "fetched": 7,
       "kept": 1
     },
     {
-      "key": "greenhouse:psiquantum",
-      "fetched": 101,
-      "kept": 0
+      "key": "greenhouse:xai",
+      "fetched": 297,
+      "kept": 1
     },
     {
-      "key": "greenhouse:vast",
-      "fetched": 201,
+      "key": "greenhouse:affirm",
+      "fetched": 212,
       "kept": 0
     },
     {
@@ -140,11 +140,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:machindustries",
-      "fetched": 191,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:pathrobotics",
       "fetched": 60,
       "kept": 1
@@ -160,9 +155,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:vardaspace",
-      "fetched": 131,
-      "kept": 3
+      "key": "greenhouse:samsungsemiconductor",
+      "fetched": 71,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:canonical",
+      "fetched": 316,
+      "kept": 1
     },
     {
       "key": "greenhouse:diracinc",
@@ -170,8 +170,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:samsungsemiconductor",
-      "fetched": 71,
+      "key": "greenhouse:doordashusa",
+      "fetched": 426,
       "kept": 0
     },
     {
@@ -180,8 +180,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:purestorage",
-      "fetched": 377,
+      "key": "greenhouse:vardaspace",
+      "fetched": 130,
+      "kept": 3
+    },
+    {
+      "key": "greenhouse:atoms",
+      "fetched": 161,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:muonspace",
+      "fetched": 140,
       "kept": 0
     },
     {
@@ -190,9 +200,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:canonical",
-      "fetched": 316,
-      "kept": 1
+      "key": "ashby:reducto",
+      "fetched": 39,
+      "kept": 0
+    },
+    {
+      "key": "ashby:hockeystack",
+      "fetched": 3,
+      "kept": 0
     },
     {
       "key": "ashby:langchain",
@@ -205,18 +220,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:reducto",
-      "fetched": 39,
-      "kept": 0
-    },
-    {
       "key": "ashby:harmonic",
       "fetched": 9,
-      "kept": 0
-    },
-    {
-      "key": "ashby:hockeystack",
-      "fetched": 3,
       "kept": 0
     },
     {
@@ -225,14 +230,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:atoms",
-      "fetched": 161,
-      "kept": 0
-    },
-    {
-      "key": "ashby:baseten",
-      "fetched": 103,
-      "kept": 0
+      "key": "ashby:concurrence",
+      "fetched": 14,
+      "kept": 1
     },
     {
       "key": "ashby:starbridge",
@@ -240,19 +240,9 @@
       "kept": 1
     },
     {
-      "key": "ashby:mercor",
-      "fetched": 91,
-      "kept": 1
-    },
-    {
-      "key": "ashby:concurrence",
-      "fetched": 14,
-      "kept": 1
-    },
-    {
-      "key": "ashby:snowflake",
-      "fetched": 373,
-      "kept": 2
+      "key": "ashby:baseten",
+      "fetched": 103,
+      "kept": 0
     },
     {
       "key": "ashby:aerovect",
@@ -265,14 +255,24 @@
       "kept": 0
     },
     {
+      "key": "ashby:reliable-robotics",
+      "fetched": 77,
+      "kept": 0
+    },
+    {
       "key": "ashby:mintive",
       "fetched": 7,
       "kept": 1
     },
     {
-      "key": "ashby:reliable-robotics",
-      "fetched": 77,
+      "key": "greenhouse:purestorage",
+      "fetched": 377,
       "kept": 0
+    },
+    {
+      "key": "ashby:basecamp-research",
+      "fetched": 10,
+      "kept": 1
     },
     {
       "key": "ashby:shiftkey",
@@ -285,9 +285,9 @@
       "kept": 1
     },
     {
-      "key": "ashby:basecamp-research",
-      "fetched": 10,
-      "kept": 1
+      "key": "ashby:genspark",
+      "fetched": 8,
+      "kept": 0
     },
     {
       "key": "ashby:outersignal",
@@ -295,14 +295,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:genspark",
-      "fetched": 8,
-      "kept": 0
-    },
-    {
-      "key": "ashby:goaly",
-      "fetched": 7,
-      "kept": 0
+      "key": "ashby:snowflake",
+      "fetched": 374,
+      "kept": 3
     },
     {
       "key": "ashby:netic",
@@ -310,9 +305,19 @@
       "kept": 2
     },
     {
+      "key": "ashby:goaly",
+      "fetched": 7,
+      "kept": 0
+    },
+    {
       "key": "ashby:conduct",
       "fetched": 30,
       "kept": 0
+    },
+    {
+      "key": "ashby:mercor",
+      "fetched": 99,
+      "kept": 8
     },
     {
       "key": "ashby:perplexity",
@@ -320,13 +325,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:muonspace",
-      "fetched": 140,
+      "key": "lever:cirrus",
+      "fetched": 0,
       "kept": 0
     },
     {
-      "key": "lever:cirrus",
-      "fetched": 0,
+      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -335,23 +340,8 @@
       "kept": 0
     },
     {
-      "key": "lever:woodardcurran",
-      "fetched": 58,
-      "kept": 0
-    },
-    {
-      "key": "workday:kla.wd1.myworkdayjobs.com/search",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "key": "lever:zoox",
       "fetched": 237,
-      "kept": 0
-    },
-    {
-      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
-      "fetched": 0,
       "kept": 0
     },
     {
@@ -365,9 +355,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:spacex",
-      "fetched": 2768,
-      "kept": 21
+      "key": "lever:woodardcurran",
+      "fetched": 58,
+      "kept": 0
+    },
+    {
+      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "fetched": 0,
+      "kept": 0
     },
     {
       "key": "workday:amat.wd1.myworkdayjobs.com/external",
@@ -385,22 +380,17 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:spacex",
+      "fetched": 2772,
+      "kept": 22
+    },
+    {
       "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
-      "fetched": 20,
+      "fetched": 40,
       "kept": 0
     }
   ],
   "jobs": [
-    {
-      "title": "Software Engineer, Super Intelligence",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5295932007",
-      "company": "SpaceX Super Intelligence",
-      "location": "Palo Alto, CA; Seattle, WA",
-      "postedAt": "2026-11-16T04:15:13.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "xai"
-    },
     {
       "title": "Software Engineer, Backend - Government Products",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931",
@@ -430,6 +420,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "ablairenterprises"
+    },
+    {
+      "title": "Software Engineer, Super Intelligence",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5295932007",
+      "company": "SpaceX Super Intelligence",
+      "location": "Palo Alto, CA; Seattle, WA",
+      "postedAt": "2026-11-16T04:15:13.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "xai"
     },
     {
       "title": "Software Engineer – Frontend",
@@ -462,6 +462,16 @@
       "board": "pathrobotics"
     },
     {
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8379825",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
+      "postedAt": "2026-11-16T13:39:36.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "canonical"
+    },
+    {
       "title": "Senior Spacecraft Mission Software Engineer",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8205857003",
       "company": "Varda Space Industries",
@@ -492,16 +502,6 @@
       "board": "vardaspace"
     },
     {
-      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/8379825",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "postedAt": "2026-11-16T13:39:36.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "canonical"
-    },
-    {
       "title": "Staff Software Engineer - Device Fingerprinting",
       "url": "https://jobs.ashbyhq.com/plaid/8315280a-2498-4b41-9b98-621a61c1f4dc",
       "company": "Plaid",
@@ -510,26 +510,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "plaid"
-    },
-    {
-      "title": "Software Engineer, Federal",
-      "url": "https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d",
-      "company": "Starbridge",
-      "location": "New York City",
-      "postedAt": "2026-11-16T16:31:38.453Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "starbridge"
-    },
-    {
-      "title": "Product Manager, Applied AI",
-      "url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
-      "company": "Mercor",
-      "location": "San Francisco",
-      "postedAt": "2026-11-16T21:51:25.814Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mercor"
     },
     {
       "title": "Software Engineer, Voice Evaluation [NYC or SF]",
@@ -542,24 +522,14 @@
       "board": "concurrence"
     },
     {
-      "title": "Principal Software Engineer (Outer Loop), Engineering Systems",
-      "url": "https://jobs.ashbyhq.com/snowflake/850fe52e-5137-4fbb-966a-ef8e89cf6245",
-      "company": "Snowflake",
-      "location": "US-CA-Menlo Park · US-WA-Bellevue · Bellevue · United States",
-      "postedAt": "2026-11-16T20:49:41.257Z",
+      "title": "Software Engineer, Federal",
+      "url": "https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d",
+      "company": "Starbridge",
+      "location": "New York City",
+      "postedAt": "2026-11-16T16:31:38.453Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "snowflake"
-    },
-    {
-      "title": "Senior Software Engineer - Elastic Global Services",
-      "url": "https://jobs.ashbyhq.com/snowflake/829e9786-6661-4134-b7cd-aef3bed75c1c",
-      "company": "Snowflake",
-      "location": "US-CA-Menlo Park",
-      "postedAt": "2026-11-16T18:49:05.714Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "snowflake"
+      "board": "starbridge"
     },
     {
       "title": "Software Engineer, Simulation",
@@ -602,6 +572,16 @@
       "board": "Mintive"
     },
     {
+      "title": "Software Engineer, Science Platform",
+      "url": "https://jobs.ashbyhq.com/basecamp-research/66faf6c7-aa7d-41bd-b1f1-e8fe1569db27",
+      "company": "Basecamp Research",
+      "location": "Boston",
+      "postedAt": "2026-11-16T14:27:35.276Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "basecamp-research"
+    },
+    {
       "title": "Founding backend engineer, data platform and fleet infrastructure",
       "url": "https://jobs.ashbyhq.com/sentis/28218846-dd47-4ee2-b537-c045152803bc",
       "company": "Sentis",
@@ -612,14 +592,34 @@
       "board": "sentis"
     },
     {
-      "title": "Software Engineer, Science Platform",
-      "url": "https://jobs.ashbyhq.com/basecamp-research/66faf6c7-aa7d-41bd-b1f1-e8fe1569db27",
-      "company": "Basecamp Research",
-      "location": "Boston",
-      "postedAt": "2026-11-16T14:27:35.276Z",
+      "title": "Staff Software Engineer, Cortex AI Functions",
+      "url": "https://jobs.ashbyhq.com/snowflake/776b1e0d-a3d4-417f-9178-eb20a0852ec4",
+      "company": "Snowflake",
+      "location": "US-WA-Bellevue · US-CA-Menlo Park · Menlo Park · United States",
+      "postedAt": "2026-11-16T22:13:52.565Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "basecamp-research"
+      "board": "snowflake"
+    },
+    {
+      "title": "Principal Software Engineer (Outer Loop), Engineering Systems",
+      "url": "https://jobs.ashbyhq.com/snowflake/850fe52e-5137-4fbb-966a-ef8e89cf6245",
+      "company": "Snowflake",
+      "location": "US-CA-Menlo Park · US-WA-Bellevue · Bellevue · United States",
+      "postedAt": "2026-11-16T20:49:41.257Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
+    },
+    {
+      "title": "Senior Software Engineer - Elastic Global Services",
+      "url": "https://jobs.ashbyhq.com/snowflake/829e9786-6661-4134-b7cd-aef3bed75c1c",
+      "company": "Snowflake",
+      "location": "US-CA-Menlo Park",
+      "postedAt": "2026-11-16T18:49:05.714Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "snowflake"
     },
     {
       "title": "Software Engineer, Product",
@@ -642,6 +642,86 @@
       "board": "netic"
     },
     {
+      "title": "Software Engineer, Discovery",
+      "url": "https://jobs.ashbyhq.com/mercor/5ece408b-0741-4917-a3f7-27d5acb25d57",
+      "company": "Mercor",
+      "location": "San Francisco",
+      "postedAt": "2026-11-16T22:30:14.377Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Senior Software Engineer, Discovery",
+      "url": "https://jobs.ashbyhq.com/mercor/861df396-2508-4ede-97b8-51a85bbc98e2",
+      "company": "Mercor",
+      "location": "San Francisco",
+      "postedAt": "2026-11-16T22:29:36.851Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Engineering Manager, Applied AI",
+      "url": "https://jobs.ashbyhq.com/mercor/094e2827-9fb1-49dd-a8a6-e0d4554d4293",
+      "company": "Mercor",
+      "location": "New York City",
+      "postedAt": "2026-11-16T22:28:18.372Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Sr. Machine Learning Engineer, Anonymization",
+      "url": "https://jobs.ashbyhq.com/mercor/ea913b66-0995-49d9-a8a9-2d4b9538a776",
+      "company": "Mercor",
+      "location": "New York City",
+      "postedAt": "2026-11-16T22:18:25.810Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Software Engineer, Enterprise Applied AI",
+      "url": "https://jobs.ashbyhq.com/mercor/b0f12b3f-91ae-4b9e-ad0b-ed0299f80554",
+      "company": "Mercor",
+      "location": "New York City",
+      "postedAt": "2026-11-16T22:13:50.130Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Software Engineer, Frontier Data Products",
+      "url": "https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+      "company": "Mercor",
+      "location": "New York City",
+      "postedAt": "2026-11-16T22:10:16.888Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Software Engineer, Agents",
+      "url": "https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134",
+      "company": "Mercor",
+      "location": "New York City",
+      "postedAt": "2026-11-16T22:08:41.031Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
+      "title": "Product Manager, Applied AI",
+      "url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
+      "company": "Mercor",
+      "location": "San Francisco",
+      "postedAt": "2026-11-16T21:51:25.814Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mercor"
+    },
+    {
       "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
       "url": "https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b",
       "company": "Perplexity AI",
@@ -650,6 +730,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "Perplexity"
+    },
+    {
+      "title": "Software Engineer, Wireless Validation (Starlink Mobile) ",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002",
+      "company": "SpaceX",
+      "location": "Palo Alto, CA",
+      "postedAt": "2026-11-16T22:12:06.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
     },
     {
       "title": "Software Engineer (Platform Team)",
