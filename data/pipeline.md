@@ -2278,3 +2278,5 @@
 - [ ] https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab | first-resonance | DevOps Engineer | Los Angeles | posted: 2026-11-16
 
 - [ ] https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8204691003 | a3c41b8b71eff8c4 | Site Reliability Engineer (Night Shift, 1:30am to 10:30am IST) | Hyderabad, India - Remote | posted: 2026-11-16
+
+- [ ] https://jobs.ashbyhq.com/ShiftKey/2eeb9906-2ecb-48bf-914e-d976948e04a8 | shiftkey | Software Engineer, Full Stack | United States · Remote | posted: 2026-11-16
