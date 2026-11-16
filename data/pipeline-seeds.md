@@ -2003,4 +2003,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8319442 | twilio | Software Engineer (L1) | Remote - India | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab | first-resonance | DevOps Engineer | Los Angeles | posted: 2026-11-16
 
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8221470?gh_jid=8221470 | crunchyroll | Software Engineer III, Apple | San Francisco, CA, United States | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5296197007?gh_jid=5296197007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/base-power/d5346efc-51b9-44f8-89f6-41f6178825c9 | base-power | Software Engineer, Systems Integration | Austin, TX | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/tegnainc/jobs/5292004007?gh_jid=5292004007 | tegnainc | FullStack Engineer (UI/UX) | Tysons, Virginia, United States | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8944480002?gh_jid=8944480002 | pathrobotics | Robotics Software Engineer, Systems Integration | Columbus, Ohio | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/8379825 | canonical | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Home based - Worldwide | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/ShiftKey/2eeb9906-2ecb-48bf-914e-d976948e04a8 | shiftkey | Software Engineer, Full Stack | United States · Remote | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8204691003 | a3c41b8b71eff8c4 | Site Reliability Engineer (Night Shift, 1:30am to 10:30am IST) | Hyderabad, India - Remote | posted: 2026-11-16
+
 ## Processed
