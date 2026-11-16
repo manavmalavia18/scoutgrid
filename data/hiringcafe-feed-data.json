@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T16:32:37.097Z",
+  "fetchedAt": "2026-11-16T18:49:54.735Z",
   "provider": "hiringcafe",
   "window": "96h",
   "hcDaysRequested": 2,
@@ -19,24 +19,141 @@
     "product analyst"
   ],
   "days": 2,
-  "pagesFetched": 9,
+  "pagesFetched": 10,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
     "data analyst": null,
-    "data scientist": null,
-    "etl developer": 1,
-    "power bi developer": 0,
-    "database administrator": 1,
-    "business intelligence engineer": 0,
+    "data scientist": 0,
+    "etl developer": 15,
+    "power bi developer": 1,
+    "database administrator": 9,
+    "business intelligence engineer": 5,
     "business intelligence analyst": 0,
-    "analytics engineer": 16,
+    "analytics engineer": 24,
     "ai ml engineer": 4,
-    "data warehouse engineer": 0,
-    "product analyst": 1
+    "data warehouse engineer": 2,
+    "product analyst": 2
   },
-  "count": 173,
+  "count": 200,
   "jobs": [
+    {
+      "title": "ESP DIFA Tech",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668711",
+      "company": "Endurance Lift Solutions",
+      "location": "Dickinson, North Dakota, United States",
+      "postedAt": 1794852745000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "Bachelor's degree in engineering (mechanical, electrical, petroleum) or high school diploma with significant ESP DIFA experience; 1+ year ESP reliability/DIFA experience; mechanical aptitude; analytical and technical writing skills; computer proficiency.",
+      "tools": [],
+      "company_tagline": "A provider of electric submersible pump systems and reliability engineering services.",
+      "ats_source": "paylocity",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "AI Engineer II",
+      "url": "https://ats.rippling.com/free-market-health/jobs/da274dc6-bc82-4e05-9447-1d5107357f90",
+      "company": "Free Market Health",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "postedAt": 1794850975084,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years building software or AI applications; strong Python and SQL; Databricks experience; major cloud platform (Azure preferred); LLM-powered application development; REST API integration; modern AI development tools; strong software engineering practices.",
+      "tools": [
+        "Python",
+        "SQL",
+        "Databricks",
+        "Azure",
+        "Cursor",
+        "Claude Code",
+        "REST APIs",
+        "Model Context Protocol",
+        "LangGraph",
+        "LangChain",
+        "Azure AI Foundry"
+      ],
+      "company_tagline": "A healthcare technology company connecting stakeholders across the specialty pharmacy ecosystem to improve medication access and treatment outcomes.",
+      "ats_source": "rippling",
+      "discoveredAt": "2026-11-16T18:37:56.690Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Robotics Simulation Engineer",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483480918",
+      "company": "John Deere",
+      "location": "Urbandale or Austin",
+      "postedAt": 1794850930000,
+      "salary": "$87k-$130k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience with controls or software testing (MIL, SIL, HIL), vehicle/sensor/embedded software simulation, Python coding, strong analytical and problem-solving skills, ability to manage multiple schedules, and work in a collaborative team.",
+      "tools": [
+        "Python",
+        "Matlab Simulink",
+        "Unreal",
+        "Unity",
+        "IsaacSim",
+        "Gazebo"
+      ],
+      "company_tagline": "A global company investing in technology to address food, fiber, and infrastructure challenges.",
+      "ats_source": "eightfold",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "AI Engineer I",
+      "url": "https://ats.rippling.com/free-market-health/jobs/23d56451-04d9-48e8-8872-4e97c313a230",
+      "company": "Free Market Health",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "postedAt": 1794850678240,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "At least one year of software, data, or AI engineering experience; proficiency in Python and SQL; familiarity with Databricks, cloud platforms, LLM patterns, REST APIs, Git, and modern development practices.",
+      "tools": [
+        "Python",
+        "SQL",
+        "Databricks",
+        "Azure",
+        "Cursor",
+        "Claude Code",
+        "Model Context Protocol",
+        "REST APIs",
+        "Git",
+        "LangGraph",
+        "LangChain",
+        "Azure AI Foundry"
+      ],
+      "company_tagline": "A healthcare technology company connecting stakeholders across the specialty pharmacy ecosystem to improve medication access and patient outcomes.",
+      "ats_source": "rippling",
+      "discoveredAt": "2026-11-16T18:37:56.690Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Machine Learning Co-Op",
+      "url": "https://careers.biomerieux.com/jobs/18485360",
+      "company": "bioMérieux",
+      "location": "Durham, North Carolina, United States",
+      "postedAt": 1794847063000,
+      "salary": "$46k/yr",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "High school diploma or GED; enrolled in a BS or MS program in systems, biomedical, or software engineering with one full year completed; must be enrolled in a formal co-op program at NC State, Duke, or NC A&T; no previous experience required.",
+      "tools": [],
+      "company_tagline": "A global in vitro diagnostics company focused on improving public health through innovative diagnostic solutions.",
+      "ats_source": "ttcportals",
+      "discoveredAt": "2026-11-16T18:37:56.690Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
     {
       "title": "AI Acceleration Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390?domain=bostonscientific.com",
@@ -58,7 +175,7 @@
       "company_tagline": "A global medical technology leader developing innovative solutions to improve patient health.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Graduate Mechanical Engineer (Available 2027)",
@@ -707,7 +824,7 @@
       "company_tagline": "A global consultancy providing advisory and technical expertise across the built environment.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Commissioning Intern (Summer 2027)",
@@ -750,7 +867,7 @@
       "company_tagline": "A global consultancy providing advisory and technical expertise across the built environment.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Mechanical Engineering Intern (Available 2027)",
@@ -821,7 +938,7 @@
       "company_tagline": "A global consultancy providing advisory and technical expertise across the built environment.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "BIM Designer",
@@ -908,6 +1025,62 @@
       "lastSeenAt": "2026-11-16T15:16:09.383Z"
     },
     {
+      "title": "Administrator - Microsoft PowerBI,Windows Powershell, Python (193083)",
+      "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=HCLPRD&career_job_req_id=193083",
+      "company": "HCLTech",
+      "location": "United States",
+      "postedAt": 1794837689000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "ITIL framework knowledge required; 3+ years metrics analysis/design and 2 years IT Security; SQL query development; dashboard creation with Tableau or PowerBI; technical documentation; SharePoint; service management understanding.",
+      "tools": [
+        "Microsoft PowerBI",
+        "Windows PowerShell",
+        "Python",
+        "SQL",
+        "MS SQL",
+        "Cloudera",
+        "Tableau",
+        "SharePoint"
+      ],
+      "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
+      "ats_source": "successfactors",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Chemical Engineer",
+      "url": "https://careers.pageuppeople.com/875/ci/en/job/504071",
+      "company": "University of Dayton",
+      "location": "Warner Robins, Georgia, United States",
+      "postedAt": 1794837600000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "BS in Chemistry, Chemical Engineering, Statistics, or Data Analytics; 2+ years chemical analysis and SOP development; proficiency with MS Office and statistical software; U.S. citizenship required; R2 level requires 5+ years and ISO 9001/17025 experience.",
+      "tools": [
+        "FTIR",
+        "ICP",
+        "FAA",
+        "IC",
+        "microscopy",
+        "SEM",
+        "XRF",
+        "Minitab",
+        "Microsoft Office",
+        "Python",
+        "R",
+        "T-SQL"
+      ],
+      "company_tagline": "A research institute supporting aerospace innovation and corrosion prevention for the U.S. Air Force.",
+      "ats_source": "pageup",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
       "title": "Engineer - Blade  Fleet Engineering",
       "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/Engineer---Blade--Fleet-Engineering_R5058574-1/apply",
       "company": "GE Vernova",
@@ -949,7 +1122,7 @@
       "company_tagline": "An industrial construction company providing field construction, pipe fabrication, metal fabrication, and electrical and instrumentation services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Full Stack Engineer",
@@ -1274,6 +1447,574 @@
       "lastSeenAt": "2026-11-16T15:16:09.383Z"
     },
     {
+      "title": "Data Engineer",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer/144368",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; exposure to data integration tools (Informatica, Ab Initio, DataStage) and ETL processes; ability to work without visa sponsorship now or in the future.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer/144390",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; exposure to data integration tools (Informatica, Ab Initio, DataStage) and ETL processes; ability to work without visa sponsorship now or in the future.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "Talend",
+        "Snowflake"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Platforms",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Platforms/144442",
+      "company": "IBM",
+      "location": "New York City, New York, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with traditional application development, big data technologies, analytics libraries, open-source NLP, and statistical/big data computing; ability to work without visa sponsorship.",
+      "tools": [
+        "API",
+        "SQL",
+        "ETL",
+        "ELT",
+        "NoSQL"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Developer",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer/144394",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud platforms, at least 2 primary technology skills (Java, Open Source, databases, integration, mainframe, IBMi, Data AMS), DevSecOps, multi-stack troubleshooting, consulting services; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Open Source",
+        "Databases",
+        "Integration Technologies",
+        "Mainframe",
+        "IBMi",
+        "Data AMS",
+        "DevSecOps",
+        "Python",
+        "C++",
+        "Ruby",
+        "Talend"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/143997",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$116k-$216k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with data integration tools (Informatica, Ab Initio, DataStage), ETL processes, and IBM WebSphere Data Integration Suite; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "IBM WebSphere Data Integration Suite",
+        "DataBricks"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/144274",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; exposure to data integration tools (Informatica, Ab Initio, DataStage); ETL process understanding; data flow management; business intelligence support; ability to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "Talend",
+        "Snowflake"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/143752",
+      "company": "IBM",
+      "location": "Paramus, New Jersey, United States",
+      "postedAt": 1794830400000,
+      "salary": "$69k-$129k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; exposure to data integration tools (Informatica, Ab Initio, DataStage); ETL process implementation; data solution design; business intelligence environment experience; ability to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "WebSphere Data Integration Suite"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/143922",
+      "company": "IBM",
+      "location": "Alexandria, Virginia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; exposure to data integration tools (Informatica, Ab Initio, DataStage), ETL processes, data flow management, and business intelligence support; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "Python",
+        "Snowflake",
+        "AWS",
+        "Unix"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/144061",
+      "company": "IBM",
+      "location": "Herndon, Virginia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; exposure to data integration tools (Informatica, Ab Initio, DataStage), ETL processes, data flow management, and business intelligence support; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "Python",
+        "Snowflake",
+        "AWS",
+        "Agentic AI",
+        "Unix",
+        "Teradata"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/143869",
+      "company": "IBM",
+      "location": "Alexandria, Virginia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; exposure to data integration tools (Informatica, Ab Initio, DataStage), ETL processes, data solution design, data flow management, and business intelligence support; must be able to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "Python",
+        "Snowflake",
+        "AWS",
+        "Agentic AI",
+        "Unix"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Developer-Cloud Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Cloud-Integration/143681",
+      "company": "IBM",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$114k-$212k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud integration tools (App Connect Enterprise, API Connect, Datapower, APIGEE, Kafka, Aspera, Kong, Snaplogic, webMethods.io, Boomi, Workato); cloud architecture and troubleshooting skills; ability to work without visa sponsorship.",
+      "tools": [
+        "App Connect Enterprise",
+        "API Connect",
+        "Datapower",
+        "APIGEE",
+        "Kafka",
+        "Aspera",
+        "Kong",
+        "Snaplogic",
+        "webMethods.io",
+        "Boomi",
+        "Workato",
+        "AWS"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Developer-Cloud Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Cloud-Integration/144015",
+      "company": "IBM",
+      "location": "Bloomington, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$114k-$212k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud integration and containerization tools (App Connect Enterprise, API Connect, Datapower, APIGEE, Kafka, Aspera, Kong, Snaplogic, webMethods.io, Boomi, Workato); ability to work without visa sponsorship; up to 80% travel.",
+      "tools": [
+        "App Connect Enterprise",
+        "API Connect",
+        "Datapower",
+        "APIGEE",
+        "Kafka",
+        "Aspera",
+        "Kong",
+        "Snaplogic",
+        "webMethods.io",
+        "Boomi",
+        "Workato",
+        "AWS"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Package Specialist-SAP BW Analytics",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Package-Specialist-SAP-BW-Analytics/144290",
+      "company": "IBM",
+      "location": "Durham, North Carolina, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with SAP BW development, data architecture, ETL processes, and end-user reporting; must be able to work without visa sponsorship.",
+      "tools": [
+        "SAP BW",
+        "SAP BW Integrated Planning",
+        "SAP BW ABAP Modeling",
+        "SAP BW/4HANA",
+        "SAP HANA",
+        "SQL"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Package Specialist-SAP BW HANA Analytics",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Package-Specialist-SAP-BW-HANA-Analytics/143611",
+      "company": "IBM",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with SAP BW, BW/4HANA, Datasphere, data modeling, ETL, and analytical application development; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "SAP BW",
+        "SAP BW/4HANA",
+        "SAP Datasphere",
+        "SAP BW Integrated Planning",
+        "SAP BW ABAP",
+        "SAP ECC"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Developer-Microsoft Analytics",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Microsoft-Analytics/143981",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; proficiency with Microsoft BI tools (Power BI, SSRS), complex queries (Power Query, DAX, R, TSQL), SQL Server programming, security implementation, and dashboard optimization; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Microsoft Power BI",
+        "Power BI Report Builder",
+        "Power BI Embedded services",
+        "SSRS",
+        "Power Query",
+        "DAX",
+        "R",
+        "TSQL",
+        "SQL Server",
+        "Xpertdocs"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Database Administrator-RDBMS",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Database-Administrator-RDBMS/143616",
+      "company": "IBM",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with database management (Oracle, MS SQL Server, DB2, Teradata), system administration, programming concepts, database concepts, and performance tuning; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Oracle",
+        "Microsoft SQL Server",
+        "DB2",
+        "Teradata",
+        "Python",
+        "PowerShell",
+        "SQL",
+        "Amazon RDS",
+        "Azure SQL Database",
+        "T-SQL"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Database Administrator-RDBMS",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Database-Administrator-RDBMS/143883",
+      "company": "IBM",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with database management (Oracle, MS SQL Server, DB2, Teradata), system administration, programming concepts, database concepts, and performance tuning; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Oracle",
+        "MS SQL Server",
+        "DB2",
+        "Teradata",
+        "Python",
+        "PowerShell",
+        "SQL",
+        "Amazon RDS",
+        "Azure SQL Database",
+        "Oracle RAC",
+        "ASM",
+        "Grid Infra"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Database Administrator-NoSQL Cloud Databases",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Database-Administrator-NoSQL-Cloud-Databases/143963",
+      "company": "IBM",
+      "location": "Columbus, Ohio, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with NoSQL databases (MongoDB, Cassandra, PostgreSQL, CouchbaseDB), cloud platforms, database management, and administration; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "MongoDB",
+        "Cassandra",
+        "PostgreSQL",
+        "CouchbaseDB",
+        "Unix",
+        "Sybase",
+        "SQL Server",
+        "Snowflake",
+        "Python",
+        "Snowspark",
+        "Pyspark",
+        "Java"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Infrastructure Specialist-System Administration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Infrastructure-Specialist-System-Administration/143982",
+      "company": "IBM",
+      "location": "Bloomington, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud support, infrastructure as code (Ansible, Terraform), database administration (MySQL, MSSQL, PostgreSQL), cloud security, and logging clusters (Logstash, ElasticSearch, Kibana); ability to work without visa sponsorship.",
+      "tools": [
+        "Ansible",
+        "Terraform",
+        "MySQL",
+        "MSSQL",
+        "PostgreSQL",
+        "Azure Load Balancer",
+        "Application Gateway",
+        "Logstash",
+        "ElasticSearch",
+        "Kibana",
+        "Docker",
+        "Kubernetes"
+      ],
+      "company_tagline": "A global technology and consulting company providing hybrid cloud and AI solutions.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Package Specialist-SAP HANA Basis",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Package-Specialist-SAP-HANA-Basis/143846",
+      "company": "IBM",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$114k-$212k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with SAP HANA Basis, HANA system administration, SAP system integration, database management, and technical solution development; must be able to work without visa sponsorship.",
+      "tools": [
+        "SAP HANA",
+        "SAP SLT",
+        "SAP BW",
+        "SAP ERP",
+        "SAP BTP",
+        "SAP SRM",
+        "ECC",
+        "APO",
+        "ITIL"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Warehouse",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Warehouse/144046",
+      "company": "IBM",
+      "location": "Herndon, Virginia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with data warehouse design, analytics solutions, large-scale data management, software integration, and data issue resolution using Teradata and Snowflake; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Teradata",
+        "Snowflake",
+        "Python",
+        "AWS",
+        "Unix"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Data Engineer-Data Warehouse",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Warehouse/144282",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with data warehouse design, analytics solutions, large-scale data management, software integration, and data issue resolution using Teradata and Snowflake; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Teradata",
+        "Snowflake",
+        "Informatica"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients shape their hybrid cloud and AI journeys.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
       "title": "Solutions Engineer",
       "url": "https://jobs.lever.co/evidentid/5f5719d8-13e5-4315-9da0-5036d08fd9fd",
       "company": "Evident",
@@ -1364,7 +2105,7 @@
       "company_tagline": "A state agency managing transportation infrastructure and fleet operations.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-16T16:32:37.092Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Software Engineer - Rust",
@@ -2147,7 +2888,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Software Engineer",
@@ -2220,7 +2961,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T16:32:37.092Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Software Engineer",
@@ -2900,6 +3641,30 @@
       "lastSeenAt": "2026-11-16T15:16:09.383Z"
     },
     {
+      "title": "SME - Monitoring Tools, Event Monitoring (193893)",
+      "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=HCLPRD&career_job_req_id=193893",
+      "company": "HCLTech",
+      "location": "United States",
+      "postedAt": 1794817782000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Computer Science, IT, Engineering, or related field or equivalent experience; 3+ years with enterprise batch scheduling tools; basic Shell and PowerShell scripting; strong analytical and troubleshooting skills.",
+      "tools": [
+        "Shell",
+        "PowerShell",
+        "IBM Tivoli Workload Scheduler (TWS)",
+        "Control-M",
+        "ActiveBatch",
+        "Jira"
+      ],
+      "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
+      "ats_source": "successfactors",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
       "title": "Electrical Engineer II-III, Avionics",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5295960007",
       "company": "True Anomaly",
@@ -2947,7 +3712,7 @@
       "company_tagline": "A technology company delivering enterprise-grade cloud solutions and cutting-edge AI tools.",
       "ats_source": "google",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Electrical Engineer, Thermal & Power Integrity",
@@ -2974,7 +3739,7 @@
       "company_tagline": "A company building electromagnetic superintelligence to verify, debug, and optimize hardware across its lifecycle.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Electrical Engineer, Lab & Measurement",
@@ -3023,7 +3788,7 @@
       "company_tagline": "A healthcare technology company capturing patient data for AI training.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Software Engineer",
@@ -3045,7 +3810,7 @@
       "company_tagline": "A Palo Alto-based technology company building agentic AI for global knowledge workers.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Support Engineer",
@@ -3108,6 +3873,86 @@
       "lastSeenAt": "2026-11-16T15:16:09.383Z"
     },
     {
+      "title": "Database Administration Specialist 1 - PNs 20064742, 20064762",
+      "url": "https://stateofohio.csod.com/ux/ats/careersite/1/home/requisition/1940?c=stateofohio",
+      "company": "State of Ohio",
+      "location": "Columbus, Ohio, United States",
+      "postedAt": 1794787200000,
+      "salary": "$72k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "36 months combined database administration experience including 12 months in MS SQL Server, or associate/undergraduate core program in computer science or information systems with reduced experience; on-site presence required; may require travel with own transportation.",
+      "tools": [
+        "Microsoft Power BI",
+        "Snowflake",
+        "Azure Data Factory",
+        "Python",
+        "SQL",
+        "Java",
+        "DAX",
+        "Microsoft SQL Server"
+      ],
+      "company_tagline": "A state agency serving injured workers and Ohio employers through impartial resolution of workers' compensation claims.",
+      "ats_source": "csod",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "Application Analyst",
+      "url": "https://abbott.phenompro.com/us/en/job/31166752/Application-Analyst",
+      "company": "Abbott",
+      "location": "Madison, Wisconsin, United States",
+      "postedAt": 1794787200000,
+      "salary": "$61k-$123k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in Computer Science, IT, or related field (or equivalent experience); 2-3+ years in application support, business analysis, or systems administration; proficiency in enterprise platforms and SQL/PL/SQL/MS SQL Server; familiarity with SDLC, ITIL, or Agile.",
+      "tools": [
+        "SQL",
+        "PL/SQL",
+        "MS SQL Server",
+        "ERP",
+        "CRM",
+        "EHR/Epic",
+        "WMS",
+        "JIRA",
+        "ServiceNow",
+        "Veeva"
+      ],
+      "company_tagline": "A global healthcare leader with products in diagnostics, medical devices, nutritionals, and branded generic medicines.",
+      "ats_source": "phenompeople",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
+      "title": "2027 University Graduate - Enterprise Architecture Analyst",
+      "url": "https://adobe.phenompro.com/us/en/job/R172327/2027-University-Graduate-Enterprise-Architecture-Analyst",
+      "company": "Adobe",
+      "location": "New York City or San Francisco",
+      "postedAt": 1794787200000,
+      "salary": "$90k-$151k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "University graduate role; requires knowledge of enterprise architecture and Adobe products; strong analytical and communication skills; ability to work in a sales support environment.",
+      "tools": [
+        "Adobe Experience Platform",
+        "Adobe Experience Manager",
+        "Adobe Creative Cloud",
+        "Adobe Acrobat Studio",
+        "Adobe Express",
+        "Adobe Firefly",
+        "GenStudio",
+        "Adobe Analytics"
+      ],
+      "company_tagline": "A technology company empowering everyone to create through innovative platforms and tools.",
+      "ats_source": "phenompeople",
+      "discoveredAt": "2026-11-16T18:49:54.727Z",
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
+    },
+    {
       "title": "Energy & Sustainability Engineer",
       "url": "https://careers.r717.net/job/96141-Energy--Sustainability-Engineer",
       "company": "Innovative Refrigeration Systems",
@@ -3127,7 +3972,7 @@
       "company_tagline": "A leading provider of custom engineered industrial refrigeration and process cooling systems using natural refrigerants.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "CLIENT SYSTEMS ENGINEER - INFORMATION TECHNOLOGY",
@@ -3157,7 +4002,7 @@
       "company_tagline": "A health system providing medical services and hospital care.",
       "ats_source": "inforhcm",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Solutions Architect, Data Center Infrastructure",
@@ -3184,7 +4029,7 @@
       "company_tagline": "A leading AI computing company creating innovative deep learning solutions.",
       "ats_source": "eightfold",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Firmware System Integration Engineer",
@@ -3229,7 +4074,7 @@
       "company_tagline": "A four-service utility provider with a 100-year reputation for integrity, dedicated to innovation, collaboration, and synergy.",
       "ats_source": "taleo_rss",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Software Engineer, Product",
@@ -3310,7 +4155,7 @@
       "company_tagline": "A financial services company offering insurance and investment products.",
       "ats_source": "pageup",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Summer 2027 Internship - Manufacturing Engineering & Capital Projects Intern",
@@ -3329,7 +4174,7 @@
       "company_tagline": "A global product and technology company creating physical and digital collectibles for sports and entertainment fans.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Summer 2027 Internship - Industrial Engineering Intern",
@@ -3346,7 +4191,7 @@
       "company_tagline": "A global product and technology company redefining the world of collectibles through brands like Topps.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Machine Learning Engineer",
@@ -3373,7 +4218,7 @@
       "company_tagline": "A global automotive company that designs, manufactures, and markets vehicles and mobility solutions.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Electrical Engineer",
@@ -3421,7 +4266,7 @@
       "company_tagline": "A company developing AI-driven drug discovery software and platforms.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Full Stack Software Engineer (Starlink)",
@@ -3503,7 +4348,7 @@
       "company_tagline": "A semiconductor company delivering advanced analog and power solutions to technology companies.",
       "ats_source": "adp",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Summer 2027 Electrical Engineering Intern - SATD/1",
@@ -3533,7 +4378,7 @@
       "company_tagline": "A manufacturer of electrical power industry products, offering internships in embedded systems and sensor technology.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Summer and Fall 2027 Mechanical Engineering Co-op",
@@ -3555,7 +4400,7 @@
       "company_tagline": "A company providing hands-on engineering co-op experiences in mobile power systems and manufacturing.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Customer Technical Solution Consultant Graduate",
@@ -3579,7 +4424,7 @@
       "company_tagline": "A global edge-to-cloud company helping organizations connect, protect, analyze, and act on data and applications.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "VDC Engineer (Denver)",
@@ -3783,7 +4628,7 @@
       "company_tagline": "The world's digital infrastructure company, shortening the path to connectivity to enable innovations.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Machine Learning Engineering Intern (MS/PhD)",
@@ -3804,7 +4649,7 @@
       "company_tagline": "A technology company enabling ML compute on Arm platforms through hardware, software, and algorithm innovation.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Data Engineer",
@@ -3834,7 +4679,7 @@
       "company_tagline": "A global professional services company transforming clients' business, operating, and technology models for the digital era.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start",
@@ -3859,7 +4704,7 @@
       "company_tagline": "A leading short-form mobile video platform that inspires creativity and brings joy.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Associate AI/ML Engineer",
@@ -3889,7 +4734,7 @@
       "company_tagline": "A global healthcare company delivering care aided by technology to help people live healthier lives.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Software Engineer III, Machine Learning Compiler, TPU Scaling",
@@ -3910,7 +4755,7 @@
       "company_tagline": "A technology company developing next-generation products and cloud services.",
       "ats_source": "google",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Machine Learning Engineer",
@@ -3930,7 +4775,7 @@
       "company_tagline": "A technology company that designs and develops consumer electronics, software, and online services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start",
@@ -3953,7 +4798,7 @@
       "company_tagline": "A leading destination for short-form mobile video, inspiring creativity and bringing joy.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Machine Learning Software Engineer",
@@ -3974,7 +4819,7 @@
       "company_tagline": "A robotics company building computer vision and robotic systems for precision agriculture.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Applied Machine Learning Research Engineer - Multimodal for Human Understanding",
@@ -3995,7 +4840,7 @@
       "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "AI Engineer",
@@ -4020,7 +4865,7 @@
       "company_tagline": "A remote-first company building AI platforms to fix healthcare.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Applied AI Engineer",
@@ -4045,7 +4890,7 @@
       "company_tagline": "An early-stage AI company building context, continuity, and observability for AI-powered work.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "AI/Machine Learning Experience Engineer",
@@ -4069,7 +4914,7 @@
       "company_tagline": "The world's digital infrastructure company, enabling connectivity and innovation.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "AI Engineer",
@@ -4093,7 +4938,7 @@
       "company_tagline": "A global technology company shaping the future of agentic commerce and advertising through data, machine learning, and generative AI.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "AI/ML Engineer",
@@ -4113,7 +4958,7 @@
       "company_tagline": "A technology company building AI-native software for federal agencies.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "AI Engineer",
@@ -4134,7 +4979,7 @@
       "company_tagline": "A neurotechnology company developing objective mental health diagnostics by measuring cognitive activity through the eye.",
       "ats_source": "workable",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "Student Machine Learning Engineer",
@@ -4154,7 +4999,7 @@
       "company_tagline": "A university research lab focused on machine learning and RFID technology.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     },
     {
       "title": "AI Engineer, Specialist - VR - (Technical Leadership)",
@@ -4177,187 +5022,7 @@
       "company_tagline": "A technology company building platforms that help people connect, find communities, and grow businesses.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
-    },
-    {
-      "title": "Machine Learning Engineering Intern",
-      "url": "https://jobs.workable.com/view/nHZkWjgC8Z1w329JEqazmi/remote-machine-learning-engineering-intern-in-united-states-at-bask-health",
-      "company": "Bask Health",
-      "location": "United States",
-      "postedAt": 1794507983022,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time · Internship",
-      "yoe": "",
-      "summary": "Currently pursuing or recently completed a degree in computer science, machine learning, AI, data science, or related field; foundational Python programming; basic ML concepts; familiarity with NumPy, pandas, SQL, Git; ability to write and debug Python scripts.",
-      "tools": [
-        "Python",
-        "NumPy",
-        "pandas",
-        "SQL",
-        "Git",
-        "scikit-learn",
-        "PyTorch",
-        "TensorFlow",
-        "Jupyter",
-        "GitHub",
-        "AWS",
-        "Google Cloud"
-      ],
-      "company_tagline": "A software platform enabling entrepreneurs and healthcare businesses to launch and manage direct-to-consumer telehealth businesses.",
-      "ats_source": "workable",
-      "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
-    },
-    {
-      "title": "Junior Applied AI Engineer",
-      "url": "https://jobs.workable.com/view/6YNCZCVVYdPGyW8vq4HYcp/remote-junior-applied-ai-engineer-in-united-states-at-bask-health",
-      "company": "Bask Health",
-      "location": "United States",
-      "postedAt": 1794507274063,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "0+ YOE",
-      "summary": "0-2 years software engineering experience or equivalent; foundational programming in Python, TypeScript, or JavaScript; familiarity with REST APIs, LLMs, Git, backend concepts, and automated testing.",
-      "tools": [
-        "Python",
-        "TypeScript",
-        "JavaScript",
-        "REST APIs",
-        "Git",
-        "OpenAI",
-        "Anthropic",
-        "LangChain",
-        "LlamaIndex",
-        "React",
-        "Next.js",
-        "Node.js"
-      ],
-      "company_tagline": "A software platform enabling entrepreneurs, doctors, and healthcare businesses to launch and manage direct-to-consumer telehealth businesses.",
-      "ats_source": "workable",
-      "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
-    },
-    {
-      "title": "Machine Learning Engineer, Personalization",
-      "url": "https://jobs.workable.com/view/hA3nUQEZqzWJnRxGNnvnRh/remote-machine-learning-engineer%2C-personalization-in-united-states-at-bask-health",
-      "company": "Bask Health",
-      "location": "United States",
-      "postedAt": 1794506981796,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years professional experience in machine learning engineering or related field; production ML deployment; Python; recommendation systems; PyTorch, TensorFlow, or scikit-learn; SQL; backend/API development; Git; strong analytical and collaboration skills.",
-      "tools": [
-        "Python",
-        "PyTorch",
-        "TensorFlow",
-        "scikit-learn",
-        "SQL",
-        "Git",
-        "AWS SageMaker",
-        "TypeScript",
-        "Node.js",
-        "React",
-        "Next.js",
-        "Cursor"
-      ],
-      "company_tagline": "A software platform enabling entrepreneurs, doctors, and healthcare businesses to launch and manage direct-to-consumer telehealth businesses.",
-      "ats_source": "workable",
-      "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
-    },
-    {
-      "title": "Applied ML Engineer, Care Experience",
-      "url": "https://jobs.workable.com/view/vV9KuaNEXRmJa8HEH98n57/remote-applied-ml-engineer%2C-care-experience-in-united-states-at-bask-health",
-      "company": "Bask Health",
-      "location": "United States",
-      "postedAt": 1794505785257,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years professional experience in ML engineering, software engineering, or applied AI; experience deploying production software or ML applications; strong Python or TypeScript skills; familiarity with LLMs, backend services, APIs, relational databases, and automated testing.",
-      "tools": [
-        "Python",
-        "TypeScript",
-        "Git",
-        "OpenAI",
-        "Anthropic",
-        "scikit-learn",
-        "PyTorch",
-        "TensorFlow",
-        "Node.js",
-        "React",
-        "Next.js",
-        "tRPC"
-      ],
-      "company_tagline": "A software platform enabling entrepreneurs, doctors, and healthcare businesses to launch and manage direct-to-consumer telehealth businesses.",
-      "ats_source": "workable",
-      "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
-    },
-    {
-      "title": "Machine Learning Engineer, Search & Discovery",
-      "url": "https://jobs.workable.com/view/hJW6DjWtu7xpNXqym89DzC/remote-machine-learning-engineer%2C-search-%26-discovery-in-united-states-at-bask-health",
-      "company": "Bask Health",
-      "location": "United States",
-      "postedAt": 1794504673538,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years professional experience in ML engineering, software engineering, or search engineering; strong programming in Python or TypeScript; experience with production software, backend services, search systems, and cloud deployment.",
-      "tools": [
-        "Python",
-        "TypeScript",
-        "Elasticsearch",
-        "OpenSearch",
-        "Pinecone",
-        "Weaviate",
-        "Qdrant",
-        "pgvector",
-        "Git",
-        "AWS",
-        "Cursor",
-        "Claude Code"
-      ],
-      "company_tagline": "A software platform enabling entrepreneurs, doctors, and healthcare businesses to launch and manage direct-to-consumer telehealth businesses.",
-      "ats_source": "workable",
-      "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
-    },
-    {
-      "title": "Applied ML Engineer, Agents & Automation",
-      "url": "https://jobs.workable.com/view/3Ps6UPitxEc7J9jbwvfZqi/remote-applied-ml-engineer%2C-agents-%26-automation-in-united-states-at-bask-health",
-      "company": "Bask Health",
-      "location": "United States",
-      "postedAt": 1794500887652,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years professional experience in software or ML engineering; production software deployment; Python or TypeScript; AI application development; LLM familiarity; API integration; backend services; Git; strong problem-solving.",
-      "tools": [
-        "Python",
-        "TypeScript",
-        "LangGraph",
-        "LangChain",
-        "Semantic Kernel",
-        "OpenAI",
-        "Anthropic",
-        "AWS Lambda",
-        "SQS",
-        "EventBridge",
-        "Temporal",
-        "Git"
-      ],
-      "company_tagline": "A full-service software company that enables building digital health experiences for doctors, physicians, entrepreneurs, and developers.",
-      "ats_source": "workable",
-      "discoveredAt": "2026-11-16T15:16:09.383Z",
-      "lastSeenAt": "2026-11-16T16:32:37.092Z"
+      "lastSeenAt": "2026-11-16T18:49:54.727Z"
     }
   ]
 }
