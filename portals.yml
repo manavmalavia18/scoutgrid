@@ -22553,6 +22553,66 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Genspark"
+    careers_url: https://jobs.ashbyhq.com/genspark
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Goaly"
+    careers_url: https://jobs.ashbyhq.com/goaly
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "OuterSignal"
+    careers_url: https://jobs.ashbyhq.com/outersignal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sentis"
+    careers_url: https://jobs.ashbyhq.com/sentis
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ShiftKey"
+    careers_url: https://jobs.ashbyhq.com/ShiftKey
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "StockX"
+    careers_url: https://job-boards.greenhouse.io/stockx
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Stratolaunch"
+    careers_url: https://job-boards.greenhouse.io/stratolaunch
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Woodard & Curran"
+    careers_url: https://jobs.lever.co/woodardcurran
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Viavi Solutions"
+    careers_url: https://viavisolutions.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
