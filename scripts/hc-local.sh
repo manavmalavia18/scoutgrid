@@ -107,6 +107,13 @@ run_once_track() {
   (
     cd "$REPO_ROOT"
     export HC_PYTHON="$PY"
+    # Local-disruption fix: run every query through ONE Chrome window
+    # instead of relaunching a fresh process per query (16-28 app
+    # activations per cycle on a real desktop otherwise). CI (hc.yml/
+    # hc-data.yml) never sets this and keeps the per-query-subprocess
+    # model unchanged -- see fetchViaPatchrightBatch()'s docstring in
+    # fetch-hiringcafe-feed.mjs.
+    export HC_SINGLE_SESSION=1
     case "$track" in
       software)
         export HC_OUT="$SW_DIR/hiringcafe-feed.json"

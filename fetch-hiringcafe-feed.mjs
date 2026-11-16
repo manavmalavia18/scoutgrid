@@ -225,6 +225,57 @@ function fetchViaPatchright(query) {
 }
 
 /**
+ * Runs every query in `queries` through ONE scrape-hiringcafe.py process /
+ * ONE browser session instead of one process per query — opt-in via
+ * HC_SINGLE_SESSION (see fetchFeed()'s call site), used by hc-local.sh for
+ * local runs only. Production hc.yml/hc-data.yml never set that env var,
+ * so they keep calling fetchViaPatchright() per query exactly as before —
+ * this function doesn't change CI behavior at all.
+ *
+ * Reuses the exact same stderr-diagnostic-extraction and error-shape
+ * conventions as fetchViaPatchright() so the caller's merge/diagnostic
+ * logic doesn't need to know which path produced a given query's result.
+ */
+function fetchViaPatchrightBatch(queries) {
+  if (!existsSync(SCRAPE)) {
+    throw new Error('Hiring Cafe patchright scraper missing (scrape-hiringcafe.py)');
+  }
+  const env = { ...process.env };
+  if (String(env.PLAYWRIGHT_BROWSERS_PATH || '').includes('cursor-sandbox-cache')) {
+    delete env.PLAYWRIGHT_BROWSERS_PATH;
+  }
+  const r = spawnSync(PY, [
+    SCRAPE,
+    '--pages', String(PAGES),
+    '--days', String(HC_DAYS),
+    '--queries', queries.join('|'),
+    '--out', HITS_TMP,
+    '--profile', PROFILE,
+  ], {
+    cwd: ROOT,
+    encoding: 'utf8',
+    env,
+    // One subprocess now covers every query sequentially in one session —
+    // scale the same per-query 60s budget fetchViaPatchright documents
+    // above by the query count, rather than reusing its fixed 60s (which
+    // would only cover ~1 query's worth of the whole batch).
+    timeout: Math.max(60_000, queries.length * 60_000),
+  });
+  if (r.stderr) process.stderr.write(r.stderr);
+  // Only the chronologically FIRST blocked response across the whole batch
+  // is kept — extractBlockedDiagnosticFromStderr() already does this via a
+  // non-global regex match, same as the per-query path.
+  const diagnostic = extractBlockedDiagnosticFromStderr(r.stderr);
+  if ((r.status ?? 1) !== 0) {
+    const err = new Error(`patchright HC batch scrape exited ${r.status ?? 1}: ${(r.stderr || r.stdout || '').slice(0, 400)}`);
+    if (diagnostic) err.diagnostic = diagnostic;
+    throw err;
+  }
+  const raw = JSON.parse(readFileSync(HITS_TMP, 'utf8'));
+  return { results: raw.results || {}, diagnostic };
+}
+
+/**
  * scrape-hiringcafe.py prints one `HC_BLOCKED_DIAGNOSTIC: {...}` JSON line
  * to stderr right before raising on a blocked page — already sanitized on
  * the Python side (status/classification/headers allowlist only, no page
@@ -287,6 +338,41 @@ async function fetchFeed() {
     truncated = false;
     incoming.length = 0;
     seen.clear();
+
+    // HC_SINGLE_SESSION is an opt-in local-disruption fix (see
+    // fetchViaPatchrightBatch()'s docstring) — hc-local.sh sets it for
+    // runs on a real desktop; hc.yml/hc-data.yml never set it, so CI keeps
+    // using the exact per-query-subprocess loop below, unchanged.
+    if (String(process.env.HC_SINGLE_SESSION || '').trim() === '1') {
+      try {
+        const { results, diagnostic } = fetchViaPatchrightBatch(QUERIES);
+        if (!firstBlockedDiagnostic && diagnostic) firstBlockedDiagnostic = diagnostic;
+        for (const query of QUERIES) {
+          const r = results[query];
+          if (!r || r.ok === false) {
+            process.stderr.write(`HC patchright query "${query}" failed, skipping this query for this cycle: ${(r && r.error) || 'no result'}\n`);
+            totals[query] = totals[query] ?? null;
+            continue;
+          }
+          for (const job of parseHits(r.hits || [])) {
+            const k = jobKey(job);
+            if (!k || seen.has(k)) continue;
+            seen.add(k);
+            incoming.push(job);
+          }
+          pagesFetched += Number(r.pagesFetched) || 0;
+          truncated = truncated || Boolean(r.truncated);
+          totals[query] = Number.isFinite(r.totalCount) ? r.totalCount : null;
+        }
+      } catch (batchErr) {
+        // Whole-batch failure (e.g. the browser itself never opened) — every
+        // query counts as failed this cycle, same as if each had failed
+        // individually in the per-query loop below.
+        process.stderr.write(`HC patchright batch failed entirely: ${batchErr.message || batchErr}\n`);
+        for (const query of QUERIES) totals[query] = totals[query] ?? null;
+        if (!firstBlockedDiagnostic && batchErr.diagnostic) firstBlockedDiagnostic = batchErr.diagnostic;
+      }
+    } else {
     let queryIndex = 0;
     for (const query of QUERIES) {
       // Isolate each query's failure — before query-broadening this loop had
@@ -324,6 +410,7 @@ async function fetchFeed() {
           firstBlockedDiagnostic = qErr.diagnostic;
         }
       }
+    }
     }
   }
 

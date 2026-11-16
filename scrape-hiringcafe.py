@@ -236,6 +236,127 @@ def props_from_html(html: str):
         raise RuntimeError(f"parser_failure: invalid __NEXT_DATA__ ({err})") from err
 
 
+def _scrape_query_on_session(
+    session,
+    query: str,
+    pages: int,
+    days: int,
+    sleep_s: float,
+    nav_timeout_ms: int,
+    selector_timeout_ms: int,
+) -> dict:
+    """One query's page-by-page pagination/dedup/parsing loop against an
+    ALREADY-OPEN session — no open/minimize/close here, that's the
+    caller's job (see `scrape()` for one query, `scrape_many()` for many
+    queries sharing one session). Byte-identical loop body to the
+    pre-refactor inline version; only the open/close wrapping moved out."""
+    state = search_state(query, days)
+    hits: list = []
+    seen: set[str] = set()
+    total = None
+    pages_fetched = 0
+    truncated = False
+
+    for i in range(pages):
+        t0 = time.time()
+        try:
+            status = session.goto(url_for(state, i), timeout_ms=nav_timeout_ms)
+        except NavigationError as err:
+            raise RuntimeError(f"navigation_error: {err} on page {i}") from err
+        immediate = diagnose_page(status, session.title(), session.content())
+        if immediate in ("cloudflare_challenge", "http_403"):
+            emit_blocked_diagnostic(status, session.last_response_headers(), session.title())
+            raise RuntimeError(f"{immediate}: HTTP {status} on page {i}")
+        try:
+            session.wait_for_selector("#__NEXT_DATA__", timeout_ms=selector_timeout_ms)
+        except NavigationError as err:
+            raise RuntimeError(f"navigation_error: {err} on page {i}") from err
+        except Exception as err:
+            # The underlying engine's own timeout type (e.g. patchright's
+            # TimeoutError) propagates unchanged — see
+            # BrowserSession.wait_for_selector's contract — and is
+            # treated the same way the inline version always did: as
+            # its own content-based diagnostic, not a navigation error.
+            observed = diagnose_page(status, session.title(), session.content())
+            if observed in ("cloudflare_challenge", "http_403"):
+                emit_blocked_diagnostic(status, session.last_response_headers(), session.title())
+            raise RuntimeError(f"{observed}: HTTP {status} on page {i}") from err
+        pp = props_from_html(session.content())
+        if total is None:
+            raw_total = pp.get("ssrTotalCount")
+            if isinstance(raw_total, (int, float)) and raw_total == raw_total:
+                total = int(raw_total)
+        batch = pp.get("ssrHits") or []
+        added = 0
+        for h in batch:
+            if not isinstance(h, dict) or h.get("is_expired"):
+                continue
+            url = (h.get("apply_url") or "").strip().lower()
+            if not url or url in seen:
+                continue
+            seen.add(url)
+            hits.append(h)
+            added += 1
+        pages_fetched = i + 1
+        print(
+            f"HC [{query}] page {pages_fetched}/{pages} "
+            f"hits={len(batch)} new={added} kept={len(seen)}"
+            + (f"/{total}" if total is not None else "")
+            + f" {int((time.time() - t0) * 1000)}ms",
+            file=sys.stderr,
+            flush=True,
+        )
+        is_last = (
+            len(batch) == 0
+            or added == 0
+            or (total is not None and len(seen) >= total)
+        )
+        if is_last:
+            truncated = False
+            break
+        if i + 1 >= pages:
+            truncated = True
+            break
+        time.sleep(sleep_s)
+    else:
+        truncated = total is None or len(seen) < total
+
+    return {
+        "ok": True,
+        "query": query,
+        "days": days,
+        "pagesFetched": pages_fetched,
+        "truncated": truncated,
+        "totalCount": total,
+        "count": len(hits),
+        "hits": hits,
+    }
+
+
+def _open_session_minimized(engine: str, profile: Path):
+    """Shared by `scrape()` and `scrape_many()`: resolve the engine, open
+    one session, minimize it immediately (before any navigation — see the
+    comment at the call site history for why "immediately" matters for a
+    real desktop, not just CI under Xvfb). Raises the same RuntimeErrors
+    both callers already raised, unchanged."""
+    try:
+        runtime = get_runtime(engine)
+    except UnknownBrowserEngine as err:
+        raise RuntimeError(f"browser_engine_unavailable: {err}") from err
+    try:
+        session = runtime.open(profile)
+    except BrowserInitError as err:
+        if _looks_like_profile_lock(str(err)):
+            raise RuntimeError(
+                f"browser_profile_locked: {profile} is already in use by another "
+                f"browser instance — concurrent HC workers must each use a distinct "
+                f"--profile/HC_PROFILE directory, not share one: {err}"
+            ) from err
+        raise RuntimeError(f"browser_init_failed: {err}") from err
+    session.minimize_window()
+    return session
+
+
 def scrape(
     pages: int,
     days: int,
@@ -259,95 +380,9 @@ def scrape(
     nav_timeout_ms = _resolve_timeout_ms(nav_timeout_ms, "HC_NAV_TIMEOUT_MS", DEFAULT_NAV_TIMEOUT_MS)
     selector_timeout_ms = _resolve_timeout_ms(selector_timeout_ms, "HC_SELECTOR_TIMEOUT_MS", DEFAULT_SELECTOR_TIMEOUT_MS)
 
+    session = _open_session_minimized(engine, profile)
     try:
-        runtime = get_runtime(engine)
-    except UnknownBrowserEngine as err:
-        raise RuntimeError(f"browser_engine_unavailable: {err}") from err
-
-    state = search_state(query, days)
-    hits: list = []
-    seen: set[str] = set()
-    total = None
-    pages_fetched = 0
-    truncated = False
-
-    try:
-        session = runtime.open(profile)
-    except BrowserInitError as err:
-        if _looks_like_profile_lock(str(err)):
-            raise RuntimeError(
-                f"browser_profile_locked: {profile} is already in use by another "
-                f"browser instance — concurrent HC workers must each use a distinct "
-                f"--profile/HC_PROFILE directory, not share one: {err}"
-            ) from err
-        raise RuntimeError(f"browser_init_failed: {err}") from err
-
-    try:
-        for i in range(pages):
-            t0 = time.time()
-            try:
-                status = session.goto(url_for(state, i), timeout_ms=nav_timeout_ms)
-            except NavigationError as err:
-                raise RuntimeError(f"navigation_error: {err} on page {i}") from err
-            if i == 0:
-                session.minimize_window()
-            immediate = diagnose_page(status, session.title(), session.content())
-            if immediate in ("cloudflare_challenge", "http_403"):
-                emit_blocked_diagnostic(status, session.last_response_headers(), session.title())
-                raise RuntimeError(f"{immediate}: HTTP {status} on page {i}")
-            try:
-                session.wait_for_selector("#__NEXT_DATA__", timeout_ms=selector_timeout_ms)
-            except NavigationError as err:
-                raise RuntimeError(f"navigation_error: {err} on page {i}") from err
-            except Exception as err:
-                # The underlying engine's own timeout type (e.g. patchright's
-                # TimeoutError) propagates unchanged — see
-                # BrowserSession.wait_for_selector's contract — and is
-                # treated the same way the inline version always did: as
-                # its own content-based diagnostic, not a navigation error.
-                observed = diagnose_page(status, session.title(), session.content())
-                if observed in ("cloudflare_challenge", "http_403"):
-                    emit_blocked_diagnostic(status, session.last_response_headers(), session.title())
-                raise RuntimeError(f"{observed}: HTTP {status} on page {i}") from err
-            pp = props_from_html(session.content())
-            if total is None:
-                raw_total = pp.get("ssrTotalCount")
-                if isinstance(raw_total, (int, float)) and raw_total == raw_total:
-                    total = int(raw_total)
-            batch = pp.get("ssrHits") or []
-            added = 0
-            for h in batch:
-                if not isinstance(h, dict) or h.get("is_expired"):
-                    continue
-                url = (h.get("apply_url") or "").strip().lower()
-                if not url or url in seen:
-                    continue
-                seen.add(url)
-                hits.append(h)
-                added += 1
-            pages_fetched = i + 1
-            print(
-                f"HC [{query}] page {pages_fetched}/{pages} "
-                f"hits={len(batch)} new={added} kept={len(seen)}"
-                + (f"/{total}" if total is not None else "")
-                + f" {int((time.time() - t0) * 1000)}ms",
-                file=sys.stderr,
-                flush=True,
-            )
-            is_last = (
-                len(batch) == 0
-                or added == 0
-                or (total is not None and len(seen) >= total)
-            )
-            if is_last:
-                truncated = False
-                break
-            if i + 1 >= pages:
-                truncated = True
-                break
-            time.sleep(sleep_s)
-        else:
-            truncated = total is None or len(seen) < total
+        result = _scrape_query_on_session(session, query, pages, days, sleep_s, nav_timeout_ms, selector_timeout_ms)
     finally:
         try:
             session.close()
@@ -356,18 +391,68 @@ def scrape(
             # real scrape error, or nothing at all) — just surface it.
             print(f"HC [{query}] browser cleanup failed: {err}", file=sys.stderr, flush=True)
 
+    result["engine"] = engine
+    result["navTimeoutMs"] = nav_timeout_ms
+    result["selectorTimeoutMs"] = selector_timeout_ms
+    return result
+
+
+def scrape_many(
+    queries: list[str],
+    pages: int,
+    days: int,
+    sleep_s: float,
+    profile: Path,
+    engine: str = DEFAULT_ENGINE,
+    nav_timeout_ms: int | None = None,
+    selector_timeout_ms: int | None = None,
+) -> dict:
+    """Runs every query in `queries` through ONE browser session/window
+    instead of relaunching Chrome once per query. This is purely a
+    local-disruption fix: launching a fresh OS-level Chrome process per
+    query (the per-query-subprocess model `fetch-hiringcafe-feed.mjs`
+    normally uses) makes macOS briefly activate/Dock-bounce a new app
+    ~16-28 times per cycle on a real desktop, regardless of the window
+    being positioned off-screen and minimized (see browser_runtime.py's
+    PatchrightRuntime.open() args and this module's minimize-before-goto
+    history) — cosmetic/irrelevant in CI under Xvfb (no real screen to
+    disturb there), genuinely disruptive when run by hand on someone's own
+    Mac. Nothing about network path, IP, TLS, user-agent, or Chrome
+    channel changes here — same detection surface as the per-query model,
+    just one fewer OS process launch per query.
+
+    Each query's failure is caught independently (same per-query-
+    independent semantics the per-subprocess model already has) so one
+    blocked/erroring query doesn't abort the rest of the batch — the
+    browser-level failure (engine unavailable, init failure, profile
+    lock) is the only thing that's fatal for the whole call, since there's
+    no session to continue with in that case."""
+    nav_timeout_ms = _resolve_timeout_ms(nav_timeout_ms, "HC_NAV_TIMEOUT_MS", DEFAULT_NAV_TIMEOUT_MS)
+    selector_timeout_ms = _resolve_timeout_ms(selector_timeout_ms, "HC_SELECTOR_TIMEOUT_MS", DEFAULT_SELECTOR_TIMEOUT_MS)
+
+    session = _open_session_minimized(engine, profile)
+    results: dict[str, dict] = {}
+    try:
+        for query in queries:
+            try:
+                results[query] = _scrape_query_on_session(
+                    session, query, pages, days, sleep_s, nav_timeout_ms, selector_timeout_ms
+                )
+            except Exception as err:
+                print(f"HC scrape failed for {query!r}: {err}", file=sys.stderr, flush=True)
+                results[query] = {"ok": False, "query": query, "error": str(err)}
+    finally:
+        try:
+            session.close()
+        except CleanupError as err:
+            print(f"HC browser cleanup failed: {err}", file=sys.stderr, flush=True)
+
     return {
         "ok": True,
-        "query": query,
-        "days": days,
         "engine": engine,
         "navTimeoutMs": nav_timeout_ms,
         "selectorTimeoutMs": selector_timeout_ms,
-        "pagesFetched": pages_fetched,
-        "truncated": truncated,
-        "totalCount": total,
-        "count": len(hits),
-        "hits": hits,
+        "results": results,
     }
 
 
@@ -376,6 +461,11 @@ def main() -> int:
     ap.add_argument("--pages", type=int, default=50)
     ap.add_argument("--days", type=int, default=2)
     ap.add_argument("--query", default="software engineer")
+    # Pipe-separated list, alternative to --query: runs every query through
+    # ONE browser session instead of one process per query — see
+    # scrape_many()'s docstring. Local-disruption fix only; CI/hc.yml never
+    # set this, so their per-query-subprocess behavior is untouched.
+    ap.add_argument("--queries", default=None)
     ap.add_argument("--sleep", type=float, default=1.5)
     ap.add_argument("--out", default=str(DEFAULT_OUT))
     ap.add_argument("--profile", default=str(DEFAULT_PROFILE))
@@ -393,6 +483,35 @@ def main() -> int:
     args = ap.parse_args()
     pages = max(1, min(80, args.pages))
     days = max(1, min(7, args.days))
+
+    if args.queries:
+        queries = [q.strip() for q in args.queries.split("|") if q.strip()]
+        try:
+            payload = scrape_many(
+                queries, pages, days, max(0.4, args.sleep), Path(args.profile),
+                engine=args.engine,
+                nav_timeout_ms=args.nav_timeout_ms,
+                selector_timeout_ms=args.selector_timeout_ms,
+            )
+        except Exception as err:
+            print(f"HC scrape failed: {err}", file=sys.stderr)
+            return 1
+        out = Path(args.out)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(json.dumps(payload), encoding="utf-8")
+        succeeded = sum(1 for r in payload["results"].values() if r.get("ok"))
+        print(json.dumps({
+            "ok": True,
+            "queries": list(payload["results"].keys()),
+            "succeeded": succeeded,
+            "failed": len(payload["results"]) - succeeded,
+            "engine": payload["engine"],
+            "navTimeoutMs": payload["navTimeoutMs"],
+            "selectorTimeoutMs": payload["selectorTimeoutMs"],
+            "out": str(out),
+        }))
+        return 0
+
     try:
         payload = scrape(
             pages, days, args.query, max(0.4, args.sleep), Path(args.profile),
