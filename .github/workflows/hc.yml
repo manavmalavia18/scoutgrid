@@ -2,11 +2,17 @@ name: HiringCafe feed (self-hosted Mac runner)
 
 on:
   schedule:
-    # Dialed back 15min->45min on 2026-11-12: HiringCafe started serving a
-    # Cloudflare "Just a moment..." managed-challenge page to every single
-    # query, 100% fail rate for ~2 days straight (confirmed via
-    # hcTotals/queriesSkipped history).
-    - cron: '11-59/45 * * * *'
+    # Back to 15min (was dialed back to 45min on 2026-11-12 after HiringCafe
+    # 100%-challenged every query for ~2 days on the Tailscale exit node).
+    # Restored to 15min on 2026-11-16 at the user's explicit request, now
+    # that this runs on the self-hosted Mac runner's own residential IP
+    # instead of the shared, higher-volume Tailscale exit node — same
+    # mechanism that triggered the earlier block is still live (today's
+    # test run got a real 403 from manual-testing volume on this same IP,
+    # self-cleared in ~15min), so a sustained high-volume stretch can still
+    # trigger a multi-day block again. Offset :01/:56 so this and
+    # hc-data.yml's :08/:53 never launch Chrome at the same moment.
+    - cron: '1-59/15 * * * *'
   workflow_dispatch: {}
 
 concurrency:

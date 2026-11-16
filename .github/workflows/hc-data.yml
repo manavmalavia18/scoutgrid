@@ -2,10 +2,10 @@ name: HiringCafe feed — data roles (self-hosted Mac runner)
 
 on:
   schedule:
-    # Dialed back 15min->45min on 2026-11-12, same reason/fix as hc.yml --
-    # HiringCafe started Cloudflare-challenging every single query, 100%
-    # fail rate for ~2 days.
-    - cron: '6-59/45 * * * *'
+    # Back to 15min, restored 2026-11-16 at the user's explicit request —
+    # see hc.yml's identical comment for the full rationale. Offset :08/:53
+    # so this never launches Chrome at the same moment as hc.yml's :01/:56.
+    - cron: '8-59/15 * * * *'
   workflow_dispatch: {}
 
 concurrency:
