@@ -2321,3 +2321,7 @@
 - [ ] https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931 | robinhood | Software Engineer, Backend - Government Products | Menlo Park, CA; New York, NY | posted: 2026-11-16
 
 - [ ] https://jobs.ashbyhq.com/hadrian-automation/f5d91808-1231-4c2e-94a1-1926116afa6b | hadrian-automation | Software Engineer: Cell Orchestration / Machine Interface | Los Angeles, CA | posted: 2026-11-12
+
+- [ ] https://jobs.ashbyhq.com/joyfulhealth/84051637-e99c-4a62-a21b-3065f590bed1 | joyfulhealth | Software Engineer | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/newlantern/adce896c-3fbe-4345-875d-ead3b48e6cef | newlantern | Infrastructure / Platform Engineer | San Francisco | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4 | posthog | Site Reliability Engineer (US - Pacific time) | Remote (US) | posted: 2026-11-16
