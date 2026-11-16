@@ -22748,6 +22748,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Convera"
+    careers_url: https://job-boards.greenhouse.io/convera
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 50 live jobs confirmed)
+  - name: "CPI Security"
+    careers_url: https://job-boards.greenhouse.io/cpisecurity
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 53 live jobs confirmed)
+  - name: "Darwin Recruitment"
+    careers_url: https://jobs.ashbyhq.com/darwin
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 1 live jobs confirmed)
+  - name: "Expedition Technology"
+    careers_url: https://job-boards.greenhouse.io/expedition
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 2 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
