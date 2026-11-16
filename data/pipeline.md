@@ -2288,3 +2288,6 @@
 - [ ] https://boards.greenhouse.io/crunchyroll/jobs/8221470?gh_jid=8221470 | crunchyroll | Software Engineer III, Apple | San Francisco, CA, United States | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/base-power/d5346efc-51b9-44f8-89f6-41f6178825c9 | base-power | Software Engineer, Systems Integration | Austin, TX | posted: 2026-11-16
 - [ ] https://boards.greenhouse.io/tegnainc/jobs/5292004007?gh_jid=5292004007 | tegnainc | FullStack Engineer (UI/UX) | Tysons, Virginia, United States | posted: 2026-11-16
+
+- [ ] https://jobs.ashbyhq.com/everai/7503535a-b8ca-4591-a01e-f7a719eb4c02 | everai | LLM Engineer - Post-Training (Remote - Germany) | Germany · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/1033b784-bec6-4c5c-95c8-93154e9963c0 | everai | LLM Engineer - Post-Training (Remote - Portugal) | Spain · Portugal · Remote | posted: 2026-11-16
