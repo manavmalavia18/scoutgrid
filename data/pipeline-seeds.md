@@ -2012,4 +2012,26 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ShiftKey/2eeb9906-2ecb-48bf-914e-d976948e04a8 | shiftkey | Software Engineer, Full Stack | United States · Remote | posted: 2026-11-16
 - [ ] https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8204691003 | a3c41b8b71eff8c4 | Site Reliability Engineer (Night Shift, 1:30am to 10:30am IST) | Hyderabad, India - Remote | posted: 2026-11-16
 
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931 | robinhood | Software Engineer, Backend - Government Products | Menlo Park, CA; New York, NY | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8328672 | beyondtrust | Front-End Engineer, UX/UI | Remote Canada | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4508801009 | grvty | Software Engineer | Laurel, Maryland, United States | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4508786009 | grvty | Software Engineer | Laurel, Maryland, United States | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/openai/9635775d-18fa-47bb-9ede-9a4137618de0 | openai | Partner Applied AI Engineer, AWS | San Francisco · New York City · New York · United States | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4508719009 | grvty | Frontend Software Engineer | Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5295936007?gh_jid=5295936007 | andurilindustries | Platform Engineer | Washington, District of Columbia, United States | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5295246007?gh_jid=5295246007 | andurilindustries | Platform Engineer | Costa Mesa, California, United States | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d | starbridge | Software Engineer, Federal | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/AeroVect/9aa029df-2e64-42a4-8822-a7d0bb766c10 | aerovect | Software Engineer, Simulation | Remote | posted: 2026-11-16
+- [ ] https://jobs.lever.co/bounteous/e042c299-852a-4277-a355-cdb15cd2f190 | bounteous | Contact Center Platform Engineer | United States | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/heartflowinc/jobs/6262467004 | heartflowinc | Software Engineer – Frontend | San Francisco, California | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/ataraxis-ai/6548cc32-6db1-452c-b0b2-516e042fe8d2 | ataraxis-ai | Software Engineer | New York HQ | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/7503535a-b8ca-4591-a01e-f7a719eb4c02 | everai | LLM Engineer — Post-Training (Remote - Germany) | Germany · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/1033b784-bec6-4c5c-95c8-93154e9963c0 | everai | LLM Engineer — Post-Training (Remote - Portugal) | Spain · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/8295fc93-2131-42ab-9c87-5426e461d609 | everai | LLM Engineer — Post-Training (Remote - Spain) | Spain · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/2498e407-c519-4601-b05f-0220b7903352 | everai | LLM Engineer — Post-Training (Remote - France) | France · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/a4ed409d-8c0a-46fe-95c8-2edbd9da63a4 | everai | LLM Engineer — Post-Training (Remote - Poland) | Poland · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/8da3c45c-be9e-4525-bb06-dcc7e9e90c93 | everai | LLM Engineer — Post-Training (Remote - Netherlands) | Netherlands · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/ca50c750-55c2-465f-8057-270cb8d9f08f | everai | LLM Engineer — Post-Training (Remote - Italy) | Italy · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/codat/90070bd3-c3c8-42fa-86f7-784d27d3b5ce | codat | Software Engineer (Data) | Remote | posted: 2026-11-13
+
 ## Processed
