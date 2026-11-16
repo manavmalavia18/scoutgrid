@@ -2284,3 +2284,7 @@
 - [ ] https://job-boards.greenhouse.io/canonical/jobs/8379825 | canonical | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Home based - Worldwide | posted: 2026-11-16
 
 - [ ] https://boards.greenhouse.io/pathrobotics/jobs/8944480002?gh_jid=8944480002 | pathrobotics | Robotics Software Engineer, Systems Integration | Columbus, Ohio | posted: 2026-11-16
+
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8221470?gh_jid=8221470 | crunchyroll | Software Engineer III, Apple | San Francisco, CA, United States | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/base-power/d5346efc-51b9-44f8-89f6-41f6178825c9 | base-power | Software Engineer, Systems Integration | Austin, TX | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/tegnainc/jobs/5292004007?gh_jid=5292004007 | tegnainc | FullStack Engineer (UI/UX) | Tysons, Virginia, United States | posted: 2026-11-16
