@@ -2333,3 +2333,5 @@
 - [ ] https://job-boards.greenhouse.io/pointwild/jobs/5474748008 | pointwild | DevOps Engineer | Remote India | posted: 2026-11-16
 
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8131089 | twilio | Software Engineer (L2) | Remote - US | posted: 2026-11-16
+
+- [ ] https://jobs.lever.co/mcaconnect/c66a1004-ae81-4a84-8eaa-fa2696f413af | mcaconnect | Power Platform Engineer (Managed Services) | Remote | posted: 2026-11-16
