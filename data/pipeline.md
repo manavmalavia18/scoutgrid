@@ -2300,3 +2300,5 @@
 - [ ] https://jobs.ashbyhq.com/everai/ca50c750-55c2-465f-8057-270cb8d9f08f | everai | LLM Engineer — Post-Training (Remote - Italy) | Italy · Portugal · Remote | posted: 2026-11-16
 
 - [ ] https://job-boards.greenhouse.io/heartflowinc/jobs/6262467004 | heartflowinc | Software Engineer – Frontend | San Francisco, California | posted: 2026-11-16
+
+- [ ] https://jobs.lever.co/bounteous/e042c299-852a-4277-a355-cdb15cd2f190 | bounteous | Contact Center Platform Engineer | United States | posted: 2026-11-16
