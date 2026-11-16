@@ -2282,3 +2282,5 @@
 - [ ] https://jobs.ashbyhq.com/ShiftKey/2eeb9906-2ecb-48bf-914e-d976948e04a8 | shiftkey | Software Engineer, Full Stack | United States · Remote | posted: 2026-11-16
 
 - [ ] https://job-boards.greenhouse.io/canonical/jobs/8379825 | canonical | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Home based - Worldwide | posted: 2026-11-16
+
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8944480002?gh_jid=8944480002 | pathrobotics | Robotics Software Engineer, Systems Integration | Columbus, Ohio | posted: 2026-11-16
