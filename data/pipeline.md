@@ -2291,3 +2291,10 @@
 
 - [ ] https://jobs.ashbyhq.com/everai/7503535a-b8ca-4591-a01e-f7a719eb4c02 | everai | LLM Engineer - Post-Training (Remote - Germany) | Germany · Portugal · Remote | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/everai/1033b784-bec6-4c5c-95c8-93154e9963c0 | everai | LLM Engineer - Post-Training (Remote - Portugal) | Spain · Portugal · Remote | posted: 2026-11-16
+
+- [ ] https://jobs.ashbyhq.com/ataraxis-ai/6548cc32-6db1-452c-b0b2-516e042fe8d2 | ataraxis-ai | Software Engineer | New York HQ | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/8295fc93-2131-42ab-9c87-5426e461d609 | everai | LLM Engineer — Post-Training (Remote - Spain) | Spain · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/2498e407-c519-4601-b05f-0220b7903352 | everai | LLM Engineer — Post-Training (Remote - France) | France · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/a4ed409d-8c0a-46fe-95c8-2edbd9da63a4 | everai | LLM Engineer — Post-Training (Remote - Poland) | Poland · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/8da3c45c-be9e-4525-bb06-dcc7e9e90c93 | everai | LLM Engineer — Post-Training (Remote - Netherlands) | Netherlands · Portugal · Remote | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/everai/ca50c750-55c2-465f-8057-270cb8d9f08f | everai | LLM Engineer — Post-Training (Remote - Italy) | Italy · Portugal · Remote | posted: 2026-11-16
