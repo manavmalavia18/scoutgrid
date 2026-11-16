@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T18:37:56.699Z",
+  "fetchedAt": "2026-11-16T19:00:08.416Z",
   "provider": "hiringcafe",
   "window": "96h",
   "hcDaysRequested": 2,
@@ -24,29 +24,183 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 16,
+  "pagesFetched": 18,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
     "software engineer": null,
-    "software developer": 266,
-    "backend engineer": 7,
-    "frontend engineer": 4,
-    "full stack engineer": 53,
-    "full stack developer": 55,
-    "platform engineer": 27,
-    "devops engineer": 43,
-    "site reliability engineer": 1,
-    "data engineer": 46,
+    "software developer": 385,
+    "backend engineer": 8,
+    "frontend engineer": 5,
+    "full stack engineer": 57,
+    "full stack developer": 59,
+    "platform engineer": 37,
+    "devops engineer": 52,
+    "site reliability engineer": 2,
+    "data engineer": 60,
     "machine learning engineer": 4,
     "mobile engineer": 1,
     "ios engineer": 1,
     "android engineer": 1,
-    "qa automation engineer": 2,
-    "security engineer": null
+    "qa automation engineer": 3,
+    "security engineer": 27
   },
-  "count": 473,
+  "count": 547,
   "jobs": [
+    {
+      "title": "Engineering Technician II",
+      "url": "https://www.governmentjobs.com/careers/citrusfl/jobs/5550553-0",
+      "company": "Citrus County Board of County Commissioners",
+      "location": "Citrus County, Florida, United States",
+      "postedAt": 1794853423497,
+      "salary": "$46k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "High school diploma/GED; 2 years customer service or public-facing experience; 2 years data collection/entry/reporting with spreadsheets; valid Florida driver's license; FEMA NIMS IS-100.c and IS-700.b certifications within 90 days; criminal background check, physical, and drug screen.",
+      "tools": [
+        "Microsoft Office",
+        "Microsoft Outlook",
+        "Microsoft Word",
+        "Microsoft Excel"
+      ],
+      "company_tagline": "A county government providing public works and infrastructure services.",
+      "ats_source": "governmentjobs",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Software Engineer - Associate",
+      "url": "https://upmcjobs.taleo.net/careersection/upmc_external/jobdetail.ftl?job=8555193836&lang=en",
+      "company": "UPMC",
+      "location": "Pennsylvania, United States",
+      "postedAt": 1794853387183,
+      "salary": "$81k-$124k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in Computer Science or related field preferred; strong programming with C#, SQL Server, React.js; SDLC knowledge; database concepts; source control with Git; Act 34 clearance.",
+      "tools": [
+        "React.js",
+        "C#",
+        "SQL Server",
+        "Git"
+      ],
+      "company_tagline": "A healthcare provider offering medical services and corporate IT solutions.",
+      "ats_source": "taleo_careersection",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Software Engineer II, Frontend",
+      "url": "https://jobs.gem.com/spotnana/am9icG9zdDpkM0lx3vv0pVsLM6Ila1i5",
+      "company": "Spotnana",
+      "location": "New York City, New York, United States",
+      "postedAt": 1794853356201,
+      "salary": "$125k-$170k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2+ years software development with JavaScript frameworks (TypeScript, ES6, React, React Native, Apollo, VueJS, AngularJS), HTML/CSS, browser APIs, frontend performance; degree in Computer Science or equivalent; hybrid work in NYC.",
+      "tools": [
+        "TypeScript",
+        "ES6",
+        "React",
+        "React Native",
+        "Apollo",
+        "VueJS",
+        "AngularJS",
+        "HTML",
+        "CSS"
+      ],
+      "company_tagline": "A travel technology company modernizing the travel industry with a Travel-as-a-Service platform.",
+      "ats_source": "gem",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.gem.com/spotnana/am9icG9zdDprwjoqeKuKbnN1TtNtRFhB",
+      "company": "Spotnana",
+      "location": "United States",
+      "postedAt": 1794853295183,
+      "salary": "$150k-$170k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience with distributed systems, REST APIs, webhooks, and cloud-native infrastructure (AWS/GCP/Azure); strong debugging skills; experience with enterprise customers; familiarity with observability tools like Datadog or PagerDuty.",
+      "tools": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "Datadog",
+        "PagerDuty"
+      ],
+      "company_tagline": "A travel technology company modernizing the infrastructure of the travel industry with a Travel-as-a-Service platform.",
+      "ats_source": "gem",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": ".NET/C# Software Developer",
+      "url": "https://www.directmail.com/about/careers/NET_Developer.aspx",
+      "company": "DirectMail.com",
+      "location": "Prince Frederick, Maryland, United States",
+      "postedAt": 1794852832685,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "4+ YOE",
+      "summary": "4+ years .NET/C# web development, 3+ years SQL Server stored procedures, experience with JavaScript, HTML, CSS, AJAX, SOAP, XML, large database optimization, IIS, web services, and a Bachelor's degree in Computer Science or related field.",
+      "tools": [
+        ".NET",
+        "C#",
+        "SQL Server",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "AJAX",
+        "SOAP",
+        "XML",
+        "IIS",
+        "OpenLayers",
+        "Google Maps API"
+      ],
+      "company_tagline": "A full-service direct mail marketing company.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Engineer - Embedded",
+      "url": "https://careers.brivo.com/en/postings/3280a8bc-2c51-4b6e-954e-3df80aff620c",
+      "company": "Brivo",
+      "location": "Lehi, Utah, United States",
+      "postedAt": 1794852717840,
+      "salary": "$110k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "0+ YOE",
+      "summary": "Bachelor's degree in computer engineering, computer science, electrical engineering or related field; 0-2 years software experience; TypeScript/JavaScript knowledge; Linux command line and Bash; Git; networking fundamentals.",
+      "tools": [
+        "TypeScript",
+        "Node.js",
+        "Linux",
+        "Yocto",
+        "BitBake",
+        "Bash",
+        "Python",
+        "Git",
+        "MQTT",
+        "Z-Wave",
+        "systemd",
+        "journald"
+      ],
+      "company_tagline": "A company that connects apartments and rental homes to the cloud with smart home devices.",
+      "ats_source": "pinpoint",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
     {
       "title": "Exposure Management Engineer - Mid-Atlantic region (Remote)",
       "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6262651004?gh_jid=6262651004",
@@ -75,7 +229,7 @@
       "company_tagline": "A cybersecurity value-added reseller providing trusted expertise, solutions, and services to minimize risk.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "DevOps Engineer",
@@ -105,7 +259,31 @@
       "company_tagline": "A temperature-controlled logistics network coordinating storage and movement of food at national scale.",
       "ats_source": "ultipro",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Senior Creative Technologist",
+      "url": "https://microsoft.eightfold.ai/careers/job/1970393557073017",
+      "company": "Microsoft",
+      "location": "Mountain View or Seattle or New York City",
+      "postedAt": 1794851290000,
+      "salary": "$120k-$235k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's or Master's in computer science, design, or related field with 3-4+ years experience in product/service design or shipping production code; proficiency in JavaScript, WebGL, React, Babylon.js; portfolio required.",
+      "tools": [
+        "React",
+        "Babylon.js",
+        "JavaScript",
+        "WebGL",
+        "Unity",
+        "Unreal Engine"
+      ],
+      "company_tagline": "A technology company creating products and services for the future of AI and computing.",
+      "ats_source": "eightfold",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "AI Engineer II",
@@ -134,7 +312,31 @@
       "company_tagline": "A healthcare technology company connecting stakeholders across the specialty pharmacy ecosystem to improve medication access and treatment outcomes.",
       "ats_source": "rippling",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Robotics Simulation Engineer",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483480918",
+      "company": "John Deere",
+      "location": "Urbandale or Austin",
+      "postedAt": 1794850930000,
+      "salary": "$87k-$130k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience with controls or software testing (MIL, SIL, HIL), vehicle/sensor/embedded software simulation, Python coding, strong analytical and problem-solving skills, ability to manage multiple schedules, and work in a collaborative team.",
+      "tools": [
+        "Python",
+        "Matlab Simulink",
+        "Unreal",
+        "Unity",
+        "IsaacSim",
+        "Gazebo"
+      ],
+      "company_tagline": "A global company investing in technology to address food, fiber, and infrastructure challenges.",
+      "ats_source": "eightfold",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "AI Engineer I",
@@ -164,7 +366,50 @@
       "company_tagline": "A healthcare technology company connecting stakeholders across the specialty pharmacy ecosystem to improve medication access and patient outcomes.",
       "ats_source": "rippling",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Test Engineer I (2nd Shift)",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/requisitions/job/128825",
+      "company": "Honeywell Aerospace",
+      "location": "Phoenix, Arizona, United States",
+      "postedAt": 1794849612000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in a technical discipline (science, technology, engineering, mathematics); strong knowledge of test methodologies, instrumentation, and data analysis; Microsoft Word and PowerPoint; must be a U.S. person due to export control laws.",
+      "tools": [
+        "Microsoft Word",
+        "Microsoft PowerPoint"
+      ],
+      "company_tagline": "An aerospace and defense company advancing aviation technology with systems on board 90% of the world's aircraft.",
+      "ats_source": "oraclecloud",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Distribution Planning Engineer I-IV (TX City, TX)",
+      "url": "https://careers.txnmenergy.com/jobs/18485584",
+      "company": "TXNM Energy",
+      "location": "Texas City, Texas, United States",
+      "postedAt": 1794849314000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "Bachelor's degree in engineering from ABET-accredited program; 1-7 years related experience depending on level; valid driver's license; ability to work around high voltage up to 345kV; lift up to 50 pounds; NERC CIP cyber security risk assessment may be required.",
+      "tools": [
+        "Autocad",
+        "Microsoft Word",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Windows"
+      ],
+      "company_tagline": "An energy company providing electric power distribution and engineering services.",
+      "ats_source": "ttcportals",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Early Careers: Embedded Software Engineer",
@@ -184,7 +429,116 @@
       "company_tagline": "A cybersecurity company securing enterprise, service provider, and government organizations with intelligent protection.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Process Engineer",
+      "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000161867269-process-engineer",
+      "company": "Pyrotek",
+      "location": "Aurora, Ohio, United States",
+      "postedAt": 1794848326130,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Engineering or Industrial Engineering; 3+ years industrial/manufacturing experience; CAD software (AutoCAD or SolidWorks); Lean/Six Sigma preferred; valid driver's license and U.S. passport; up to 10% travel.",
+      "tools": [
+        "AutoCAD",
+        "SolidWorks",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "MRP",
+        "MES"
+      ],
+      "company_tagline": "A global leader in high temperature materials and advanced engineered systems.",
+      "ats_source": "smartrecruiters",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Associate Process Engineer",
+      "url": "https://quadratic3d.rippling-ats.com/job/1076259/associate-process-engineer",
+      "company": "Quadratic 3D",
+      "location": "Charlestown, Massachusetts, United States",
+      "postedAt": 1794848313000,
+      "salary": "$70k-$75k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "BS or MS in materials science, chemistry, mechanical or chemical engineering, physics or related; 1+ year hands-on lab or engineering experience; data analysis with Python or similar; strong communication and documentation skills.",
+      "tools": [
+        "Python",
+        "SolidWorks",
+        "Fusion 360",
+        "Onshape",
+        "CT scan",
+        "UV/Vis",
+        "FTIR",
+        "rheology",
+        "DMA",
+        "DSC"
+      ],
+      "company_tagline": "A startup developing next-generation volumetric 3D printing technologies and process innovations.",
+      "ats_source": "hiringthing",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "AI Platform Engineer",
+      "url": "https://jobs.eu.lever.co/cirrus/29d39dda-5b26-4b06-afc8-34f139a8f35c",
+      "company": "Cirrus Logic",
+      "location": "Austin, Texas, United States",
+      "postedAt": 1794848048873,
+      "salary": "",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in CS/CE/EE or related; 3+ years DevOps/platform/SRE/cloud experience; Python and Bash scripting; AWS (EKS, EC2, VPC, IAM, Aurora, S3); Kubernetes, Docker, Helm; CI/CD with Ansible/AWS CDK/Jenkins/GitHub Actions; AI coding assistants; Linux; U.S. work authorization without sponsorship.",
+      "tools": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Helm",
+        "Ansible",
+        "AWS CDK",
+        "Jenkins",
+        "GitHub Actions",
+        "Python",
+        "Bash",
+        "Claude Code",
+        "Codex"
+      ],
+      "company_tagline": "A technology company known for mixed-signal processing and AI platform engineering, with an award-winning culture.",
+      "ats_source": "eu_lever",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Network Security Engineer",
+      "url": "https://careers.jobscore.com/careers/edmunds/jobs/network-security-engineer-abN9F16DzlZOInHjNT-AhO?ref=rss&sid=68",
+      "company": "Edmunds",
+      "location": "Santa Monica, California, United States",
+      "postedAt": 1794847086070,
+      "salary": "$125k-$159k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3-5 years network security experience; Cisco, Meraki, Zscaler; TCP/IP, EDR, vulnerability management; firewall, ACL, NAT, RADIUS, TACACS+, 802.1X, PKI; Bachelor's in IT or equivalent; hybrid onsite 3 days/week.",
+      "tools": [
+        "Cisco",
+        "Meraki",
+        "Zscaler",
+        "EDR",
+        "RADIUS",
+        "TACACS+",
+        "802.1X",
+        "PKI"
+      ],
+      "company_tagline": "An automotive technology company that provides vehicle reviews, market insights, and shopping tools.",
+      "ats_source": "jobscore",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Machine Learning Co-Op",
@@ -201,7 +555,84 @@
       "company_tagline": "A global in vitro diagnostics company focused on improving public health through innovative diagnostic solutions.",
       "ats_source": "ttcportals",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Technology Engineer",
+      "url": "https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/167415",
+      "company": "Community Health Systems",
+      "location": "Franklin, Tennessee, United States",
+      "postedAt": 1794846922000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in IT, Computer Science, or Software Engineering or equivalent; 3-5 years technology engineering or enterprise IT support experience; knowledge of networking, routing, switching, DNS, DHCP, IPAM; CCNA/CCNP preferred.",
+      "tools": [
+        "Infoblox",
+        "BlueCat",
+        "LogicMonitor",
+        "Cribl",
+        "Splunk",
+        "Azure",
+        "Python",
+        "Ansible",
+        "Terraform",
+        "PowerShell"
+      ],
+      "company_tagline": "A healthcare company operating hospitals and providing medical services.",
+      "ats_source": "oraclecloud",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://turing.betterteam.com/software-engineer-121",
+      "company": "Turing",
+      "location": "United States or Canada or United Kingdom or Netherlands or Italy or Germany",
+      "postedAt": 1794846712782,
+      "salary": "$416k-$624k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years software engineering experience; strong full-stack and production-grade software skills; deep understanding of software architecture and code quality; excellent communication; must be based in US, Canada, UK, Netherlands, Italy, or Germany.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "ReactJS",
+        "C/C++",
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
+      "ats_source": "betterteam",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Subsystem Engineer – Powertrain Sensors",
+      "url": "https://ford.eightfold.ai/careers/job/563568454208040",
+      "company": "Ford",
+      "location": "Dearborn, Michigan, United States",
+      "postedAt": 1794845796000,
+      "salary": "$65k-$166k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "BS in Engineering required (Electrical or Mechanical preferred); experience with data acquisition tools, MATLAB, microprocessor software; ability to manage multiple assignments; legally authorized to work in the US; hybrid onsite 4+ days/week.",
+      "tools": [
+        "MATLAB",
+        "CANalyzer",
+        "CANoe",
+        "Kvaser",
+        "oscilloscope",
+        "CAN interfaces"
+      ],
+      "company_tagline": "A global automotive company offering vehicle design, manufacturing, and engineering services.",
+      "ats_source": "eightfold",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Transportation Engineer 2",
@@ -221,7 +652,7 @@
       "company_tagline": "A multimodal state agency that plans, designs, builds, and operates an integrated transportation system.",
       "ats_source": "governmentjobs",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Forward Deployed Engineer",
@@ -251,7 +682,76 @@
       "company_tagline": "A family legacy utility construction company specializing in underground installations, employee-owned through an ESOP.",
       "ats_source": "hiringthing",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "QA Automation Intern",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/ebafabc3-be09-477d-94a9-0ba244f52319",
+      "company": "apexanalytix",
+      "location": "Greensboro, North Carolina, United States",
+      "postedAt": 1794844087687,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Internship · Temporary",
+      "yoe": "",
+      "summary": "Currently pursuing B.S. or M.S. in Computer Science, Data Science, Software Engineering, Information Systems, or related field; programming fundamentals in Python or other language; understanding of software testing concepts; working knowledge of SQL; familiarity with web applications and APIs; able to work on-site in ",
+      "tools": [
+        "Python",
+        "Playwright",
+        "PyTest",
+        "SQL",
+        "Git",
+        "Postman"
+      ],
+      "company_tagline": "A provider of procure-to-pay solutions, delivering controls, audit, and analytics software to global clients.",
+      "ats_source": "rippling",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Engineer (EIT) - Water Resources",
+      "url": "https://jobs.smartrecruiters.com/HoustonEngineeringInc/744000161848179-engineer-eit-water-resources",
+      "company": "Houston Engineering, Inc.",
+      "location": "Maple Grove, Minnesota, United States",
+      "postedAt": 1794843844247,
+      "salary": "$65k-$82k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "ABET-accredited Bachelor's in civil/environmental/biosystems engineering; FE exam and EIT registration or ability to obtain within 6 months; hydrologic/hydraulic modeling software experience; valid driver's license; permanent U.S. work authorization without sponsorship.",
+      "tools": [
+        "HEC-RAS",
+        "XPSWMM",
+        "HydroCAD",
+        "ArcGIS",
+        "AutoCAD",
+        "Civil 3D"
+      ],
+      "company_tagline": "An engineering firm providing water resources solutions including stormwater management, flood mitigation, and ecological restoration.",
+      "ats_source": "smartrecruiters",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Data Center Security Installation Design/Project Engineer (Engineer 2)",
+      "url": "https://careers.mcdean.com/jobs/33752?lang=en-us",
+      "company": "M.C. Dean",
+      "location": "Fort Wayne, Indiana, United States",
+      "postedAt": 1794843525000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in systems engineering, computer science, information systems, engineering science, engineering management, or related field; 2+ years experience in similar programs and contracts; strong communication, teamwork, time management, and MS Office skills.",
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint"
+      ],
+      "company_tagline": "A company that designs, builds, operates, and maintains cyber-physical solutions for mission-critical facilities.",
+      "ats_source": "icims2",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Data Center Security Installation Design/Project Engineer (Engineer 2)",
@@ -302,7 +802,28 @@
       "company_tagline": "A global technology company helping organizations navigate the AI era with scalable digital solutions.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Staff Data Center Technician",
+      "url": "https://careers.amd.com/jobs/98126?lang=en-us",
+      "company": "AMD",
+      "location": "Austin, Texas, United States",
+      "postedAt": 1794843244000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Part Time",
+      "yoe": "",
+      "summary": "Relevant Bachelor's degree or equivalent experience; experience in data center deployment, software development, and validation; skilled in MS Office, Confluence, SharePoint; ability to lift 50lbs and work under raised floors; no visa sponsorship.",
+      "tools": [
+        "Microsoft Office",
+        "Confluence",
+        "Microsoft SharePoint"
+      ],
+      "company_tagline": "A technology company advancing computing and AI through innovative processors and products.",
+      "ats_source": "icims2",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Staff Data Center Technician",
@@ -342,7 +863,7 @@
       "company_tagline": "A supplier of high-precision machine tools and automation solutions, providing engineering, service, and integration.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "The Core Engineering- Software Engineering - Associate - New York",
@@ -371,7 +892,26 @@
       "company_tagline": "A global financial services firm managing liquidity, funding, and deposit franchises.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Commissioning Engineer",
+      "url": "https://careers.usa.skanska.com/jobs/10187?lang=en-us",
+      "company": "Skanska",
+      "location": "Conshohocken, Pennsylvania, United States",
+      "postedAt": 1794842624000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "1+ years commissioning electrical/mechanical systems; 1+ years MEP design exposure; 1+ years commissioning management software; 1+ years technical document reading; Bachelor's in Electrical/Mechanical Engineering or 8 years equivalent experience; no sponsorship.",
+      "tools": [
+        "commissioning management software"
+      ],
+      "company_tagline": "A global construction and project development company building for a better society.",
+      "ats_source": "icims2",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Commissioning Engineer",
@@ -418,7 +958,30 @@
       "company_tagline": "A global provider of digital solutions for the life insurance and financial services industries.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Optical Transport Network Engineer",
+      "url": "https://careers.google.com/jobs/results/74384751523177158-optical-transport-network-engineer/",
+      "company": "Google",
+      "location": "Sunnyvale, California, United States",
+      "postedAt": 1794841709870,
+      "salary": "$126k-$180k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Computer Science, Engineering, or related field; 3 years experience with optical technologies; programming in C++, Go, or Python; knowledge of network security and NPI testing preferred.",
+      "tools": [
+        "C++",
+        "Go",
+        "Python",
+        "Ondatra",
+        "OpenConfig"
+      ],
+      "company_tagline": "A technology company operating a global network and cloud services.",
+      "ats_source": "google",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Water Resources Engineer - Entry Level",
@@ -445,7 +1008,7 @@
       "company_tagline": "A people-focused, project-driven engineering firm designing infrastructure and buildings.",
       "ats_source": "adp",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Konstruktionsingenieur",
@@ -464,7 +1027,35 @@
       "company_tagline": "A global leader in agriculture and construction equipment, driving innovation and sustainability.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/Mintive/ad7b0ef8-a8f2-4f47-b7f2-01063179d48a",
+      "company": "MintMCP",
+      "location": "San Mateo or San Francisco",
+      "postedAt": 1794840203883,
+      "salary": "",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Strong engineering fundamentals, ability to ship end-to-end features, comfort across TypeScript, Python, CockroachDB, and experience building with AI agents.",
+      "tools": [
+        "Claude",
+        "Codex",
+        "Slack",
+        "GitHub",
+        "Jira",
+        "Snowflake",
+        "TypeScript",
+        "Python",
+        "CockroachDB",
+        "MCP"
+      ],
+      "company_tagline": "A company building infrastructure to give AI agents governed access to company data and tools.",
+      "ats_source": "ashby",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Assistant Field Engineer (Hourly)",
@@ -489,7 +1080,53 @@
       "company_tagline": "A nationally recognized construction company consistently ranked among top contractors, focused on performance and career development.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Backend Software Developer (Mid-Level)",
+      "url": "https://jobs.smartrecruiters.com/CheckPointSoftwareTechnologies2/744000161826491-backend-software-developer-mid-level-",
+      "company": "Check Point Software Technologies",
+      "location": "Redwood City or Irving",
+      "postedAt": 1794839897753,
+      "salary": "$150k-$175k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years backend development experience; strong Java, Spring/Spring Boot, PostgreSQL, Linux, OOP, and clean coding; must be eligible to work in the US without sponsorship; weekend support availability.",
+      "tools": [
+        "Java",
+        "Spring",
+        "Spring Boot",
+        "PostgreSQL",
+        "C++",
+        "Linux"
+      ],
+      "company_tagline": "A cybersecurity company protecting organizations from cyber and AI-driven threats with a prevention-first approach.",
+      "ats_source": "smartrecruiters",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Instrumentation Engineering Associate - OCU - Technical - 1st Shift",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2439345",
+      "company": "Cummins Inc.",
+      "location": "Columbus, Indiana, United States",
+      "postedAt": 1794839550000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "High school diploma/GED with Department of Labor Certification, or Associate's degree in related field with 2+ years experience, or Bachelor's degree in related field; experience with data acquisition, test systems, and instrumentation.",
+      "tools": [
+        "digital multimeter",
+        "soldering iron",
+        "function generator",
+        "frequency generator"
+      ],
+      "company_tagline": "A global power solutions manufacturer operating a premier powertrain emissions testing facility.",
+      "ats_source": "oraclecloud",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer (Front End)",
@@ -519,7 +1156,7 @@
       "company_tagline": "A Detroit-based technology leader operating an online marketplace for sneakers, apparel, and collectibles.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Geotechnical Engineer",
@@ -540,7 +1177,7 @@
       "company_tagline": "A global engineering and consulting firm that shapes a better world through collaborative and innovative projects.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "AI Acceleration Intern",
@@ -563,7 +1200,7 @@
       "company_tagline": "A global medical technology leader developing innovative solutions to improve patient health.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Graduate Civil Engineer (Available 2027)",
@@ -585,7 +1222,7 @@
       "company_tagline": "A global consultancy providing advisory and technical expertise across more than 150 disciplines, guiding, planning, and designing the built environment.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "AI Engineering Intern (Generative & Agentic AI)",
@@ -615,7 +1252,7 @@
       "company_tagline": "A global medical technology leader providing innovative solutions to improve patient health.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Transportation Planning Intern (Summer 2027)",
@@ -643,7 +1280,7 @@
       "company_tagline": "A global consultancy providing advisory and technical expertise across more than 150 disciplines, guiding, planning, and designing the built environment.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Physical Security Intern (Summer 2027)",
@@ -664,7 +1301,7 @@
       "company_tagline": "A global consultancy providing advisory and technical expertise across more than 150 disciplines, designing the future of the built environment.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:14:24.326Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Remote Sensing Software Communications & Database Management Specialist",
@@ -694,7 +1331,7 @@
       "company_tagline": "A science-based environmental consulting firm specializing in remote wildlife monitoring and detection systems.",
       "ats_source": "ultipro",
       "discoveredAt": "2026-11-16T16:46:21.237Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Telecom Design Engineer",
@@ -714,7 +1351,7 @@
       "company_tagline": "A global engineering and consulting firm that designs technology and low-voltage systems for buildings and data centers.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Cloud Infrastructure & Platform Engineer",
@@ -736,7 +1373,27 @@
       "company_tagline": "A global IT services and consulting company.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Piping Engineer",
+      "url": "https://careers.cbi.com/jobs/4599?lang=en-us",
+      "company": "CB&I",
+      "location": "Plainfield, Illinois, United States",
+      "postedAt": 1794837769000,
+      "salary": "$84k-$105k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "0+ YOE",
+      "summary": "Bachelor's degree in mechanical or related engineering required; 0-3 years experience; advanced communication skills; familiarity with ASME, API, ANSI codes; ability to interpret P&IDs and manage 3D design data.",
+      "tools": [
+        "3D design software",
+        "document management system"
+      ],
+      "company_tagline": "A company delivering integrated storage and asset-management solutions for industrial facilities.",
+      "ats_source": "icims2",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Piping Engineer",
@@ -786,7 +1443,7 @@
       "company_tagline": "A research institute supporting aerospace innovation and corrosion prevention for the U.S. Air Force.",
       "ats_source": "pageup",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Robotics Software Engineer, Systems Integration",
@@ -814,7 +1471,7 @@
       "company_tagline": "A robotics company building AI-driven systems for industrial automation.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T16:46:21.237Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Senior Engineer - Desk Side Services, AMT Asset Management Software (193248)",
@@ -844,7 +1501,31 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Electrical Design Engineer, Platforms",
+      "url": "https://careers.google.com/jobs/results/111184855949025990-electrical-design-engineer/",
+      "company": "Google",
+      "location": "Sunnyvale, California, United States",
+      "postedAt": 1794836437303,
+      "salary": "$132k-$189k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in Electrical Engineering, Computer Engineering, Physics, or related field; 2 years PCB hardware design experience; EDA tools (Cadence Allegro, Altium) and lab bring-up equipment experience.",
+      "tools": [
+        "Cadence Allegro",
+        "Altium",
+        "Cadence Concept HDL",
+        "OrCAD",
+        "VNA",
+        "TDR"
+      ],
+      "company_tagline": "A technology company developing custom silicon and hardware for direct-to-consumer products and data centers.",
+      "ats_source": "google",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -874,7 +1555,7 @@
       "company_tagline": "A pioneering tech firm at the forefront of the global move to open source, known for the Ubuntu platform.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T16:46:21.237Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Equipment Eng - P2",
@@ -896,7 +1577,7 @@
       "company_tagline": "A global medical technology leader developing innovative solutions to improve patient health.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Equipment Eng - P2",
@@ -940,7 +1621,24 @@
       "company_tagline": "A leading innovator in glass, ceramic, and materials science, delivering U.S.-made solar components.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Healthcare Engineer",
+      "url": "https://www.usajobs.gov/job/893031700",
+      "company": "Veterans Health Administration",
+      "location": "Salem, Virginia, United States",
+      "postedAt": 1794834058663,
+      "salary": "$107k-$140k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "U.S. citizenship, English proficiency, Bachelor's degree in engineering or architecture (or PE license), one year of experience equivalent to GS-11, background/security investigation, and occupational health evaluation.",
+      "tools": [],
+      "company_tagline": "",
+      "ats_source": "usagov",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer, Full Stack",
@@ -965,7 +1663,7 @@
       "company_tagline": "A platform connecting healthcare facilities with licensed professionals to fill shifts.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Full Stack Engineer",
@@ -990,7 +1688,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Developer ($200/hr)",
@@ -1015,7 +1713,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Backend Engineer (Python/FastAPI)",
@@ -1041,7 +1739,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Full Stack Developer",
@@ -1066,7 +1764,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and a partner for enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Senior Software Developer",
@@ -1091,7 +1789,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Developer",
@@ -1116,7 +1814,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer",
@@ -1141,7 +1839,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Technical Business Analysis Consultant",
@@ -1323,7 +2021,27 @@
       "company_tagline": "A company building a customer intelligence platform for e-commerce, enriching orders with professional and personal signals to create personas and power outreach, analytics, and bu",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Engineering Technician (Civil)",
+      "url": "https://www.usajobs.gov/job/893017300",
+      "company": "Department of the Army",
+      "location": "Concord, Massachusetts, United States",
+      "postedAt": 1794831122943,
+      "salary": "$57k-$110k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "US citizenship; driver's license within 30 days; specialized experience in engineering equipment and data interpretation or graduate education in engineering-related field; 70% TDY travel; physical ability for field work.",
+      "tools": [
+        "CWMS Oracle database",
+        "iDAMS"
+      ],
+      "company_tagline": "A federal engineering agency responsible for dam and levee safety instrumentation and monitoring.",
+      "ats_source": "usagov",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Python/Typescript Engineer",
@@ -1344,7 +2062,7 @@
       "company_tagline": "A leading AGI infrastructure company accelerating model development through high-quality training data and engineering talent.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer, Home and Health Infrastructure, Special Projects",
@@ -1361,7 +2079,983 @@
       "company_tagline": "A technology company developing next-generation software and infrastructure.",
       "ats_source": "google",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://hrms.iu.edu/psc/PH1PRD_PUB/EMPLOYEE/HRMS_PUB/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=321096&PostingSeq=1&SiteId=1",
+      "company": "Indiana University",
+      "location": "Bloomington or Indianapolis",
+      "postedAt": 1794830400000,
+      "salary": "",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree preferably in computer science or related field; 2 years software development experience; strong communication, professionalism, time management, quality commitment, flexibility, thoroughness, accuracy.",
+      "tools": [
+        "Ruby",
+        "Ruby on Rails",
+        "Apache Solr",
+        "Blacklight"
+      ],
+      "company_tagline": "A university providing education and research, with IT services supporting library and scholarly systems.",
+      "ats_source": "oraclepeoplesoft",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-SAP ABAP",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-SAP-ABAP/144088",
+      "company": "IBM",
+      "location": "Pennsylvania, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with SAP ABAP development, multi-platform integration, complex component development, and software development methodologies; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "SAP Netweaver",
+        "ABAP",
+        "ABAP WebDynpro",
+        "ABAP Workflow",
+        "ABAP OData Service",
+        "SAP EWM",
+        "SAP HR",
+        "SAP ISU",
+        "SAP CRM",
+        "SAP S/4"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Commerce Transformation",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Commerce-Transformation/144074",
+      "company": "IBM",
+      "location": "Pennsylvania, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; full-stack development, commerce platform, API integration, cloud-native architecture, and cross-functional collaboration experience; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "SAP CX"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer/144287",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; Java/JEE stack exposure, enterprise application development, development methodologies, DevOps, web development; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "Spring Boot",
+        "REST APIs",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "Microservices"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143776",
+      "company": "IBM",
+      "location": "Bloomington, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$68k-$128k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with Java/JEE stack, enterprise application development, development methodologies, DevOps tools, and web development frameworks; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "React.js",
+        "AWS",
+        "ROSA"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143786",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; Java/JEE stack exposure, enterprise application development, development methodologies, DevOps familiarity, web development skills; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "DevOps",
+        "Angular",
+        "Oracle",
+        "SQL",
+        ".NET"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143802",
+      "company": "IBM",
+      "location": "Bloomington, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$68k-$128k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with Java/JEE stack, enterprise application development, development methodologies, DevOps tools, and web development frameworks; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "React.js",
+        "AWS",
+        "ROSA"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143928",
+      "company": "IBM",
+      "location": "Iowa, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; Java/JEE stack exposure, enterprise application development, DevOps methodologies, web development with Ruby or Groovy; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "Ping One",
+        "Kong"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143941",
+      "company": "IBM",
+      "location": "Dallas, Texas, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; Java/JEE stack exposure, enterprise application development, development methodologies, DevOps familiarity, web development skills; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "React.js",
+        "AWS",
+        "ROSA"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143853",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; Java/JEE technology stack exposure, enterprise application development experience, DevOps methodologies, web development with Java frameworks, Ruby or Groovy; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "DevOps"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Hybrid Cloud Manage",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Hybrid-Cloud-Manage/143709",
+      "company": "IBM",
+      "location": "Paramus, New Jersey, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud platforms, at least 2 primary technology skills (Java, Open Source, databases, integration, mainframe, IBMi, Data AMS), DevSecOps, multi-stack troubleshooting, consulting services; must work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Open Source",
+        "Databases",
+        "Integration technologies",
+        "Mainframe",
+        "IBMi",
+        "Data AMS",
+        "DevSecOps",
+        "Python",
+        "C++",
+        "Ruby",
+        "AWS"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Hybrid Cloud Manage",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Hybrid-Cloud-Manage/144051",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud platforms, at least 2 primary technology skills (Java, Open Source, databases, integration, Mainframe, IBMi, Data AMS), DevSecOps, multi-stack troubleshooting, consulting services; ability to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Open Source",
+        "databases",
+        "Integration technologies",
+        "Mainframe",
+        "IBMi",
+        "Data AMS",
+        "DevSecOps",
+        "Python",
+        "C++",
+        "Ruby",
+        "AWS Certified Developer"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Hybrid Cloud Manage",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Hybrid-Cloud-Manage/143702",
+      "company": "IBM",
+      "location": "Richardson, Texas, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud platforms, at least 2 primary technology skills (Java, Open Source, databases, integration, mainframe, IBMi, Data AMS), DevSecOps, multi-stack troubleshooting, consulting services; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Open Source",
+        "Databases",
+        "Integration technologies",
+        "Mainframe",
+        "IBMi",
+        "Data AMS",
+        "DevSecOps",
+        "Python",
+        "C++",
+        "Ruby",
+        "React.js"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Hybrid Cloud Manage",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Hybrid-Cloud-Manage/143627",
+      "company": "IBM",
+      "location": "Richardson, Texas, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with at least 2 primary technology skills (Java, Open Source, databases, integration, Mainframe, IBMi, Data AMS); cloud platform support; DevSecOps; multi-stack troubleshooting; consulting delivery; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Open Source",
+        "databases",
+        "Integration technologies",
+        "Mainframe",
+        "IBMi",
+        "Data AMS",
+        "DevSecOps",
+        "Python",
+        "C++",
+        "Ruby",
+        "React.js"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Hybrid Cloud Manage",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Hybrid-Cloud-Manage/143650",
+      "company": "IBM",
+      "location": "Bloomington, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud platforms, at least 2 primary technology skills (Java, Open Source, databases, integration, mainframe, IBMi, Data AMS), DevSecOps, multi-stack troubleshooting, and consulting services delivery; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Open Source",
+        "databases",
+        "Integration technologies",
+        "Mainframe",
+        "IBMi",
+        "Data AMS",
+        "DevSecOps",
+        "Python",
+        "C++",
+        "Ruby",
+        "React.js"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer/144276",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with open source development platforms (C, C++, Perl, Python, Node JS, Django); ability to work without visa sponsorship; up to 80% travel.",
+      "tools": [
+        "C",
+        "C++",
+        "Perl",
+        "Python",
+        "Node.js",
+        "Django",
+        "MuleSoft",
+        "CI/CD"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Oracle eBS",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Oracle-eBS/143597",
+      "company": "IBM",
+      "location": "Bellevue, Washington, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; exposure to Oracle eBS and Oracle tools (Designer, Discover, Forms, JDeveloper, Reports); application development and multi-platform integration experience; ability to work without visa sponsorship.",
+      "tools": [
+        "Oracle eBS",
+        "Oracle Designer",
+        "Oracle Discover",
+        "Oracle Forms",
+        "Oracle JDeveloper",
+        "Oracle Reports"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Cloud FullStack",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Cloud-FullStack/143621",
+      "company": "IBM",
+      "location": "Paramus, New Jersey, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with cloud application development, multi-layered development, DevOps, and technology integration; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Spring Boot",
+        "AWS",
+        "DevOps",
+        "React",
+        "Angular",
+        "CSS3",
+        "HTML5",
+        "JEE",
+        "Spring",
+        "Hibernate",
+        "Groovy"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143865",
+      "company": "IBM",
+      "location": "Paramus, New Jersey, United States",
+      "postedAt": 1794830400000,
+      "salary": "$114k-$212k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with Java/JEE, enterprise application development, DevOps, and system integration; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "Springboot",
+        "AWS",
+        "DevOps",
+        "React",
+        "Angular"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Microsoft .NET",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Microsoft-NET/143577",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; proficiency in Microsoft .NET, C#/VB.NET, MVC, ASP.NET, Entity Framework; database experience with SQL Server, Azure SQL, MySQL; familiarity with DevOps tools and Agile; ability to work without visa sponsorship.",
+      "tools": [
+        "Microsoft .NET",
+        "C#",
+        "VB.NET",
+        "MVC",
+        "ASP.NET",
+        "Entity Framework",
+        "SQL Server",
+        "Azure SQL",
+        "MySQL",
+        "Microsoft DevOps",
+        "Azure"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Microsoft .NET",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Microsoft-NET/143642",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; proficiency in Microsoft .NET, C#/VB.NET, MVC, ASP.NET, Entity Framework; database experience with SQL Server, Azure SQL, MySQL; familiarity with DevOps tools and Agile; ability to work without visa sponsorship.",
+      "tools": [
+        "Microsoft .NET",
+        "C#",
+        "VB.NET",
+        "MVC",
+        "ASP.NET",
+        "Entity Framework",
+        "SQL Server",
+        "Azure SQL",
+        "MySQL",
+        "Microsoft DevOps",
+        "Azure"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/144196",
+      "company": "IBM",
+      "location": "Kansas, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with Java/JEE, enterprise application development, DevOps methodologies, and web development using Ruby or Groovy; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "AngularJS",
+        "DevOps"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/144078",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with Java/JEE, enterprise application development, development methodologies, DevOps, and web development using Ruby or Groovy; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "DevOps"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Quality Engineer-FullStack",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Quality-Engineer-FullStack/143770",
+      "company": "IBM",
+      "location": "Bloomington, Illinois, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with programming languages, automation tools, test automation frameworks, application architecture, and DevOps pipeline integration; ability to work without visa sponsorship.",
+      "tools": [
+        "AWS",
+        "ROSA"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer/144376",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with cloud application development, multi-layered development, DevOps, cloud environment maintenance, and technology integration; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Angular",
+        "React",
+        "CSS3",
+        "HTML5",
+        "Java",
+        "JEE",
+        "Spring",
+        "Hibernate",
+        "Groovy",
+        "REST",
+        "SOA",
+        "APIGEE"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Cloud FullStack",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Cloud-FullStack/143944",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$114k-$212k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience in cloud application development, multi-layered development, DevOps, cloud environment management, and technology integration; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Angular",
+        "React",
+        "CSS3",
+        "HTML5",
+        "Java",
+        "JEE",
+        "Spring",
+        "Hibernate",
+        "Groovy",
+        "REST/SOA",
+        "APIGEE",
+        "API Connect"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Java & Web Technologies",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Java-Web-Technologies/143662",
+      "company": "IBM",
+      "location": "Richardson, Texas, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with Java/JEE, enterprise application development, development methodologies, DevOps, and web development using Ruby or Groovy; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "JEE",
+        "Ruby",
+        "Groovy",
+        "Oracle PeopleSoft",
+        "PL/SQL",
+        "nVision",
+        "PHIRE"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Hybrid Cloud Manage",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Hybrid-Cloud-Manage/143707",
+      "company": "IBM",
+      "location": "Paramus, New Jersey, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; experience with cloud platforms, at least 2 primary technology skills (Java, Open Source, databases, integration, mainframe, IBMi, Data AMS), DevSecOps, multi-stack troubleshooting, consulting services; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Java",
+        "Open Source",
+        "Databases",
+        "Integration Technologies",
+        "Mainframe",
+        "IBMi",
+        "Data AMS",
+        "DevSecOps",
+        "Python",
+        "C++",
+        "Ruby",
+        "AWS"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Data Engineer-Data Warehouse",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Warehouse/144046",
+      "company": "IBM",
+      "location": "Herndon, Virginia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with data warehouse design, analytics solutions, large-scale data management, software integration, and data issue resolution using Teradata and Snowflake; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Teradata",
+        "Snowflake",
+        "Python",
+        "AWS",
+        "Unix"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/144274",
+      "company": "IBM",
+      "location": "Brookhaven, Georgia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; exposure to data integration tools (Informatica, Ab Initio, DataStage); ETL process understanding; data flow management; business intelligence support; ability to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "Talend",
+        "Snowflake"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Data Engineer-Data Integration",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Integration/144061",
+      "company": "IBM",
+      "location": "Herndon, Virginia, United States",
+      "postedAt": 1794830400000,
+      "salary": "$90k-$168k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; exposure to data integration tools (Informatica, Ab Initio, DataStage), ETL processes, data flow management, and business intelligence support; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Informatica",
+        "Ab Initio",
+        "DataStage",
+        "Python",
+        "Snowflake",
+        "AWS",
+        "Agentic AI",
+        "Unix",
+        "Teradata"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Data Engineer-Enterprise Content Management",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Enterprise-Content-Management/143838",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$116k-$216k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with Enterprise Content Management solutions, ECM application customization, technical support, system optimization, and documentation; ability to work without visa sponsorship.",
+      "tools": [
+        "ECM",
+        "OpenText Extream",
+        "Salesforce"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-RDBMS",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-RDBMS/143863",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; RDBMS application development experience; PL/SQL, T-SQL, DB2 for LUW; database security and performance optimization; ability to work without visa sponsorship.",
+      "tools": [
+        "PL/SQL",
+        "T-SQL",
+        "DB2",
+        "Linux",
+        "Unix",
+        "Windows",
+        "Workday",
+        "Oracle",
+        "Azure Data Factory"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-RDBMS",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-RDBMS/143892",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; RDBMS application development experience; PL/SQL, T-SQL, DB2 for LUW; database security and performance optimization; ability to work without visa sponsorship.",
+      "tools": [
+        "PL/SQL",
+        "T-SQL",
+        "DB2",
+        "Linux",
+        "Unix",
+        "Windows",
+        "FIS-OMNI",
+        "Oracle"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-RDBMS",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-RDBMS/143784",
+      "company": "IBM",
+      "location": "Columbus, Ohio, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with RDBMS application development, PL/SQL, T-SQL, DB2 for LUW, database security, performance optimization, and design principles; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "PL/SQL",
+        "T-SQL",
+        "DB2",
+        "Linux",
+        "Unix",
+        "Windows",
+        "Sybase",
+        "SQL Server",
+        "Snowflake",
+        "Python",
+        "Snowpark",
+        "PySpark"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-RDBMS",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-RDBMS/143792",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; experience with RDBMS application development, PL/SQL, T-SQL, DB2 for LUW, database security, performance optimization, and design principles; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "PL/SQL",
+        "T-SQL",
+        "DB2",
+        "Linux",
+        "Unix",
+        "Windows",
+        "FIS - OMNI",
+        "Oracle"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Application Developer-Microsoft Analytics",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/Application-Developer-Microsoft-Analytics/143981",
+      "company": "IBM",
+      "location": "Oregon, United States",
+      "postedAt": 1794830400000,
+      "salary": "$89k-$167k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; proficiency with Microsoft BI tools (Power BI, SSRS), complex queries (Power Query, DAX, R, TSQL), SQL Server programming, security implementation, and dashboard optimization; must be authorized to work without visa sponsorship.",
+      "tools": [
+        "Microsoft Power BI",
+        "Power BI Report Builder",
+        "Power BI Embedded services",
+        "SSRS",
+        "Power Query",
+        "DAX",
+        "R",
+        "TSQL",
+        "SQL Server",
+        "Xpertdocs"
+      ],
+      "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer",
@@ -1391,7 +3085,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer",
@@ -1421,7 +3115,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer",
@@ -1446,7 +3140,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-EAI",
@@ -1506,7 +3200,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer",
@@ -1536,7 +3230,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Azure Cloud FullStack",
@@ -1566,7 +3260,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer",
@@ -1593,7 +3287,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Hybrid Cloud Manage",
@@ -1623,7 +3317,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer",
@@ -1653,7 +3347,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1680,7 +3374,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1707,7 +3401,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1737,7 +3431,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1785,7 +3479,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1814,7 +3508,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1844,7 +3538,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1919,7 +3613,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1941,7 +3635,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -1966,7 +3660,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -2037,7 +3731,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -2066,7 +3760,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -2089,7 +3783,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Hybrid Cloud Manage",
@@ -2119,7 +3813,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Hybrid Cloud Manage",
@@ -2149,7 +3843,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Hybrid Cloud Manage",
@@ -2179,7 +3873,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Hybrid Cloud Manage",
@@ -2209,7 +3903,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Hybrid Cloud Manage",
@@ -2239,7 +3933,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Hybrid Cloud Manage",
@@ -2268,7 +3962,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -2293,7 +3987,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Enterprise Platforms",
@@ -2317,7 +4011,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Technical Consultant-Cloud Platform Engineering Services",
@@ -2340,7 +4034,7 @@
       "company_tagline": "A global technology and consulting company providing hybrid cloud and AI solutions.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Open Source",
@@ -2365,7 +4059,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Open Source",
@@ -2393,7 +4087,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Open Source",
@@ -2420,7 +4114,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Data Engineer-Data Platforms",
@@ -2443,7 +4137,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-DevOps",
@@ -2467,7 +4161,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Java & Web Technologies",
@@ -2494,7 +4188,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Mainframe Modernization",
@@ -2524,7 +4218,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Mainframe Modernization",
@@ -2554,7 +4248,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Microsoft .NET",
@@ -2583,7 +4277,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Cloud FullStack",
@@ -2640,7 +4334,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Mainframe Modernization",
@@ -2670,7 +4364,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-Cloud FullStack",
@@ -2720,7 +4414,7 @@
       "company_tagline": "A global technology and consulting company helping clients shape their hybrid cloud and AI journeys.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Data Engineer-Data Warehouse",
@@ -2741,7 +4435,7 @@
       "company_tagline": "A global technology and consulting company helping clients shape their hybrid cloud and AI journeys.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Data Engineer-Data Integration",
@@ -2767,7 +4461,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Data Engineer-Data Integration",
@@ -2790,7 +4484,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Data Engineer-Data Integration",
@@ -2858,7 +4552,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Data Engineer",
@@ -2881,7 +4575,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-RDBMS",
@@ -2907,7 +4601,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer-SAP ABAP HANA",
@@ -2936,7 +4630,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Senior Software Engineer",
@@ -2966,7 +4660,7 @@
       "company_tagline": "A global leader in ratings and integrated risk assessment, advancing AI to help clients navigate uncertainty.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Development Engineer, Network Fabric Engineering",
@@ -2983,7 +4677,7 @@
       "company_tagline": "A technology company building software systems that power the world's largest network.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Security Tech Operations Engineer II, Amazon Security Hardware",
@@ -3003,7 +4697,24 @@
       "company_tagline": "A technology company providing cloud services and hardware security operations.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Healthcare Engineer (Water Safety)",
+      "url": "https://www.usajobs.gov/job/893006000",
+      "company": "Veterans Health Administration",
+      "location": "Prescott, Arizona, United States",
+      "postedAt": 1794828286573,
+      "salary": "$105k-$136k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "U.S. citizenship; bachelor's degree in engineering or architecture, or PE/architect licensure; English proficiency; background/security investigation; pre-employment physical; influenza vaccination; 1-2 year trial period; GS-12 experience.",
+      "tools": [],
+      "company_tagline": "",
+      "ats_source": "usagov",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Privacy Engineer, Cloud Applied Privacy Engineering Solutions",
@@ -3023,7 +4734,7 @@
       "company_tagline": "A technology company providing enterprise-grade cloud solutions and AI services.",
       "ats_source": "google",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Web Developer",
@@ -3053,7 +4764,7 @@
       "company_tagline": "A marketing technology company providing AI-powered content creation, CMS, and experimentation platforms.",
       "ats_source": "smartrecruiters",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "End User Computing (EUC) Engineer",
@@ -3083,7 +4794,7 @@
       "company_tagline": "A multinational technology company providing IT services and consulting.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Member of Technical Staff - Evals Research Engineer",
@@ -3102,7 +4813,7 @@
       "company_tagline": "A product-driven research lab building the intelligence layer for customer-product-AI feedback loops.",
       "ats_source": "rippling",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "python Automation (10429)",
@@ -3132,7 +4843,7 @@
       "company_tagline": "A technology company specializing in automation and software solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Python Developer (10443)",
@@ -3161,7 +4872,7 @@
       "company_tagline": "Information Technology",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer - Rust",
@@ -3186,7 +4897,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "C# Developer",
@@ -3212,7 +4923,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Java Developer",
@@ -3237,7 +4948,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Python Developer",
@@ -3262,7 +4973,7 @@
       "company_tagline": "A research accelerator for frontier AI labs and a partner for global enterprises deploying advanced AI systems.",
       "ats_source": "betterteam",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Full Stack Java Technical Lead - React.js (188731)",
@@ -3292,7 +5003,7 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Backend Engineer (Python/FastAPI)",
@@ -4001,7 +5712,7 @@
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformations.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer",
@@ -4208,7 +5919,7 @@
       "company_tagline": "A global technology and consulting company providing hybrid cloud and AI solutions.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Developer",
@@ -4380,7 +6091,7 @@
       "company_tagline": "A technology company that creates products and services to make the world a better place.",
       "ats_source": "google",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:14:24.326Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Senior Software Developer",
@@ -4850,7 +6561,7 @@
       "company_tagline": "A technology company delivering enterprise-grade cloud solutions and cutting-edge AI tools.",
       "ats_source": "google",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer II (Java/Spring Boot) - San Antonio or Austin, TX",
@@ -4878,7 +6589,7 @@
       "company_tagline": "A large omnichannel retail company focused on customer experience and digital innovation.",
       "ats_source": "icims",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Founding backend engineer, data platform and fleet infrastructure",
@@ -4903,7 +6614,7 @@
       "company_tagline": "A healthcare technology company capturing patient data for AI training.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer",
@@ -4925,7 +6636,7 @@
       "company_tagline": "A Palo Alto-based technology company building agentic AI for global knowledge workers.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Java Software Engineer III",
@@ -4953,7 +6664,7 @@
       "company_tagline": "A global financial institution offering innovative solutions to consumers, businesses, and institutions.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Support Engineer",
@@ -4983,7 +6694,7 @@
       "company_tagline": "A technology company building the future of the commerce-powered internet, enabling performance marketing and monetization across marketplaces, brands, and creators.",
       "ats_source": "rippling",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer, Super Intelligence",
@@ -5013,7 +6724,7 @@
       "company_tagline": "A company building super intelligence to help humanity understand the universe, developing models, applications, and supercomputing infrastructure.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Founding Forward Deployed Engineer (FDE)",
@@ -5043,7 +6754,7 @@
       "company_tagline": "An early-stage AI startup building an autonomous performance layer for AI training, reducing cost and time barriers to proprietary AI.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Senior Project Engineer",
@@ -5062,7 +6773,7 @@
       "company_tagline": "A construction company that builds communities with a people-first culture and a legacy of over 100 years.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Senior Project Engineer - Construction",
@@ -5081,7 +6792,7 @@
       "company_tagline": "A construction company that builds communities with a people-first culture and a legacy of over 100 years.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Construction Senior Project Engineer",
@@ -5100,7 +6811,7 @@
       "company_tagline": "A construction company that builds communities and provides innovative spaces.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Site Civil Designer (Land Development)",
@@ -5125,7 +6836,7 @@
       "company_tagline": "An employee-owned engineering and design firm creating welcoming environments and making a positive impact on communities worldwide.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Information Security Engineer",
@@ -5144,7 +6855,264 @@
       "company_tagline": "A healthcare organization committed to improving the health and well-being of the community in southwestern Arizona.",
       "ats_source": "paradox",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:14:24.326Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Cloud Software Engineer",
+      "url": "https://puck.bamboohr.com/careers/273",
+      "company": "Puck Enterprises",
+      "location": "Worthing, South Dakota, United States",
+      "postedAt": 1794787200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Computer Science or related field or equivalent experience; 3-5 years software engineering; C#, .NET, Azure, REST APIs, SQL, Entity Framework, CI/CD; strong debugging and communication skills.",
+      "tools": [
+        "C#",
+        ".NET",
+        "Microsoft Azure",
+        "REST APIs",
+        "SQL",
+        "Entity Framework",
+        "Entity Framework Core",
+        "ASP.NET Core",
+        "Docker",
+        "Kubernetes",
+        "Application Insights",
+        "Microsoft Entra ID"
+      ],
+      "company_tagline": "A dynamic manufacturing company committed to delivering high-quality products and fostering a team environment.",
+      "ats_source": "bamboohr",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Fall Software Engineer Co-op",
+      "url": "https://aholddelhaizeusa.careerswithus.com/job/66903313dc60a8004b18d7fc/fall-software-engineer-co-op/quincy-ma/aholddelhaizeapplyrms/564798_external_USA-MA-Quincy?category=66903313dc60a8004b18d7fc",
+      "company": "Ahold Delhaize USA",
+      "location": "Quincy, Massachusetts, United States",
+      "postedAt": 1794787200000,
+      "salary": "$47k-$78k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time · Internship",
+      "yoe": "",
+      "summary": "Currently enrolled in a bachelor's or master's degree program; authorized to work in the US full-time; available July 12, 2027 to December 3, 2027; experience with TypeScript, JavaScript, React, Node.js, REST APIs, SQL, .Net, Azure, Agile, GIT.",
+      "tools": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST APIs",
+        "SQL",
+        ".Net",
+        "VB.Net",
+        "C#",
+        "Azure",
+        "GIT",
+        "Active Directory"
+      ],
+      "company_tagline": "A division of a global food retailer supporting omnichannel grocery brands with technology and services.",
+      "ats_source": "appvault",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Fall Data Engineer Co-op",
+      "url": "https://aholddelhaizeusa.careerswithus.com/job/66903313dc60a8004b18d7fc/fall-data-engineer-co-op/quincy-ma/aholddelhaizeapplyrms/564791_external_USA-MA-Quincy?category=66903313dc60a8004b18d7fc",
+      "company": "Ahold Delhaize USA",
+      "location": "Quincy, Massachusetts, United States",
+      "postedAt": 1794787200000,
+      "salary": "$47k-$78k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time · Internship",
+      "yoe": "",
+      "summary": "Currently enrolled in a bachelor's or master's degree program in Computer Science, Information Systems, Data Science, Engineering, or related field; basic understanding of SQL, Python, or other programming languages; familiarity with data engineering concepts; authorized to work in the US; available July 12, 2027 to De",
+      "tools": [
+        "Databricks",
+        "Azure Data Factory",
+        "GitHub",
+        "SQL",
+        "Python"
+      ],
+      "company_tagline": "A division of global food retailer Ahold Delhaize, supporting leading omnichannel grocery brands.",
+      "ats_source": "appvault",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Fall Data Engineer Co-op",
+      "url": "https://aholddelhaizeusa.careerswithus.com/job/66903313dc60a8004b18d7fc/fall-data-engineer-co-op/salisbury-nc/aholddelhaizeapplyrms/564791_external_USA-NC-Salisbury?category=66903313dc60a8004b18d7fc",
+      "company": "Ahold Delhaize USA",
+      "location": "Salisbury, North Carolina, United States",
+      "postedAt": 1794787200000,
+      "salary": "$43k-$74k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time · Internship",
+      "yoe": "",
+      "summary": "Currently enrolled in a bachelor's or master's degree program in Computer Science, Information Systems, Data Science, Engineering, or related field; basic SQL/Python; authorized to work in the US; available July 12, 2027 to December 3, 2027.",
+      "tools": [
+        "Databricks",
+        "Azure Data Factory",
+        "GitHub",
+        "SQL",
+        "Python"
+      ],
+      "company_tagline": "A division of global food retailer Ahold Delhaize, supporting omnichannel grocery brands with services including technology and data solutions.",
+      "ats_source": "appvault",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Applications Engineer",
+      "url": "https://borisch.acquiretm.com/job_details_clean.aspx?ID=2858",
+      "company": "Amphenol Borisch Technologies",
+      "location": "Mesa, Arizona, United States",
+      "postedAt": 1794787200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "4+ YOE",
+      "summary": "Minimum 4 years engineering experience with similar products; BS in STEM or engineering preferred; CAD software (SolidWorks) preferred; Microsoft Office proficiency; ability to lift up to 50 lbs; travel 5-15%.",
+      "tools": [
+        "SolidWorks",
+        "Microsoft Office"
+      ],
+      "company_tagline": "A division of Amphenol Corporation providing high-reliability electronic systems for aerospace and defense.",
+      "ats_source": "acquiretm",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Project Engineer",
+      "url": "https://beaverexcavating.bamboohr.com/careers/240",
+      "company": "The Beaver Excavating Company",
+      "location": "Columbus, Ohio, United States",
+      "postedAt": 1794787200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in construction management, civil engineering, or related field; equivalent field experience considered. 2 years heavy/civil construction experience preferred. Proficient in MS Office and construction software. Ability to travel overnight and for extended periods.",
+      "tools": [
+        "Microsoft Office",
+        "construction software"
+      ],
+      "company_tagline": "A stable, growing construction company with a family-oriented culture since 1953.",
+      "ats_source": "bamboohr",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Project Engineer - Electrical - Dallas",
+      "url": "https://meengineers.bamboohr.com/careers/120",
+      "company": "ME Engineers",
+      "location": "Dallas, Texas, United States",
+      "postedAt": 1794787200000,
+      "salary": "$80k-$105k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Engineering, Architectural Engineering, or related field; 3-5 years engineering experience; EIT preferred, PE a plus; experience with Revit, AutoCAD, or similar design software.",
+      "tools": [
+        "Revit",
+        "AutoCAD"
+      ],
+      "company_tagline": "An engineering firm providing MEP design and consulting services for commercial, healthcare, education, sports, and institutional projects.",
+      "ats_source": "bamboohr",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Associate Demo Engineer",
+      "url": "https://euna.bamboohr.com/careers/816",
+      "company": "Euna Solutions",
+      "location": "Atlanta, Georgia, United States",
+      "postedAt": 1794787200000,
+      "salary": "",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "1-2 years experience in software implementation, technical consulting, or solutions engineering; foundational knowledge of government finance; ability to configure SaaS applications; strong organization and communication skills.",
+      "tools": [
+        "SaaS",
+        "APIs"
+      ],
+      "company_tagline": "A provider of cloud-based software for public sector budgeting, grants, procurement, payments, and marketplace workflows.",
+      "ats_source": "bamboohr",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "CPU Formal Verification Engineer",
+      "url": "https://careers.qualcomm.com/careers/job/446720393657",
+      "company": "Qualcomm",
+      "location": "Santa Clara, California, United States",
+      "postedAt": 1794787200000,
+      "salary": "$148k-$222k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's in EE/CE/CS or related field with 2+ years hardware/software engineering experience, or Master's with 1+ year, or PhD; strong model checking or theorem proving background; experience with JasperGold, VC-Formal, ACL2, or HOL.",
+      "tools": [
+        "JasperGold",
+        "VC-Formal",
+        "ACL2",
+        "HOL",
+        "C++",
+        "Python",
+        "TCL"
+      ],
+      "company_tagline": "A technology company developing processors and application processors.",
+      "ats_source": "eightfold",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "Contract Senior Technical Animator",
+      "url": "https://certainaffinityinc.applytojob.com/apply/GMIm4QKfze/Contract-Senior-Technical-Animator",
+      "company": "Certain Affinity",
+      "location": "Austin, Texas, United States",
+      "postedAt": 1794787200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Contract",
+      "yoe": "3+ YOE",
+      "summary": "3+ years rigging and skinning experience; proficiency with Autodesk Maya, MotionBuilder, and Python scripting; strong communication; experience with motion capture systems.",
+      "tools": [
+        "Python",
+        "Autodesk Maya",
+        "MotionBuilder",
+        "Unreal Engine",
+        "Advanced Skeleton",
+        "C++",
+        "C#"
+      ],
+      "company_tagline": "An independent game developer known for creating innovative, high-quality games and headquartered in Austin, TX.",
+      "ats_source": "jazzhr",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
+    },
+    {
+      "title": "PA Construction Field Engineer",
+      "url": "https://allyconstruction.bamboohr.com/careers/90",
+      "company": "ALLY Construction Services",
+      "location": "Allentown, Pennsylvania, United States",
+      "postedAt": 1794787200000,
+      "salary": "$55k-$70k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Four-year engineering or architectural degree or equivalent construction experience; valid driver's license and reliable transportation; CPR and First Aid certification; eligible to work in the US; ability to lift up to 50 pounds and work on-site.",
+      "tools": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft Project"
+      ],
+      "company_tagline": "A fast-growing construction management team providing quality service and a safe work environment.",
+      "ats_source": "bamboohr",
+      "discoveredAt": "2026-11-16T19:00:08.405Z",
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Developer (193993)",
@@ -5170,7 +7138,7 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Intern - Software Developer",
@@ -5200,7 +7168,7 @@
       "company_tagline": "A leader in the fast-paced world of connectivity, empowering lives and driving innovation.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Senior Associate/Manager, Full Stack Engineer (Contract - Renewable), Technology Consulting",
@@ -5228,7 +7196,7 @@
       "company_tagline": "A global professional services firm providing consulting, assurance, tax, and transaction services.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Equipment Eng - P2",
@@ -5251,7 +7219,7 @@
       "company_tagline": "A global medical technology leader transforming lives through innovative medical solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-16T18:14:24.326Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Front-End Developer",
@@ -5272,7 +7240,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "API Developer",
@@ -5293,7 +7261,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Application Developer – .NET",
@@ -5319,7 +7287,7 @@
       "company_tagline": "A technology consulting and software development company delivering cloud, AI, data, and enterprise solutions.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-16T16:23:47.927Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "System Software Engineer, Video Chips",
@@ -5339,7 +7307,7 @@
       "company_tagline": "A technology company known for GPUs and AI computing.",
       "ats_source": "eightfold",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Water Resources Engineer",
@@ -5360,7 +7328,7 @@
       "company_tagline": "A California state department managing water resources, systems, and infrastructure including the State Water Project.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Energy & Sustainability Engineer",
@@ -5382,7 +7350,7 @@
       "company_tagline": "A leading provider of custom engineered industrial refrigeration and process cooling systems using natural refrigerants.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Electrical Design Engineer",
@@ -5404,7 +7372,7 @@
       "company_tagline": "A provider of custom-engineered industrial refrigeration and process cooling solutions with integrated engineering, manufacturing, construction, and service.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Principal Electrical Design Engineer",
@@ -5426,7 +7394,7 @@
       "company_tagline": "A leading provider of custom engineered industrial refrigeration and process cooling solutions.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Solutions Architect, Data Center Infrastructure",
@@ -5453,7 +7421,7 @@
       "company_tagline": "A leading AI computing company creating innovative deep learning solutions.",
       "ats_source": "eightfold",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Connecticut Careers Trainee (Engineering And Related)",
@@ -5478,7 +7446,7 @@
       "company_tagline": "A state transportation agency bureau responsible for travel demand modeling and air quality analysis.",
       "ats_source": "jobaps",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Electrical / Hardware Engineering Intern Summer 2027",
@@ -5502,7 +7470,7 @@
       "company_tagline": "A global engineering and technology company delivering solutions for defense, security, intelligence, infrastructure, and environmental missions.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:14:24.326Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Manufacturing Engineer – CNC Programmer",
@@ -5527,7 +7495,7 @@
       "company_tagline": "A company developing reusable hypersonic flight testing vehicles for aerospace and defense.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer, Product",
@@ -5548,7 +7516,7 @@
       "company_tagline": "An AI revenue engine for essential services, helping businesses book jobs across service industries.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Full Stack Angular Developer - Onsite Wixom",
@@ -5575,7 +7543,7 @@
       "company_tagline": "A telehealth software solutions company offering a HIPAA and HITECH compliant platform with video engagement and remote patient monitoring.",
       "ats_source": "paylocity",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "SCADA Controls Automation Engineer",
@@ -5605,7 +7573,7 @@
       "company_tagline": "An employee-owned engineering, science, and operations firm dedicated to clean water, a safe environment, healthy communities, and happy people.",
       "ats_source": "lever",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Optical Engineer, Northern Virginia",
@@ -5624,7 +7592,7 @@
       "company_tagline": "A technology company providing optical engineering and system integration solutions.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Optical Engineer",
@@ -5643,7 +7611,7 @@
       "company_tagline": "A technology company specializing in optical components and systems integration.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Site Civil Designer (Land Development)",
@@ -5690,7 +7658,7 @@
       "company_tagline": "A technology company building AI services and cloud infrastructure.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Machine Learning Engineer",
@@ -5717,7 +7685,7 @@
       "company_tagline": "A global automotive company that designs, manufactures, and markets vehicles and mobility solutions.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "NVH Wind and Noise PVT Engineer - MAP",
@@ -5737,7 +7705,7 @@
       "company_tagline": "A global automotive company that designs, manufactures, and markets vehicles and mobility solutions.",
       "ats_source": "talentbrew",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer for Informatics and Machine Learning",
@@ -5760,7 +7728,7 @@
       "company_tagline": "A company developing AI-driven drug discovery software and platforms.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineering Intern",
@@ -5783,7 +7751,7 @@
       "company_tagline": "A software company developing a scientific collaboration platform for industry, foundations, and academia.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "QA Automation Engineer",
@@ -5809,7 +7777,7 @@
       "company_tagline": "A company that develops software for drug discovery and emphasizes end-to-end testing.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Quotation Engineer",
@@ -5829,7 +7797,7 @@
       "company_tagline": "A worldwide supplier of automation solutions for electronics, consumer goods, telecommunications, new energy, automotive, and e-mobility industries.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Development Engineer, Live and Linear Catalog",
@@ -5846,7 +7814,7 @@
       "company_tagline": "A global technology company offering e-commerce, cloud computing, digital streaming, and artificial intelligence.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "IT/Engineering Specialist",
@@ -5876,7 +7844,7 @@
       "company_tagline": "A ministry that educates and mobilizes Christians for global mission through a 15-lesson course.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Junior Forward Deployed Engineer (Oahu)",
@@ -5902,7 +7870,7 @@
       "company_tagline": "Hawaii's largest local supplier of perishable foods and logistics, serving grocers, retailers, and club chains across the islands.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Field Engineer",
@@ -5923,7 +7891,7 @@
       "company_tagline": "A provider of reliable, comprehensive audiovisual systems that transform how organizations communicate, collaborate, and operate.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineering/Development: Software Engineer - Application Developer",
@@ -5945,7 +7913,7 @@
       "company_tagline": "A world-leading developer of specialized photographic systems for medical practices, institutions, research organizations, and pharmaceutical suppliers.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineering/Development: Information Systems Support Coordinator",
@@ -5967,7 +7935,7 @@
       "company_tagline": "A core imaging lab providing custom photographic systems, image monitoring, and centralized analysis services for clinical trials.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Dev Engineer II, ECR - Private",
@@ -5984,7 +7952,7 @@
       "company_tagline": "A cloud computing company providing scalable and secure container registry services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Oracle APEX Developer & Platform Support Specialist - 00071224111",
@@ -6012,7 +7980,7 @@
       "company_tagline": "A global IT services company providing technology solutions and consulting.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Oracle APEX Developer & Platform Support Specialist - 00071224111",
@@ -6039,7 +8007,7 @@
       "company_tagline": "A global IT services company providing technology solutions and consulting.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-16T18:37:56.690Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Support Developer",
@@ -6069,7 +8037,7 @@
       "company_tagline": "An insurance company that develops and maintains software applications and databases to support its operations.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "CAD Drafter",
@@ -6092,7 +8060,7 @@
       "company_tagline": "An infrastructure services company providing utility construction and related services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Site Civil Engineer (PE)",
@@ -6114,7 +8082,7 @@
       "company_tagline": "An employee-owned engineering firm that designs critical infrastructure and building systems.",
       "ats_source": "taleo_selectminds",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Full Stack Software Engineer (Starlink)",
@@ -6144,7 +8112,7 @@
       "company_tagline": "A company developing technologies to enable human life on Mars and operating the Starlink broadband internet system.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
@@ -6168,7 +8136,7 @@
       "company_tagline": "A technology company building frontier AI systems and agentic experiences.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineer",
@@ -6189,7 +8157,7 @@
       "company_tagline": "A financial planning firm that builds scalable enterprise applications to drive operational excellence.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Cyber Defense Analyst I (Junior Security Engineer)",
@@ -6217,7 +8185,7 @@
       "company_tagline": "A semiconductor company delivering advanced analog and power solutions to technology companies.",
       "ats_source": "adp",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:14:24.326Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Software Engineering Co-op",
@@ -6246,7 +8214,7 @@
       "company_tagline": "A global provider of network test, monitoring and assurance solutions and light management technologies.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Product Engineer, Full Stack",
@@ -6268,7 +8236,7 @@
       "company_tagline": "A faith-based nonprofit media ministry behind The Chosen, creating exceptional storytelling that brings the Bible to life.",
       "ats_source": "bamboohr",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "2027 Summer Intern - Software Engineering - Onsite",
@@ -6293,7 +8261,7 @@
       "company_tagline": "An aerospace and defense company providing internships and careers to solve complex problems.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "VDC Engineer (Denver)",
@@ -6323,7 +8291,7 @@
       "company_tagline": "A construction company providing VDC and BIM services for building projects.",
       "ats_source": "csod",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "VDC Engineer (Des Moines)",
@@ -6353,7 +8321,7 @@
       "company_tagline": "A construction company providing VDC and BIM services for building projects.",
       "ats_source": "csod",
       "discoveredAt": "2026-11-16T15:16:09.362Z",
-      "lastSeenAt": "2026-11-16T18:37:56.690Z"
+      "lastSeenAt": "2026-11-16T19:00:08.405Z"
     },
     {
       "title": "Programmer, Web Developer",
@@ -11828,133 +13796,6 @@
       ],
       "company_tagline": "A leader in water, environment, and sustainable infrastructure, providing high-end consulting and engineering services worldwide.",
       "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-13T19:16:12.215Z",
-      "lastSeenAt": "2026-11-16T15:16:09.362Z"
-    },
-    {
-      "title": "Senior Software Engineer – Data Quality Management (Open to hiring at the Lead Software Engineer Level)",
-      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000161367499-senior-software-engineer-data-quality-management-open-to-hiring-at-the-lead-software-engineer-level-",
-      "company": "Wellmark Blue Cross Blue Shield",
-      "location": "Des Moines, Iowa, United States",
-      "postedAt": 1794509821387,
-      "salary": "",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "Bachelor's degree in Computer Science, MIS, or related field with 2+ years software development experience OR 6 years related experience; strong analytical and problem-solving skills; experience with software development lifecycle methodologies.",
-      "tools": [
-        "AWS CDK",
-        "TypeScript",
-        "Python",
-        "Lambda",
-        "Glue",
-        "Step Functions",
-        "SQL",
-        "PostgreSQL",
-        "Aurora",
-        "CloudWatch",
-        "EventBridge",
-        "SNS"
-      ],
-      "company_tagline": "A mutual insurance company owned by policy holders across Iowa and South Dakota, focused on member well-being and innovation.",
-      "ats_source": "smartrecruiters",
-      "discoveredAt": "2026-11-13T19:16:12.215Z",
-      "lastSeenAt": "2026-11-16T15:16:09.362Z"
-    },
-    {
-      "title": "Solutions Engineer",
-      "url": "https://www.governmentjobs.com/careers/samford/jobs/5547963-0",
-      "company": "Samford University",
-      "location": "Homewood, Alabama, United States",
-      "postedAt": 1794509534000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "High school diploma or equivalent; 3+ years professional experience; proficiency in backend languages (Python, Java, PHP, JavaScript server-side, Scala), frontend technologies (HTML, CSS, JavaScript client-side), SQL databases, shell scripting (PowerShell, Bash), RESTful APIs, middleware, Git; ability to work on campus",
-      "tools": [
-        "Python",
-        "Java",
-        "PHP",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SQL",
-        "PL/SQL",
-        "PowerShell",
-        "Bash",
-        "RESTful APIs",
-        "Git"
-      ],
-      "company_tagline": "A university providing higher education and enterprise application solutions.",
-      "ats_source": "governmentjobs",
-      "discoveredAt": "2026-11-13T19:16:12.215Z",
-      "lastSeenAt": "2026-11-16T15:16:09.362Z"
-    },
-    {
-      "title": "Software Engineer II, Frontend (Banking)",
-      "url": "https://www.brex.com/careers/8939939002?gh_jid=8939939002",
-      "company": "Brex",
-      "location": "Seattle, Washington, United States",
-      "postedAt": 1794509088000,
-      "salary": "$152k-$190k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "4+ YOE",
-      "summary": "4+ years professional experience architecting, developing, and testing client-side code; experience with web platform development, cross-browser compatibility, and modern tools like ES6+, React, GraphQL, Webpack, Vite, React Native.",
-      "tools": [
-        "ES6+",
-        "React",
-        "GraphQL",
-        "Webpack",
-        "Vite",
-        "React Native"
-      ],
-      "company_tagline": "An intelligent finance platform enabling companies to spend smarter and move faster in more than 200 markets.",
-      "ats_source": "grnhse",
-      "discoveredAt": "2026-11-13T19:16:12.215Z",
-      "lastSeenAt": "2026-11-16T15:16:09.362Z"
-    },
-    {
-      "title": "Test Automation Engineer, Hardware-in-the-Loop",
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/536321d0-70cd-4ffb-af14-6b552ab52bbb",
-      "company": "Hadrian",
-      "location": "Torrance, California, United States",
-      "postedAt": 1794509016490,
-      "salary": "$268k-$321k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Bachelor's degree in electrical, computer, or mechanical engineering; strong electrical fundamentals; Python software engineering; systems engineering; experience with sensors, data acquisition, firmware, electromechanical systems, and HIL test stands; ITAR compliance requiring U.S. citizenship or permanent residency.",
-      "tools": [
-        "Python",
-        "SCPI",
-        "CAN",
-        "Ethernet"
-      ],
-      "company_tagline": "A company building autonomous factories to reindustrialize America, combining AI, software, robotics, and full-stack manufacturing.",
-      "ats_source": "ashby",
-      "discoveredAt": "2026-11-13T19:16:12.215Z",
-      "lastSeenAt": "2026-11-16T15:16:09.362Z"
-    },
-    {
-      "title": "Senior Software Quality Engineer",
-      "url": "https://ejep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/3633",
-      "company": "Delta Dental Plans Association",
-      "location": "San Francisco or Rancho Cordova",
-      "postedAt": 1794508742000,
-      "salary": "$81k-$176k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "4+ YOE",
-      "summary": "4+ years experience with Bachelor's degree or equivalent; software QA techniques; testing authentication systems (Okta, SSO); test automation with advanced scripting; web and mobile testing; Zephyr and Automated QA System experience.",
-      "tools": [
-        "Okta",
-        "Zephyr",
-        "Automated QA System"
-      ],
-      "company_tagline": "A dental benefits provider offering comprehensive oral health care coverage to millions of enrollees.",
-      "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-13T19:16:12.215Z",
       "lastSeenAt": "2026-11-16T15:16:09.362Z"
     }
