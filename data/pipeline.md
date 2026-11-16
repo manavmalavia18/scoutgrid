@@ -2313,3 +2313,7 @@
 - [ ] https://jobs.ashbyhq.com/codat/90070bd3-c3c8-42fa-86f7-784d27d3b5ce | codat | Software Engineer (Data) | Remote | posted: 2026-11-13
 
 - [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8328672 | beyondtrust | Front-End Engineer, UX/UI | Remote Canada | posted: 2026-11-16
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5295936007?gh_jid=5295936007 | andurilindustries | Platform Engineer | Washington, District of Columbia, United States | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5295246007?gh_jid=5295246007 | andurilindustries | Platform Engineer | Costa Mesa, California, United States | posted: 2026-11-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5296197007?gh_jid=5296197007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-16
