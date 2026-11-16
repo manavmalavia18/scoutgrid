@@ -2342,3 +2342,6 @@
 - [ ] https://jobs.lever.co/redwoodcu/5d219c24-443e-4979-ab73-5198a42bf228 | redwoodcu | Application Developer (Programmer II) | Napa, California | posted: 2026-11-16
 
 - [ ] https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134 | mercor | Software Engineer, Agents | New York City | posted: 2026-11-16
+
+- [ ] https://jobs.ashbyhq.com/mercor/b0f12b3f-91ae-4b9e-ad0b-ed0299f80554 | mercor | Software Engineer, Enterprise Applied AI | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702 | mercor | Software Engineer, Frontier Data Products | New York City | posted: 2026-11-16
