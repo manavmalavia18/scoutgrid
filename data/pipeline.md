@@ -2347,3 +2347,5 @@
 - [ ] https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702 | mercor | Software Engineer, Frontier Data Products | New York City | posted: 2026-11-16
 
 - [ ] https://jobs.ashbyhq.com/imprint/0e6955fb-133f-4d72-a53d-f926e99b531e | imprint | Software Engineer, Backend | New York City | posted: 2026-11-16
+
+- [ ] https://jobs.ashbyhq.com/mercor/4d817fa9-8860-4063-9da7-f484569ed1dc | mercor | Software Engineer, Fraud | San Francisco or NYC | posted: 2026-11-16
