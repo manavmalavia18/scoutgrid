@@ -2039,4 +2039,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4740955005 | Nimble Gravity | Data Engineer | LATAM (Remote) | posted: 2026-11-15
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8319442 | Twilio | Software Engineer (L1) | Remote - India | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5295932007 | SpaceXAI | Software Engineer, Super Intelligence | Palo Alto, CA; Seattle, WA | posted: 2026-11-16
+
 ## Processed
