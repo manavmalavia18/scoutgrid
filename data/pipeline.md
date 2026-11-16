@@ -2298,3 +2298,5 @@
 - [ ] https://jobs.ashbyhq.com/everai/a4ed409d-8c0a-46fe-95c8-2edbd9da63a4 | everai | LLM Engineer — Post-Training (Remote - Poland) | Poland · Portugal · Remote | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/everai/8da3c45c-be9e-4525-bb06-dcc7e9e90c93 | everai | LLM Engineer — Post-Training (Remote - Netherlands) | Netherlands · Portugal · Remote | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/everai/ca50c750-55c2-465f-8057-270cb8d9f08f | everai | LLM Engineer — Post-Training (Remote - Italy) | Italy · Portugal · Remote | posted: 2026-11-16
+
+- [ ] https://job-boards.greenhouse.io/heartflowinc/jobs/6262467004 | heartflowinc | Software Engineer – Frontend | San Francisco, California | posted: 2026-11-16
