@@ -33,9 +33,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      # No actions/setup-python here — unlike the GitHub-hosted runner this
+      # replaced, this self-hosted Mac already has a working system python3
+      # with patchright pre-installed persistently, and setup-python@v5
+      # fails on it: it assumes the GitHub-hosted macOS runner's hardcoded
+      # home dir (/Users/runner) for its tool-cache, which doesn't exist on
+      # this machine ("mkdir: /Users/runner: Permission denied" — confirmed
+      # live on run 43903966121).
 
       - run: npm ci --no-audit --no-fund
 
