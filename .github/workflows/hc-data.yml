@@ -1,11 +1,10 @@
-name: HiringCafe feed — data roles (via Tailscale exit node)
+name: HiringCafe feed — data roles (self-hosted Mac runner)
 
 on:
   schedule:
     # Dialed back 15min->45min on 2026-11-12, same reason/fix as hc.yml --
     # HiringCafe started Cloudflare-challenging every single query, 100%
-    # fail rate for ~2 days, likely cumulative IP-reputation decay on the
-    # shared Tailscale exit node from all 4 workflows routing through it.
+    # fail rate for ~2 days.
     - cron: '6-59/45 * * * *'
   workflow_dispatch: {}
 
@@ -18,16 +17,11 @@ permissions:
 
 jobs:
   scan:
-    # Patchright/Xvfb became unreliable when ubuntu-latest started migrating
-    # to Ubuntu 26 on 2026-10-19. Keep this browser workflow on the known-good
-    # image until Patchright explicitly supports the newer runner.
-    runs-on: ubuntu-24.04
-    # Full HC runs can take 12+ minutes before commit/push; 13 minutes caused
-    # valid scrapes to be cancelled at the job boundary. Bumped 25->30 since
-    # the 25min budget also has to cover checkout/npm ci/patchright+Xvfb
-    # install/Tailscale connect+disconnect/commit-with-3-retries on top of
-    # the scrape itself — the scrape's own worst-case budget (queries x
-    # 60s patchright timeout, see fetch-hiringcafe-feed.mjs) is ~17min alone.
+    # Moved to a self-hosted runner on 2026-11-16 — see hc.yml for the full
+    # rationale (this machine's own residential IP, not the GitHub-hosted
+    # datacenter range or the degraded shared Tailscale exit node). No
+    # Tailscale/Xvfb steps needed: real network path, real display.
+    runs-on: [self-hosted, macOS]
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
@@ -40,38 +34,20 @@ jobs:
 
       - run: npm ci --no-audit --no-fund
 
-      - name: Install patchright + Xvfb
+      - name: Install patchright + Chromium
+        # No Xvfb/--with-deps here — see hc.yml's identical step for why.
         run: |
           pip install patchright
-          # apt/npm mirrors (azure.archive.ubuntu.com etc.) occasionally
-          # have transient DNS/availability blips on GitHub's runners --
-          # retry a few times with backoff instead of failing the whole
-          # job outright. Confirmed live 2026-11-11: "Temporary failure
-          # resolving 'azure.archive.ubuntu.com'" killed 2 consecutive
-          # runs 15 minutes apart.
-          for attempt in 1 2 3 4; do
-            if python3 -m patchright install chromium --with-deps; then
-              break
-            fi
-            echo "patchright install attempt $attempt failed, retrying in $((attempt * 15))s..."
-            sleep $((attempt * 15))
-          done
-          sudo apt-get update -y && sudo apt-get install -y xvfb
+          python3 -m patchright install chromium
 
-      - name: Connect to Tailscale exit node
-        uses: tailscale/github-action@v3
-        with:
-          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
-          args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
-
-      - name: Run HiringCafe feed fetch for data roles (under Xvfb)
+      - name: Run HiringCafe feed fetch for data roles
         id: scrape
         continue-on-error: true
         # --hours 96 decouples local merge retention from the search
         # query's day-window: a sustained outage (like the 2026-11-12
         # Cloudflare-challenge one) shouldn't wipe the feed to zero once
         # retention lapses. See hc.yml for the full rationale.
-        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs --hours 96
+        run: node run-hc.mjs --hours 96
         env:
           HC_PYTHON: python3
           HC_OUT: data/hiringcafe-feed-data.json
@@ -82,6 +58,9 @@ jobs:
           # one would silently race for patchright's SingletonLock the
           # moment the two tracks' schedules (or a manual dispatch) overlap.
           HC_PROFILE: data/hiringcafe-profile-data
+          # Same local-disruption fix hc-local.sh uses — see hc.yml's
+          # identical env var for the full rationale.
+          HC_SINGLE_SESSION: "1"
           # No hardcoded query list — inherits DEFAULT_DATA_QUERIES from
           # lib/data-query.mjs once run-hc.mjs is pointed at it (see
           # fetch-hiringcafe-feed.mjs's HC_QUERIES fallback). Until that
@@ -109,13 +88,6 @@ jobs:
           # around).
           HC_REUSE_FEED_FROM: data/hiringcafe-feed.json
 
-      - name: Disconnect from Tailscale exit node
-        if: always()
-        # GitHub became unreachable through the residential exit node after
-        # long scrapes (DNS: "Could not resolve host: github.com"). Restore the
-        # runner's normal network before git pull/push.
-        run: sudo tailscale down || true
-
       - name: Commit results
         if: steps.scrape.outcome == 'success'
         run: |
@@ -135,3 +107,4 @@ jobs:
       - name: Mark unavailable scan as failed
         if: always() && steps.scrape.outcome == 'failure'
         run: exit 1
+

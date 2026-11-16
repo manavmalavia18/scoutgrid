@@ -1,16 +1,11 @@
-name: HiringCafe feed (via Tailscale exit node)
+name: HiringCafe feed (self-hosted Mac runner)
 
 on:
   schedule:
     # Dialed back 15min->45min on 2026-11-12: HiringCafe started serving a
     # Cloudflare "Just a moment..." managed-challenge page to every single
     # query, 100% fail rate for ~2 days straight (confirmed via
-    # hcTotals/queriesSkipped history). Likely cumulative IP-reputation
-    # decay on the shared Tailscale exit node (100.108.228.9), which also
-    # serves NextPlay/LinkedIn/JobRight — same root cause and same fix
-    # that worked for LinkedIn's near-identical 2026-10-28 soft-block
-    # (30min cadence -> 14h block -> throttled to 2h, cleared). Not
-    # touching NextPlay/JobRight yet; revisit if this alone doesn't help.
+    # hcTotals/queriesSkipped history).
     - cron: '11-59/45 * * * *'
   workflow_dispatch: {}
 
@@ -23,16 +18,15 @@ permissions:
 
 jobs:
   scan:
-    # Patchright/Xvfb became unreliable when ubuntu-latest started migrating
-    # to Ubuntu 26 on 2026-10-19. Keep this browser workflow on the known-good
-    # image until Patchright explicitly supports the newer runner.
-    runs-on: ubuntu-24.04
-    # Full HC runs can take 12+ minutes before commit/push; 13 minutes caused
-    # valid scrapes to be cancelled at the job boundary. Bumped 25->30 since
-    # the 25min budget also has to cover checkout/npm ci/patchright+Xvfb
-    # install/Tailscale connect+disconnect/commit-with-3-retries on top of
-    # the scrape itself — the scrape's own worst-case budget (16 queries x
-    # 60s patchright timeout, see fetch-hiringcafe-feed.mjs) is ~17min alone.
+    # Moved to a self-hosted runner on 2026-11-16: this machine's own
+    # residential IP is what was actually getting through HiringCafe's
+    # Cloudflare block (confirmed via real local hc-local.sh runs), unlike
+    # the GitHub-hosted runner's datacenter IP range (hard 403, every
+    # query, since 2026-11-06) or the shared Tailscale exit node (which
+    # degraded from cumulative reputation decay shared with
+    # NextPlay/LinkedIn/JobRight). No Tailscale/Xvfb steps needed below:
+    # the runner has its own real network path and a real display already.
+    runs-on: [self-hosted, macOS]
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
@@ -45,37 +39,18 @@ jobs:
 
       - run: npm ci --no-audit --no-fund
 
-      # Cloudflare blocks headless Chrome after ~1 page (same reason the
-      # local scraper uses patchright "headed", not headless). GitHub's
-      # Linux runners have no display at all, so a real Xvfb virtual
-      # display is required to make patchright launch in headed mode here.
-      - name: Install patchright + Xvfb
+      - name: Install patchright + Chromium
+        # No Xvfb/--with-deps here — those were Linux-runner-only (no real
+        # display, needed apt packages). This runner has a real macOS
+        # display, and patchright caches the Chromium download under
+        # ~/Library/Caches/ms-playwright (persistent across runs on this
+        # same machine), so after the first run this step is just a
+        # fast no-op version check.
         run: |
           pip install patchright
-          # apt/npm mirrors (azure.archive.ubuntu.com etc.) occasionally
-          # have transient DNS/availability blips on GitHub's runners --
-          # retry a few times with backoff instead of failing the whole
-          # job outright. Confirmed live 2026-11-11: "Temporary failure
-          # resolving 'azure.archive.ubuntu.com'" killed 2 consecutive
-          # runs 15 minutes apart.
-          for attempt in 1 2 3 4; do
-            if python3 -m patchright install chromium --with-deps; then
-              break
-            fi
-            echo "patchright install attempt $attempt failed, retrying in $((attempt * 15))s..."
-            sleep $((attempt * 15))
-          done
-          sudo apt-get update -y && sudo apt-get install -y xvfb
+          python3 -m patchright install chromium
 
-      # Same IP-reputation problem as NextPlay, same fix: route through the
-      # user's home connection via Tailscale exit node. Proven working.
-      - name: Connect to Tailscale exit node
-        uses: tailscale/github-action@v3
-        with:
-          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
-          args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
-
-      - name: Run HiringCafe feed fetch (under Xvfb)
+      - name: Run HiringCafe feed fetch
         id: scrape
         continue-on-error: true
         # --hours 96 (was defaulting to --days*24=48) decouples local merge
@@ -86,7 +61,7 @@ jobs:
         # independently, so this only affects how long a stale-feed outage
         # can run before genuinely-old jobs get dropped, not what looks
         # "fresh" to the user.
-        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs --hours 96
+        run: node run-hc.mjs --hours 96
         env:
           HC_PYTHON: python3
           # Explicit default profile (same value fetch-hiringcafe-feed.mjs
@@ -94,19 +69,21 @@ jobs:
           # alongside hc-data.yml's distinct HC_PROFILE, since the two
           # tracks sharing one would silently race for patchright's
           # SingletonLock the moment their schedules (or a manual dispatch)
-          # overlap.
+          # overlap. This is a workspace-relative path, distinct from
+          # hc-local.sh's ~/.scoutgrid-local profiles, so an interactive
+          # manual hc-local.sh run never races this scheduled CI run either.
           HC_PROFILE: data/hiringcafe-profile
+          # Same local-disruption fix hc-local.sh uses: run every query
+          # through ONE Chrome window instead of relaunching per query.
+          # Was CI-irrelevant under Xvfb (no real screen to disturb), but
+          # now that this runs on the user's own Mac with a real display,
+          # it matters here too — see fetchViaPatchrightBatch()'s docstring
+          # in fetch-hiringcafe-feed.mjs.
+          HC_SINGLE_SESSION: "1"
           # No HC_QUERIES override — inherit DEFAULT_HIRINGCAFE_QUERIES from
           # lib/hiringcafe-query.mjs so broadening the role list in code
           # actually takes effect here instead of being silently pinned to
           # whatever a one-time override says.
-
-      - name: Disconnect from Tailscale exit node
-        if: always()
-        # GitHub became unreachable through the residential exit node after
-        # long scrapes (DNS: "Could not resolve host: github.com"). Restore the
-        # runner's normal network before git pull/push.
-        run: sudo tailscale down || true
 
       - name: Commit results
         if: steps.scrape.outcome == 'success'
