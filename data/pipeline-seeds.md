@@ -2034,4 +2034,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/everai/ca50c750-55c2-465f-8057-270cb8d9f08f | everai | LLM Engineer — Post-Training (Remote - Italy) | Italy · Portugal · Remote | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/codat/90070bd3-c3c8-42fa-86f7-784d27d3b5ce | codat | Software Engineer (Data) | Remote | posted: 2026-11-13
 
+- [ ] https://jobs.lever.co/mcaconnect/2965dbc8-7714-4a33-ab17-33e46151d6e9 | mcaconnect | Power Platform Engineer - CX Services | Remote | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5463919008 | quince | Software Engineering in Test II, (SDET II) | United States | posted: 2026-11-16
+- [ ] https://jobs.lever.co/mcaconnect/c66a1004-ae81-4a84-8eaa-fa2696f413af | mcaconnect | Power Platform Engineer (Managed Services) | Remote | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8131089 | twilio | Software Engineer (L2) | Remote - US | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/pointwild/jobs/5474748008 | pointwild | DevOps Engineer | Remote India | posted: 2026-11-16
+- [ ] https://jobs.lever.co/pditechnologies/f5ed3143-d632-4edb-bbbe-632f66e03274 | pditechnologies | Software Engineer (Mid-level) | Remote US | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006 | cpisecurity | Full Stack Software Engineer | Charlotte, North Carolina, United States | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/joyfulhealth/84051637-e99c-4a62-a21b-3065f590bed1 | joyfulhealth | Software Engineer | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/newlantern/adce896c-3fbe-4345-875d-ead3b48e6cef | newlantern | Infrastructure / Platform Engineer | San Francisco | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4 | posthog | Site Reliability Engineer (US - Pacific time) | Remote (US) | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/f5d91808-1231-4c2e-94a1-1926116afa6b | hadrian-automation | Software Engineer: Cell Orchestration / Machine Interface | Los Angeles, CA | posted: 2026-11-12
+
 ## Processed
