@@ -2329,3 +2329,5 @@
 - [ ] https://job-boards.greenhouse.io/verkada/jobs/5296748007 | verkada | Backend Engineer - Connectivity | San Mateo, CA United States | posted: 2026-11-16
 - [ ] https://jobs.lever.co/pditechnologies/f5ed3143-d632-4edb-bbbe-632f66e03274 | pditechnologies | Software Engineer (Mid-level) | Remote US | posted: 2026-11-16
 - [ ] https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006 | cpisecurity | Full Stack Software Engineer | Charlotte, North Carolina, United States | posted: 2026-11-16
+
+- [ ] https://job-boards.greenhouse.io/pointwild/jobs/5474748008 | pointwild | DevOps Engineer | Remote India | posted: 2026-11-16
