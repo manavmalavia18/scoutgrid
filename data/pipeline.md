@@ -2311,3 +2311,5 @@
 - [ ] https://jobs.ashbyhq.com/openai/9635775d-18fa-47bb-9ede-9a4137618de0 | openai | Partner Applied AI Engineer, AWS | San Francisco · New York City · New York · United States | posted: 2026-11-16
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4508719009 | grvty | Frontend Software Engineer | Laurel, Maryland, United States; San Antonio, Texas, United States | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/codat/90070bd3-c3c8-42fa-86f7-784d27d3b5ce | codat | Software Engineer (Data) | Remote | posted: 2026-11-13
+
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8328672 | beyondtrust | Front-End Engineer, UX/UI | Remote Canada | posted: 2026-11-16
