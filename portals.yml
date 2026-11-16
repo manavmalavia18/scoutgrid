@@ -22353,6 +22353,76 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Checkly"
+    careers_url: https://jobs.ashbyhq.com/checkly
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Deepnote"
+    careers_url: https://jobs.ashbyhq.com/Deepnote
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Enode"
+    careers_url: https://jobs.ashbyhq.com/enode
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lorikeet"
+    careers_url: https://jobs.ashbyhq.com/Lorikeet
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nidus"
+    careers_url: https://jobs.ashbyhq.com/nidus-technologies
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "San Francisco Compute"
+    careers_url: https://jobs.ashbyhq.com/sfcompute
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Ceramic"
+    careers_url: https://job-boards.greenhouse.io/ceramicai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Eudia"
+    careers_url: https://job-boards.greenhouse.io/eudia
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Surf Air"
+    careers_url: https://job-boards.eu.greenhouse.io/surfai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "TollBit"
+    careers_url: https://job-boards.greenhouse.io/tollbit
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Viam"
+    careers_url: https://job-boards.greenhouse.io/viamrobotics
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
