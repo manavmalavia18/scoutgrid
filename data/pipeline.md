@@ -2325,3 +2325,7 @@
 - [ ] https://jobs.ashbyhq.com/joyfulhealth/84051637-e99c-4a62-a21b-3065f590bed1 | joyfulhealth | Software Engineer | New York City | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/newlantern/adce896c-3fbe-4345-875d-ead3b48e6cef | newlantern | Infrastructure / Platform Engineer | San Francisco | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4 | posthog | Site Reliability Engineer (US - Pacific time) | Remote (US) | posted: 2026-11-16
+
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5296748007 | verkada | Backend Engineer - Connectivity | San Mateo, CA United States | posted: 2026-11-16
+- [ ] https://jobs.lever.co/pditechnologies/f5ed3143-d632-4edb-bbbe-632f66e03274 | pditechnologies | Software Engineer (Mid-level) | Remote US | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006 | cpisecurity | Full Stack Software Engineer | Charlotte, North Carolina, United States | posted: 2026-11-16
