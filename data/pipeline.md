@@ -2273,3 +2273,6 @@
 - [ ] https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245 | netic | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-15
 
 - [ ] https://jobs.ashbyhq.com/netic/2ae2cae2-03cb-4bc7-986a-a93de10f46df | netic | Software Engineer, Product | San Francisco | posted: 2026-11-15
+
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8319442 | twilio | Software Engineer (L1) | Remote - India | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab | first-resonance | DevOps Engineer | Los Angeles | posted: 2026-11-16
