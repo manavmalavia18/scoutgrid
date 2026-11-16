@@ -2319,3 +2319,5 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5296197007?gh_jid=5296197007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-11-16
 
 - [ ] https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931 | robinhood | Software Engineer, Backend - Government Products | Menlo Park, CA; New York, NY | posted: 2026-11-16
+
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/f5d91808-1231-4c2e-94a1-1926116afa6b | hadrian-automation | Software Engineer: Cell Orchestration / Machine Interface | Los Angeles, CA | posted: 2026-11-12
