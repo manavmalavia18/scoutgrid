@@ -22438,6 +22438,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "AIR Communities"
+    careers_url: https://job-boards.greenhouse.io/air
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 31 live jobs confirmed)
+  - name: "Bloom Energy"
+    careers_url: https://jobs.lever.co/bloom
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 6 live jobs confirmed)
+  - name: "Oliver James"
+    careers_url: https://job-boards.greenhouse.io/oliver
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 34 live jobs confirmed)
+  - name: "Skydance"
+    careers_url: https://jobs.lever.co/skydance
+    provider: lever
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 6 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
