@@ -2338,3 +2338,5 @@
 
 - [ ] https://jobs.lever.co/mcaconnect/2965dbc8-7714-4a33-ab17-33e46151d6e9 | mcaconnect | Power Platform Engineer - CX Services | Remote | posted: 2026-11-16
 - [ ] https://job-boards.greenhouse.io/quince/jobs/5463919008 | quince | Software Engineering in Test II, (SDET II) | United States | posted: 2026-11-16
+
+- [ ] https://jobs.lever.co/redwoodcu/5d219c24-443e-4979-ab73-5198a42bf228 | redwoodcu | Application Developer (Programmer II) | Napa, California | posted: 2026-11-16
