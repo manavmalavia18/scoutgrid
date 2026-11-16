@@ -2335,3 +2335,6 @@
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8131089 | twilio | Software Engineer (L2) | Remote - US | posted: 2026-11-16
 
 - [ ] https://jobs.lever.co/mcaconnect/c66a1004-ae81-4a84-8eaa-fa2696f413af | mcaconnect | Power Platform Engineer (Managed Services) | Remote | posted: 2026-11-16
+
+- [ ] https://jobs.lever.co/mcaconnect/2965dbc8-7714-4a33-ab17-33e46151d6e9 | mcaconnect | Power Platform Engineer - CX Services | Remote | posted: 2026-11-16
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5463919008 | quince | Software Engineering in Test II, (SDET II) | United States | posted: 2026-11-16
