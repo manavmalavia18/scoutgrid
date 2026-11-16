@@ -2302,3 +2302,6 @@
 - [ ] https://job-boards.greenhouse.io/heartflowinc/jobs/6262467004 | heartflowinc | Software Engineer – Frontend | San Francisco, California | posted: 2026-11-16
 
 - [ ] https://jobs.lever.co/bounteous/e042c299-852a-4277-a355-cdb15cd2f190 | bounteous | Contact Center Platform Engineer | United States | posted: 2026-11-16
+
+- [ ] https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d | starbridge | Software Engineer, Federal | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/AeroVect/9aa029df-2e64-42a4-8822-a7d0bb766c10 | aerovect | Software Engineer, Simulation | Remote | posted: 2026-11-16
