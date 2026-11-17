@@ -2365,3 +2365,6 @@
 - [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5039982101 | twinstream | Java Software Engineer | Remote · Remote | posted: 2026-11-17
 
 - [ ] https://jobs.ashbyhq.com/january/b59cf668-da08-40ae-818c-99cbc810d13f | january | Software Engineer | New York City | posted: 2026-11-17
+
+- [ ] https://www.enterprisedb.com/careers/job-openings?gh_jid=8202744003 | edb | Platform Engineer-Kubernetes Operators | Remote - United States | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/nflcareers/jobs/5477320008 | nflcareers | Application Developer | New York, New York, United States | posted: 2026-11-17
