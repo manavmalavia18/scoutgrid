@@ -2382,3 +2382,7 @@
 - [ ] https://jobs.ashbyhq.com/column/8ad3cf7b-7ea3-47f6-86c4-c83a9d78ff50 | column | Software Engineer | San Francisco, CA | posted: 2026-11-17
 
 - [ ] https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204 | akunacapital | Software Engineer - Python, Post Trade | Chicago, IL | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407 | benchling | Software Engineer, Big Data Infrastructure | San Francisco, CA | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862 | benchling | Software Engineer, CDC | San Francisco, CA | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5 | benchling | Software Engineer, CDC | San Francisco, CA | posted: 2026-11-17
