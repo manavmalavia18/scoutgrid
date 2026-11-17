@@ -2386,3 +2386,9 @@
 - [ ] https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407 | benchling | Software Engineer, Big Data Infrastructure | San Francisco, CA | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862 | benchling | Software Engineer, CDC | San Francisco, CA | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5 | benchling | Software Engineer, CDC | San Francisco, CA | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/retell-ai/1b10f02d-d474-4a67-85f4-8697a39a4e38 | retell-ai | Applied AI Engineer (Customer Facing), Spanish speaking | San Francisco Bay Area | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/e2b/98c4b5ca-05c0-4456-9b86-78fa4922d448 | e2b | Software Engineer, Systems | San Francisco | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/e2b/b183352f-bfbb-42fa-9e8f-a03f42162b74 | e2b | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/e2b/13bf49f5-f2e8-459b-baa4-d8f844e1f9f5 | e2b | Site Reliability Engineer - Platform | San Francisco | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8202793003 | pokemoncareers | Software Development Engineer | Bellevue, Washington, United States | posted: 2026-11-17
