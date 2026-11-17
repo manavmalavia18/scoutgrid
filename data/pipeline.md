@@ -2380,3 +2380,5 @@
 - [ ] https://www.8am.com/openings/?gh_jid=4730277006 | affinipay1 | Full-Stack Software Engineer (shell) | Remote - Colombia | posted: 2026-11-17
 
 - [ ] https://jobs.ashbyhq.com/column/8ad3cf7b-7ea3-47f6-86c4-c83a9d78ff50 | column | Software Engineer | San Francisco, CA | posted: 2026-11-17
+
+- [ ] https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204 | akunacapital | Software Engineer - Python, Post Trade | Chicago, IL | posted: 2026-11-17
