@@ -2063,4 +2063,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5039982101 | twinstream | Java Software Engineer | Remote · Remote | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8 | standinsurance | Applied Science Platform Engineer | San Francisco | posted: 2026-11-17
 
+- [ ] https://www.8am.com/openings/?gh_jid=4730277006 | affinipay1 | Full-Stack Software Engineer (shell) | Remote - Colombia | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0 | ramp | Software Engineer, Backend, AI Ventures | New York, NY (HQ) | posted: 2026-11-17
+- [ ] https://careers.roblox.com/jobs/8386848?gh_jid=8386848 | roblox | Software Engineer, Communication Safety | San Mateo, CA, United States | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/minitab/jobs/8203700003 | minitab | Software Engineer | State College, Pennsylvania, United States | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60 | openai | Software Engineer, Presence | San Francisco | posted: 2026-11-17
+- [ ] https://www.enterprisedb.com/careers/job-openings?gh_jid=8202744003 | edb | Platform Engineer-Kubernetes Operators | Remote - United States | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/nflcareers/jobs/5477320008 | nflcareers | Application Developer | New York, New York, United States | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/january/b59cf668-da08-40ae-818c-99cbc810d13f | january | Software Engineer | New York City | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/goanagram/d68471de-e156-4b86-ace2-ab3e72d8bff1 | goanagram | Backend Engineer | Belgrade · Portugal · Hungary · Georgia · Montenegro · Spain · Cyprus · Remote | posted: 2026-11-12
+
 ## Processed
