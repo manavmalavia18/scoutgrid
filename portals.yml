@@ -22798,6 +22798,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Imply"
+    careers_url: https://job-boards.greenhouse.io/imply
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 5 live jobs confirmed)
+  - name: "Okta"
+    careers_url: https://job-boards.greenhouse.io/okta
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 358 live jobs confirmed)
+  - name: "PathAI"
+    careers_url: https://job-boards.greenhouse.io/pathai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 15 live jobs confirmed)
+  - name: "Shield"
+    careers_url: https://job-boards.greenhouse.io/shield
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 1 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
