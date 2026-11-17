@@ -2353,3 +2353,5 @@
 - [ ] https://www.nexhealth.com/careers/open-positions?gh_jid=6261765004 | nexhealth | Software Engineer - API | United States | posted: 2026-11-17
 - [ ] https://job-boards.greenhouse.io/energysolutions/jobs/5274064007 | energysolutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | posted: 2026-11-17
 - [ ] https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002 | relativity | Flight Software Engineer II | Long Beach, California, United States | posted: 2026-11-16
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484171008 | anthropic | Software Engineer, Datacenter Server Lifecycle | Remote-Friendly, United States | posted: 2026-11-17
