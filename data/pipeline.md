@@ -2372,3 +2372,5 @@
 - [ ] https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60 | openai | Software Engineer, Presence | San Francisco | posted: 2026-11-17
 
 - [ ] https://job-boards.greenhouse.io/minitab/jobs/8203700003 | minitab | Software Engineer | State College, Pennsylvania, United States | posted: 2026-11-17
+
+- [ ] https://careers.roblox.com/jobs/8386848?gh_jid=8386848 | roblox | Software Engineer, Communication Safety | San Mateo, CA, United States | posted: 2026-11-17
