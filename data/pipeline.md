@@ -2376,3 +2376,5 @@
 - [ ] https://careers.roblox.com/jobs/8386848?gh_jid=8386848 | roblox | Software Engineer, Communication Safety | San Mateo, CA, United States | posted: 2026-11-17
 
 - [ ] https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0 | ramp | Software Engineer, Backend, AI Ventures | New York, NY (HQ) | posted: 2026-11-17
+
+- [ ] https://www.8am.com/openings/?gh_jid=4730277006 | affinipay1 | Full-Stack Software Engineer (shell) | Remote - Colombia | posted: 2026-11-17
