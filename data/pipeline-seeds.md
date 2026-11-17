@@ -2046,4 +2046,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4 | posthog | Site Reliability Engineer (US - Pacific time) | Remote (US) | posted: 2026-11-16
 - [ ] https://jobs.ashbyhq.com/hadrian-automation/f5d91808-1231-4c2e-94a1-1926116afa6b | hadrian-automation | Software Engineer: Cell Orchestration / Machine Interface | Los Angeles, CA | posted: 2026-11-12
 
+- [ ] https://jobs.ashbyhq.com/ambrook/4e463062-c104-4349-b7c4-14825f3cc44b | ambrook | Software Engineer, Product | New York · Denver · United States · Remote · San Francisco | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/Pear-VC/7c4a3589-5626-4707-a77d-c9932bbdb306 | pear-vc | Flight Software Engineer | Los Angeles | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484171008 | anthropic | Software Engineer, Datacenter Server Lifecycle | Remote-Friendly, United States | posted: 2026-11-17
+- [ ] https://www.nexhealth.com/careers/open-positions?gh_jid=6261765004 | nexhealth | Software Engineer - API | United States | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/energysolutions/jobs/5274064007 | energysolutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | posted: 2026-11-17
+- [ ] https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002 | relativity | Flight Software Engineer II | Long Beach, California, United States | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/mercor/4d817fa9-8860-4063-9da7-f484569ed1dc | mercor | Software Engineer, Fraud | San Francisco or NYC | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/imprint/0e6955fb-133f-4d72-a53d-f926e99b531e | imprint | Software Engineer, Backend | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/mercor/b0f12b3f-91ae-4b9e-ad0b-ed0299f80554 | mercor | Software Engineer, Enterprise Applied AI | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702 | mercor | Software Engineer, Frontier Data Products | New York City | posted: 2026-11-16
+- [ ] https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134 | mercor | Software Engineer, Agents | New York City | posted: 2026-11-16
+- [ ] https://jobs.lever.co/redwoodcu/5d219c24-443e-4979-ab73-5198a42bf228 | redwoodcu | Application Developer (Programmer II) | Napa, California | posted: 2026-11-16
+
 ## Processed
