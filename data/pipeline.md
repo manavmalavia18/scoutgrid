@@ -2368,3 +2368,5 @@
 
 - [ ] https://www.enterprisedb.com/careers/job-openings?gh_jid=8202744003 | edb | Platform Engineer-Kubernetes Operators | Remote - United States | posted: 2026-11-17
 - [ ] https://job-boards.greenhouse.io/nflcareers/jobs/5477320008 | nflcareers | Application Developer | New York, New York, United States | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60 | openai | Software Engineer, Presence | San Francisco | posted: 2026-11-17
