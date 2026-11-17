@@ -2357,3 +2357,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484171008 | anthropic | Software Engineer, Datacenter Server Lifecycle | Remote-Friendly, United States | posted: 2026-11-17
 
 - [ ] https://jobs.ashbyhq.com/Pear-VC/7c4a3589-5626-4707-a77d-c9932bbdb306 | pear-vc | Flight Software Engineer | Los Angeles | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8 | standinsurance | Applied Science Platform Engineer | San Francisco | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/ambrook/4e463062-c104-4349-b7c4-14825f3cc44b | ambrook | Software Engineer, Product | New York · Denver · United States · Remote · San Francisco | posted: 2026-11-17
