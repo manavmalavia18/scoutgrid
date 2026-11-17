@@ -2396,3 +2396,5 @@
 - [ ] https://careers.toasttab.com/jobs?gh_jid=8386144 | toast | Software Engineer II, Support AI | Remote, US | posted: 2026-11-17
 
 - [ ] https://job-boards.greenhouse.io/agilesix/jobs/8207402003 | agilesix | Fullstack Engineer | Washington, District of Columbia, United States | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04 | openai | Full Stack Software Engineer, Dots for Companies | San Francisco | posted: 2026-11-17
