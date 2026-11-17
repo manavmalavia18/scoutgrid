@@ -2073,4 +2073,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/january/b59cf668-da08-40ae-818c-99cbc810d13f | january | Software Engineer | New York City | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/goanagram/d68471de-e156-4b86-ace2-ab3e72d8bff1 | goanagram | Backend Engineer | Belgrade · Portugal · Hungary · Georgia · Montenegro · Spain · Cyprus · Remote | posted: 2026-11-12
 
+- [ ] https://job-boards.greenhouse.io/agilesix/jobs/8207402003 | agilesix | Fullstack Engineer | Washington, District of Columbia, United States | posted: 2026-11-17
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8386144 | toast | Software Engineer II, Support AI | Remote, US | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/retell-ai/1b10f02d-d474-4a67-85f4-8697a39a4e38 | retell-ai | Applied AI Engineer (Customer Facing), Spanish speaking | San Francisco Bay Area | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/e2b/98c4b5ca-05c0-4456-9b86-78fa4922d448 | e2b | Software Engineer, Systems | San Francisco | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/e2b/b183352f-bfbb-42fa-9e8f-a03f42162b74 | e2b | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/e2b/13bf49f5-f2e8-459b-baa4-d8f844e1f9f5 | e2b | Site Reliability Engineer - Platform | San Francisco | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8202793003 | pokemoncareers | Software Development Engineer | Bellevue, Washington, United States | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407 | benchling | Software Engineer, Big Data Infrastructure | San Francisco, CA | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862 | benchling | Software Engineer, CDC | San Francisco, CA | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5 | benchling | Software Engineer, CDC | San Francisco, CA | posted: 2026-11-17
+- [ ] https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204 | akunacapital | Software Engineer - Python, Post Trade | Chicago, IL | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/column/8ad3cf7b-7ea3-47f6-86c4-c83a9d78ff50 | column | Software Engineer | San Francisco, CA | posted: 2026-11-17
+
 ## Processed
