@@ -2363,3 +2363,5 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8940898002 | gitlab | Backend Engineer (Ruby), AI Engineering: AI Catalog | Remote, United Kingdom | posted: 2026-11-17
 - [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5039982101 | twinstream | Java Software Engineer | Remote · Remote | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/january/b59cf668-da08-40ae-818c-99cbc810d13f | january | Software Engineer | New York City | posted: 2026-11-17
