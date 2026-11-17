@@ -2059,4 +2059,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134 | mercor | Software Engineer, Agents | New York City | posted: 2026-11-16
 - [ ] https://jobs.lever.co/redwoodcu/5d219c24-443e-4979-ab73-5198a42bf228 | redwoodcu | Application Developer (Programmer II) | Napa, California | posted: 2026-11-16
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8940898002 | gitlab | Backend Engineer (Ruby), AI Engineering: AI Catalog | Remote, United Kingdom | posted: 2026-11-17
+- [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5039982101 | twinstream | Java Software Engineer | Remote · Remote | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8 | standinsurance | Applied Science Platform Engineer | San Francisco | posted: 2026-11-17
+
 ## Processed
