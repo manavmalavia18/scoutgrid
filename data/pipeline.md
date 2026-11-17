@@ -2392,3 +2392,5 @@
 - [ ] https://jobs.ashbyhq.com/e2b/b183352f-bfbb-42fa-9e8f-a03f42162b74 | e2b | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/e2b/13bf49f5-f2e8-459b-baa4-d8f844e1f9f5 | e2b | Site Reliability Engineer - Platform | San Francisco | posted: 2026-11-17
 - [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8202793003 | pokemoncareers | Software Development Engineer | Bellevue, Washington, United States | posted: 2026-11-17
+
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8386144 | toast | Software Engineer II, Support AI | Remote, US | posted: 2026-11-17
