@@ -2401,3 +2401,5 @@
 
 - [ ] https://jobs.ashbyhq.com/fieldguide/eb8b637c-d9cd-4b98-99e4-ea5113701473 | fieldguide | Software Engineer, Production Support | Remote (USA) | posted: 2026-11-17
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8207671003 | affirm | Software Engineer II, Backend | Remote Canada | posted: 2026-11-17
+
+- [ ] https://careers.airbnb.com/positions/8397762?gh_jid=8397762 | airbnb | Software Engineer, DevAI | United States | posted: 2026-11-17
