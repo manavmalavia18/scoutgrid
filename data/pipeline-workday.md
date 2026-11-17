@@ -1509,4 +1509,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1 | viavisolutions | Software Engineering Co-op | Germantown, MD USA | posted: 2026-11-16
 
+- [ ] https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Software-Engineer_423698 | argonne | Software Engineer | Lemont, IL USA | posted: 2026-11-16
+
 ## Processed
