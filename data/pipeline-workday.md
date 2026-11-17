@@ -1511,4 +1511,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://argonne.wd1.myworkdayjobs.com/argonne_careers/job/Lemont-IL-USA/Software-Engineer_423698 | argonne | Software Engineer | Lemont, IL USA | posted: 2026-11-16
 
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Golang-Software-Engineer-II_R0018480 | astreya | Golang Software Engineer II | Remote, India | posted: 2026-11-17
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Golang-Software-Engineer-II_R0018490 | astreya | Golang Software Engineer II | Remote, India | posted: 2026-11-17
+
 ## Processed
