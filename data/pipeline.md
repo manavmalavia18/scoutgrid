@@ -2360,3 +2360,6 @@
 
 - [ ] https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8 | standinsurance | Applied Science Platform Engineer | San Francisco | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/ambrook/4e463062-c104-4349-b7c4-14825f3cc44b | ambrook | Software Engineer, Product | New York · Denver · United States · Remote · San Francisco | posted: 2026-11-17
+
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8940898002 | gitlab | Backend Engineer (Ruby), AI Engineering: AI Catalog | Remote, United Kingdom | posted: 2026-11-17
+- [ ] https://job-boards.eu.greenhouse.io/twinstream/jobs/5039982101 | twinstream | Java Software Engineer | Remote · Remote | posted: 2026-11-17
