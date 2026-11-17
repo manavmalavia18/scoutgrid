@@ -2349,3 +2349,7 @@
 - [ ] https://jobs.ashbyhq.com/imprint/0e6955fb-133f-4d72-a53d-f926e99b531e | imprint | Software Engineer, Backend | New York City | posted: 2026-11-16
 
 - [ ] https://jobs.ashbyhq.com/mercor/4d817fa9-8860-4063-9da7-f484569ed1dc | mercor | Software Engineer, Fraud | San Francisco or NYC | posted: 2026-11-16
+
+- [ ] https://www.nexhealth.com/careers/open-positions?gh_jid=6261765004 | nexhealth | Software Engineer - API | United States | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/energysolutions/jobs/5274064007 | energysolutions | Software Engineer II (Hybrid - US) | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States | posted: 2026-11-17
+- [ ] https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002 | relativity | Flight Software Engineer II | Long Beach, California, United States | posted: 2026-11-16
