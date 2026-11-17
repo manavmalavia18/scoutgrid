@@ -2355,3 +2355,5 @@
 - [ ] https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002 | relativity | Flight Software Engineer II | Long Beach, California, United States | posted: 2026-11-16
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484171008 | anthropic | Software Engineer, Datacenter Server Lifecycle | Remote-Friendly, United States | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/Pear-VC/7c4a3589-5626-4707-a77d-c9932bbdb306 | pear-vc | Flight Software Engineer | Los Angeles | posted: 2026-11-17
