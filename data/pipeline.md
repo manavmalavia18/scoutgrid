@@ -2440,3 +2440,5 @@
 - [ ] https://jobs.dropbox.com/listing/8394046?gh_jid=8394046 | dropbox | Infrastructure Software Engineer, Orchestration | Remote - Poland | posted: 2026-11-18
 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6264524004 | vercel | Software Engineer, Vercel Agent | Hybrid - New York City | posted: 2026-11-18
+
+- [ ] https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0 | openai | Software Engineer, Agent Identity | San Francisco · Mountain View · United States | posted: 2026-11-18
