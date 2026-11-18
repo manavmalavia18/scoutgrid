@@ -1514,4 +1514,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Golang-Software-Engineer-II_R0018480 | astreya | Golang Software Engineer II | Remote, India | posted: 2026-11-17
 - [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Golang-Software-Engineer-II_R0018490 | astreya | Golang Software Engineer II | Remote, India | posted: 2026-11-17
 
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4--Agentic-Orchestration_R1002667 | capitalone | Full-stack Engineer 4, Agentic Orchestration | 3 Locations | posted: 2026-11-18
+
 ## Processed
