@@ -1,17 +1,22 @@
 {
-  "fetchedAt": "2026-11-18T14:04:13.823Z",
+  "fetchedAt": "2026-11-18T14:25:59.465Z",
   "days": 2,
   "leadCount": 90,
-  "jobCount": 74,
+  "jobCount": 50,
   "boards": [
-    {
-      "key": "greenhouse:taketwo",
-      "fetched": 31,
-      "kept": 0
-    },
     {
       "key": "greenhouse:fieldwire",
       "fetched": 22,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:stepstone",
+      "fetched": 62,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:taketwo",
+      "fetched": 31,
       "kept": 0
     },
     {
@@ -25,12 +30,17 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stepstone",
-      "fetched": 62,
+      "key": "greenhouse:applovin",
+      "fetched": 43,
       "kept": 0
     },
     {
       "key": "greenhouse:careers",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:en-us",
       "fetched": 0,
       "kept": 0
     },
@@ -40,13 +50,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 43,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:en-us",
-      "fetched": 0,
+      "key": "greenhouse:knack-direct-applicants",
+      "fetched": 1,
       "kept": 0
     },
     {
@@ -55,9 +60,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:knack-direct-applicants",
-      "fetched": 1,
-      "kept": 0
+      "key": "greenhouse:affirm",
+      "fetched": 225,
+      "kept": 2
     },
     {
       "key": "greenhouse:climatecabinet",
@@ -65,28 +70,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:pathrobotics",
+      "fetched": 64,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:scowtt",
       "fetched": 5,
       "kept": 0
     },
     {
-      "key": "greenhouse:twitch",
-      "fetched": 52,
+      "key": "greenhouse:clever",
+      "fetched": 8,
       "kept": 1
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 225,
-      "kept": 2
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 302,
-      "kept": 4
-    },
-    {
-      "key": "greenhouse:clever",
-      "fetched": 8,
+      "key": "greenhouse:twitch",
+      "fetched": 52,
       "kept": 1
     },
     {
@@ -95,13 +95,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:louisiana",
-      "fetched": 0,
-      "kept": 0
+      "key": "greenhouse:xai",
+      "fetched": 302,
+      "kept": 4
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 231,
+      "key": "greenhouse:louisiana",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -110,9 +110,9 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:airbnb",
-      "fetched": 199,
-      "kept": 2
+      "key": "greenhouse:cognite",
+      "fetched": 66,
+      "kept": 0
     },
     {
       "key": "greenhouse:sc",
@@ -120,13 +120,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:cognite",
-      "fetched": 66,
-      "kept": 0
+      "key": "greenhouse:airbnb",
+      "fetched": 199,
+      "kept": 2
     },
     {
       "key": "greenhouse:washington",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 230,
       "kept": 0
     },
     {
@@ -135,14 +140,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:backblaze",
-      "fetched": 34,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:pokemoncareers",
       "fetched": 28,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:backblaze",
+      "fetched": 34,
+      "kept": 0
     },
     {
       "key": "greenhouse:illumiallc",
@@ -150,8 +155,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:tegnainc",
+      "fetched": 296,
+      "kept": 4
+    },
+    {
       "key": "greenhouse:alaska",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 416,
       "kept": 0
     },
     {
@@ -165,34 +180,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:heartflowinc",
-      "fetched": 63,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:darkwolfsolutions",
       "fetched": 46,
       "kept": 0
     },
     {
-      "key": "greenhouse:bugcrowd",
-      "fetched": 13,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:relativity",
-      "fetched": 400,
-      "kept": 2
-    },
-    {
-      "key": "greenhouse:tegnainc",
-      "fetched": 295,
-      "kept": 6
-    },
-    {
-      "key": "greenhouse:cssmerge",
-      "fetched": 350,
-      "kept": 0
+      "key": "greenhouse:heartflowinc",
+      "fetched": 63,
+      "kept": 1
     },
     {
       "key": "ashby:evenup",
@@ -205,23 +200,18 @@
       "kept": 6
     },
     {
-      "key": "ashby:harmonic",
-      "fetched": 9,
-      "kept": 0
-    },
-    {
       "key": "ashby:hockeystack",
       "fetched": 3,
       "kept": 0
     },
     {
-      "key": "ashby:baseten",
-      "fetched": 103,
+      "key": "ashby:reducto",
+      "fetched": 39,
       "kept": 0
     },
     {
-      "key": "ashby:reducto",
-      "fetched": 39,
+      "key": "ashby:harmonic",
+      "fetched": 9,
       "kept": 0
     },
     {
@@ -235,8 +225,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:usekernel",
-      "fetched": 13,
+      "key": "ashby:baseten",
+      "fetched": 103,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:cssmerge",
+      "fetched": 350,
+      "kept": 0
+    },
+    {
+      "key": "ashby:injective",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -250,13 +250,23 @@
       "kept": 8
     },
     {
+      "key": "ashby:prior-labs",
+      "fetched": 23,
+      "kept": 1
+    },
+    {
+      "key": "ashby:usekernel",
+      "fetched": 13,
+      "kept": 0
+    },
+    {
       "key": "ashby:beaconai",
       "fetched": 17,
       "kept": 0
     },
     {
       "key": "ashby:gravie",
-      "fetched": 26,
+      "fetched": 27,
       "kept": 3
     },
     {
@@ -265,14 +275,24 @@
       "kept": 0
     },
     {
+      "key": "ashby:bracket-bot",
+      "fetched": 14,
+      "kept": 0
+    },
+    {
       "key": "ashby:radiant-industries",
       "fetched": 116,
       "kept": 1
     },
     {
-      "key": "ashby:bracket-bot",
-      "fetched": 14,
-      "kept": 0
+      "key": "greenhouse:relativity",
+      "fetched": 400,
+      "kept": 2
+    },
+    {
+      "key": "ashby:helicon",
+      "fetched": 8,
+      "kept": 1
     },
     {
       "key": "ashby:perimetercompute",
@@ -282,16 +302,6 @@
     {
       "key": "ashby:solcoa",
       "fetched": 28,
-      "kept": 0
-    },
-    {
-      "key": "ashby:helicon",
-      "fetched": 8,
-      "kept": 1
-    },
-    {
-      "key": "ashby:impact-networking",
-      "fetched": 43,
       "kept": 0
     },
     {
@@ -305,23 +315,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:arcfront",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
-      "key": "ashby:benchling",
-      "fetched": 59,
-      "kept": 3
-    },
-    {
       "key": "ashby:deaa6ad2-d184-436b-b69e-17f761da1d94",
       "fetched": 95,
       "kept": 1
     },
     {
-      "key": "lever:gurobioptimization",
-      "fetched": 9,
+      "key": "ashby:impact-networking",
+      "fetched": 43,
       "kept": 0
     },
     {
@@ -331,12 +331,7 @@
     },
     {
       "key": "greenhouse:spacex",
-      "fetched": 2791,
-      "kept": 21
-    },
-    {
-      "key": "lever:zoox",
-      "fetched": 242,
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -347,11 +342,6 @@
     {
       "key": "lever:exowatt",
       "fetched": 16,
-      "kept": 0
-    },
-    {
-      "key": "lever:brindleyengineering",
-      "fetched": 38,
       "kept": 0
     },
     {
@@ -370,13 +360,43 @@
       "kept": 0
     },
     {
-      "key": "lever:esper",
-      "fetched": 8,
+      "key": "lever:brindleyengineering",
+      "fetched": 38,
       "kept": 0
     },
     {
       "key": "lever:networkconnex",
       "fetched": 75,
+      "kept": 0
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 242,
+      "kept": 0
+    },
+    {
+      "key": "lever:pditechnologies",
+      "fetched": 26,
+      "kept": 1
+    },
+    {
+      "key": "lever:cirrus",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "lever:woodardcurran",
+      "fetched": 60,
+      "kept": 0
+    },
+    {
+      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "lever:roshalimaging",
+      "fetched": 121,
       "kept": 0
     },
     {
@@ -390,43 +410,18 @@
       "kept": 0
     },
     {
-      "key": "lever:cirrus",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "lever:pditechnologies",
-      "fetched": 26,
-      "kept": 1
-    },
-    {
-      "key": "workday:accenture.wd103.myworkdayjobs.com/avanadecareers",
+      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:woodardcurran",
-      "fetched": 60,
+      "key": "lever:gurobioptimization",
+      "fetched": 9,
       "kept": 0
     },
     {
-      "key": "lever:roshalimaging",
-      "fetched": 121,
-      "kept": 0
-    },
-    {
-      "key": "workday:smithfieldfoods.wd1.myworkdayjobs.com/careers",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "workday:amat.wd1.myworkdayjobs.com/external",
-      "fetched": 0,
+      "key": "lever:esper",
+      "fetched": 8,
       "kept": 0
     },
     {
@@ -435,8 +430,8 @@
       "kept": 0
     },
     {
-      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
-      "fetched": 0,
+      "key": "workday:amat.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -445,27 +440,22 @@
       "kept": 0
     },
     {
-      "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
+      "key": "workday:relx.wd3.myworkdayjobs.com/elsevierjobs",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 416,
+      "key": "workday:mtb.wd5.myworkdayjobs.com/mtb",
+      "fetched": 80,
+      "kept": 0
+    },
+    {
+      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
+      "fetched": 40,
       "kept": 0
     }
   ],
   "jobs": [
-    {
-      "title": "Software Engineer I, Commerce",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002",
-      "company": "Twitch Interactive",
-      "location": "Seattle, WA",
-      "postedAt": "2026-11-18T00:30:12.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "twitch"
-    },
     {
       "title": "Senior Software Engineer, Backend (Continuous Delivery)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181191003",
@@ -485,6 +475,46 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "affirm"
+    },
+    {
+      "title": "Machine Learning Engineer, Robotics",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002",
+      "company": "Path Robotics",
+      "location": "Columbus, Ohio or Remote",
+      "postedAt": "2026-11-18T13:43:38.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "pathrobotics"
+    },
+    {
+      "title": "Software Engineer, Admin Dashboard ",
+      "url": "https://www.clever.com/about/careers?gh_jid=8392881",
+      "company": "Clever",
+      "location": "San Francisco, CA, OR Anywhere in the Continental U.S.",
+      "postedAt": "2026-11-18T00:09:34.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "clever"
+    },
+    {
+      "title": "Software Engineer I, Commerce",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002",
+      "company": "Twitch Interactive",
+      "location": "Seattle, WA",
+      "postedAt": "2026-11-18T00:30:12.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "twitch"
+    },
+    {
+      "title": "Site Reliability Engineer II  ",
+      "url": "https://job-boards.greenhouse.io/axs/jobs/8949372002",
+      "company": "AXS",
+      "location": "Los Angeles, CA",
+      "postedAt": "2026-11-18T00:02:16.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "axs"
     },
     {
       "title": "Sr. Software Engineer, Safety",
@@ -527,26 +557,6 @@
       "board": "xai"
     },
     {
-      "title": "Software Engineer, Admin Dashboard ",
-      "url": "https://www.clever.com/about/careers?gh_jid=8392881",
-      "company": "Clever",
-      "location": "San Francisco, CA, OR Anywhere in the Continental U.S.",
-      "postedAt": "2026-11-18T00:09:34.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "clever"
-    },
-    {
-      "title": "Site Reliability Engineer II  ",
-      "url": "https://job-boards.greenhouse.io/axs/jobs/8949372002",
-      "company": "AXS",
-      "location": "Los Angeles, CA",
-      "postedAt": "2026-11-18T00:02:16.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "axs"
-    },
-    {
       "title": "Site Reliability Engineer II  - AXS",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002",
       "company": "AEG",
@@ -585,56 +595,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "pokemoncareers"
-    },
-    {
-      "title": "Senior Software Engineer, Data Platform",
-      "url": "https://sofi.com/careers/job/8207529003?gh_jid=8207529003",
-      "company": "SoFi",
-      "location": "Seattle, Washington or Salt Lake City, Utah",
-      "postedAt": "2026-11-17T20:18:19.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "sofi"
-    },
-    {
-      "title": "Software Engineer - Python, Post Trade",
-      "url": "https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204",
-      "company": "Akuna Capital",
-      "location": "Chicago, IL",
-      "postedAt": "2026-11-17T19:00:10.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "akunacapital"
-    },
-    {
-      "title": "Software Engineer – Frontend",
-      "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6262467004",
-      "company": "Heartflow",
-      "location": "San Francisco, California",
-      "postedAt": "2026-11-16T15:43:32.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "heartflowinc"
-    },
-    {
-      "title": "Software Engineer I (Factory Platform)",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
-      "company": "Relativity Space",
-      "location": "Long Beach, California, United States",
-      "postedAt": "2026-11-17T23:22:33.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "relativity"
-    },
-    {
-      "title": "Flight Software Engineer II",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002",
-      "company": "Relativity Space",
-      "location": "Long Beach, California, United States",
-      "postedAt": "2026-11-16T23:50:32.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "relativity"
     },
     {
       "title": "Sr Software Engineer, Fire TV",
@@ -677,24 +637,34 @@
       "board": "tegnainc"
     },
     {
-      "title": "Senior Fullstack Developer ",
-      "url": "https://boards.greenhouse.io/tegnainc/jobs/5293671007?gh_jid=5293671007",
-      "company": "TEGNA",
-      "location": "Remote - United States",
-      "postedAt": "2026-11-16T14:14:16.000Z",
+      "title": "Senior Software Engineer, Data Platform",
+      "url": "https://sofi.com/careers/job/8207529003?gh_jid=8207529003",
+      "company": "SoFi",
+      "location": "Seattle, Washington or Salt Lake City, Utah",
+      "postedAt": "2026-11-17T20:18:19.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "tegnainc"
+      "board": "sofi"
     },
     {
-      "title": "FullStack Engineer (UI/UX)",
-      "url": "https://boards.greenhouse.io/tegnainc/jobs/5292004007?gh_jid=5292004007",
-      "company": "TEGNA",
-      "location": "Tysons, Virginia, United States",
-      "postedAt": "2026-11-16T14:07:06.000Z",
+      "title": "Software Engineer - Python, Post Trade",
+      "url": "https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204",
+      "company": "Akuna Capital",
+      "location": "Chicago, IL",
+      "postedAt": "2026-11-17T19:00:10.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "tegnainc"
+      "board": "akunacapital"
+    },
+    {
+      "title": "Software Engineer – Frontend",
+      "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6262467004",
+      "company": "Heartflow",
+      "location": "San Francisco, California",
+      "postedAt": "2026-11-16T15:43:32.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "heartflowinc"
     },
     {
       "title": "Staff Software Engineer - Alternative Access",
@@ -837,6 +807,16 @@
       "board": "mercor"
     },
     {
+      "title": "Backend Software Engineer, ML Inference",
+      "url": "https://jobs.ashbyhq.com/prior-labs/8a264570-fc81-4234-9487-f74d27f81601",
+      "company": "Prior Labs",
+      "location": "Berlin · Freiburg · Germany · New York · New York City · United States",
+      "postedAt": "2026-11-18T12:50:04.622Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "prior-labs"
+    },
+    {
       "title": "Software Engineer - AI Native",
       "url": "https://jobs.ashbyhq.com/gravie/671c4ede-6cfc-43d5-83bd-12865623e0bf",
       "company": "Gravie",
@@ -875,6 +855,26 @@
       "salary": "",
       "ats": "Ashby",
       "board": "radiant-industries"
+    },
+    {
+      "title": "Software Engineer I (Factory Platform)",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
+      "company": "Relativity Space",
+      "location": "Long Beach, California, United States",
+      "postedAt": "2026-11-17T23:22:33.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "relativity"
+    },
+    {
+      "title": "Flight Software Engineer II",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002",
+      "company": "Relativity Space",
+      "location": "Long Beach, California, United States",
+      "postedAt": "2026-11-16T23:50:32.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "relativity"
     },
     {
       "title": "Founding Software Engineer",
@@ -927,36 +927,6 @@
       "board": "retell-ai"
     },
     {
-      "title": "Software Engineer, Big Data Infrastructure",
-      "url": "https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407",
-      "company": "Benchling",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-11-17T19:32:51.300Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "benchling"
-    },
-    {
-      "title": "Software Engineer, CDC",
-      "url": "https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862",
-      "company": "Benchling",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-11-17T19:32:42.994Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "benchling"
-    },
-    {
-      "title": "Software Engineer, CDC",
-      "url": "https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5",
-      "company": "Benchling",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-11-17T19:32:40.554Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "benchling"
-    },
-    {
       "title": "Senior Software Engineer II, Care Expansion",
       "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/358074b7-ccbd-4b93-be8b-62a256ec840e",
       "company": "Spring Health",
@@ -967,214 +937,14 @@
       "board": "deaa6ad2-d184-436b-b69e-17f761da1d94"
     },
     {
-      "title": "Site Reliability Engineer, Kubernetes ",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8930994002?gh_jid=8930994002",
-      "company": "SpaceX",
-      "location": "Memphis, TN",
-      "postedAt": "2026-11-17T23:57:21.000Z",
+      "title": "Software Engineer (Mid-level)",
+      "url": "https://jobs.lever.co/pditechnologies/f5ed3143-d632-4edb-bbbe-632f66e03274",
+      "company": "PDI Technologies",
+      "location": "Remote US",
+      "postedAt": "2026-11-16T20:16:50.610Z",
       "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (Starship)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8949363002?gh_jid=8949363002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-17T23:51:49.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer, Wireless Validation (Starlink Mobile) ",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002",
-      "company": "SpaceX",
-      "location": "Palo Alto, CA",
-      "postedAt": "2026-11-16T22:12:06.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940471002?gh_jid=8940471002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-16T19:40:05.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940470002?gh_jid=8940470002",
-      "company": "SpaceX",
-      "location": "Starbase, TX",
-      "postedAt": "2026-11-16T19:40:03.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940469002?gh_jid=8940469002",
-      "company": "SpaceX",
-      "location": "Palo Alto, CA",
-      "postedAt": "2026-11-16T19:40:01.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002",
-      "company": "SpaceX",
-      "location": "Sunnyvale, CA",
-      "postedAt": "2026-11-16T19:40:00.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002",
-      "company": "SpaceX",
-      "location": "Redmond, WA",
-      "postedAt": "2026-11-16T19:39:58.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-11-16T19:39:56.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Principal Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940206002?gh_jid=8940206002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-16T18:44:12.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Principal Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940205002?gh_jid=8940205002",
-      "company": "SpaceX",
-      "location": "Starbase, TX",
-      "postedAt": "2026-11-16T18:44:09.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Principal Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940195002?gh_jid=8940195002",
-      "company": "SpaceX",
-      "location": "Palo Alto, CA",
-      "postedAt": "2026-11-16T18:44:07.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Principal Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940176002?gh_jid=8940176002",
-      "company": "SpaceX",
-      "location": "Sunnyvale, CA",
-      "postedAt": "2026-11-16T18:44:05.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Principal Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940164002?gh_jid=8940164002",
-      "company": "SpaceX",
-      "location": "Redmond, WA",
-      "postedAt": "2026-11-16T18:44:03.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Principal Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8939867002?gh_jid=8939867002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-11-16T18:44:01.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940444002?gh_jid=8940444002",
-      "company": "SpaceX",
-      "location": "Bastrop, TX",
-      "postedAt": "2026-11-16T18:43:37.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940443002?gh_jid=8940443002",
-      "company": "SpaceX",
-      "location": "Starbase, TX",
-      "postedAt": "2026-11-16T18:43:35.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940442002?gh_jid=8940442002",
-      "company": "SpaceX",
-      "location": "Palo Alto, CA",
-      "postedAt": "2026-11-16T18:43:32.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940441002?gh_jid=8940441002",
-      "company": "SpaceX",
-      "location": "Sunnyvale, CA",
-      "postedAt": "2026-11-16T18:43:30.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940438002?gh_jid=8940438002",
-      "company": "SpaceX",
-      "location": "Redmond, WA",
-      "postedAt": "2026-11-16T18:43:29.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Sr. Software Engineer (Platform Team)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8940083002?gh_jid=8940083002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-11-16T18:43:26.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
+      "ats": "Lever",
+      "board": "pditechnologies"
     },
     {
       "title": "Platform Software Engineer",
@@ -1185,16 +955,6 @@
       "salary": "",
       "ats": "Lever",
       "board": "BlackCloak"
-    },
-    {
-      "title": "Software Engineer (Mid-level)",
-      "url": "https://jobs.lever.co/pditechnologies/f5ed3143-d632-4edb-bbbe-632f66e03274",
-      "company": "PDI Technologies",
-      "location": "Remote US",
-      "postedAt": "2026-11-16T20:16:50.610Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "pditechnologies"
     }
   ],
   "leadSources": [
