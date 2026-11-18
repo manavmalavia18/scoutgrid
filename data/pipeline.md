@@ -2446,3 +2446,5 @@
 - [ ] https://job-boards.greenhouse.io/kikoff/jobs/4512798009 | kikoff | Software Engineer — The Service Bureau | Ogden, Utah | posted: 2026-11-18
 
 - [ ] https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860 | artafinance | Software Engineer, Data Infrastructure and Performance Metrics | Bay Area | posted: 2026-11-18
+
+- [ ] https://liftoff.io/job/8397888?gh_jid=8397888 | liftoff | Software Engineer, Dash | United States (Remote) | posted: 2026-11-18
