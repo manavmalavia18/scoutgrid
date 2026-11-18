@@ -2097,4 +2097,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8207671003 | affirm | Software Engineer II, Backend | Remote Canada | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04 | openai | Full Stack Software Engineer, Dots for Companies | San Francisco | posted: 2026-11-17
 
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/8164414003 | globalizationpartners | Software Engineer II | India (Remote-First) | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/atlas/8acfd23c-fd87-4322-bed1-4258b7199c3d | atlas | Software Engineer | San Francisco | posted: 2026-11-18
+
 ## Processed
