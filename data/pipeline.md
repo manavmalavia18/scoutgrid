@@ -2409,3 +2409,8 @@
 - [ ] https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002 | aegworldwide | Site Reliability Engineer II - AXS | Los Angeles, CA | posted: 2026-11-18
 - [ ] https://job-boards.greenhouse.io/axs/jobs/8949372002 | axs | Site Reliability Engineer II | Los Angeles, CA | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16 | openai | Full Stack Software Engineer, DotCom | San Francisco · New York City · New York · United States | posted: 2026-11-17
+
+- [ ] https://jobs.ashbyhq.com/atlas/8acfd23c-fd87-4322-bed1-4258b7199c3d | atlas | Software Engineer | San Francisco | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8949388002 | twitch | Software Engineer I, Commerce | Seattle, WA | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/hudu/d7176ac7-6324-4ad9-8c17-f37f6b4484fe | hudu | Full Stack Rails Engineer | United States · Remote | posted: 2026-11-18
+- [ ] https://www.clever.com/about/careers?gh_jid=8392881 | clever | Software Engineer, Admin Dashboard | San Francisco, CA, OR Anywhere in the Continental U.S. | posted: 2026-11-18
