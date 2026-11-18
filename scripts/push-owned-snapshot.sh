@@ -9,6 +9,21 @@ if (( $# < 2 )); then
 fi
 prefix=$1
 shift
+
+# On a self-hosted runner's persistent workspace, actions/checkout's
+# injected credential (an http.extraheader on this one repo clone) isn't as
+# reliably present for the whole job as it is on a disposable hosted-runner
+# VM -- confirmed live 2026-11-17: a push failed with "fatal: could not
+# read Username for 'https://github.com': Device not configured" (no TTY
+# to prompt for credentials) after a long-running scrape step, well after
+# checkout had run successfully. Making the push self-authenticating here
+# removes the dependency on that state surviving the whole job, without
+# changing anything for the GitHub-hosted workflows that call this same
+# script and have never hit this (their checkout is always fresh).
+if [[ -n "${GITHUB_TOKEN:-}" && -n "${GITHUB_REPOSITORY:-}" ]]; then
+  git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+fi
+
 snapshot=$(mktemp -d "${RUNNER_TEMP:-${TMPDIR:-/tmp}}/scoutgrid-snapshot.XXXXXX")
 trap 'rm -rf "$snapshot"' EXIT
 for path in "$@"; do

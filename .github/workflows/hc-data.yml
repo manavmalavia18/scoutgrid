@@ -88,6 +88,9 @@ jobs:
 
       - name: Commit results
         if: steps.scrape.outcome == 'success'
+        # GITHUB_TOKEN explicit here — see hc.yml's identical comment.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "scoutgrid-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -97,6 +100,8 @@ jobs:
 
       - name: Publish failed heartbeat without overwriting the feed
         if: always() && steps.scrape.outcome == 'failure'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "scoutgrid-bot"
           git config user.email "actions@users.noreply.github.com"
