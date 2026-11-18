@@ -2438,3 +2438,5 @@
 - [ ] https://jobs.ashbyhq.com/roompricegenie/1d495a95-0d9a-4cdd-b98b-730643dfeee0 | roompricegenie | Talent Pool: Fullstack Engineer (m/f/d) | Remote Germany · Remote Portugal · Portugal · Remote Netherlands · Netherlands · Remote Romania · Bucharest · Romania · Remote Austria · Austria · Remote Spain · Spain · Remote United Kingdom · United Kingdom | posted: 2026-11-16
 
 - [ ] https://jobs.dropbox.com/listing/8394046?gh_jid=8394046 | dropbox | Infrastructure Software Engineer, Orchestration | Remote - Poland | posted: 2026-11-18
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6264524004 | vercel | Software Engineer, Vercel Agent | Hybrid - New York City | posted: 2026-11-18
