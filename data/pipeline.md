@@ -2442,3 +2442,5 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6264524004 | vercel | Software Engineer, Vercel Agent | Hybrid - New York City | posted: 2026-11-18
 
 - [ ] https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0 | openai | Software Engineer, Agent Identity | San Francisco · Mountain View · United States | posted: 2026-11-18
+
+- [ ] https://job-boards.greenhouse.io/kikoff/jobs/4512798009 | kikoff | Software Engineer — The Service Bureau | Ogden, Utah | posted: 2026-11-18
