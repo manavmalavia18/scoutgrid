@@ -2450,3 +2450,5 @@
 - [ ] https://liftoff.io/job/8397888?gh_jid=8397888 | liftoff | Software Engineer, Dash | United States (Remote) | posted: 2026-11-18
 
 - [ ] https://job-boards.greenhouse.io/codeorg/jobs/4753719005 | codeorg | Software Engineer, Teacher Experience | Remote or Seattle, WA | posted: 2026-11-18
+
+- [ ] https://jobs.lever.co/floqast/da7d871f-57c8-43e0-a974-030a9fc4cf8e | floqast | Software Engineer, Data | San Jose, California | posted: 2026-11-18
