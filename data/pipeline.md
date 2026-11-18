@@ -2458,3 +2458,5 @@
 
 - [ ] https://jobs.ashbyhq.com/hadrian-automation/11e18ee0-243b-46a8-a9e5-fd67095e3a15 | hadrian-automation | Software Engineer - Enterprise Apps | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/read-ai/afe75ea2-4657-46e7-9f9f-43c348dbc796 | read-ai | Software Engineer - Backend (Core) | Read AI - Seattle HQ | posted: 2026-11-18
+
+- [ ] https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4466565009 | trelliswaretechnologies | MAC Software Engineer, Narrowband Waveforms | San Diego, California | posted: 2026-11-18
