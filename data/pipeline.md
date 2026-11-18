@@ -2414,3 +2414,5 @@
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8949388002 | twitch | Software Engineer I, Commerce | Seattle, WA | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/hudu/d7176ac7-6324-4ad9-8c17-f37f6b4484fe | hudu | Full Stack Rails Engineer | United States · Remote | posted: 2026-11-18
 - [ ] https://www.clever.com/about/careers?gh_jid=8392881 | clever | Software Engineer, Admin Dashboard | San Francisco, CA, OR Anywhere in the Continental U.S. | posted: 2026-11-18
+
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/8164414003 | globalizationpartners | Software Engineer II | India (Remote-First) | posted: 2026-11-18
