@@ -2432,3 +2432,5 @@
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8385593 | twilio | Software Engineer - Platform Engineering | Remote - US | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/masabi/5eac3d32-da49-4a93-bcd8-1fd673924732 | masabi | Software Engineer (Remote - Contractor) | Romania · Remote | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/masabi/399e62a2-9efb-4860-97d8-a33d95dcf448 | masabi | Software Engineer - Data team | Poland · Remote | posted: 2026-11-18
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5483945008 | anthropic | Applied AI Engineer, Commercial | San Francisco, CA | posted: 2026-11-18
