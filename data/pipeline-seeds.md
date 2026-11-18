@@ -2116,4 +2116,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8385593 | twilio | Software Engineer - Platform Engineering | Remote - US | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/roompricegenie/1d495a95-0d9a-4cdd-b98b-730643dfeee0 | roompricegenie | Talent Pool: Fullstack Engineer (m/f/d) | Remote Germany · Remote Portugal · Portugal · Remote Netherlands · Netherlands · Remote Romania · Bucharest · Romania · Remote Austria · Austria · Remote Spain · Spain · Remote United Kingdom · United Kingdom | posted: 2026-11-16
 
+- [ ] https://job-boards.greenhouse.io/codeorg/jobs/4753719005 | codeorg | Software Engineer, Teacher Experience | Remote or Seattle, WA | posted: 2026-11-18
+- [ ] https://liftoff.io/job/8397888?gh_jid=8397888 | liftoff | Software Engineer, Dash | United States (Remote) | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860 | artafinance | Software Engineer, Data Infrastructure and Performance Metrics | Bay Area | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0 | openai | Software Engineer, Agent Identity | San Francisco · Mountain View · United States | posted: 2026-11-18
+
 ## Processed
