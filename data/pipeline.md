@@ -2423,3 +2423,5 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8201566003 | affirm | Software Engineer II, Backend | Remote UK | posted: 2026-11-18
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8197317003 | affirm | Software Engineer II, Backend | Remote Spain | posted: 2026-11-18
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8197315003 | affirm | Software Engineer II, Backend | Remote Poland | posted: 2026-11-18
+
+- [ ] https://jobs.ashbyhq.com/alan/98d3186f-6b35-421b-8c95-55d7b947185c | alan | Security Software Engineer - Tech Foundations | Anywhere in France, Belgium, Spain | posted: 2026-11-18
