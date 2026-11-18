@@ -2455,3 +2455,6 @@
 
 - [ ] https://paystand.com/job-listing/?gh_jid=8208550003 | paystand | Junior Fullstack Engineer | Santa Cruz, California, United States | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 | kira | Software Engineer (Entry Level) | New York or San Francisco | posted: 2026-11-18
+
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/11e18ee0-243b-46a8-a9e5-fd67095e3a15 | hadrian-automation | Software Engineer - Enterprise Apps | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/read-ai/afe75ea2-4657-46e7-9f9f-43c348dbc796 | read-ai | Software Engineer - Backend (Core) | Read AI - Seattle HQ | posted: 2026-11-18
