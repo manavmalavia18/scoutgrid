@@ -1,14 +1,23 @@
 {
-  "at": "2026-11-18T19:00:26.938Z",
-  "exitCode": 0,
-  "elapsedSec": 115,
-  "newMatches": 1523,
-  "advertised": 811,
-  "pagesFetched": 32,
+  "at": "2026-11-18T19:27:03.570Z",
+  "exitCode": 1,
+  "reason": "all_queries_failed",
   "mode": "hiringcafe-saved-search",
-  "query": "software engineer | software developer | backend engineer | frontend engineer | full stack engineer | full stack developer | platform engineer | devops engineer | site reliability engineer | data engineer | machine learning engineer | mobile engineer | ios engineer | android engineer | qa automation engineer | security engineer",
-  "hours": 96,
-  "truncated": false,
-  "transport": "patchright",
-  "queriesSkipped": 1
+  "queriesTotal": 16,
+  "queriesSkipped": 16,
+  "pagesFetched": 0,
+  "newMatches": 0,
+  "firstBlockedResponse": {
+    "at": "2026-11-18T19:26:51.404Z",
+    "status": 403,
+    "classification": "cloudflare_managed_challenge",
+    "workflowRunId": "44380589496",
+    "headers": {
+      "cf-mitigated": "challenge",
+      "cf-ray": "a5c95e831b23c8dd-BOS",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Wed, 18 Nov 2026 19:26:51 GMT",
+      "server": "cloudflare"
+    }
+  }
 }
