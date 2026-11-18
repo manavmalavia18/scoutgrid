@@ -2110,4 +2110,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8197317003 | affirm | Software Engineer II, Backend | Remote Spain | posted: 2026-11-18
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8197315003 | affirm | Software Engineer II, Backend | Remote Poland | posted: 2026-11-18
 
+- [ ] https://jobs.dropbox.com/listing/8394046?gh_jid=8394046 | dropbox | Infrastructure Software Engineer, Orchestration | Remote - Poland | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5483945008 | anthropic | Applied AI Engineer, Commercial | San Francisco, CA | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/OpsLevel/46b77cd8-88f7-4dc1-b73a-96c00c662be2 | opslevel | Platform Engineer | Canada · Remote | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8385593 | twilio | Software Engineer - Platform Engineering | Remote - US | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/roompricegenie/1d495a95-0d9a-4cdd-b98b-730643dfeee0 | roompricegenie | Talent Pool: Fullstack Engineer (m/f/d) | Remote Germany · Remote Portugal · Portugal · Remote Netherlands · Netherlands · Remote Romania · Bucharest · Romania · Remote Austria · Austria · Remote Spain · Spain · Remote United Kingdom · United Kingdom | posted: 2026-11-16
+
 ## Processed
