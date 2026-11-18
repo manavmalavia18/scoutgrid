@@ -2427,3 +2427,8 @@
 - [ ] https://jobs.ashbyhq.com/alan/98d3186f-6b35-421b-8c95-55d7b947185c | alan | Security Software Engineer - Tech Foundations | Anywhere in France, Belgium, Spain | posted: 2026-11-18
 
 - [ ] https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002 | pathrobotics | Machine Learning Engineer, Robotics | Columbus, Ohio or Remote | posted: 2026-11-18
+
+- [ ] https://jobs.ashbyhq.com/OpsLevel/46b77cd8-88f7-4dc1-b73a-96c00c662be2 | opslevel | Platform Engineer | Canada · Remote | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8385593 | twilio | Software Engineer - Platform Engineering | Remote - US | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/masabi/5eac3d32-da49-4a93-bcd8-1fd673924732 | masabi | Software Engineer (Remote - Contractor) | Romania · Remote | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/masabi/399e62a2-9efb-4860-97d8-a33d95dcf448 | masabi | Software Engineer - Data team | Poland · Remote | posted: 2026-11-18
