@@ -2452,3 +2452,6 @@
 - [ ] https://job-boards.greenhouse.io/codeorg/jobs/4753719005 | codeorg | Software Engineer, Teacher Experience | Remote or Seattle, WA | posted: 2026-11-18
 
 - [ ] https://jobs.lever.co/floqast/da7d871f-57c8-43e0-a974-030a9fc4cf8e | floqast | Software Engineer, Data | San Jose, California | posted: 2026-11-18
+
+- [ ] https://paystand.com/job-listing/?gh_jid=8208550003 | paystand | Junior Fullstack Engineer | Santa Cruz, California, United States | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 | kira | Software Engineer (Entry Level) | New York or San Francisco | posted: 2026-11-18
