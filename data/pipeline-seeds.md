@@ -2100,4 +2100,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/8164414003 | globalizationpartners | Software Engineer II | India (Remote-First) | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/atlas/8acfd23c-fd87-4322-bed1-4258b7199c3d | atlas | Software Engineer | San Francisco | posted: 2026-11-18
 
+- [ ] https://jobs.ashbyhq.com/masabi/5eac3d32-da49-4a93-bcd8-1fd673924732 | masabi | Software Engineer (Remote - Contractor) | Romania · Remote | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/masabi/399e62a2-9efb-4860-97d8-a33d95dcf448 | masabi | Software Engineer - Data team | Poland · Remote | posted: 2026-11-18
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002 | pathrobotics | Machine Learning Engineer, Robotics | Columbus, Ohio or Remote | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/prior-labs/8a264570-fc81-4234-9487-f74d27f81601 | prior-labs | Backend Software Engineer, ML Inference | Berlin · Freiburg · Germany · New York · New York City · United States | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8925736002 | gympass | Mid-level Software Engineer / Professional Services Engineering | Brazil (Remote) | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/atomic-invest/4c83fd63-1985-43b3-92d1-ce5a98f8a10b | atomic-invest | Software Engineer, Front End | United States | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8201566003 | affirm | Software Engineer II, Backend | Remote UK | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8197317003 | affirm | Software Engineer II, Backend | Remote Spain | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8197315003 | affirm | Software Engineer II, Backend | Remote Poland | posted: 2026-11-18
+
 ## Processed
