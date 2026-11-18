@@ -2405,3 +2405,7 @@
 - [ ] https://careers.airbnb.com/positions/8397762?gh_jid=8397762 | airbnb | Software Engineer, DevAI | United States | posted: 2026-11-17
 
 - [ ] https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002 | relativity | Software Engineer I (Factory Platform) | Long Beach, California, United States | posted: 2026-11-17
+
+- [ ] https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002 | aegworldwide | Site Reliability Engineer II - AXS | Los Angeles, CA | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/axs/jobs/8949372002 | axs | Site Reliability Engineer II | Los Angeles, CA | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16 | openai | Full Stack Software Engineer, DotCom | San Francisco · New York City · New York · United States | posted: 2026-11-17
