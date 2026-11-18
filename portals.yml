@@ -23183,6 +23183,46 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "1X"
+    careers_url: https://jobs.ashbyhq.com/1x
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 102 live jobs confirmed)
+  - name: "Esri"
+    careers_url: https://job-boards.greenhouse.io/esri
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 479 live jobs confirmed)
+  - name: "Flock Freight"
+    careers_url: https://jobs.ashbyhq.com/flock
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 11 live jobs confirmed)
+  - name: "HP"
+    careers_url: https://job-boards.greenhouse.io/hp
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 26 live jobs confirmed)
+  - name: "Knit Health"
+    careers_url: https://job-boards.greenhouse.io/knithealth
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 4 live jobs confirmed)
+  - name: "National Gypsum Company"
+    careers_url: https://job-boards.greenhouse.io/national
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 1 live jobs confirmed)
+  - name: "Nebex"
+    careers_url: https://jobs.ashbyhq.com/nebex
+    provider: ashby
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 6 live jobs confirmed)
+  - name: "Orchard"
+    careers_url: https://job-boards.greenhouse.io/orchard
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered via company-name board probe (LinkedIn lead, 32 live jobs confirmed)
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
