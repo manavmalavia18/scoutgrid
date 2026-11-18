@@ -2086,4 +2086,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204 | akunacapital | Software Engineer - Python, Post Trade | Chicago, IL | posted: 2026-11-17
 - [ ] https://jobs.ashbyhq.com/column/8ad3cf7b-7ea3-47f6-86c4-c83a9d78ff50 | column | Software Engineer | San Francisco, CA | posted: 2026-11-17
 
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8949388002 | twitch | Software Engineer I, Commerce | Seattle, WA | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/hudu/d7176ac7-6324-4ad9-8c17-f37f6b4484fe | hudu | Full Stack Rails Engineer | United States · Remote | posted: 2026-11-18
+- [ ] https://www.clever.com/about/careers?gh_jid=8392881 | clever | Software Engineer, Admin Dashboard | San Francisco, CA, OR Anywhere in the Continental U.S. | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002 | aegworldwide | Site Reliability Engineer II - AXS | Los Angeles, CA | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/axs/jobs/8949372002 | axs | Site Reliability Engineer II | Los Angeles, CA | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16 | openai | Full Stack Software Engineer, DotCom | San Francisco · New York City · New York · United States | posted: 2026-11-17
+- [ ] https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002 | relativity | Software Engineer I (Factory Platform) | Long Beach, California, United States | posted: 2026-11-17
+- [ ] https://careers.airbnb.com/positions/8397762?gh_jid=8397762 | airbnb | Software Engineer, DevAI | United States | posted: 2026-11-17
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8207671003 | affirm | Software Engineer II, Backend | Remote Canada | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04 | openai | Full Stack Software Engineer, Dots for Companies | San Francisco | posted: 2026-11-17
+
 ## Processed
