@@ -2494,3 +2494,6 @@
 - [ ] https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49 | ramp | Software Engineer, Production Engineering, FinOps | New York, NY (HQ) | posted: 2026-11-19
 - [ ] https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281 | supabase | Software Engineer - Postgres Tooling | Remote, Global | posted: 2026-11-19
 - [ ] https://jobs.lever.co/floqast/b24a4667-d624-479c-ac29-222470d08454 | floqast | Software Engineer, Core AI/ML | San Jose, California; Los Angeles, California | posted: 2026-11-19
+
+- [ ] https://job-boards.greenhouse.io/openeye/jobs/8952351002 | openeye | Department Administrator, Software Engineering | Liberty Lake, Washington | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/substack/c9b64abb-ff7d-441b-834d-8d17285bce32 | substack | Full Stack Software Engineer - Video | San Francisco (HQ) · New York · New York City · United States · Remote · San Francisco | posted: 2026-11-19
