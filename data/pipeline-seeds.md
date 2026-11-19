@@ -2121,4 +2121,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860 | artafinance | Software Engineer, Data Infrastructure and Performance Metrics | Bay Area | posted: 2026-11-18
 - [ ] https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0 | openai | Software Engineer, Agent Identity | San Francisco · Mountain View · United States | posted: 2026-11-18
 
+- [ ] https://jobs.lever.co/goodleap/65bb56a4-7e99-4e59-847d-b4b9240bbc4e | goodleap | Software Engineer, AI Transformation | Austin, TX; San Francisco, CA; Roseville, CA - HQ; Remote, US; New York | posted: 2026-11-19
+- [ ] https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323 | coinbase | Software Engineer | Remote - USA | posted: 2026-11-19
+- [ ] https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004 | gofasti | 1203 - AI Engineer | Remote · CLAR | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4466565009 | trelliswaretechnologies | MAC Software Engineer, Narrowband Waveforms | San Diego, California | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/11e18ee0-243b-46a8-a9e5-fd67095e3a15 | hadrian-automation | Software Engineer - Enterprise Apps | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/read-ai/afe75ea2-4657-46e7-9f9f-43c348dbc796 | read-ai | Software Engineer - Backend (Core) | Read AI - Seattle HQ | posted: 2026-11-18
+- [ ] https://paystand.com/job-listing/?gh_jid=8208550003 | paystand | Junior Fullstack Engineer | Santa Cruz, California, United States | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 | kira | Software Engineer (Entry Level) | New York or San Francisco | posted: 2026-11-18
+- [ ] https://jobs.lever.co/floqast/da7d871f-57c8-43e0-a974-030a9fc4cf8e | floqast | Software Engineer, Data | San Jose, California | posted: 2026-11-18
+
 ## Processed
