@@ -2133,4 +2133,30 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8398779?gh_jid=8398779 | cloudflare | Software Engineer, Data Primitives | Hybrid · Austin, TX · Lisbon, Portugal · London, United Kingdom · New York, NY | posted: 2026-11-19
 
+- [ ] https://jobs.ashbyhq.com/element84/063a78ae-7f58-41aa-8c02-733975d6ad6b | element84 | Full Stack Software Engineer | Alexandria HQ (remote) | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/cartesia/5153bede-5f1c-4db3-98c7-45d18bb68a84 | cartesia | Software Engineer, Voices | *HQ - San Francisco, CA | posted: 2026-11-19
+- [ ] https://www.esri.com/careers/5291317007?gh_jid=5291317007 | esri | Software Development Engineer | Vienna, Virginia, United States | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/terac/7296e630-673a-45e4-a2a2-04e98cd73fb7 | terac | Software Developers: Interview on AI Assistant Integrations | United States · Remote | posted: 2026-11-19
+- [ ] https://jobs.lever.co/redwoodcu/69c327df-2541-4395-b14a-2f66d3236bf4 | redwoodcu | DevOps Engineer I | Napa, California | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/xona-space/5f9603fa-1412-480e-a2bb-f8b85778094f | xona-space | Cloud Infrastructure Engineer - Platform Engineering | Burlingame, California | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6250690004 | natera | Software Engineer III | Austin, TX | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4730777006 | paretocaptiveservicesllc | Software Engineer | Remote · Remote | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49 | ramp | Software Engineer, Production Engineering, FinOps | New York, NY (HQ) | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281 | supabase | Software Engineer - Postgres Tooling | Remote, Global | posted: 2026-11-19
+- [ ] https://jobs.lever.co/floqast/b24a4667-d624-479c-ac29-222470d08454 | floqast | Software Engineer, Core AI/ML | San Jose, California; Los Angeles, California | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/quindar/f384450c-697b-427e-8930-58fc195016d2 | quindar | Cleared Full Stack Engineer | Denver, CO | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/e2b/2a86d352-77a2-4b32-9b36-7a0cef76262f | e2b | Site Reliability Engineer - Platform | San Francisco | posted: 2026-11-19
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8400470?gh_jid=8400470 | crunchyroll | Software Engineer III, Web and Connected Experiences | San Francisco, CA, United States | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a | baseten | Software Engineer - Inference Product | San Francisco · New York · United States | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f | notion | Software Engineer, Collections Infra | San Francisco, California | posted: 2026-11-19
+- [ ] https://trinitylogistics.com/join-us/job/?gh_jid=8933277002 | trinitylogistics | Software Engineer I | Remote · Remote | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4514555009 | grvty | Web Developer | McLean, Virginia, United States | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8197543003 | affirm | Software Engineer II, Full stack (Open Banking) | Remote UK | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/cais/jobs/8951218002 | cais | Applied AI Engineer | New York, New York | posted: 2026-11-19
+- [ ] https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01 | palantir | Site Reliability Operations Analyst - Legal | Washington, D.C. | posted: 2026-11-19
+- [ ] https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3 | palantir | Site Reliability Operations Analyst - Legal | New York, NY | posted: 2026-11-19
+- [ ] https://sproutsocial.com/careers/open-positions/8400301?gh_jid=8400301 | ssreferrals | GTM AI Engineer | Remote US | posted: 2026-11-19
+- [ ] https://sproutsocial.com/careers/open-positions/8400299/?gh_jid=8400299 | sproutsocial | GTM AI Engineer | Remote US | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e | supabase | Storage Platform Engineer | Remote, Global | posted: 2026-11-19
+
 ## Processed
