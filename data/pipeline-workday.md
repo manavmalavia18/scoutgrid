@@ -1516,4 +1516,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4--Agentic-Orchestration_R1002667 | capitalone | Full-stack Engineer 4, Agentic Orchestration | 3 Locations | posted: 2026-11-18
 
+- [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Remote/Site-Reliability-Engineer-IV_JR104068 | modivcare | Site Reliability Engineer IV | Remote | posted: 2026-11-19
+
 ## Processed
