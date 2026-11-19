@@ -2464,3 +2464,5 @@
 - [ ] https://jobs.lever.co/goodleap/65bb56a4-7e99-4e59-847d-b4b9240bbc4e | goodleap | Software Engineer, AI Transformation | Austin, TX; San Francisco, CA; Roseville, CA - HQ; Remote, US; New York | posted: 2026-11-19
 - [ ] https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323 | coinbase | Software Engineer | Remote - USA | posted: 2026-11-19
 - [ ] https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004 | gofasti | 1203 - AI Engineer | Remote · CLAR | posted: 2026-11-18
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8398779?gh_jid=8398779 | cloudflare | Software Engineer, Data Primitives | Hybrid · Austin, TX · Lisbon, Portugal · London, United Kingdom · New York, NY | posted: 2026-11-19
