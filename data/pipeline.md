@@ -2497,3 +2497,5 @@
 
 - [ ] https://job-boards.greenhouse.io/openeye/jobs/8952351002 | openeye | Department Administrator, Software Engineering | Liberty Lake, Washington | posted: 2026-11-19
 - [ ] https://jobs.ashbyhq.com/substack/c9b64abb-ff7d-441b-834d-8d17285bce32 | substack | Full Stack Software Engineer - Video | San Francisco (HQ) · New York · New York City · United States · Remote · San Francisco | posted: 2026-11-19
+
+- [ ] https://job-boards.greenhouse.io/okx/jobs/8209722003 | okx | Software Engineer, Card | San Jose, California, United States | posted: 2026-11-19
