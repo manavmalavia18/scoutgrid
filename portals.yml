@@ -23923,6 +23923,46 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Archer Aviation"
+    careers_url: https://job-boards.greenhouse.io/archer56
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Northbeam"
+    careers_url: https://job-boards.greenhouse.io/northbeam-io
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "FloQast"
+    careers_url: https://jobs.lever.co/floqast
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Odin Dynamics"
+    careers_url: https://jobs.lever.co/odin-dynamics
+    provider: lever
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Progress Residential"
+    careers_url: https://pretiumenterpriseservices.wd1.myworkdayjobs.com/PR
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
