@@ -2042,4 +2042,69 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8319442 | Twilio | Software Engineer (L1) | Remote - India | posted: 2026-11-16
 - [ ] https://job-boards.greenhouse.io/xai/jobs/5295932007 | SpaceXAI | Software Engineer, Super Intelligence | Palo Alto, CA; Seattle, WA | posted: 2026-11-16
 
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002 | Pathrobotics | Machine Learning Engineer, Robotics | Columbus, Ohio or Remote | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8385593 | Twilio | Software Engineer - Platform Engineering | Remote - US | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/Clera/96eb46ad-eb7a-4540-afc8-7397d946019f | Clera | Founding Data Engineer | San Francisco | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/Clera/2f031c3a-23e0-4d79-8fde-090fe669cf77 | Clera | Founding Machine Learning Engineer | San Francisco | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/Clera/c8c50e46-229c-4563-b9a9-1d4713f777c5 | Clera | Founding AI / Backend Engineer | New York · Remote | posted: 2026-11-19
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Platform-Engineer_R-50255 | Bcbst | Platform Engineer | USA, TN, Chattanooga, Remote | posted: 2026-11-19
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Silicon-Validation-Engineer_2029023 | Cisco | Silicon Validation Software Engineer | San Jose, California, US | posted: 2026-11-18
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Scientist-III---Customer-Lifetime-Value_R-109542-1 | Expedia | Machine Learning Scientist III - Customer Lifetime Value | Austin Domain 11 - HomeAway | posted: 2026-11-18
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Linux-Software-engineer_1217876-2 | Hewlett Packard Enterprise | Linux Software engineer | Roseville, California, United States of America | posted: 2026-11-18
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Business-Systems---Data-Engineer_1214711-2 | Hewlett Packard Enterprise | Business Systems & Data Engineer | 2 Locations | posted: 2026-11-17
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/AI-Engineering-Specialist_R-10400654 | Fiserv | AI Engineering Specialist | Coral Springs, Florida | posted: 2026-11-18
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Software-Engineer_31166996-1 | Abbott | Software Engineer | United States - Illinois - Lake Forest | posted: 2026-11-19
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Analyst--Global-Pricing---Commercial-Analytics_31164410-1 | Abbott | Analyst, Global Pricing & Commercial Analytics | United States - Illinois - Lake Forest | posted: 2026-11-18
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Roseville-California-United-States-of-America/Linux-Software-engineer_1217876-1 | Hpe | Linux Software engineer | Roseville, California, United States of America | posted: 2026-11-19
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Business-Systems---Data-Engineer_1214711-1 | Hpe | Business Systems & Data Engineer | 2 Locations | posted: 2026-11-18
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000162190099 | ServiceNow | Software Engineer, Agentic Systems - Moveworks | Mountain View, CALIFORNIA, United States | posted: 2026-11-18
+- [ ] https://jobs.smartrecruiters.com/solidigm/744000162409029 | Solidigm | People Analytics & Insights Analyst | Rancho Cordova, CA, United States | posted: 2026-11-19
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Business-Intelligence-Analyst_REQ378526-2 | Tmobile | Business Intelligence Analyst | Bellevue, Washington | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860 | Arta | Software Engineer, Data Infrastructure and Performance Metrics | Bay Area | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5 | Benchling | Data Engineer | San Francisco, CA | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/11e18ee0-243b-46a8-a9e5-fd67095e3a15 | Hadrian | Software Engineer - Enterprise Apps | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0 | OpenAI | Software Engineer, Agent Identity | San Francisco · Mountain View · United States | posted: 2026-11-18
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Software-Engineer-Expert_R36733 | Allstate | Software Engineer Expert | USA - IL (Remote) | posted: 2026-11-18
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Full-Stack-AI-Application-Engineer_R0077459 | eBay | Full Stack AI Application Engineer | Austin | posted: 2026-11-19
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Data-Pipeline-Autonomy-Engineer_R0000405301 | Caterpillar Inc. | Data Pipeline Autonomy Engineer | Irving, Texas | posted: 2026-11-19
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Data-Engineer_J291550 | Highmark Health | Data Engineer | 51 Locations | posted: 2026-11-18
+- [ ] https://intuitivemachines.wd115.myworkdayjobs.com/lanterisspace/job/Remote-United-States/Simulations-Software-Developer_R24487 | Lanteris Space Systems | Simulations Software Developer | Remote (United States) | posted: 2026-11-17
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-REMOTE/Principle-RDT-Data-Analyst_01886730-1 | RTX | Principle RDT Data Analyst | US-AZ-REMOTE | posted: 2026-11-19
+- [ ] https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Chicago-IL/AI-Software-Engineer--Proposal-Tools-_R70918 | Motorola Solutions | AI Software Engineer (Proposal Tools) | Chicago, IL, More... | posted: 2026-11-19
+- [ ] https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/Remote---San-Diego-CA/Data-Analyst-II_JR101670-1 | Tandem Diabetes Care | Data Analyst II | Remote - San Diego, CA | posted: 2026-11-18
+- [ ] https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Associate-Engineer_JR-4074-1 | Trane Technologies | Associate Software Engineer - TRACE | La Crosse, Wisconsin | posted: 2026-11-17
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4--Agentic-Orchestration_R1002667 | Capital One | Full-stack Engineer 4, Agentic Orchestration | 3 Locations | posted: 2026-11-19
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Data-Engineer-4_R1001533-2 | Capital One | Data Engineer 4 | 2 Locations | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/saronic/5c8201ff-6da7-47a1-a6d4-d698372ded00 | Saronic Technologies | Full Stack Engineer | Austin, TX | posted: 2026-11-18
+- [ ] https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Data-Engineer-Mid--Team-09-_R0175798 | Amentum | Data Engineer Mid (Team 09) | US-DC-Washington | posted: 2026-11-18
+- [ ] https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Data-Engineer---SME--Team-09-_R0175793 | Amentum | Data Engineer - SME (Team 09) | US-DC-Washington | posted: 2026-11-19
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/Brazil---Remote/Software-Engineer-2_R23362 | WEX | Software Engineer-2 | Brazil - Remote | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/read-ai/afe75ea2-4657-46e7-9f9f-43c348dbc796 | Read AI | Software Engineer - Backend (Core) | Read AI - Seattle HQ | posted: 2026-11-18
+- [ ] https://jobs.smartrecruiters.com/AbbVie/3743990016926506 | AbbVie | Associate Data Engineer II | Mettawa, IL, United States | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/vantheon/bd06fec4-7183-464c-bfd1-1029de067dd2 | Vantheon | Founding Engineer - Full-Stack | Austin | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/astronicscorporation/jobs/4512808009 | Astronics | Data Analyst | Waukegan, Illinois, United States | posted: 2026-11-18
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/Software-Engineer-I_R0076442 | Global Payments | Software Engineer I | ALPHARETTA, GEORGIA | posted: 2026-11-18
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/Software-Engineer---QA_R0076859 | Global Payments | Software Engineer - QA | ALPHARETTA, GEORGIA | posted: 2026-11-18
+- [ ] https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/Boston-MA/Associate-Data-Engineer_JR15400 | DraftKings | Associate Data Engineer | Boston, MA | posted: 2026-11-17
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/FWA-Payment-Integrity-Data-Analyst-III--Health-Plan---SQL-exp-required-_R14454 | CareSource | FWA Payment Integrity Data Analyst III (Health Plan & SQL exp required) | Remote | posted: 2026-11-19
+- [ ] https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Grafton-Wisconsin-United-States/IT-ERP-Product-Analyst_R26_06083 | Regal Rexnord | IT ERP Product Analyst | Grafton, Wisconsin, United States | posted: 2026-11-17
+- [ ] https://jobs.ashbyhq.com/terac/e0c66ca2-459c-49a4-8d40-c629a83963d5 | Terac | Data Analytics Experts: Benchmark Evaluation Project | United States · Remote | posted: 2026-11-18
+- [ ] https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-II_R31215 | Chewy | Software Engineer II | Boston, MA | posted: 2026-11-19
+- [ ] https://manatt.wd1.myworkdayjobs.com/manatt_global_careers/job/Washington-DC/Cloud-Platform-Engineer_JR100666 | Manatt, Phelps & Phillips | Cloud Platform Engineer | 5 Locations | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/atlas/8acfd23c-fd87-4322-bed1-4258b7199c3d | Atlas Consulting Group, LLC. | Software Engineer | San Francisco · New York · United States | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/rvohealth/jobs/4755621005 | RVO Health | People Data Analyst | Remote- US | posted: 2026-11-18
+- [ ] https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323 | Coinbase | Software Engineer | Remote - USA | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 | Kira | Software Engineer (Entry Level) | New York or San Francisco | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/prior-labs/8a264570-fc81-4234-9487-f74d27f81601 | Prior Labs | Backend Software Engineer, ML Inference | Berlin · Freiburg · Germany · New York · New York City · United States | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/gravie/671c4ede-6cfc-43d5-83bd-12865623e0bf | Gravie | Software Engineer - AI Native | Remote | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/aegworldwide/jobs/8950361002 | AEG | Data Analyst | Los Angeles, CA | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002 | AEG | Site Reliability Engineer II - AXS | Los Angeles, CA | posted: 2026-11-18
+- [ ] https://job-boards.greenhouse.io/axs/jobs/8949372002 | AXS | Site Reliability Engineer II | Los Angeles, CA | posted: 2026-11-18
+- [ ] https://honesthealth.wd503.myworkdayjobs.com/honesthealth/job/Remote/Cloud-and-DevOps-Engineer_2026-R153 | Honest Health | Cloud and DevOps Engineer | Remote | posted: 2026-11-17
+- [ ] https://uw.wd5.myworkdayjobs.com/uwhires/job/Seattle-WA/Application-Developer_REQ-0000138758 | University of Washington | Application Developer | Seattle, WA | posted: 2026-11-19
+- [ ] https://uw.wd5.myworkdayjobs.com/uwhires/job/Seattle-WA/Full-Stack-Developer_REQ-0000138749 | University of Washington | Full Stack Software Engineer | Seattle, WA | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/plugmotors/584ec4a3-93ee-4ece-8792-35ea2ff1dbb7 | Plug Technologies | Software Engineer, Agents | Los Angeles | posted: 2026-11-18
+- [ ] https://jobs.ashbyhq.com/neural-earth/69e84174-b8e9-49c6-949d-2bda36649342 | Neural Earth | DevOps Engineer II (6-Month) | United States · Remote | posted: 2026-11-18
+- [ ] https://jobs.lever.co/floqast/da7d871f-57c8-43e0-a974-030a9fc4cf8e | FloQast | Software Engineer, Data | San Jose, California | posted: 2026-11-18
+
 ## Processed
