@@ -2131,4 +2131,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 | kira | Software Engineer (Entry Level) | New York or San Francisco | posted: 2026-11-18
 - [ ] https://jobs.lever.co/floqast/da7d871f-57c8-43e0-a974-030a9fc4cf8e | floqast | Software Engineer, Data | San Jose, California | posted: 2026-11-18
 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8398779?gh_jid=8398779 | cloudflare | Software Engineer, Data Primitives | Hybrid · Austin, TX · Lisbon, Portugal · London, United Kingdom · New York, NY | posted: 2026-11-19
+
 ## Processed
