@@ -2478,3 +2478,5 @@
 - [ ] https://boards.greenhouse.io/crunchyroll/jobs/8400470?gh_jid=8400470 | crunchyroll | Software Engineer III, Web and Connected Experiences | San Francisco, CA, United States | posted: 2026-11-19
 - [ ] https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a | baseten | Software Engineer - Inference Product | San Francisco · New York · United States | posted: 2026-11-19
 - [ ] https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f | notion | Software Engineer, Collections Infra | San Francisco, California | posted: 2026-11-19
+
+- [ ] https://jobs.ashbyhq.com/quindar/f384450c-697b-427e-8930-58fc195016d2 | quindar | Cleared Full Stack Engineer | Denver, CO | posted: 2026-11-19
