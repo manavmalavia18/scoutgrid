@@ -2503,3 +2503,5 @@
 - [ ] https://jobs.ashbyhq.com/netic/bb664b2a-d4a2-4c58-99c8-107cddcafde2 | netic | Applied AI Engineer | San Francisco · New York · New York City · United States | posted: 2026-11-19
 
 - [ ] https://job-boards.greenhouse.io/attain/jobs/6266933004 | attain | Software Engineer, Data | Chicago, IL; Redwood City, CA | posted: 2026-11-19
+
+- [ ] https://jobs.lever.co/lumafield/22baab6c-e40c-4d26-9172-8f942449a758 | lumafield | Cloud DevOps Engineer | San Francisco, CA | posted: 2026-11-19
