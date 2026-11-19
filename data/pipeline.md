@@ -2466,3 +2466,10 @@
 - [ ] https://careers.gofasti.com/job-application/6265823004?gh_jid=6265823004 | gofasti | 1203 - AI Engineer | Remote · CLAR | posted: 2026-11-18
 
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8398779?gh_jid=8398779 | cloudflare | Software Engineer, Data Primitives | Hybrid · Austin, TX · Lisbon, Portugal · London, United Kingdom · New York, NY | posted: 2026-11-19
+
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4514555009 | grvty | Web Developer | McLean, Virginia, United States | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8197543003 | affirm | Software Engineer II, Full stack (Open Banking) | Remote UK | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/cais/jobs/8951218002 | cais | Applied AI Engineer | New York, New York | posted: 2026-11-19
+- [ ] https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01 | palantir | Site Reliability Operations Analyst - Legal | Washington, D.C. | posted: 2026-11-19
+- [ ] https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3 | palantir | Site Reliability Operations Analyst - Legal | New York, NY | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e | supabase | Storage Platform Engineer | Remote, Global | posted: 2026-11-19
