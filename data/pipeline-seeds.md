@@ -2159,4 +2159,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://sproutsocial.com/careers/open-positions/8400299/?gh_jid=8400299 | sproutsocial | GTM AI Engineer | Remote US | posted: 2026-11-19
 - [ ] https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e | supabase | Storage Platform Engineer | Remote, Global | posted: 2026-11-19
 
+- [ ] https://job-boards.greenhouse.io/attain/jobs/6266933004 | attain | Software Engineer, Data | Chicago, IL; Redwood City, CA | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/netic/bb664b2a-d4a2-4c58-99c8-107cddcafde2 | netic | Applied AI Engineer | San Francisco · New York · New York City · United States | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/okx/jobs/8209722003 | okx | Software Engineer, Card | San Jose, California, United States | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/openeye/jobs/8952351002 | openeye | Department Administrator, Software Engineering | Liberty Lake, Washington | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/substack/c9b64abb-ff7d-441b-834d-8d17285bce32 | substack | Full Stack Software Engineer - Video | San Francisco (HQ) · New York · New York City · United States · Remote · San Francisco | posted: 2026-11-19
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4731007006?gh_jid=4731007006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/fashionnova/jobs/8401095 | fashionnova | Fullstack Software Engineer | Beverly Hills, California | posted: 2026-11-19
+
 ## Processed
