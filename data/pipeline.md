@@ -2473,3 +2473,8 @@
 - [ ] https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01 | palantir | Site Reliability Operations Analyst - Legal | Washington, D.C. | posted: 2026-11-19
 - [ ] https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3 | palantir | Site Reliability Operations Analyst - Legal | New York, NY | posted: 2026-11-19
 - [ ] https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e | supabase | Storage Platform Engineer | Remote, Global | posted: 2026-11-19
+
+- [ ] https://jobs.ashbyhq.com/e2b/2a86d352-77a2-4b32-9b36-7a0cef76262f | e2b | Site Reliability Engineer - Platform | San Francisco | posted: 2026-11-19
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/8400470?gh_jid=8400470 | crunchyroll | Software Engineer III, Web and Connected Experiences | San Francisco, CA, United States | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a | baseten | Software Engineer - Inference Product | San Francisco · New York · United States | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f | notion | Software Engineer, Collections Infra | San Francisco, California | posted: 2026-11-19
