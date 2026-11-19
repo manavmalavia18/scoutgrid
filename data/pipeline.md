@@ -2480,3 +2480,17 @@
 - [ ] https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f | notion | Software Engineer, Collections Infra | San Francisco, California | posted: 2026-11-19
 
 - [ ] https://jobs.ashbyhq.com/quindar/f384450c-697b-427e-8930-58fc195016d2 | quindar | Cleared Full Stack Engineer | Denver, CO | posted: 2026-11-19
+
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4731007006?gh_jid=4731007006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/fashionnova/jobs/8401095 | fashionnova | Fullstack Software Engineer | Beverly Hills, California | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/element84/063a78ae-7f58-41aa-8c02-733975d6ad6b | element84 | Full Stack Software Engineer | Alexandria HQ (remote) | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/cartesia/5153bede-5f1c-4db3-98c7-45d18bb68a84 | cartesia | Software Engineer, Voices | *HQ - San Francisco, CA | posted: 2026-11-19
+- [ ] https://www.esri.com/careers/5291317007?gh_jid=5291317007 | esri | Software Development Engineer | Vienna, Virginia, United States | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/terac/7296e630-673a-45e4-a2a2-04e98cd73fb7 | terac | Software Developers: Interview on AI Assistant Integrations | United States · Remote | posted: 2026-11-19
+- [ ] https://jobs.lever.co/redwoodcu/69c327df-2541-4395-b14a-2f66d3236bf4 | redwoodcu | DevOps Engineer I | Napa, California | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/xona-space/5f9603fa-1412-480e-a2bb-f8b85778094f | xona-space | Cloud Infrastructure Engineer - Platform Engineering | Burlingame, California | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6250690004 | natera | Software Engineer III | Austin, TX | posted: 2026-11-19
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4730777006 | paretocaptiveservicesllc | Software Engineer | Remote · Remote | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49 | ramp | Software Engineer, Production Engineering, FinOps | New York, NY (HQ) | posted: 2026-11-19
+- [ ] https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281 | supabase | Software Engineer - Postgres Tooling | Remote, Global | posted: 2026-11-19
+- [ ] https://jobs.lever.co/floqast/b24a4667-d624-479c-ac29-222470d08454 | floqast | Software Engineer, Core AI/ML | San Jose, California; Los Angeles, California | posted: 2026-11-19
