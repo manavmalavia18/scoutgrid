@@ -2523,3 +2523,5 @@
 
 - [ ] https://jobs.ashbyhq.com/heliux/1b264265-a680-417c-a1ca-f1f1401c158d | heliux | Software Engineer (All Levels) | New York, NY | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/heliux/539f6ba4-80b2-4038-ba1a-bf36c948d5a9 | heliux | Software Engineer (All Levels) | New York, NY | posted: 2026-11-20
+
+- [ ] https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef | hinge-health | AI Engineer II | San Francisco-HQ | posted: 2026-11-20
