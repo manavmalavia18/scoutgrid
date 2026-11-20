@@ -2536,3 +2536,11 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491421008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-20
 
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8378548 | adyen | Software Engineer | San Francisco | posted: 2026-11-20
+
+- [ ] https://job-boards.greenhouse.io/thetradedesk/jobs/5298122007 | thetradedesk | Cybersecurity Software Engineer II | Bellevue; Boston; New York; Ventura | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8405809 | twilio | Software Engineer (L2) Supernetwork | Remote - Ireland | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8405807 | twilio | Software Engineer (L2) SuperNetwork | Remote - Estonia | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/tribalscale/jobs/4731215006 | tribalscale | AI Engineer - Agent Infrastructure & AI Workflow | Remote USA | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6150691004 | vercel | Software Engineer, Runtimes | Hybrid - San Francisco | posted: 2026-11-19
+- [ ] https://sproutsocial.com/careers/open-positions/8400301?gh_jid=8400301 | ssreferrals | GTM AI Engineer | Remote US | posted: 2026-11-19
+- [ ] https://sproutsocial.com/careers/open-positions/8400299/?gh_jid=8400299 | sproutsocial | GTM AI Engineer | Remote US | posted: 2026-11-19
