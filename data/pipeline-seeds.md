@@ -2174,4 +2174,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/paddle/7642fac5-d94b-4157-8b19-79a7dbc115ea | paddle | Software Engineer (Go) | UK · Portugal · Ireland · Remote | posted: 2026-11-20
 - [ ] https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5039547101 | veeamsoftware | Finance AI Engineer | Remote, United States | posted: 2026-11-19
 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5303412007?gh_jid=5303412007 | andurilindustries | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5303411007?gh_jid=5303411007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/docplanner/4dfc1067-7fc8-4b80-b470-8b97d96e4427 | docplanner | LLM Engineer (100% Remote within Poland) | Warsaw · Remote | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/docplanner/e40005fa-d2bf-44fe-9547-ad579b28de77 | docplanner | LLM Engineer (100% Remote within Spain) | Barcelona · Remote | posted: 2026-11-20
+
 ## Processed
