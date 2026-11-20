@@ -2544,3 +2544,5 @@
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6150691004 | vercel | Software Engineer, Runtimes | Hybrid - San Francisco | posted: 2026-11-19
 - [ ] https://sproutsocial.com/careers/open-positions/8400301?gh_jid=8400301 | ssreferrals | GTM AI Engineer | Remote US | posted: 2026-11-19
 - [ ] https://sproutsocial.com/careers/open-positions/8400299/?gh_jid=8400299 | sproutsocial | GTM AI Engineer | Remote US | posted: 2026-11-19
+
+- [ ] https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412 | creatoriq | MLOps / DevOps Engineer – AI Infrastructure | New York · New Jersey · United States · Los Angeles · San Francisco | posted: 2026-11-20
