@@ -2186,4 +2186,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/oddball/jobs/8210795003 | oddball | Site Reliability Engineer | Remote · Remote | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/alan/9160db0d-a894-4fba-be07-c4b9f6fd2605 | alan | Fullstack Software Engineer (x/f/m) - Product Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-20
 
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8406812 | mongodb | Software Engineer 3 | United States | posted: 2026-11-20
+
 ## Processed
