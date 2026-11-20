@@ -2529,3 +2529,5 @@
 - [ ] https://www.mongodb.com/careers/job/?gh_jid=8406812 | mongodb | Software Engineer 3 | United States | posted: 2026-11-20
 
 - [ ] https://jobs.ashbyhq.com/kira/dcda6f09-1818-43e2-b2f5-e24d116339a8 | kira | Software Engineer (Frontend Focus) | New York or San Francisco | posted: 2026-11-20
+
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491402008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-20
