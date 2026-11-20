@@ -2179,4 +2179,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/docplanner/4dfc1067-7fc8-4b80-b470-8b97d96e4427 | docplanner | LLM Engineer (100% Remote within Poland) | Warsaw · Remote | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/docplanner/e40005fa-d2bf-44fe-9547-ad579b28de77 | docplanner | LLM Engineer (100% Remote within Spain) | Barcelona · Remote | posted: 2026-11-20
 
+- [ ] https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef | hinge-health | AI Engineer II | San Francisco-HQ | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/heliux/1b264265-a680-417c-a1ca-f1f1401c158d | heliux | Software Engineer, Transformation Platform (All Levels) | New York, NY | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/heliux/539f6ba4-80b2-4038-ba1a-bf36c948d5a9 | heliux | Software Engineer, Transformation Platform (All Levels) | New York, NY | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8210802003 | oddball | DevOps Engineer | Remote · Remote | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8210795003 | oddball | Site Reliability Engineer | Remote · Remote | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/alan/9160db0d-a894-4fba-be07-c4b9f6fd2605 | alan | Fullstack Software Engineer (x/f/m) - Product Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-20
+
 ## Processed
