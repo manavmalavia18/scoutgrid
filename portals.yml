@@ -24278,6 +24278,101 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Ampersand"
+    careers_url: https://jobs.ashbyhq.com/Ampersand
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Bulwark Dynamics"
+    careers_url: https://jobs.ashbyhq.com/bulwark-dynamics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Century Health"
+    careers_url: https://jobs.ashbyhq.com/century.health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Phil"
+    careers_url: https://jobs.ashbyhq.com/Phil
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Shiplify"
+    careers_url: https://jobs.ashbyhq.com/shiplify
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Trener Robotics"
+    careers_url: https://jobs.ashbyhq.com/trener-robotics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Zero Homes"
+    careers_url: https://jobs.ashbyhq.com/zerohomes
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Arkestro"
+    careers_url: https://job-boards.greenhouse.io/arkestroinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Attain"
+    careers_url: https://job-boards.greenhouse.io/attain
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fashion Nova"
+    careers_url: https://job-boards.greenhouse.io/fashionnova
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Gibson, Dunn & Crutcher"
+    careers_url: https://job-boards.greenhouse.io/gibsondunn
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Hut 8"
+    careers_url: https://job-boards.greenhouse.io/hut8
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Kodiak Robotics"
+    careers_url: https://job-boards.greenhouse.io/kodiak
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "OKX"
+    careers_url: https://job-boards.greenhouse.io/okx
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Wurl"
+    careers_url: https://job-boards.greenhouse.io/wurljobs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Progress Residential"
+    careers_url: https://pretiumenterpriseservices.wd1.myworkdayjobs.com/PR
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
