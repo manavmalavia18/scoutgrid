@@ -2170,4 +2170,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/gomotive/jobs/8950900002 | gomotive | Software Engineer, Platform IOT | Hybrid - San Francisco, California | posted: 2026-11-19
 - [ ] https://jobs.lever.co/lumafield/22baab6c-e40c-4d26-9172-8f942449a758 | lumafield | Cloud DevOps Engineer | San Francisco, CA | posted: 2026-11-19
 
+- [ ] https://jobs.ashbyhq.com/everai/5749b321-9759-4b39-85ec-9e43ea6dcafa | everai | LLM Engineer — Post-Training (Remote - UK) | United Kingdom · Portugal · Remote | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/paddle/7642fac5-d94b-4157-8b19-79a7dbc115ea | paddle | Software Engineer (Go) | UK · Portugal · Ireland · Remote | posted: 2026-11-20
+- [ ] https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5039547101 | veeamsoftware | Finance AI Engineer | Remote, United States | posted: 2026-11-19
+
 ## Processed
