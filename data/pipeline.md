@@ -2515,3 +2515,5 @@
 - [ ] https://jobs.ashbyhq.com/docplanner/4dfc1067-7fc8-4b80-b470-8b97d96e4427 | docplanner | LLM Engineer (100% Remote within Poland) | Warsaw · Remote | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/docplanner/e40005fa-d2bf-44fe-9547-ad579b28de77 | docplanner | LLM Engineer (100% Remote within Spain) | Barcelona · Remote | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/everai/5749b321-9759-4b39-85ec-9e43ea6dcafa | everai | LLM Engineer — Post-Training (Remote - UK) | United Kingdom · Portugal · Remote | posted: 2026-11-20
+
+- [ ] https://jobs.ashbyhq.com/alan/9160db0d-a894-4fba-be07-c4b9f6fd2605 | alan | Fullstack Software Engineer (x/f/m) - Product Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-20
