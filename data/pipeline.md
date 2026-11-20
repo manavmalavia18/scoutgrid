@@ -2531,3 +2531,6 @@
 - [ ] https://jobs.ashbyhq.com/kira/dcda6f09-1818-43e2-b2f5-e24d116339a8 | kira | Software Engineer (Frontend Focus) | New York or San Francisco | posted: 2026-11-20
 
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491402008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-20
+
+- [ ] https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5 | render | Software Engineer, Application Security (all levels) | SF or Remote (US/Canada) | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491421008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-20
