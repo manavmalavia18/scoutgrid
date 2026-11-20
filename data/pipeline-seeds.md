@@ -2167,4 +2167,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4731007006?gh_jid=4731007006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-11-19
 - [ ] https://job-boards.greenhouse.io/fashionnova/jobs/8401095 | fashionnova | Fullstack Software Engineer | Beverly Hills, California | posted: 2026-11-19
 
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8950900002 | gomotive | Software Engineer, Platform IOT | Hybrid - San Francisco, California | posted: 2026-11-19
+- [ ] https://jobs.lever.co/lumafield/22baab6c-e40c-4d26-9172-8f942449a758 | lumafield | Cloud DevOps Engineer | San Francisco, CA | posted: 2026-11-19
+
 ## Processed
