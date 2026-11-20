@@ -2517,3 +2517,6 @@
 - [ ] https://jobs.ashbyhq.com/everai/5749b321-9759-4b39-85ec-9e43ea6dcafa | everai | LLM Engineer — Post-Training (Remote - UK) | United Kingdom · Portugal · Remote | posted: 2026-11-20
 
 - [ ] https://jobs.ashbyhq.com/alan/9160db0d-a894-4fba-be07-c4b9f6fd2605 | alan | Fullstack Software Engineer (x/f/m) - Product Platform | Anywhere in France, Belgium, Spain | posted: 2026-11-20
+
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8210802003 | oddball | DevOps Engineer | Remote · Remote | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8210795003 | oddball | Site Reliability Engineer | Remote · Remote | posted: 2026-11-20
