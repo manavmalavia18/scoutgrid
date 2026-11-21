@@ -2188,4 +2188,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://www.mongodb.com/careers/job/?gh_jid=8406812 | mongodb | Software Engineer 3 | United States | posted: 2026-11-20
 
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8201471003 | affirm | Software Engineer I, Backend (Streaming Infra) | Remote Canada | posted: 2026-11-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8201469003 | affirm | Software Engineer I, Backend (Streaming Infra) | Remote US | posted: 2026-11-21
+- [ ] https://jobs.ashbyhq.com/mercor/9431db0b-904e-4f91-8be7-87fad304db6d | mercor | Backend Software Engineer, Infrastructure | San Francisco | posted: 2026-11-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8196691003 | affirm | Software Engineer I, Fullstack (Disputes Platform) | Remote Canada | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/benchling/0ad40d59-6e70-4081-8123-4864fc1b12d8 | benchling | Software Engineer, Full Stack (Core Admin) | San Francisco, CA | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/atlassp/jobs/5304427007 | atlassp | Software Engineer – Portfolio Management | New York, New York, United States | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412 | creatoriq | MLOps / DevOps Engineer – AI Infrastructure | New York · New Jersey · United States · Los Angeles · San Francisco | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5 | render | Software Engineer, Application Security (all levels) | SF or Remote (US/Canada) | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491421008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491402008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/kira/dcda6f09-1818-43e2-b2f5-e24d116339a8 | kira | Software Engineer (Frontend Focus) | New York or San Francisco | posted: 2026-11-20
+
 ## Processed
