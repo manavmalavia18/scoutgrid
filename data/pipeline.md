@@ -2553,3 +2553,6 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8196691003 | affirm | Software Engineer I, Fullstack (Disputes Platform) | Remote Canada | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/benchling/0ad40d59-6e70-4081-8123-4864fc1b12d8 | benchling | Software Engineer, Full Stack (Core Admin) | San Francisco, CA | posted: 2026-11-20
 - [ ] https://job-boards.greenhouse.io/atlassp/jobs/5304427007 | atlassp | Software Engineer – Portfolio Management | New York, New York, United States | posted: 2026-11-20
+
+- [ ] https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d | harvey | Creative AI Engineer | San Francisco | posted: 2026-11-21
+- [ ] https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060 | harvey | Creative AI Engineer | New York | posted: 2026-11-21
