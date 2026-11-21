@@ -1518,4 +1518,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://modivcare.wd1.myworkdayjobs.com/careers/job/Remote/Site-Reliability-Engineer-IV_JR104068 | modivcare | Site Reliability Engineer IV | Remote | posted: 2026-11-19
 
+- [ ] https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1 | gorbel | Front-End Web Developer Co-Op | USA, New York, Victor | posted: 2026-11-20
+
 ## Processed
