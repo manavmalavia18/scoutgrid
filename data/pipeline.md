@@ -2546,3 +2546,10 @@
 - [ ] https://sproutsocial.com/careers/open-positions/8400299/?gh_jid=8400299 | sproutsocial | GTM AI Engineer | Remote US | posted: 2026-11-19
 
 - [ ] https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412 | creatoriq | MLOps / DevOps Engineer – AI Infrastructure | New York · New Jersey · United States · Los Angeles · San Francisco | posted: 2026-11-20
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8201471003 | affirm | Software Engineer I, Backend (Streaming Infra) | Remote Canada | posted: 2026-11-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8201469003 | affirm | Software Engineer I, Backend (Streaming Infra) | Remote US | posted: 2026-11-21
+- [ ] https://jobs.ashbyhq.com/mercor/9431db0b-904e-4f91-8be7-87fad304db6d | mercor | Backend Software Engineer, Infrastructure | San Francisco | posted: 2026-11-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8196691003 | affirm | Software Engineer I, Fullstack (Disputes Platform) | Remote Canada | posted: 2026-11-20
+- [ ] https://jobs.ashbyhq.com/benchling/0ad40d59-6e70-4081-8123-4864fc1b12d8 | benchling | Software Engineer, Full Stack (Core Admin) | San Francisco, CA | posted: 2026-11-20
+- [ ] https://job-boards.greenhouse.io/atlassp/jobs/5304427007 | atlassp | Software Engineer – Portfolio Management | New York, New York, United States | posted: 2026-11-20
