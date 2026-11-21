@@ -2200,4 +2200,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491402008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-20
 - [ ] https://jobs.ashbyhq.com/kira/dcda6f09-1818-43e2-b2f5-e24d116339a8 | kira | Software Engineer (Frontend Focus) | New York or San Francisco | posted: 2026-11-20
 
+- [ ] https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d | harvey | Creative AI Engineer | San Francisco | posted: 2026-11-21
+- [ ] https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060 | harvey | Creative AI Engineer | New York | posted: 2026-11-21
+
 ## Processed
