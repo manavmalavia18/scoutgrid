@@ -2107,4 +2107,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/neural-earth/69e84174-b8e9-49c6-949d-2bda36649342 | Neural Earth | DevOps Engineer II (6-Month) | United States · Remote | posted: 2026-11-18
 - [ ] https://jobs.lever.co/floqast/da7d871f-57c8-43e0-a974-030a9fc4cf8e | FloQast | Software Engineer, Data | San Jose, California | posted: 2026-11-18
 
+- [ ] https://jobs.ashbyhq.com/Clera/2f86e8ee-1e44-40b4-bf47-a0db71a2d246 | Clera | Software Engineer, Video Pipeline | San Francisco | posted: 2026-11-21
+- [ ] https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060 | Harvey | Creative AI Engineer | New York | posted: 2026-11-21
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000162837679 | ServiceNow | Assoc Software Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-11-21
+- [ ] https://jobs.smartrecruiters.com/cityofnewyork/3743990017021696 | City of New York | Data Analyst, Bureau of Mental Health | Long Island City, NY, United States | posted: 2026-11-21
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8201471003 | Affirm | Software Engineer I, Backend (Streaming Infra) | Remote Canada | posted: 2026-11-21
+- [ ] https://jobs.ashbyhq.com/mercor/9431db0b-904e-4f91-8be7-87fad304db6d | MERCOR | Backend Software Engineer, Infrastructure | San Francisco | posted: 2026-11-21
+
 ## Processed
