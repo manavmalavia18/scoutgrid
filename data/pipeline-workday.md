@@ -1520,4 +1520,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1 | gorbel | Front-End Web Developer Co-Op | USA, New York, Victor | posted: 2026-11-20
 
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Application-Developer--Mid_R0253932 | bah | Application Developer, Mid | Washington, DC | posted: 2026-11-21
+
 ## Processed
