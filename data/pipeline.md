@@ -2593,3 +2593,8 @@
 - [ ] https://jobs.ashbyhq.com/formal/1249d7c4-0284-43a8-b78a-4f2bc7ce561b | formal | Software Engineer / Developer Relations | San Francisco | posted: 2026-11-23
 
 - [ ] https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4 | openai | Applied AI Engineer, Mid-Market Enterprise | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/3y-health/4f939b30-7c60-4634-b185-463b073fcf5d | 3y-health | Full Stack Engineer | Remote - Toronto | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/3y-health/40de167b-30fa-4cf4-ab5e-bdb5d1f06e94 | 3y-health | Full Stack AI Engineer | Remote - Toronto | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed | decagon | Software Engineer, Developer Platform | San Francisco · New York City · New York · United States | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/decagon/87d6c46a-365c-4d97-98ca-de7e29b6cf72 | decagon | Software Engineer, Cloud Infrastructure | San Francisco · New York City · New York · United States | posted: 2026-11-23
