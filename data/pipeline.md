@@ -2588,3 +2588,6 @@
 - [ ] https://jobs.lever.co/redhorsecorp/787dd254-5107-4dfd-940a-d5af7dac95e8 | redhorsecorp | Software Developer | Washington, DC | posted: 2026-11-23
 
 - [ ] https://jobs.lever.co/redhorsecorp/35b8d11f-837c-4f39-b103-1a389929df92 | redhorsecorp | Web Developer | Washington, DC | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/formal/ab3d728f-506f-4858-8c1b-bc684c542755 | formal | Software Engineer / Security | San Francisco | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/formal/1249d7c4-0284-43a8-b78a-4f2bc7ce561b | formal | Software Engineer / Developer Relations | San Francisco | posted: 2026-11-23
