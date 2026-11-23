@@ -2560,3 +2560,5 @@
 - [ ] https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002 | artefactlinkedin | AI Applied Engineer – AI Engineer | 135 W 26th Street, New York, NY 10001 | posted: 2026-11-23
 
 - [ ] https://job-boards.greenhouse.io/gusto/jobs/8394537 | gusto | Site Reliability Engineer | Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7 | airwallex | Software Engineer, AI Tooling | US - San Francisco | posted: 2026-11-23
