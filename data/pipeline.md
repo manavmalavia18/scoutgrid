@@ -2569,3 +2569,6 @@
 - [ ] https://jobs.ashbyhq.com/kissmyapps/a4ca45a1-2790-47ba-8d9d-73c972ae0307 | kissmyapps | Back-End Engineer (Wellbeing product) | Ukraine · Remote | posted: 2026-11-23
 
 - [ ] https://job-boards.greenhouse.io/cardata/jobs/4516708009 | cardata | Full-Stack Software Engineer | Canada - Remote | posted: 2026-11-23
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5487188008 | anthropic | Software Engineer, Model-to-Product Behavior Engineering | San Francisco, CA | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01 | supabase | Software Engineer - Interfaces Backend | Remote, Global | posted: 2026-11-23
