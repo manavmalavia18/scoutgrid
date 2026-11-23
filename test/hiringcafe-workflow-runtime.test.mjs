@@ -2,13 +2,42 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 
-const workflows = [
+// hc.yml/hc-data.yml moved to a self-hosted Mac runner on 2026-11-16 (no
+// more Tailscale exit node — this machine's own residential IP is the
+// network path now) — see hc.yml's own comments for the full rationale.
+// jobright.yml is unchanged and still runs on a GitHub-hosted runner via
+// the Tailscale exit node, so it keeps the original assertions below.
+const selfHostedWorkflows = [
   '.github/workflows/hc.yml',
   '.github/workflows/hc-data.yml',
+];
+const tailscaleWorkflows = [
   '.github/workflows/jobright.yml',
 ];
 
-for (const path of workflows) {
+for (const path of selfHostedWorkflows) {
+  test(`${path} runs on the self-hosted Mac runner, not a GitHub-hosted one`, () => {
+    const yaml = readFileSync(path, 'utf8');
+    assert.match(yaml, /runs-on:\s*\[self-hosted,\s*macOS\]/);
+  });
+
+  test(`${path} has no Tailscale exit-node step (self-hosted runner uses its own network path)`, () => {
+    const yaml = readFileSync(path, 'utf8');
+    // Comments mentioning Tailscale (explaining WHY it was removed) are
+    // fine and expected — only an actual step (the action, or the
+    // disconnect command) must be absent.
+    assert.equal(yaml.indexOf('uses: tailscale/github-action'), -1, 'self-hosted workflow should not connect to Tailscale');
+    assert.equal(yaml.indexOf('tailscale down'), -1, 'self-hosted workflow should not disconnect Tailscale (never connected)');
+  });
+
+  test(`${path} allows enough time for a full scrape`, () => {
+    const yaml = readFileSync(path, 'utf8');
+    const timeout = Number(yaml.match(/timeout-minutes:\s*(\d+)/)?.[1] || 0);
+    assert.ok(timeout >= 20, `expected timeout >= 20 minutes, got ${timeout}`);
+  });
+}
+
+for (const path of tailscaleWorkflows) {
   test(`${path} pins a Patchright-compatible runner`, () => {
     const yaml = readFileSync(path, 'utf8');
     assert.match(yaml, /runs-on:\s*ubuntu-24\.04/);

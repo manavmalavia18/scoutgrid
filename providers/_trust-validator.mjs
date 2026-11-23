@@ -47,6 +47,14 @@ const DEFAULT_ATS_ALLOWLIST = [
   'jazz.co',
   'bamboohr.com',
   'teamtailor.com',
+  // Added alongside providers/pinpoint.mjs, providers/rippling.mjs,
+  // providers/ultipro.mjs — without these, every job from these 3 new
+  // providers gets a false company_domain_mismatch flag, since the posting
+  // URL's host is the ATS platform's, never the company's own domain.
+  'pinpointhq.com',
+  'rippling.com',
+  'ultipro.com',
+  'ultipro.ca',
 ];
 
 /** @type {Record<string, number>} */
