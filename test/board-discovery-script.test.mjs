@@ -223,3 +223,37 @@ test('a16z-feed.json is read as a source and promotes direct ATS leads', () => {
     rmSync(dir, { recursive: true, force: true });
   }
 });
+
+test('liftoff-feed.json is read as a source and promotes direct ATS leads', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'scoutgrid-board-registry-liftoff-'));
+  try {
+    seedPortals(dir, [
+      'title_filter:',
+      '  positive: []',
+      'tracked_companies:',
+      '',
+    ].join('\n'));
+    writeFileSync(join(dir, 'data/hiringcafe-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    writeFileSync(join(dir, 'data/nextplay-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    writeFileSync(join(dir, 'data/linkedin-feed.json'), JSON.stringify({ fetchedAt: '', jobs: [] }));
+    // Fixture mirrors liftoffjobs.com's real /api/public/jobs response shape
+    // (confirmed live): the feed already carries the resolved first-party
+    // ATS apply URL, so (unlike a16z's per-company-page HTML) there's no
+    // intermediate resolution step for discover-boards.mjs to need.
+    writeFileSync(join(dir, 'data/liftoff-feed.json'), JSON.stringify({
+      fetchedAt: new Date().toISOString(),
+      jobs: [
+        { url: 'https://job-boards.greenhouse.io/liftofffound/jobs/111', company: 'LiftoffFound Co', title: 'Engineer' },
+        { url: 'https://job-boards.greenhouse.io/liftofffound/jobs/222', company: 'LiftoffFound Co', title: 'Designer' },
+      ],
+    }));
+
+    runDiscoverAgainst(dir);
+
+    const doc = yaml.load(readFileSync(join(dir, 'portals.yml'), 'utf8'));
+    assert.equal(doc.tracked_companies.length, 1, 'two leads for the same company must collapse to one board');
+    assert.equal(doc.tracked_companies[0].careers_url, 'https://job-boards.greenhouse.io/liftofffound');
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});

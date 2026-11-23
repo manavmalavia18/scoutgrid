@@ -55,6 +55,11 @@ const DEFAULT_ATS_ALLOWLIST = [
   'rippling.com',
   'ultipro.com',
   'ultipro.ca',
+  // Added alongside providers/oraclecloud.mjs — the posting URL's host is
+  // the customer's own opaque Fusion pod (e.g. ejwl.fa.us2.oraclecloud.com),
+  // never the company's domain, so every oraclecloud job would otherwise
+  // get the same false company_domain_mismatch flag.
+  'oraclecloud.com',
 ];
 
 /** @type {Record<string, number>} */

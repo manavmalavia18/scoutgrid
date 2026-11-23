@@ -109,6 +109,7 @@ function main() {
     loadJsonFeed('wellfound-feed.json', 'wellfound'),
     loadJsonFeed('linkedin-feed.json', 'linkedin'),
     loadJsonFeed('a16z-feed.json', 'a16z'),
+    loadJsonFeed('liftoff-feed.json', 'liftoff'),
   ];
   const totalLeads = feeds.reduce((sum, f) => sum + f.jobs.length, 0);
 

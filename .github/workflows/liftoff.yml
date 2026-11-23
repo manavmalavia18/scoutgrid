@@ -1,0 +1,65 @@
+name: liftoffjobs VC-portfolio board-discovery leads
+
+on:
+  schedule:
+    - cron: '42 */6 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: liftoff-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --no-audit --no-fund
+
+      # liftoffjobs.com's own robots.txt explicitly invites this instead of
+      # HTML scraping (Allow: /api/public/, Allow: /api/openapi.json, with a
+      # comment saying to crawl the API, not the HTML) — public, keyless,
+      # JSON, no login wall, no Cloudflare challenge. See fetch-liftoff-
+      # feed.mjs's header comment for the full rationale (covers Sequoia/
+      # Accel/Benchmark/Index/General Catalyst/Thrive/Founders Fund/Bessemer
+      # through one aggregator instead of 8 separate VC-site scrapers, 5 of
+      # which run on Getro and actively block direct scraping).
+      - name: Run liftoffjobs VC-portfolio lead fetch
+        run: node fetch-liftoff-feed.mjs
+
+      # Promotion to official-board-registry.json is left to the dedicated
+      # board-discovery.yml workflow, same reasoning as a16z.yml (avoids two
+      # workflows racing to write the same shared registry/heartbeat files).
+
+      - name: Commit results
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ portals.yml
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "liftoff: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3 4 5 6 7 8; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              backoff=$((attempt * 8))
+              echo "push attempt $attempt failed, retrying in ${backoff}s..."
+              sleep $backoff
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 8 attempts"
+              exit 1
+            fi
+          fi
