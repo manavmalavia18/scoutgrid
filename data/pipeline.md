@@ -2578,3 +2578,5 @@
 - [ ] https://jobs.ashbyhq.com/zowie/dc0623af-b434-4396-a577-b1fcdc9948d1 | zowie | Enterprise Platform Engineer | Poland · Remote | posted: 2026-11-23
 
 - [ ] https://jobs.ashbyhq.com/speak/c53b34f1-01d8-4cff-ae74-73c4d6706d6a | speak | Infra & Platform Engineer | San Francisco | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/array-behavioral-care/25961085-3e73-4dad-87b8-18bde439eb6a | array-behavioral-care | Automation Software Engineer | Nationwide Remote | posted: 2026-11-23
