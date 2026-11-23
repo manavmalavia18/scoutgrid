@@ -2576,3 +2576,5 @@
 - [ ] https://jobs.ashbyhq.com/base-power/578a5f17-ce99-4897-ae6c-9491163e759f | base-power | Software Engineer, Backend - Device Analytics | Austin, TX | posted: 2026-11-23
 
 - [ ] https://jobs.ashbyhq.com/zowie/dc0623af-b434-4396-a577-b1fcdc9948d1 | zowie | Enterprise Platform Engineer | Poland · Remote | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/speak/c53b34f1-01d8-4cff-ae74-73c4d6706d6a | speak | Infra & Platform Engineer | San Francisco | posted: 2026-11-23
