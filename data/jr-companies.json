@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-23T18:12:33.529Z",
+  "fetchedAt": "2026-11-23T18:54:55.750Z",
   "scrapedAt": "2026-11-18T13:36:17.189929+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 160,
+  "companyCount": 166,
   "companies": [
     {
       "company": "Abridge",
@@ -20,6 +20,13 @@
       "board": "acrisure",
       "key": "workday:acrisure.wd1.myworkdayjobs.com/acrisure",
       "url": "https://acrisure.wd1.myworkdayjobs.com/acrisure"
+    },
+    {
+      "company": "Acron Aviation",
+      "ats": "lever",
+      "board": "acronaviation",
+      "key": "lever:acronaviation",
+      "url": "https://jobs.lever.co/acronaviation/f7ef82bc-6300-4f2c-98a8-7d8561c42af5"
     },
     {
       "company": "Affirm",
@@ -82,7 +89,14 @@
       "ats": "greenhouse",
       "board": "anthropic",
       "key": "greenhouse:anthropic",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5487188008"
+    },
+    {
+      "company": "APADCode",
+      "ats": "ashby",
+      "board": "apadcode",
+      "key": "ashby:apadcode",
+      "url": "https://jobs.ashbyhq.com/apadcode/f5e28b43-b13e-4f11-a45c-b13c1002db5c"
     },
     {
       "company": "Applied Materials",
@@ -162,6 +176,13 @@
       "url": "https://job-boards.greenhouse.io/avride/jobs/4516788009"
     },
     {
+      "company": "Base Power Company",
+      "ats": "ashby",
+      "board": "base-power",
+      "key": "ashby:base-power",
+      "url": "https://jobs.ashbyhq.com/base-power/578a5f17-ce99-4897-ae6c-9491163e759f"
+    },
+    {
       "company": "Baselayer",
       "ats": "greenhouse",
       "board": "baselayer",
@@ -174,6 +195,13 @@
       "board": "baseten",
       "key": "ashby:baseten",
       "url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde/application"
+    },
+    {
+      "company": "Benchling",
+      "ats": "ashby",
+      "board": "benchling",
+      "key": "ashby:benchling",
+      "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099"
     },
     {
       "company": "BETA Technologies",
@@ -274,6 +302,13 @@
       "url": "https://job-boards.greenhouse.io/coast/jobs/6267274004"
     },
     {
+      "company": "Community College of Baltimore County",
+      "ats": "greenhouse",
+      "board": "ccbcmd",
+      "key": "greenhouse:ccbcmd",
+      "url": "https://www.governmentjobs.com/careers/ccbcmd/jobs/5558725-0"
+    },
+    {
       "company": "Culture Amp",
       "ats": "greenhouse",
       "board": "cultureamp",
@@ -318,9 +353,9 @@
     {
       "company": "Embo",
       "ats": "ashby",
-      "board": "embo",
+      "board": "Embo",
       "key": "ashby:embo",
-      "url": "https://jobs.ashbyhq.com/embo/071b243c-f7eb-487f-9807-324c1632cc15"
+      "url": "https://jobs.ashbyhq.com/Embo/76f6f763-28d1-494b-94d8-acf2c93b4bed"
     },
     {
       "company": "Esri",
@@ -377,6 +412,13 @@
       "board": "first-resonance",
       "key": "ashby:first-resonance",
       "url": "https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a"
+    },
+    {
+      "company": "Form Energy",
+      "ats": "ashby",
+      "board": "formenergy",
+      "key": "ashby:formenergy",
+      "url": "https://jobs.ashbyhq.com/formenergy/19d7af03-573b-4b51-88d6-6aff91d7a60d"
     },
     {
       "company": "Formlabs",
@@ -736,11 +778,25 @@
       "url": "https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/128105?embedded=true"
     },
     {
+      "company": "Ohio Public Employees Retirement System",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:18508246",
+      "url": "https://careers.opers.org/jobs/18508246"
+    },
+    {
       "company": "OKX",
       "ats": "greenhouse",
       "board": "okx",
       "key": "greenhouse:okx",
       "url": "https://job-boards.greenhouse.io/okx/jobs/8209722003"
+    },
+    {
+      "company": "Old Mission",
+      "ats": "ashby",
+      "board": "old-mission-capital",
+      "key": "ashby:old-mission-capital",
+      "url": "https://jobs.ashbyhq.com/old-mission-capital/d0460cd5-f0ae-47fe-987a-a32a063fddab"
     },
     {
       "company": "OpenAI",
@@ -762,20 +818,6 @@
       "board": "parallel",
       "key": "ashby:parallel",
       "url": "https://jobs.ashbyhq.com/parallel/fa55e4f5-e580-4530-89eb-914f16f8f9f9"
-    },
-    {
-      "company": "ParetoHealth",
-      "ats": "greenhouse",
-      "board": "paretocaptiveservicesllc",
-      "key": "greenhouse:paretocaptiveservicesllc",
-      "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4730777006"
-    },
-    {
-      "company": "Parker Hannifin",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:18500817",
-      "url": "https://parkercareers.ttcportals.com/jobs/18500817"
     },
     {
       "company": "Phil",
@@ -874,13 +916,6 @@
       "board": "",
       "key": "greenhouse-id:140990",
       "url": "https://careers.se.com/jobs/140990"
-    },
-    {
-      "company": "Seminole County Clerk of the Circuit Court & Comptroller",
-      "ats": "greenhouse",
-      "board": "seminoleclerk",
-      "key": "greenhouse:seminoleclerk",
-      "url": "https://www.governmentjobs.com/careers/seminoleclerk/jobs/4893004-0"
     },
     {
       "company": "Shiplify",
@@ -1070,6 +1105,13 @@
       "board": "trener-robotics",
       "key": "ashby:trener-robotics",
       "url": "https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74"
+    },
+    {
+      "company": "Tyler Technologies",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:18509283",
+      "url": "https://tylertechcareers.ttcportals.com/jobs/18509283"
     },
     {
       "company": "Waymo",
