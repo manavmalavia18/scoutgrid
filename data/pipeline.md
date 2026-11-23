@@ -2591,3 +2591,5 @@
 
 - [ ] https://jobs.ashbyhq.com/formal/ab3d728f-506f-4858-8c1b-bc684c542755 | formal | Software Engineer / Security | San Francisco | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/formal/1249d7c4-0284-43a8-b78a-4f2bc7ce561b | formal | Software Engineer / Developer Relations | San Francisco | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4 | openai | Applied AI Engineer, Mid-Market Enterprise | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-23
