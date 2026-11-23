@@ -2222,4 +2222,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/zowie/dc0623af-b434-4396-a577-b1fcdc9948d1 | zowie | Enterprise Platform Engineer | Poland · Remote | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/base-power/578a5f17-ce99-4897-ae6c-9491163e759f | base-power | Software Engineer, Backend - Device Analytics | Austin, TX | posted: 2026-11-23
 
+- [ ] https://jobs.lever.co/redhorsecorp/35b8d11f-837c-4f39-b103-1a389929df92 | redhorsecorp | Web Developer | Washington, DC | posted: 2026-11-23
+- [ ] https://jobs.lever.co/redhorsecorp/787dd254-5107-4dfd-940a-d5af7dac95e8 | redhorsecorp | Software Developer | Washington, DC | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df | webai | Jr Software Developer | Austin, TX | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/ambrook/7d6855bd-c70c-4b39-a8bf-cb1cb392a71c | ambrook | Software Engineer, AI Platform | New York · Denver · United States · Remote · San Francisco | posted: 2026-11-23
+
 ## Processed
