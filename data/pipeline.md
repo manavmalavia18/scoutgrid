@@ -2556,3 +2556,5 @@
 
 - [ ] https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d | harvey | Creative AI Engineer | San Francisco | posted: 2026-11-21
 - [ ] https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060 | harvey | Creative AI Engineer | New York | posted: 2026-11-21
+
+- [ ] https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002 | artefactlinkedin | AI Applied Engineer – AI Engineer | 135 W 26th Street, New York, NY 10001 | posted: 2026-11-23
