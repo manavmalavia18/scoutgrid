@@ -2582,3 +2582,5 @@
 - [ ] https://jobs.ashbyhq.com/array-behavioral-care/25961085-3e73-4dad-87b8-18bde439eb6a | array-behavioral-care | Automation Software Engineer | Nationwide Remote | posted: 2026-11-23
 
 - [ ] https://jobs.ashbyhq.com/ambrook/7d6855bd-c70c-4b39-a8bf-cb1cb392a71c | ambrook | Software Engineer, AI Platform | New York · Denver · United States · Remote · San Francisco | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df | webai | Jr Software Developer | Austin, TX | posted: 2026-11-23
