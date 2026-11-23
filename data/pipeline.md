@@ -2574,3 +2574,5 @@
 - [ ] https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01 | supabase | Software Engineer - Interfaces Backend | Remote, Global | posted: 2026-11-23
 
 - [ ] https://jobs.ashbyhq.com/base-power/578a5f17-ce99-4897-ae6c-9491163e759f | base-power | Software Engineer, Backend - Device Analytics | Austin, TX | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/zowie/dc0623af-b434-4396-a577-b1fcdc9948d1 | zowie | Enterprise Platform Engineer | Poland · Remote | posted: 2026-11-23
