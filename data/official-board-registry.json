@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T14:06:52.904Z",
-  "boardCount": 2591,
-  "candidateCount": 96,
+  "generatedAt": "2026-11-23T14:43:17.725Z",
+  "boardCount": 2578,
+  "candidateCount": 83,
   "acceptedCount": 2495,
-  "alreadyTrackedCount": 2587,
+  "alreadyTrackedCount": 2567,
   "boards": [
     {
       "key": "ashby:1mind",
@@ -714,6 +714,12 @@
       ],
       "sources": [
         {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        },
+        {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/airwallex/32192a89-66ef-460d-9e91-f44ff97da094",
           "firstSeenAt": "2026-10-29T16:28:05.521Z",
@@ -727,7 +733,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-11-16T12:28:06.549Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -2982,30 +2988,6 @@
       }
     },
     {
-      "key": "ashby:beaconai",
-      "ats": "ashby",
-      "slug": "beaconai",
-      "boardUrl": "https://jobs.ashbyhq.com/beaconai",
-      "companyClaims": [
-        "Beacon AI"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://jobs.ashbyhq.com/beaconai/58b0c4e6-4f5c-4833-891f-3d50082a4c39",
-          "firstSeenAt": "2026-11-17T15:25:03.022Z",
-          "lastSeenAt": "2026-11-19T23:38:10.127Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-17T15:25:03.022Z",
-      "lastSeenAt": "2026-11-19T23:38:10.127Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "ashby:beaconholdings",
       "ats": "ashby",
       "slug": "beaconholdings",
@@ -4081,30 +4063,6 @@
       "firstSeenAt": "2026-11-13T01:50:56.218Z",
       "lastSeenAt": "2026-11-18T14:08:15.685Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "ashby:camunda",
-      "ats": "ashby",
-      "slug": "camunda",
-      "boardUrl": "https://jobs.ashbyhq.com/camunda",
-      "companyClaims": [
-        "Camunda"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://jobs.ashbyhq.com/camunda/2186512a-d129-4252-bb79-fbe847dc05af",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -8705,6 +8663,30 @@
       }
     },
     {
+      "key": "ashby:first-resonance",
+      "ats": "ashby",
+      "slug": "first-resonance",
+      "boardUrl": "https://jobs.ashbyhq.com/first-resonance",
+      "companyClaims": [
+        "First Resonance"
+      ],
+      "sources": [
+        {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        }
+      ],
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "accepted",
+      "alreadyTracked": false,
+      "verification": {
+        "status": "not_checked"
+      }
+    },
+    {
       "key": "ashby:fleek",
       "ats": "ashby",
       "slug": "fleek",
@@ -11532,6 +11514,12 @@
       ],
       "sources": [
         {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://jobs.ashbyhq.com/hyperbolic/9fcd584f-ded7-4abf-ae3a-a740f0b9c782",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        },
+        {
           "source": "nextplay",
           "sampleJobUrl": "https://jobs.ashbyhq.com/hyperbolic/642f1233-6208-4367-a0da-584b42a7e45e",
           "firstSeenAt": "2026-11-10T00:51:48.667Z",
@@ -11539,7 +11527,7 @@
         }
       ],
       "firstSeenAt": "2026-11-10T00:51:48.667Z",
-      "lastSeenAt": "2026-11-18T14:08:15.685Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16142,6 +16130,30 @@
       "lastSeenAt": "2026-11-23T10:40:19.006Z",
       "state": "accepted",
       "alreadyTracked": true,
+      "verification": {
+        "status": "not_checked"
+      }
+    },
+    {
+      "key": "ashby:miramace",
+      "ats": "ashby",
+      "slug": "miramace",
+      "boardUrl": "https://jobs.ashbyhq.com/miramace",
+      "companyClaims": [
+        "Mira Mace"
+      ],
+      "sources": [
+        {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://jobs.ashbyhq.com/miramace/15a7b34e-3d3c-4f27-a84b-3bf67e12f37b",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        }
+      ],
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "accepted",
+      "alreadyTracked": false,
       "verification": {
         "status": "not_checked"
       }
@@ -25977,6 +25989,30 @@
       }
     },
     {
+      "key": "ashby:tealhq",
+      "ats": "ashby",
+      "slug": "tealhq",
+      "boardUrl": "https://jobs.ashbyhq.com/tealhq",
+      "companyClaims": [
+        "Teal"
+      ],
+      "sources": [
+        {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://jobs.ashbyhq.com/tealhq/cf2049b4-9f7a-467a-93ea-e322ef3736ed",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        }
+      ],
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "accepted",
+      "alreadyTracked": false,
+      "verification": {
+        "status": "not_checked"
+      }
+    },
+    {
       "key": "ashby:telepatia",
       "ats": "ashby",
       "slug": "telepatia",
@@ -26393,6 +26429,30 @@
       "lastSeenAt": "2026-11-23T08:01:54.739Z",
       "state": "candidate",
       "alreadyTracked": true,
+      "verification": {
+        "status": "not_checked"
+      }
+    },
+    {
+      "key": "ashby:thought-machine",
+      "ats": "ashby",
+      "slug": "thought-machine",
+      "boardUrl": "https://jobs.ashbyhq.com/thought-machine",
+      "companyClaims": [
+        "Thought Machine"
+      ],
+      "sources": [
+        {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://jobs.ashbyhq.com/thought-machine/7b0fb544-65e2-47d8-8303-021d8b1a645b",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        }
+      ],
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "accepted",
+      "alreadyTracked": false,
       "verification": {
         "status": "not_checked"
       }
@@ -30737,6 +30797,30 @@
       }
     },
     {
+      "key": "greenhouse:artefactnoram",
+      "ats": "greenhouse",
+      "slug": "artefactnoram",
+      "boardUrl": "https://job-boards.greenhouse.io/artefactnoram",
+      "companyClaims": [
+        "Artefact"
+      ],
+      "sources": [
+        {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        }
+      ],
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "accepted",
+      "alreadyTracked": false,
+      "verification": {
+        "status": "not_checked"
+      }
+    },
+    {
       "key": "greenhouse:arvaintelligence",
       "ats": "greenhouse",
       "slug": "arvaintelligence",
@@ -33384,25 +33468,25 @@
       }
     },
     {
-      "key": "greenhouse:cssmerge",
+      "key": "greenhouse:cultureamp",
       "ats": "greenhouse",
-      "slug": "cssmerge",
-      "boardUrl": "https://job-boards.greenhouse.io/cssmerge",
+      "slug": "cultureamp",
+      "boardUrl": "https://job-boards.greenhouse.io/cultureamp",
       "companyClaims": [
-        "City Storage Systems"
+        "Culture Amp"
       ],
       "sources": [
         {
           "source": "hiringcafe",
-          "sampleJobUrl": "https://job-boards.greenhouse.io/cssmerge/jobs/8948543002",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
+          "sampleJobUrl": "https://job-boards.greenhouse.io/cultureamp/jobs/8410546",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
         }
       ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
-      "alreadyTracked": true,
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "accepted",
+      "alreadyTracked": false,
       "verification": {
         "status": "not_checked"
       }
@@ -39302,11 +39386,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5285467007",
           "firstSeenAt": "2026-11-05T12:12:47.951Z",
-          "lastSeenAt": "2026-11-05T21:43:38.849Z"
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
         }
       ],
       "firstSeenAt": "2026-11-05T12:12:47.951Z",
-      "lastSeenAt": "2026-11-05T21:43:38.849Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -42646,30 +42730,6 @@
       }
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "ats": "greenhouse",
-      "slug": "sonyinteractiveentertainmentglobal",
-      "boardUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal",
-      "companyClaims": [
-        "Sony Interactive Entertainment"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6252099004",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-19T23:38:10.127Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-19T23:38:10.127Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "greenhouse:sonypicturesanimation",
       "ats": "greenhouse",
       "slug": "sonypicturesanimation",
@@ -43089,7 +43149,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
           "firstSeenAt": "2026-10-28T13:41:21.928Z",
-          "lastSeenAt": "2026-10-29T16:12:49.867Z"
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
         },
         {
           "source": "jobright",
@@ -43099,7 +43159,7 @@
         }
       ],
       "firstSeenAt": "2026-10-28T13:41:21.928Z",
-      "lastSeenAt": "2026-10-29T16:12:49.867Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -44317,36 +44377,6 @@
       "firstSeenAt": "2026-11-14T00:51:24.292Z",
       "lastSeenAt": "2026-11-18T14:08:15.685Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "greenhouse:twilio",
-      "ats": "greenhouse",
-      "slug": "twilio",
-      "boardUrl": "https://job-boards.greenhouse.io/twilio",
-      "companyClaims": [
-        "Twilio"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
-          "firstSeenAt": "2026-11-17T03:31:27.060Z",
-          "lastSeenAt": "2026-11-19T23:38:10.127Z"
-        },
-        {
-          "source": "jobright",
-          "sampleJobUrl": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
-          "firstSeenAt": "2026-11-17T16:03:42.442Z",
-          "lastSeenAt": "2026-11-17T22:09:16.310Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-17T03:31:27.060Z",
-      "lastSeenAt": "2026-11-19T23:38:10.127Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -49289,30 +49319,6 @@
       }
     },
     {
-      "key": "workday:abbott.wd5.myworkdayjobs.com/abbottcareers",
-      "ats": "workday",
-      "slug": "abbottcareers",
-      "boardUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
-      "companyClaims": [
-        "Abbott"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Sunnyvale--645-647-Almanor-Ave/Software-Engineer_31167814",
-          "firstSeenAt": "2026-11-18T19:00:26.812Z",
-          "lastSeenAt": "2026-11-18T20:15:07.264Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T19:00:26.812Z",
-      "lastSeenAt": "2026-11-18T20:15:07.264Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:abglobal.wd1.myworkdayjobs.com/abcampuscareers",
       "ats": "workday",
       "slug": "abcampuscareers",
@@ -49499,6 +49505,30 @@
       "lastSeenAt": "2026-10-31T14:00:58.439Z",
       "state": "accepted",
       "alreadyTracked": true,
+      "verification": {
+        "status": "not_checked"
+      }
+    },
+    {
+      "key": "workday:acrisure.wd1.myworkdayjobs.com/acrisure",
+      "ats": "workday",
+      "slug": "acrisure",
+      "boardUrl": "https://acrisure.wd1.myworkdayjobs.com/acrisure",
+      "companyClaims": [
+        "Acrisure"
+      ],
+      "sources": [
+        {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://acrisure.wd1.myworkdayjobs.com/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Data-Engineer_JR114590",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        }
+      ],
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "accepted",
+      "alreadyTracked": false,
       "verification": {
         "status": "not_checked"
       }
@@ -51166,30 +51196,6 @@
       }
     },
     {
-      "key": "workday:blueorigin.wd5.myworkdayjobs.com/blueorigin",
-      "ats": "workday",
-      "slug": "blueorigin",
-      "boardUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin",
-      "companyClaims": [
-        "Blue Origin"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Mechanical-Engineer---Thermal-Systems--Project-Sunrise---Orbital-Data-Centers_R75693",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:bluescopenac.wd5.myworkdayjobs.com/bnacareers",
       "ats": "workday",
       "slug": "bnacareers",
@@ -51328,30 +51334,6 @@
       "firstSeenAt": "2026-11-18T13:25:12.029Z",
       "lastSeenAt": "2026-11-18T23:01:19.128Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "workday:boseallaboutme.wd503.myworkdayjobs.com/bose_careers",
-      "ats": "workday",
-      "slug": "bose_careers",
-      "boardUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers",
-      "companyClaims": [
-        "Bose"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
-          "firstSeenAt": "2026-11-19T02:51:55.319Z",
-          "lastSeenAt": "2026-11-19T23:38:10.127Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-19T02:51:55.319Z",
-      "lastSeenAt": "2026-11-19T23:38:10.127Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -53193,30 +53175,6 @@
       }
     },
     {
-      "key": "workday:costar.wd1.myworkdayjobs.com/costarcareers",
-      "ats": "workday",
-      "slug": "costarcareers",
-      "boardUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers",
-      "companyClaims": [
-        "CoStar Group"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Richmond---CoStar-Tower/Software-Engineer-II_R40355",
-          "firstSeenAt": "2026-11-18T16:22:32.528Z",
-          "lastSeenAt": "2026-11-18T21:51:47.153Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T16:22:32.528Z",
-      "lastSeenAt": "2026-11-18T21:51:47.153Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:cotality.wd115.myworkdayjobs.com/acq",
       "ats": "workday",
       "slug": "acq",
@@ -53283,30 +53241,6 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-15T20:34:27.406Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "workday:cox.wd1.myworkdayjobs.com/cox_external_career_site_1",
-      "ats": "workday",
-      "slug": "cox_external_career_site_1",
-      "boardUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1",
-      "companyClaims": [
-        "Cox Enterprises"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Oklahoma-City-OK/Production-Engineer_R202684146-1",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -54925,30 +54859,6 @@
       }
     },
     {
-      "key": "workday:fmr.wd1.myworkdayjobs.com/fidelitycareers",
-      "ats": "workday",
-      "slug": "fidelitycareers",
-      "boardUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers",
-      "companyClaims": [
-        "Fidelity Investments"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Jersey-City-NJ/Chapter-Leader--Trading_2138278",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-19T23:38:10.127Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-19T23:38:10.127Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:fmr.wd1.myworkdayjobs.com/targeted",
       "ats": "workday",
       "slug": "targeted",
@@ -55567,11 +55477,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---New-York---Malta/AI-enabled-PDK-Development-Engineer_JR-2606087",
           "firstSeenAt": "2026-10-29T13:13:45.842Z",
-          "lastSeenAt": "2026-10-29T16:12:49.867Z"
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
         }
       ],
       "firstSeenAt": "2026-10-29T13:13:45.842Z",
-      "lastSeenAt": "2026-10-29T16:12:49.867Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -56298,11 +56208,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215479",
           "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
         }
       ],
       "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -56322,11 +56232,35 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068-1",
           "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
         }
       ],
       "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
+      "state": "candidate",
+      "alreadyTracked": true,
+      "verification": {
+        "status": "not_checked"
+      }
+    },
+    {
+      "key": "workday:hpe.wd5.myworkdayjobs.com/wfmathpe",
+      "ats": "workday",
+      "slug": "wfmathpe",
+      "boardUrl": "https://hpe.wd5.myworkdayjobs.com/wfmathpe",
+      "companyClaims": [
+        "Hewlett Packard Enterprise"
+      ],
+      "sources": [
+        {
+          "source": "hiringcafe",
+          "sampleJobUrl": "https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Developer---Entry_1218679-1",
+          "firstSeenAt": "2026-11-23T14:12:18.979Z",
+          "lastSeenAt": "2026-11-23T14:12:18.979Z"
+        }
+      ],
+      "firstSeenAt": "2026-11-23T14:12:18.979Z",
+      "lastSeenAt": "2026-11-23T14:12:18.979Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -56400,30 +56334,6 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-15T20:34:27.406Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "workday:huntington.wd12.myworkdayjobs.com/hnbcareers",
-      "ats": "workday",
-      "slug": "hnbcareers",
-      "boardUrl": "https://huntington.wd12.myworkdayjobs.com/hnbcareers",
-      "companyClaims": [
-        "Huntington Bank"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://huntington.wd12.myworkdayjobs.com/hnbcareers/job/Columbus-OH/Software-Developer---Senior_R0077788",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -59370,30 +59280,6 @@
       }
     },
     {
-      "key": "workday:nelnet.wd1.myworkdayjobs.com/mynelnet",
-      "ats": "workday",
-      "slug": "mynelnet",
-      "boardUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet",
-      "companyClaims": [
-        "Nelnet"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:newchartertech.wd12.myworkdayjobs.com/commtechindustries",
       "ats": "workday",
       "slug": "commtechindustries",
@@ -61909,30 +61795,6 @@
       }
     },
     {
-      "key": "workday:sallie-mae.wd5.myworkdayjobs.com/careers",
-      "ats": "workday",
-      "slug": "careers",
-      "boardUrl": "https://sallie-mae.wd5.myworkdayjobs.com/careers",
-      "companyClaims": [
-        "Sallie Mae"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://sallie-mae.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000628",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-19T23:38:10.127Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-19T23:38:10.127Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:sandvik.wd3.myworkdayjobs.com/sandvik-jobs",
       "ats": "workday",
       "slug": "sandvik-jobs",
@@ -62786,30 +62648,6 @@
       }
     },
     {
-      "key": "workday:ssctech.wd1.myworkdayjobs.com/ssctechnologies",
-      "ats": "workday",
-      "slug": "ssctechnologies",
-      "boardUrl": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies",
-      "companyClaims": [
-        "SS&C Technologies"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA---One-Post-Office-Square/Software-Development-Engineer-in-Test--SDET----AI-Enabled-Quality-Infrastructure_R46994",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:stanfordmedicine.wd115.myworkdayjobs.com/shc_external_career_site",
       "ats": "workday",
       "slug": "shc_external_career_site",
@@ -62876,30 +62714,6 @@
       "firstSeenAt": "2026-11-04T00:21:41.044Z",
       "lastSeenAt": "2026-11-04T02:30:17.255Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
-      "ats": "workday",
-      "slug": "global",
-      "boardUrl": "https://statestreet.wd1.myworkdayjobs.com/global",
-      "companyClaims": [
-        "State Street"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://statestreet.wd1.myworkdayjobs.com/global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234",
-          "firstSeenAt": "2026-11-18T20:42:08.630Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T20:42:08.630Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -63433,30 +63247,6 @@
       }
     },
     {
-      "key": "workday:tamus.wd1.myworkdayjobs.com/system-wide_external",
-      "ats": "workday",
-      "slug": "system-wide_external",
-      "boardUrl": "https://tamus.wd1.myworkdayjobs.com/system-wide_external",
-      "companyClaims": [
-        "Texas A&M University System"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/College-Station-TX/Research-Engineer-I_R-098920",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:tamus.wd1.myworkdayjobs.com/tamu_external",
       "ats": "workday",
       "slug": "tamu_external",
@@ -63624,30 +63414,6 @@
       "firstSeenAt": "2026-10-16T14:38:13.735Z",
       "lastSeenAt": "2026-11-18T23:01:19.128Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "workday:tel.wd3.myworkdayjobs.com/tel-careers",
-      "ats": "workday",
-      "slug": "tel-careers",
-      "boardUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers",
-      "companyClaims": [
-        "Tokyo Electron"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/North-Phoenix-Deer-Valley/Field-Service-Start-Up-Engineer---CT_R26-02324-1",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -64882,30 +64648,6 @@
       }
     },
     {
-      "key": "workday:usbank.wd1.myworkdayjobs.com/us_bank_careers",
-      "ats": "workday",
-      "slug": "us_bank_careers",
-      "boardUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers",
-      "companyClaims": [
-        "U.S. Bank"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Brookfield-WI/Software-Engineer-2---Mainframe--COBOL-_2026-0030502-1",
-          "firstSeenAt": "2026-11-18T22:13:35.951Z",
-          "lastSeenAt": "2026-11-18T22:13:35.951Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T22:13:35.951Z",
-      "lastSeenAt": "2026-11-18T22:13:35.951Z",
-      "state": "candidate",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
       "key": "workday:utaustin.wd1.myworkdayjobs.com/utstaff",
       "ats": "workday",
       "slug": "utstaff",
@@ -65170,30 +64912,6 @@
       "firstSeenAt": "2026-10-15T03:07:13.208Z",
       "lastSeenAt": "2026-11-04T18:44:06.494Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "workday:verizon.wd12.myworkdayjobs.com/verizon-careers",
-      "ats": "workday",
-      "slug": "verizon-careers",
-      "boardUrl": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
-      "companyClaims": [
-        "Verizon"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Forward-Deployed-AI-Engineer_R-1103685-1",
-          "firstSeenAt": "2026-11-18T13:25:12.029Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T13:25:12.029Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
@@ -65482,30 +65200,6 @@
       "firstSeenAt": "2026-10-23T19:33:16.882Z",
       "lastSeenAt": "2026-11-09T21:48:16.203Z",
       "state": "accepted",
-      "alreadyTracked": true,
-      "verification": {
-        "status": "not_checked"
-      }
-    },
-    {
-      "key": "workday:walmart.wd504.myworkdayjobs.com/walmartexternal",
-      "ats": "workday",
-      "slug": "walmartexternal",
-      "boardUrl": "https://walmart.wd504.myworkdayjobs.com/walmartexternal",
-      "companyClaims": [
-        "Walmart"
-      ],
-      "sources": [
-        {
-          "source": "hiringcafe",
-          "sampleJobUrl": "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/USA-TX-GRAPEVINE-04795-SAMS-CLUB/XMLNAME--USA--Software-Engineer-III_R-2709610",
-          "firstSeenAt": "2026-11-18T20:42:08.630Z",
-          "lastSeenAt": "2026-11-18T23:01:19.128Z"
-        }
-      ],
-      "firstSeenAt": "2026-11-18T20:42:08.630Z",
-      "lastSeenAt": "2026-11-18T23:01:19.128Z",
-      "state": "candidate",
       "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
