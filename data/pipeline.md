@@ -2567,3 +2567,5 @@
 - [ ] https://jobs.ashbyhq.com/patrianna/db467215-5c8c-44b1-a640-a45dde3f48e5 | patrianna | Middle Frontend Engineer | Ukraine · Bulgaria · Poland · Romania · Remote | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/kissmyapps/9ea51f39-9134-4104-9b80-78fa82496041 | kissmyapps | Platform Engineer (Wellbeing product) | Ukraine · Remote | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/kissmyapps/a4ca45a1-2790-47ba-8d9d-73c972ae0307 | kissmyapps | Back-End Engineer (Wellbeing product) | Ukraine · Remote | posted: 2026-11-23
+
+- [ ] https://job-boards.greenhouse.io/cardata/jobs/4516708009 | cardata | Full-Stack Software Engineer | Canada - Remote | posted: 2026-11-23
