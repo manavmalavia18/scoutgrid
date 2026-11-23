@@ -2212,4 +2212,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7 | airwallex | Software Engineer, AI Tooling | US - San Francisco | posted: 2026-11-23
 - [ ] https://job-boards.greenhouse.io/gusto/jobs/8394537 | gusto | Site Reliability Engineer | Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | posted: 2026-11-23
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5487188008 | anthropic | Software Engineer, Model-to-Product Behavior Engineering | San Francisco, CA | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01 | supabase | Software Engineer - Interfaces Backend | Remote, Global | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/cardata/jobs/4516708009 | cardata | Full-Stack Software Engineer | Canada - Remote | posted: 2026-11-23
+- [ ] https://jobs.lever.co/filevine/687fa122-fb59-478c-a844-730254b1420d | filevine | Software Engineer - Developer Experience | United States | posted: 2026-11-16
+
 ## Processed
