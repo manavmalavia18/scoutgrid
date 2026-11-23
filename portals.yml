@@ -24973,6 +24973,86 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "Massar Capital Management"
+    careers_url: https://job-boards.greenhouse.io/massarcapital
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Ameren"
+    careers_url: https://ameren.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "DataOne Systems"
+    careers_url: https://d1smfg.wd1.myworkdayjobs.com/dataone_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ESAB"
+    careers_url: https://esab.wd5.myworkdayjobs.com/esabcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ford Foundation"
+    careers_url: https://fordfoundation.wd1.myworkdayjobs.com/fordfoundationcareerpage
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "H.B. Fuller"
+    careers_url: https://hbfuller.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Maricopa County"
+    careers_url: https://maricopa.wd1.myworkdayjobs.com/jb_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Panduit"
+    careers_url: https://panduit.wd1.myworkdayjobs.com/interncoop
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Progress Residential"
+    careers_url: https://pretiumenterpriseservices.wd1.myworkdayjobs.com/PR
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Roskam Baking Company"
+    careers_url: https://roskambakingcompany.wd5.myworkdayjobs.com/roskam_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "SEH"
+    careers_url: https://sehinc.wd12.myworkdayjobs.com/seh
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Unity"
+    careers_url: https://unitytech.wd1.myworkdayjobs.com/unity
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "US Acute Care Solutions"
+    careers_url: https://usacs.wd1.myworkdayjobs.com/usacscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
