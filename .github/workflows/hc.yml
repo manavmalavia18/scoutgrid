@@ -56,8 +56,19 @@ jobs:
         # ~/Library/Caches/ms-playwright (persistent across runs on this
         # same machine), so after the first run this step is just a
         # fast no-op version check.
+        #
+        # `python3 -m pip` instead of bare `pip`: this self-hosted runner's
+        # PATH comes from a `.path` file captured whenever `config.sh` last
+        # ran (see runsvc.sh), which can legitimately end up narrower than
+        # a full interactive shell's PATH (confirmed live 2026-11-23: a
+        # re-registration captured a PATH with no bare `pip` on it at all,
+        # only `/usr/bin/pip3` — "pip: command not found", exit 127).
+        # `python3` itself is virtually guaranteed to be on PATH (it's at
+        # /usr/bin/python3 even in a minimal PATH), so routing through it
+        # removes the dependency on exactly which PATH this runner's
+        # `.path` file happens to contain at trigger time.
         run: |
-          pip install patchright
+          python3 -m pip install patchright
           python3 -m patchright install chromium
 
       - name: Run HiringCafe feed fetch

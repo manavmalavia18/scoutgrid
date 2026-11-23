@@ -34,8 +34,9 @@ jobs:
 
       - name: Install patchright + Chromium
         # No Xvfb/--with-deps here — see hc.yml's identical step for why.
+        # python3 -m pip, not bare pip — see hc.yml's identical comment.
         run: |
-          pip install patchright
+          python3 -m pip install patchright
           python3 -m patchright install chromium
 
       - name: Run HiringCafe feed fetch for data roles
