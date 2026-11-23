@@ -2586,3 +2586,5 @@
 - [ ] https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df | webai | Jr Software Developer | Austin, TX | posted: 2026-11-23
 
 - [ ] https://jobs.lever.co/redhorsecorp/787dd254-5107-4dfd-940a-d5af7dac95e8 | redhorsecorp | Software Developer | Washington, DC | posted: 2026-11-23
+
+- [ ] https://jobs.lever.co/redhorsecorp/35b8d11f-837c-4f39-b103-1a389929df92 | redhorsecorp | Web Developer | Washington, DC | posted: 2026-11-23
