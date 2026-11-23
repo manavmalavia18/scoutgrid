@@ -2562,3 +2562,8 @@
 - [ ] https://job-boards.greenhouse.io/gusto/jobs/8394537 | gusto | Site Reliability Engineer | Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | posted: 2026-11-23
 
 - [ ] https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7 | airwallex | Software Engineer, AI Tooling | US - San Francisco | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/foxelligroup/9420f440-dac4-41b4-bbc0-16dfcf60f8db | foxelligroup | AI Engineer (Technical Product Owner) | Lithuania · Bosnia & Herzogovina · Sarajevo · Bosnia & Herzegovina · Estonia · Tallinn · North Macedonia · Skopije · Belgium · Brussels · Andorra · Slovenia · Ljubljana · Malta · Valetta · Italy · Rome · Montenegro · Podgorica · France · Paris · Milan · City of Tallinn · Latvia · Riga · Albania · Tirana · Skopje · Czech Republic · Prague · Czechia · Greece · Athens · Slovakia · Bratislava · Kosovo · Pristina · Yerevan · Armenia · Bulgaria · Sofia · Moldova · Chișinău · Georgia · Tbilisi · Bosnia and Herzegovina · Poland · Warsaw · Vilnius · Croatia · Zagreb · Remote | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/patrianna/db467215-5c8c-44b1-a640-a45dde3f48e5 | patrianna | Middle Frontend Engineer | Ukraine · Bulgaria · Poland · Romania · Remote | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/kissmyapps/9ea51f39-9134-4104-9b80-78fa82496041 | kissmyapps | Platform Engineer (Wellbeing product) | Ukraine · Remote | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/kissmyapps/a4ca45a1-2790-47ba-8d9d-73c972ae0307 | kissmyapps | Back-End Engineer (Wellbeing product) | Ukraine · Remote | posted: 2026-11-23
