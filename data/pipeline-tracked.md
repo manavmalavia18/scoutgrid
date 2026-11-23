@@ -2114,4 +2114,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8201471003 | Affirm | Software Engineer I, Backend (Streaming Infra) | Remote Canada | posted: 2026-11-21
 - [ ] https://jobs.ashbyhq.com/mercor/9431db0b-904e-4f91-8be7-87fad304db6d | MERCOR | Backend Software Engineer, Infrastructure | San Francisco | posted: 2026-11-21
 
+- [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Associate-Software-Engineer_R188926-1 | Parsons | Associate Software Engineer | US Remote Any Location | posted: 2026-11-20
+
 ## Processed
