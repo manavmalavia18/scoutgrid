@@ -21,7 +21,7 @@ permissions:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: ${{ inputs.days == '7' && 25 || 13 }}
+    timeout-minutes: ${{ inputs.days == '7' && 25 || 20 }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

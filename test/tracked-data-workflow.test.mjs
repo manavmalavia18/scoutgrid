@@ -13,5 +13,8 @@ test('tracked board workflow can backfill seven posted days manually without cha
   assert.ok(dispatch.inputs.days.options.includes('7'));
   const run = doc.jobs.scan.steps.find(x => x.name === 'Run tracked-boards scan');
   assert.match(run.env.TRACKED_SINCE, /inputs\.days/);
-  assert.match(String(doc.jobs.scan['timeout-minutes']), /inputs\.days.*25.*13/);
+  // A healthy production run has taken 770.1 seconds. The prior 13-minute
+  // ceiling (780 seconds) left under 10 seconds for checkout/npm startup and
+  // caused repeated job-level timeout cancellations before publication.
+  assert.match(String(doc.jobs.scan['timeout-minutes']), /inputs\.days.*25.*20/);
 });
