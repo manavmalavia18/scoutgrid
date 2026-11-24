@@ -2603,3 +2603,5 @@
 
 - [ ] https://jobs.ashbyhq.com/sesame/7acfa545-7b2c-4fcc-9cc0-fd7a0c7c1419 | sesame | Software Engineer, ML infrastructure | San Francisco · New York · United States · Bellevue | posted: 2026-11-24
 - [ ] https://jobs.ashbyhq.com/nooks/0ad57946-1c63-43be-b3f1-b96f127f8955 | nooks | Software Engineer, Security | San Francisco | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/openai/f568de05-d557-4e70-aa12-256c637c7ef5 | openai | Applied AI Engineer, Mid-Market Enterprise | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-24
