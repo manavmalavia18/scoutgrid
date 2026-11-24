@@ -2116,4 +2116,73 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Associate-Software-Engineer_R188926-1 | Parsons | Associate Software Engineer | US Remote Any Location | posted: 2026-11-20
 
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8412232 | Smartsheet | Software Engineer II, AI Experience (Remote Eligible) | -REMOTE, USA- | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/ambrook/7d6855bd-c70c-4b39-a8bf-cb1cb392a71c | Ambrook | Software Engineer, AI Platform | New York · Denver · United States · Remote · San Francisco | posted: 2026-11-23
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Software-Developer--OpenSHMEM-MPI-_1218627-3 | Hewlett Packard Enterprise | Software Developer (OpenSHMEM/MPI) | 4 Locations | posted: 2026-11-23
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II---Lab-Information-Systems_31167123-1 | Abbott | Software Engineer II - Lab Information Systems | United States > Madison : 1 Exact Lane | posted: 2026-11-23
+- [ ] https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/74499 | Ford Motor Company | AI Engineer | Dearborn, MI, United States | posted: 2026-11-23
+- [ ] https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/requisitions/preview/156028 | Uber | Software Engineer II, Merchant Intel 5 | San Francisco, CA, United States | posted: 2026-11-23
+- [ ] https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/requisitions/preview/300522 | Uber | Software Engineer II - AV Labs Platform | Sunnyvale, CA, United States | posted: 2026-11-23
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210803021 | JPMorgan Chase | Software Engineer I-Java/Springboot/SQL | Newark, DE, United States | posted: 2026-11-24
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210801019 | JPMorgan Chase | Software Engineer III | Houston, TX, United States | posted: 2026-11-23
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210804809 | JPMorgan Chase | Software Engineer III - Agentic Data Quality Platform | Plano, TX, United States | posted: 2026-11-23
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210805587 | JPMorgan Chase | Automation Testing Software Engineer III | New York, NY, United States | posted: 2026-11-23
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210806717 | JPMorgan Chase | Software Engineer III: Python/ AWS/PySpark/Glue | Jersey City, NJ, United States | posted: 2026-11-23
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210808007 | JPMorgan Chase | Software Engineer III - QA Automation with development exp | Jersey City, NJ, United States | posted: 2026-11-23
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210810052 | JPMorgan Chase | Software Engineer III- Python, Databricks | Jersey City, NJ, United States | posted: 2026-11-23
+- [ ] https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/requisitions/preview/129341 | Honeywell International | AI Engineer II | Phoenix, AZ, United States | posted: 2026-11-23
+- [ ] https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/requisitions/preview/129916 | Honeywell International | Logistics Analyst II, Systems & Analytics | Phoenix, AZ, United States | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7 | Airwallex | Software Engineer, AI Tooling | US - San Francisco | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/alan/db5dd7b8-0468-4dfc-87ac-03337bf1a674 | Alan | Fullstack Software Engineer (x/f/m) | Anywhere in France, Belgium, Spain | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/alan/ee153e20-668b-4388-a4d1-370ddac39542 | Alan | Fullstack Software Engineer (x/f/m) - Growth | Anywhere in France, Belgium, Spain | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/alan/2e09e54e-fc8a-4f61-9b19-36804d5413c6 | Alan | Fullstack Software Engineer (x/f/m) - Medical Software | Anywhere in France | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/base-power/578a5f17-ce99-4897-ae6c-9491163e759f | BASE | Software Engineer, Backend - Device Analytics | Austin, TX | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/chalk/bf51a880-3156-4af7-ae7c-03888e1ac9fa | Chalk | Software Engineer, Security | SF · NY · New York · United States | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/neuralconcept/c93995c1-84a7-4a73-a12c-e167090c36b2 | Neural Concept | Platform Engineer - Security & Reliability | Pune · Remote | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/neuralconcept/d55dc112-aa6c-49ae-a088-20c4ecef6fc8 | Neural Concept | Platform Engineer - Release and Distribution | Pune · Remote | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4 | OpenAI | Applied AI Engineer, Mid-Market Enterprise | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525 | Render | Software Engineer, Platform Security (All Levels) | Remote: United States | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/sesame/7acfa545-7b2c-4fcc-9cc0-fd7a0c7c1419 | Sesame | Software Engineer, ML infrastructure | San Francisco · New York · United States · Bellevue | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df | webAI | Jr Software Developer | Austin, TX | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/woolpert/jobs/4517124009 | Woolpert | Data Engineer | Remote - United States | posted: 2026-11-23
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/HR-Data-Engineer_JR-202624233-2 | General Motors | HR Data Engineer | 2 Locations | posted: 2026-11-23
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4--Python--Vue--AWS-_R1006271-1 | Capital One | Full-stack Engineer 4 (Python, Vue, AWS) | New York, NY | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/truveta/jobs/6268596004 | Truveta | Real World Data Analyst | Seattle, WA | posted: 2026-11-23
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Index-Projections---Analytics--Associate_R267111 | BlackRock | Index Projections & Analytics, Associate | Atlanta, GA | posted: 2026-11-23
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-Engineer_R0254125 | Booz Allen Hamilton | AI Engineer | 2 Locations | posted: 2026-11-23
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Virginia-Beach-VA/Data-Engineer_R0252339-1 | Booz Allen Hamilton | Data Engineer | Virginia Beach, VA | posted: 2026-11-23
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W | Visa | Software Engineer, Agentic Developer | US - Denver, CO | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/airspace-intelligence.com/e73bc055-8563-4199-b895-678ccf6b0372 | Airspace Intelligence | Machine Learning Engineer | Boston, US | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/sardine/2524d206-42cb-4202-8d85-59e47c72d704 | Sardine | Software Engineer - Backend | India · Remote | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4731856006 | Astranis | Hardware/Production Test Software Engineer | San Francisco, CA | posted: 2026-11-24
+- [ ] https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-AI-Engineer_R141445 | Northeastern University | Associate AI Engineer | Boston, MA (Main Campus) | posted: 2026-11-23
+- [ ] https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/Computational---Applied-AI---Scientist_202611-129687-1 | Roche | Computational & Applied AI - Scientist | South San Francisco | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/minerva/8d819b13-b714-44cf-b4cf-a7d23af76a91 | Minerva | Data Platform Engineer, Observability | New York City | posted: 2026-11-24
+- [ ] https://stripe.com/jobs/search?gh_jid=8411988 | Stripe | Software Engineer, Core Technology | South San Francisco, CA | posted: 2026-11-23
+- [ ] https://stripe.com/jobs/search?gh_jid=8411927 | Stripe | Software Engineer, Data Warehouse Analytics | Seattle, WA | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/speak/c53b34f1-01d8-4cff-ae74-73c4d6706d6a | Speak | Infra & Platform Engineer | San Francisco | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/nooks/0ad57946-1c63-43be-b3f1-b96f127f8955 | Nooks | Software Engineer, Security | San Francisco | posted: 2026-11-24
+- [ ] https://cotality.wd115.myworkdayjobs.com/acq/job/Remote---Australia/Software-Engineer_REQ19460 | Cotality | Software Engineer | 2 Locations | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/airapps/65a997ca-7eef-4d04-8ed8-de6160ab1411 | Air Apps | Backend Engineer - Typescript | San Francisco | posted: 2026-11-24
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4612574006?gh_jid=4612574006 | Accenture Federal Services | Data Analyst | Washington, DC | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/wizard/a4883a7e-dcd1-4c6b-bd4f-cfbec582cc43 | Wizard | Front End UI/UX Designer | San Francisco | posted: 2026-11-24
+- [ ] https://invitationhomes.wd503.myworkdayjobs.com/invh/job/Dallas-Texas/Software-Engineer-IV---Yardi---On-Site_R6055 | Invitation Homes | Software Engineer IV - Yardi - On-Site | 2 Locations | posted: 2026-11-23
+- [ ] https://job-boards.eu.greenhouse.io/ewor/jobs/5045082101 | EWOR | Applied AI Co-Founder / CCO (100 % remote) (m/f/d) | Zagreb, Croatia | posted: 2026-11-23
+- [ ] https://job-boards.eu.greenhouse.io/ewor/jobs/5044607101 | EWOR | Applied AI Co-Founder / CEO (100 % remote) (m/f/d) | Lisbon, Portugal | posted: 2026-11-23
+- [ ] https://job-boards.eu.greenhouse.io/ewor/jobs/5045119101 | EWOR | Applied AI Co-Founder / CMO (100 % remote) (m/f/d) | Zagreb, Croatia | posted: 2026-11-23
+- [ ] https://job-boards.eu.greenhouse.io/ewor/jobs/5045755101 | EWOR | Applied AI Co-Founder / CPTO (100 % remote) (m/f/d) | Cape Town, South Africa | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/Embo/df85eec9-9f2a-40f9-aaea-a1ed10cb71c9 | Embo | Software Engineer, Infrastructure | San Francisco | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/Embo/c9a89327-a749-44e9-9299-0bc524f006d2 | Embo | Software Engineer, Apps | San Francisco | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/apadcode/f5e28b43-b13e-4f11-a45c-b13c1002db5c | APADCode | Software Engineer (Part-time, Remote - Worldwide) | Remote - Worldwide · Latvia · Riga · Romania · Bucharest · Poland · Warsaw · Hungary · Budapest · Greece · Athens · Bulagria · Sofia · Bulgaria · Serbia · Belgrade · Czechia · Prague | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/massarcapital/jobs/5438350008 | Massar Capital Management | Data Engineer | New York City | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/koddi/jobs/8944760002 | Koddi | Associate Platform Engineer | Fort Worth, Texas | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/koddi/jobs/8944769002 | Koddi | Associate Software Engineer | Fort Worth, Texas | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/array-behavioral-care/25961085-3e73-4dad-87b8-18bde439eb6a | Array Behavioral Care | Automation Software Engineer | Nationwide Remote | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/formal/ab3d728f-506f-4858-8c1b-bc684c542755 | Formal | Software Engineer / Security | San Francisco | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/formal/1249d7c4-0284-43a8-b78a-4f2bc7ce561b | Formal | Software Engineer / Developer Relations | San Francisco | posted: 2026-11-23
+- [ ] https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Michigan-Remote/Data-Engineer-II_JR106464 | thyssenkrupp | Data Engineer II | Michigan Remote | posted: 2026-11-23
+- [ ] https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Michigan-Remote/Data-Engineer-I_JR106462 | thyssenkrupp | Data Engineer I | Michigan Remote | posted: 2026-11-23
+- [ ] https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Michigan-Remote/Power-BI-Developer_JR106460 | thyssenkrupp | Power BI Developer | Michigan Remote | posted: 2026-11-23
+- [ ] https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2 | Rerun | Software Engineer, Infrastructure | East Coast, US · Remote Europe · Sweden · Eastern Canada · Toronto · Canada | posted: 2026-11-24
+
 ## Processed
