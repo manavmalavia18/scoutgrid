@@ -2247,4 +2247,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2 | rerun | Software Engineer, Infrastructure | East Coast, US · Remote Europe · Sweden · Eastern Canada · Toronto · Canada | posted: 2026-11-24
 
+- [ ] https://abnormal.ai/careers/jobs/8215310003?gh_jid=8215310003 | abnormalsecurity | Enterprise Platform Engineer, EMEA | Remote - UK | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800 | protege | Founding Platform Engineer | Remote | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/alan/2e09e54e-fc8a-4f61-9b19-36804d5413c6 | alan | Fullstack Software Engineer (x/f/m) - Medical Software | Anywhere in France | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/alan/ee153e20-668b-4388-a4d1-370ddac39542 | alan | Fullstack Software Engineer (x/f/m) - Growth | Anywhere in France, Belgium, Spain | posted: 2026-11-24
+
 ## Processed
