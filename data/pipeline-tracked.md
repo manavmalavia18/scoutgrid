@@ -2197,4 +2197,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/ML-Engineer_R143475 | Northeastern University | ML Engineer | Boston, MA (Main Campus) | posted: 2026-11-24
 - [ ] https://ciena.wd5.myworkdayjobs.com/careers/job/Remote-Canada/Global-Trade-Data-Analyst_R032155-1 | Ciena | Global Trade Data Analyst | Remote-Canada | posted: 2026-11-23
 
+- [ ] https://abnormal.ai/careers/jobs/8215310003?gh_jid=8215310003 | Abnormal AI | Enterprise Platform Engineer, EMEA | Remote - UK | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800 | Protege | Founding Platform Engineer | Remote | posted: 2026-11-24
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Software-Engineer-Mechatronic-SW-Platform_JR-202624594 | General Motors | Software Engineer-Mechatronic SW Platform | Milford, Michigan, United States of America | posted: 2026-11-24
+
 ## Processed
