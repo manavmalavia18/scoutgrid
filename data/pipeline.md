@@ -2619,3 +2619,5 @@
 - [ ] https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800 | protege | Founding Platform Engineer | Remote | posted: 2026-11-24
 
 - [ ] https://jobs.ashbyhq.com/webAI/7e3b6a85-c453-4384-bdb9-50b62965caf1 | webai | Edge Network Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/union-tech/f21b6d74-f678-415c-8184-1acd40e830f5 | union-tech | Software Engineer | Dallas, TX · San Jose, CA · San Jose · United States | posted: 2026-11-24
