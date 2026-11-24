@@ -2621,3 +2621,11 @@
 - [ ] https://jobs.ashbyhq.com/webAI/7e3b6a85-c453-4384-bdb9-50b62965caf1 | webai | Edge Network Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
 
 - [ ] https://jobs.ashbyhq.com/union-tech/f21b6d74-f678-415c-8184-1acd40e830f5 | union-tech | Software Engineer | Dallas, TX · San Jose, CA · San Jose · United States | posted: 2026-11-24
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8394936 | stripe | Software Engineer, Experimental Projects | New York City | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6269318004 | sonyinteractiveentertainmentglobal | Software Development Engineer in Test II | United States, San Diego, CA | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6269317004 | sonyinteractiveentertainmentglobal | Software Development Engineer in Test II | United States, San Mateo, CA | posted: 2026-11-24
+- [ ] https://www.samsara.com/company/careers/roles/8412814?gh_jid=8412814 | samsara | Software Engineer II | Remote - Canada | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8412232 | smartsheet | Software Engineer II, AI Experience (Remote Eligible) | -REMOTE, USA- | posted: 2026-11-23
+- [ ] https://stripe.com/jobs/search?gh_jid=8411988 | stripe | Software Engineer, Core Technology | South San Francisco, CA | posted: 2026-11-23
+- [ ] https://stripe.com/jobs/search?gh_jid=8411927 | stripe | Software Engineer, Data Warehouse Analytics | Seattle, WA | posted: 2026-11-23
