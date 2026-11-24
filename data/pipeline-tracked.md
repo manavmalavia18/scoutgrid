@@ -2226,4 +2226,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Portugal---Remote/Software-Engineer--JavaScript--Nodejs-_R58040 | Trimble | Software Engineer (JavaScript, Node.js) | 3 Locations | posted: 2026-11-24
 - [ ] https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Analytics---AI---Senior-Data-Engineer_Req-69592 | The Campbell's Company | Data Analytics & AI - Data Engineer | USA - NJ - Camden | posted: 2026-11-24
 
+- [ ] https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083 | Royal Philips | Full Time- Graduate Development Program-AI & Analytics Associate-Nashville, TN or Cambridge, MA-2027 | Nashville, Tennessee, United States | posted: 2026-11-23
+- [ ] https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-Energy-Grid-Data-Platform_JR3584 | Wood Mackenzie | Software Engineer Energy Grid Data Platform. | 2 Locations | posted: 2026-11-24
+- [ ] https://genesys.wd1.myworkdayjobs.com/genesys/job/Indiana-USA/Product-Owner--IT-Platform-Engineering--Genesys-Cloud-_JR113003-1 | Genesys | Product Owner, IT Platform Engineering (Genesys Cloud) | 2 Locations | posted: 2026-11-24
+- [ ] https://cree.wd108.myworkdayjobs.com/ext/job/Marcy-New-York/Job-Posting-Title-Manufacturing-Technician--Front-End-Night-Shift--Sun---Tue-e-o-Sat-_26-1002 | Wolfspeed | Job Posting Title Manufacturing Technician (Front End Night Shift: Sun - Tue e/o Sat) | Marcy, New York | posted: 2026-11-24
+- [ ] https://cree.wd108.myworkdayjobs.com/ext/job/Marcy-New-York/Thin-Films-Equipment-Technician-Front-End-Days_26-1091 | Wolfspeed | Thin Films Equipment Technician Front End Days | Marcy, New York | posted: 2026-11-24
+
 ## Processed
