@@ -2600,3 +2600,6 @@
 - [ ] https://jobs.ashbyhq.com/decagon/87d6c46a-365c-4d97-98ca-de7e29b6cf72 | decagon | Software Engineer, Cloud Infrastructure | San Francisco · New York City · New York · United States | posted: 2026-11-23
 
 - [ ] https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525 | render | Software Engineer, Platform Security (All Levels) | Remote: United States | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/sesame/7acfa545-7b2c-4fcc-9cc0-fd7a0c7c1419 | sesame | Software Engineer, ML infrastructure | San Francisco · New York · United States · Bellevue | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/nooks/0ad57946-1c63-43be-b3f1-b96f127f8955 | nooks | Software Engineer, Security | San Francisco | posted: 2026-11-24
