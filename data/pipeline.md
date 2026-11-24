@@ -2605,3 +2605,9 @@
 - [ ] https://jobs.ashbyhq.com/nooks/0ad57946-1c63-43be-b3f1-b96f127f8955 | nooks | Software Engineer, Security | San Francisco | posted: 2026-11-24
 
 - [ ] https://jobs.ashbyhq.com/openai/f568de05-d557-4e70-aa12-256c637c7ef5 | openai | Applied AI Engineer, Mid-Market Enterprise | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2 | rerun | Software Engineer, Infrastructure | East Coast, US · Remote Europe · Sweden · Eastern Canada · Toronto · Canada | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/alan/db5dd7b8-0468-4dfc-87ac-03337bf1a674 | alan | Fullstack Software Engineer (x/f/m) | Anywhere in France, Belgium, Spain | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/neuralconcept/d55dc112-aa6c-49ae-a088-20c4ecef6fc8 | neuralconcept | Platform Engineer - Release and Distribution | Pune · Remote | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/neuralconcept/c93995c1-84a7-4a73-a12c-e167090c36b2 | neuralconcept | Platform Engineer - Security & Reliability | Pune · Remote | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4731856006 | astranis | Hardware/Production Test Software Engineer | San Francisco, CA | posted: 2026-11-24
