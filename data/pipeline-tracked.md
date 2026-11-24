@@ -2185,4 +2185,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Michigan-Remote/Power-BI-Developer_JR106460 | thyssenkrupp | Power BI Developer | Michigan Remote | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2 | Rerun | Software Engineer, Infrastructure | East Coast, US · Remote Europe · Sweden · Eastern Canada · Toronto · Canada | posted: 2026-11-24
 
+- [ ] https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586 | Viridien | Machine Learning Researcher - Seismic Foundation Models | Houston, United States of America | posted: 2026-11-23
+
 ## Processed
