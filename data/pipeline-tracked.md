@@ -2193,4 +2193,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://verizon.wd12.myworkdayjobs.com/frontier_career_site/job/Irving-Texas/Engineer-III---Software-Engineer_R-1104182-2 | Verizon | Engineer III - Software Engineer | 3 Locations | posted: 2026-11-23
 - [ ] https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Engineer_R02788 | Altera | AI Engineer | San Jose, California, United States | posted: 2026-11-23
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210800132 | JPMorgan Chase | Software Engineer I | Seattle, WA, United States | posted: 2026-11-24
+- [ ] https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/ML-Engineer_R143475 | Northeastern University | ML Engineer | Boston, MA (Main Campus) | posted: 2026-11-24
+- [ ] https://ciena.wd5.myworkdayjobs.com/careers/job/Remote-Canada/Global-Trade-Data-Analyst_R032155-1 | Ciena | Global Trade Data Analyst | Remote-Canada | posted: 2026-11-23
+
 ## Processed
