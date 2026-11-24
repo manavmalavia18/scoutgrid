@@ -2239,4 +2239,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/Software-Engineer-IV_R0074715 | Global Payments | Software Engineer IV | ALPHARETTA, GEORGIA | posted: 2026-11-23
 - [ ] https://job-boards.greenhouse.io/wurljobs/jobs/4731759006 | Wurl | Software Engineer I - Remote | Remote - United States | posted: 2026-11-24
 
+- [ ] https://jobs.ashbyhq.com/base-power/d5346efc-51b9-44f8-89f6-41f6178825c9 | BASE | Software Engineer, Systems Integration | Austin, TX | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/webAI/7e3b6a85-c453-4384-bdb9-50b62965caf1 | webAI | Edge Network Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5287086007?gh_jid=5287086007 | Anduril Industries | Software Engineer - Command and Control A600 | Atlanta, Georgia, United States | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/vianttechnology/jobs/4522494009 | Viant Technology | Software Engineer, TVision | Cambridge, Massachusetts, United States; New York, United States | posted: 2026-11-24
+
 ## Processed
