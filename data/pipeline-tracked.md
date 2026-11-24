@@ -2234,4 +2234,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4519859009 | GRVTY | Full Stack Developer | Aurora, Colorado, United States; Sterling, Virginia, United States | posted: 2026-11-24
 
+- [ ] https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Backend-Software-Engineer_2029895 | Cisco | Backend Software Engineer | RTP, North Carolina, US | posted: 2026-11-24
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-MO/Data-Analyst-II-Healthcare-Economics--SQL_1675764-1 | Centene Corporation | Data Analyst II Healthcare Economics, SQL | 4 Locations | posted: 2026-11-24
+- [ ] https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/Software-Engineer-IV_R0074715 | Global Payments | Software Engineer IV | ALPHARETTA, GEORGIA | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/wurljobs/jobs/4731759006 | Wurl | Software Engineer I - Remote | Remote - United States | posted: 2026-11-24
+
 ## Processed
