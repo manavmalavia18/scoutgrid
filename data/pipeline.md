@@ -2611,3 +2611,5 @@
 - [ ] https://jobs.ashbyhq.com/neuralconcept/d55dc112-aa6c-49ae-a088-20c4ecef6fc8 | neuralconcept | Platform Engineer - Release and Distribution | Pune · Remote | posted: 2026-11-24
 - [ ] https://jobs.ashbyhq.com/neuralconcept/c93995c1-84a7-4a73-a12c-e167090c36b2 | neuralconcept | Platform Engineer - Security & Reliability | Pune · Remote | posted: 2026-11-24
 - [ ] https://job-boards.greenhouse.io/astranis/jobs/4731856006 | astranis | Hardware/Production Test Software Engineer | San Francisco, CA | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/alan/ee153e20-668b-4388-a4d1-370ddac39542 | alan | Fullstack Software Engineer (x/f/m) - Growth | Anywhere in France, Belgium, Spain | posted: 2026-11-24
