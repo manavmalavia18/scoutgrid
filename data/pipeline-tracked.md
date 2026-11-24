@@ -2210,4 +2210,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Fraud-Data-Analyst_46745 | Guidehouse | Fraud Data Analyst | US - Remote (Any location) | posted: 2026-11-23
 - [ ] https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008 | QuEra Computing | Site Reliability Engineer Co-op | Boston, MA, USA | posted: 2026-11-24
 
+- [ ] https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1 | Cox Enterprises | Software Engineer I - 13851 | Atlanta GA | posted: 2026-11-24
+- [ ] https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2 | Mars, Incorporated | Industrial Data Engineer | USA-Ohio-Lewisburg | posted: 2026-11-23
+- [ ] https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Software-Developer---Mid--Team-04-_R0176156 | Amentum | Software Developer – Mid (Team 04) | US-DC-Washington | posted: 2026-11-24
+- [ ] https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Jefferson-City-Tennessee-United-States/Data-Analyst_R48854 | Oshkosh Corporation | Data Analyst | Jefferson City, Tennessee, United States | posted: 2026-11-24
+- [ ] https://stripe.com/jobs/search?gh_jid=8394936 | Stripe | Software Engineer, Experimental Projects | New York City | posted: 2026-11-24
+- [ ] https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Equity-Trader---Execution---Data-Analytics_R260900389-2 | TIAA | Equity Trader - Execution & Data Analytics | 4 Locations | posted: 2026-11-23
+
 ## Processed
