@@ -2252,4 +2252,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/alan/2e09e54e-fc8a-4f61-9b19-36804d5413c6 | alan | Fullstack Software Engineer (x/f/m) - Medical Software | Anywhere in France | posted: 2026-11-24
 - [ ] https://jobs.ashbyhq.com/alan/ee153e20-668b-4388-a4d1-370ddac39542 | alan | Fullstack Software Engineer (x/f/m) - Growth | Anywhere in France, Belgium, Spain | posted: 2026-11-24
 
+- [ ] https://jobs.ashbyhq.com/webAI/7e3b6a85-c453-4384-bdb9-50b62965caf1 | webai | Edge Network Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
+- [ ] https://www.asm.com/open-vacancies/?gh_jid=5019841101 | asm | Software Engineer (DevOps) | US > Arizona > Phoenix | posted: 2026-11-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5287086007?gh_jid=5287086007 | andurilindustries | Software Engineer - Command and Control A600 | Atlanta, Georgia, United States | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8378548 | adyen | Software Engineer | San Francisco | posted: 2026-11-20
+
 ## Processed
