@@ -2232,4 +2232,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://cree.wd108.myworkdayjobs.com/ext/job/Marcy-New-York/Job-Posting-Title-Manufacturing-Technician--Front-End-Night-Shift--Sun---Tue-e-o-Sat-_26-1002 | Wolfspeed | Job Posting Title Manufacturing Technician (Front End Night Shift: Sun - Tue e/o Sat) | Marcy, New York | posted: 2026-11-24
 - [ ] https://cree.wd108.myworkdayjobs.com/ext/job/Marcy-New-York/Thin-Films-Equipment-Technician-Front-End-Days_26-1091 | Wolfspeed | Thin Films Equipment Technician Front End Days | Marcy, New York | posted: 2026-11-24
 
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4519859009 | GRVTY | Full Stack Developer | Aurora, Colorado, United States; Sterling, Virginia, United States | posted: 2026-11-24
+
 ## Processed
