@@ -2640,3 +2640,5 @@
 
 - [ ] https://jobs.ashbyhq.com/baseten/a3f47901-a5e9-40f8-ae6b-8695f3e3528c | baseten | Software Engineer, Core Platform (Agent Infra) | San Francisco | posted: 2026-11-24
 - [ ] https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f | veeva | Associate Software Engineer - 2027 Start Dates | North Carolina - Raleigh | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1 | baseten | Site Reliability / Cloud Platform Engineer (Agent Infra) | San Francisco | posted: 2026-11-24
