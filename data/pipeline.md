@@ -2598,3 +2598,5 @@
 - [ ] https://jobs.ashbyhq.com/3y-health/40de167b-30fa-4cf4-ab5e-bdb5d1f06e94 | 3y-health | Full Stack AI Engineer | Remote - Toronto | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed | decagon | Software Engineer, Developer Platform | San Francisco · New York City · New York · United States | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/decagon/87d6c46a-365c-4d97-98ca-de7e29b6cf72 | decagon | Software Engineer, Cloud Infrastructure | San Francisco · New York City · New York · United States | posted: 2026-11-23
+
+- [ ] https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525 | render | Software Engineer, Platform Security (All Levels) | Remote: United States | posted: 2026-11-24
