@@ -2257,4 +2257,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5287086007?gh_jid=5287086007 | andurilindustries | Software Engineer - Command and Control A600 | Atlanta, Georgia, United States | posted: 2026-11-24
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8378548 | adyen | Software Engineer | San Francisco | posted: 2026-11-20
 
+- [ ] https://jobs.ashbyhq.com/union-tech/f21b6d74-f678-415c-8184-1acd40e830f5 | union-tech | Software Engineer | Dallas, TX · San Jose, CA · San Jose · United States | posted: 2026-11-24
+
 ## Processed
