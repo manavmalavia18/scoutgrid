@@ -25263,6 +25263,106 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Critical Energy"
+    careers_url: https://jobs.ashbyhq.com/critical-energy
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fireworks AI"
+    careers_url: https://jobs.ashbyhq.com/fireworks
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from liftoff
+  - name: "Parameter"
+    careers_url: https://jobs.ashbyhq.com/parameter
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Substrate"
+    careers_url: https://jobs.ashbyhq.com/substrate
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from liftoff
+  - name: "Nanonets"
+    careers_url: https://jobs.ashbyhq.com/trailhq
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Voya Energy"
+    careers_url: https://jobs.ashbyhq.com/Voya%20Energy
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Zeromatter Technologies"
+    careers_url: https://jobs.ashbyhq.com/zeromatter
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lumos"
+    careers_url: https://job-boards.greenhouse.io/lumosfiber
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "RadixArk"
+    careers_url: https://job-boards.greenhouse.io/radixark
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from liftoff
+  - name: "WithCoverage"
+    careers_url: https://job-boards.greenhouse.io/withcoverage
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from liftoff
+  - name: "Workstream"
+    careers_url: https://job-boards.greenhouse.io/workstream
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "DataLab USA"
+    careers_url: https://jobs.lever.co/datalabusa
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Progress Residential"
+    careers_url: https://pretiumenterpriseservices.wd1.myworkdayjobs.com/PR
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Rio Tinto"
+    careers_url: https://riotinto.wd3.myworkdayjobs.com/riotinto_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sanford Health"
+    careers_url: https://sanford.wd5.myworkdayjobs.com/sanfordhealth
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Vermont State University"
+    careers_url: https://vsc.wd108.myworkdayjobs.com/vtsu
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Westlake Corporation"
+    careers_url: https://westlake.wd1.myworkdayjobs.com/westlake
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
