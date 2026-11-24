@@ -2203,4 +2203,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | Remote | posted: 2026-11-24
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Bloomington-Minnesota-United-States-of-America/Software-Developer--OpenSHMEM-MPI-_1218627-2 | Hpe | Software Developer (OpenSHMEM/MPI) | 4 Locations | posted: 2026-11-23
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer_1214909-1 | Hpe | Systems Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4520497009 | GRVTY | Full Stack/Node.js Developer | Chantilly, Virginia, United States | posted: 2026-11-24
+- [ ] https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/requisitions/preview/349595 | Oracle | Platform Software Engineer 2 | Nashville, TN, United States | posted: 2026-11-24
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Fraud-Data-Analyst_46745 | Guidehouse | Fraud Data Analyst | US - Remote (Any location) | posted: 2026-11-23
+- [ ] https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008 | QuEra Computing | Site Reliability Engineer Co-op | Boston, MA, USA | posted: 2026-11-24
+
 ## Processed
