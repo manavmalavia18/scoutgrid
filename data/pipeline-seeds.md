@@ -2235,4 +2235,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/formal/ab3d728f-506f-4858-8c1b-bc684c542755 | formal | Software Engineer / Security | San Francisco | posted: 2026-11-23
 - [ ] https://jobs.ashbyhq.com/formal/1249d7c4-0284-43a8-b78a-4f2bc7ce561b | formal | Software Engineer / Developer Relations | San Francisco | posted: 2026-11-23
 
+- [ ] https://jobs.ashbyhq.com/alan/db5dd7b8-0468-4dfc-87ac-03337bf1a674 | alan | Fullstack Software Engineer (x/f/m) | Anywhere in France, Belgium, Spain | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/neuralconcept/d55dc112-aa6c-49ae-a088-20c4ecef6fc8 | neuralconcept | Platform Engineer - Release and Distribution | Pune · Remote | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/neuralconcept/c93995c1-84a7-4a73-a12c-e167090c36b2 | neuralconcept | Platform Engineer - Security & Reliability | Pune · Remote | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4731856006 | astranis | Hardware/Production Test Software Engineer | San Francisco, CA | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/f568de05-d557-4e70-aa12-256c637c7ef5 | openai | Applied AI Engineer, Mid-Market Enterprise | San Francisco · New York City · New York · United States · US - Remote | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/sesame/7acfa545-7b2c-4fcc-9cc0-fd7a0c7c1419 | sesame | Software Engineer, ML infrastructure | San Francisco · New York · United States · Bellevue | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/nooks/0ad57946-1c63-43be-b3f1-b96f127f8955 | nooks | Software Engineer, Security | San Francisco | posted: 2026-11-24
+- [ ] https://careers.gofasti.com/job-application/6269309004?gh_jid=6269309004 | gofasti | 1206 - Mid AI Engineer | Remote · CLAR | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525 | render | Software Engineer, Platform Security (All Levels) | Remote: United States | posted: 2026-11-24
+
 ## Processed
