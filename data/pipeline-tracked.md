@@ -2244,4 +2244,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5287086007?gh_jid=5287086007 | Anduril Industries | Software Engineer - Command and Control A600 | Atlanta, Georgia, United States | posted: 2026-11-24
 - [ ] https://job-boards.greenhouse.io/vianttechnology/jobs/4522494009 | Viant Technology | Software Engineer, TVision | Cambridge, Massachusetts, United States; New York, United States | posted: 2026-11-24
 
+- [ ] https://boards.greenhouse.io/point72/jobs/8959723002?gh_jid=8959723002 | Point72 Asset Management | Software Engineer, PMRA Systems | Stamford, CT or New York, NY | posted: 2026-11-24
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Analyst---Credit-Risk-Management---Counterparty-Risk--Client---Markets-Data-_26994251-1 | Citi | Data Analyst - Credit Risk Management & Counterparty Risk (Client & Markets Data) | 2 Locations | posted: 2026-11-24
+
 ## Processed
