@@ -2245,4 +2245,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://careers.gofasti.com/job-application/6269309004?gh_jid=6269309004 | gofasti | 1206 - Mid AI Engineer | Remote · CLAR | posted: 2026-11-24
 - [ ] https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525 | render | Software Engineer, Platform Security (All Levels) | Remote: United States | posted: 2026-11-24
 
+- [ ] https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2 | rerun | Software Engineer, Infrastructure | East Coast, US · Remote Europe · Sweden · Eastern Canada · Toronto · Canada | posted: 2026-11-24
+
 ## Processed
