@@ -2637,3 +2637,6 @@
 - [ ] https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22 | openai | Software Engineer, Full Stack — ChatGPT Voice | San Francisco | posted: 2026-11-24
 - [ ] https://job-boards.greenhouse.io/acilearning/jobs/4522876009 | acilearning | Full Stack Web & eCommerce Engineer | Remote · HQ - Headquarters | posted: 2026-11-24
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4732121006?gh_jid=4732121006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/baseten/a3f47901-a5e9-40f8-ae6b-8695f3e3528c | baseten | Software Engineer, Core Platform (Agent Infra) | San Francisco | posted: 2026-11-24
+- [ ] https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f | veeva | Associate Software Engineer - 2027 Start Dates | North Carolina - Raleigh | posted: 2026-11-24
