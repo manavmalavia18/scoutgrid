@@ -2257,4 +2257,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Software-Engineer---Level-2-or-Level-3_R10262016 | Northrop Grumman | Software Engineer – Level 2 or Level 3 | United States-Colorado-Aurora | posted: 2026-11-24
 - [ ] https://bentleysystems.wd5.myworkdayjobs.com/bentley/job/Exton-Pennsylvania-United-States/Software-Engineer-II_RC60 | Bentley Systems | Software Engineer II, AI Developer Tools | 3 Locations | posted: 2026-11-24
 
+- [ ] https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/IL---Chicago-350-N-Orleans-St-1300N/Backend-C---Software-Engineer---2-Days-ONSITE---Chicago--IL---FreeWheel_R449192 | Comcast | Backend C++ Software Engineer - 2 Days ONSITE - Chicago, IL - FreeWheel | IL - Chicago, 350 N. Orleans St 1300N | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/pindropsecurity/jobs/8415376 | Pindrop Security | Software Engineer II (BotStopper) | US - Remote; US-Remote | posted: 2026-11-24
+
 ## Processed
