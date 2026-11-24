@@ -2632,3 +2632,8 @@
 
 - [ ] https://www.asm.com/open-vacancies/?gh_jid=5019841101 | asm | Software Engineer (DevOps) | US > Arizona > Phoenix | posted: 2026-11-24
 - [ ] https://abnormal.ai/careers/jobs/8215310003?gh_jid=8215310003 | abnormalsecurity | Enterprise Platform Engineer, EMEA | Remote - UK | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a | openai | Software Engineer, Backend — ChatGPT Voice | San Francisco | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22 | openai | Software Engineer, Full Stack — ChatGPT Voice | San Francisco | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/acilearning/jobs/4522876009 | acilearning | Full Stack Web & eCommerce Engineer | Remote · HQ - Headquarters | posted: 2026-11-24
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4732121006?gh_jid=4732121006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-11-24
