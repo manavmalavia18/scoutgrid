@@ -2629,3 +2629,6 @@
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8412232 | smartsheet | Software Engineer II, AI Experience (Remote Eligible) | -REMOTE, USA- | posted: 2026-11-23
 - [ ] https://stripe.com/jobs/search?gh_jid=8411988 | stripe | Software Engineer, Core Technology | South San Francisco, CA | posted: 2026-11-23
 - [ ] https://stripe.com/jobs/search?gh_jid=8411927 | stripe | Software Engineer, Data Warehouse Analytics | Seattle, WA | posted: 2026-11-23
+
+- [ ] https://www.asm.com/open-vacancies/?gh_jid=5019841101 | asm | Software Engineer (DevOps) | US > Arizona > Phoenix | posted: 2026-11-24
+- [ ] https://abnormal.ai/careers/jobs/8215310003?gh_jid=8215310003 | abnormalsecurity | Enterprise Platform Engineer, EMEA | Remote - UK | posted: 2026-11-24
