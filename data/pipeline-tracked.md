@@ -2273,4 +2273,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4732121006?gh_jid=4732121006 | Accenture Federal Services | Pega Application Developer | Washington, DC | posted: 2026-11-24
 - [ ] https://talentmanagementsolution.wd3.myworkdayjobs.com/jonassoftwareusa/job/Remote---USA/Jr-DevOps-Engineer_R55595 | Jonas Software | Jr. DevOps Engineer | Remote - USA | posted: 2026-11-23
 
+- [ ] https://jobs.ashbyhq.com/baseten/a3f47901-a5e9-40f8-ae6b-8695f3e3528c | Baseten | Software Engineer, Core Platform (Agent Infra) | San Francisco | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1 | Baseten | Site Reliability / Cloud Platform Engineer (Agent Infra) | San Francisco | posted: 2026-11-24
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Quality-Data-Analyst_RQ233054 | General Dynamics Information Technology | Quality Data Analyst | USA VA Falls Church | posted: 2026-11-24
+
 ## Processed
