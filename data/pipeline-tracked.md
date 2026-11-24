@@ -2247,4 +2247,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/point72/jobs/8959723002?gh_jid=8959723002 | Point72 Asset Management | Software Engineer, PMRA Systems | Stamford, CT or New York, NY | posted: 2026-11-24
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Analyst---Credit-Risk-Management---Counterparty-Risk--Client---Markets-Data-_26994251-1 | Citi | Data Analyst - Credit Risk Management & Counterparty Risk (Client & Markets Data) | 2 Locations | posted: 2026-11-24
 
+- [ ] https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/IL---Chicago-350-N-Orleans-St-1300N/Software-Engineer--GoLang--Python--or-Scala---Onsite-2-Days-X-Week--Chicago--IL--FreeWheel_R445434 | Comcast | Software Engineer (GoLang, Python, or Scala)- Onsite 2 Days X Week- Chicago, IL- FreeWheel | IL - Chicago, 350 N. Orleans St 1300N | posted: 2026-11-24
+
 ## Processed
