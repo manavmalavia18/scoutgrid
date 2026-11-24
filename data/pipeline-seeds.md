@@ -2259,4 +2259,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/union-tech/f21b6d74-f678-415c-8184-1acd40e830f5 | union-tech | Software Engineer | Dallas, TX · San Jose, CA · San Jose · United States | posted: 2026-11-24
 
+- [ ] https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1 | baseten | Site Reliability / Cloud Platform Engineer (Agent Infra) | San Francisco | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/baseten/a3f47901-a5e9-40f8-ae6b-8695f3e3528c | baseten | Software Engineer, Core Platform (Agent Infra) | San Francisco | posted: 2026-11-24
+- [ ] https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f | veeva | Associate Software Engineer - 2027 Start Dates | North Carolina - Raleigh | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a | openai | Software Engineer, Backend — ChatGPT Voice | San Francisco | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22 | openai | Software Engineer, Full Stack — ChatGPT Voice | San Francisco | posted: 2026-11-24
+- [ ] https://job-boards.greenhouse.io/acilearning/jobs/4522876009 | acilearning | Full Stack Web & eCommerce Engineer | Remote · HQ - Headquarters | posted: 2026-11-24
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4732121006?gh_jid=4732121006 | accenturefederalservices | Pega Application Developer | Washington, DC | posted: 2026-11-24
+
 ## Processed
