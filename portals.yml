@@ -25678,6 +25678,51 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "IQVIA"
+    careers_url: https://iqvia.wd1.myworkdayjobs.com/iqvia
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "O'Reilly Auto Parts"
+    careers_url: https://oreillyauto.wd1.myworkdayjobs.com/oreilly
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pepsi Bottling Ventures"
+    careers_url: https://pbv.wd503.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Progress Residential"
+    careers_url: https://pretiumenterpriseservices.wd1.myworkdayjobs.com/PR
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "TricorBraun"
+    careers_url: https://tricorbraun.wd115.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Waste Connections"
+    careers_url: https://wasteconnections.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
