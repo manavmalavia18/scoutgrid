@@ -2249,4 +2249,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/IL---Chicago-350-N-Orleans-St-1300N/Software-Engineer--GoLang--Python--or-Scala---Onsite-2-Days-X-Week--Chicago--IL--FreeWheel_R445434 | Comcast | Software Engineer (GoLang, Python, or Scala)- Onsite 2 Days X Week- Chicago, IL- FreeWheel | IL - Chicago, 350 N. Orleans St 1300N | posted: 2026-11-24
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Associate-Software-Engineer-Developer_JR2026527316 | Boeing | Associate Software Engineer–Developer | USA - El Segundo, CA | posted: 2026-11-24
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753 | General Motors | Entry-Level – AI/Machine Learning Researcher | Mountain View, California, United States of America | posted: 2026-11-24
+- [ ] https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Database-Administrator_J291833 | Highmark Health | Database Administrator | 51 Locations | posted: 2026-11-24
+- [ ] https://tbc.wd12.myworkdayjobs.com/c7a9d1f8-2c44-4f8b-b9e3-7d9a12e5f6ab/job/Remote---US/Clinical-Data-Engineer_JR972 | Lyric | Clinical Data Engineer | Remote - US | posted: 2026-11-24
+- [ ] https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/National-Remote/Analytics-Consultant--Remote-_R0055787 | Health Care Service Corporation | Analytics Consultant (Remote) | National Remote | posted: 2026-11-24
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Software-Engineer---Level-2-or-Level-3_R10262016 | Northrop Grumman | Software Engineer – Level 2 or Level 3 | United States-Colorado-Aurora | posted: 2026-11-24
+- [ ] https://bentleysystems.wd5.myworkdayjobs.com/bentley/job/Exton-Pennsylvania-United-States/Software-Engineer-II_RC60 | Bentley Systems | Software Engineer II, AI Developer Tools | 3 Locations | posted: 2026-11-24
+
 ## Processed
