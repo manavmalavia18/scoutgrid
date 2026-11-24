@@ -1,33 +1,23 @@
 {
-  "at": "2026-11-24T21:06:08.140Z",
-  "leadsScanned": 9903,
-  "totalBoardsKnown": 2677,
-  "alreadyTracked": 2668,
-  "newlyPromoted": 9,
+  "at": "2026-11-24T21:53:25.355Z",
+  "leadsScanned": 9922,
+  "totalBoardsKnown": 2678,
+  "alreadyTracked": 2673,
+  "newlyPromoted": 5,
   "newBoards": [
+    {
+      "name": "Stoke Space",
+      "careers_url": "https://job-boards.greenhouse.io/stokespacetechnologies",
+      "provider": "greenhouse"
+    },
     {
       "name": "CesiumAstro",
       "careers_url": "https://jobs.lever.co/CesiumAstro",
       "provider": "lever"
     },
     {
-      "name": "IQVIA",
-      "careers_url": "https://iqvia.wd1.myworkdayjobs.com/iqvia",
-      "provider": "workday"
-    },
-    {
       "name": "Montefiore Einstein Technology",
       "careers_url": "https://montefiore.wd12.myworkdayjobs.com/MMC",
-      "provider": "workday"
-    },
-    {
-      "name": "O'Reilly Auto Parts",
-      "careers_url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly",
-      "provider": "workday"
-    },
-    {
-      "name": "Pepsi Bottling Ventures",
-      "careers_url": "https://pbv.wd503.myworkdayjobs.com/external",
       "provider": "workday"
     },
     {
@@ -38,16 +28,6 @@
     {
       "name": "Elsevier",
       "careers_url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs",
-      "provider": "workday"
-    },
-    {
-      "name": "TricorBraun",
-      "careers_url": "https://tricorbraun.wd115.myworkdayjobs.com/careers",
-      "provider": "workday"
-    },
-    {
-      "name": "Waste Connections",
-      "careers_url": "https://wasteconnections.wd1.myworkdayjobs.com/careers",
       "provider": "workday"
     }
   ]
