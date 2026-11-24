@@ -2217,4 +2217,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://stripe.com/jobs/search?gh_jid=8394936 | Stripe | Software Engineer, Experimental Projects | New York City | posted: 2026-11-24
 - [ ] https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Equity-Trader---Execution---Data-Analytics_R260900389-2 | TIAA | Equity Trader - Execution & Data Analytics | 4 Locations | posted: 2026-11-23
 
+- [ ] https://job-boards.greenhouse.io/thetradedesk/jobs/5294066007 | Thetradedesk | Front-End Engineer II - Data Marketplace Experiences | New York | posted: 2026-11-24
+- [ ] https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers/job/Virtual-Arizona/Developer-II---Business-Intelligence-Premier_JR12466 | HonorHealth | Developer II - Business Intelligence Premier | Virtual Arizona | posted: 2026-11-24
+
 ## Processed
