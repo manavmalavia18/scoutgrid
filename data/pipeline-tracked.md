@@ -2201,4 +2201,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800 | Protege | Founding Platform Engineer | Remote | posted: 2026-11-24
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Software-Engineer-Mechatronic-SW-Platform_JR-202624594 | General Motors | Software Engineer-Mechatronic SW Platform | Milford, Michigan, United States of America | posted: 2026-11-24
 
+- [ ] https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | Remote | posted: 2026-11-24
+
 ## Processed
