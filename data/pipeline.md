@@ -2642,3 +2642,6 @@
 - [ ] https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f | veeva | Associate Software Engineer - 2027 Start Dates | North Carolina - Raleigh | posted: 2026-11-24
 
 - [ ] https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1 | baseten | Site Reliability / Cloud Platform Engineer (Agent Infra) | San Francisco | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866 | openai | Software Engineer, Space Foundations — Real-Time Systems | Seattle | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092 | openai | Software Engineer, Space Foundations — Search & Databases | Seattle | posted: 2026-11-24
