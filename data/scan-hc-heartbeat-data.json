@@ -1,23 +1,18 @@
 {
-  "at": "2026-11-24T19:34:37.007Z",
-  "exitCode": 1,
-  "reason": "all_queries_failed",
+  "at": "2026-11-24T19:50:29.385Z",
+  "exitCode": 0,
+  "elapsedSec": 17,
+  "newMatches": 263,
+  "advertised": 2,
+  "pagesFetched": 11,
   "mode": "hiringcafe-saved-search",
-  "queriesTotal": 11,
-  "queriesSkipped": 11,
-  "pagesFetched": 0,
-  "newMatches": 0,
-  "firstBlockedResponse": {
-    "at": "2026-11-24T19:34:30.596Z",
-    "status": 403,
-    "classification": "cloudflare_managed_challenge",
-    "workflowRunId": "45471502366",
-    "headers": {
-      "cf-mitigated": "challenge",
-      "cf-ray": "a5fad9f8d9cb8fae-BOS",
-      "content-type": "text/html; charset=UTF-8",
-      "date": "Tue, 24 Nov 2026 19:34:30 GMT",
-      "server": "cloudflare"
-    }
+  "query": "data analyst | data scientist | etl developer | power bi developer | database administrator | business intelligence engineer | business intelligence analyst | analytics engineer | ai ml engineer | data warehouse engineer | product analyst",
+  "hours": 96,
+  "truncated": false,
+  "transport": "patchright",
+  "queriesSkipped": 2,
+  "reusedFromOtherTrack": {
+    "source": "/Users/manavmalavia/actions-runner-scoutgrid/_work/scoutgrid/scoutgrid/data/hiringcafe-feed.json",
+    "jobsReused": 28
   }
 }
