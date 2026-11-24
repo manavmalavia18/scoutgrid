@@ -2220,4 +2220,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/thetradedesk/jobs/5294066007 | Thetradedesk | Front-End Engineer II - Data Marketplace Experiences | New York | posted: 2026-11-24
 - [ ] https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers/job/Virtual-Arizona/Developer-II---Business-Intelligence-Premier_JR12466 | HonorHealth | Developer II - Business Intelligence Premier | Virtual Arizona | posted: 2026-11-24
 
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI--Guardrails--Evaluation-_R1003168-1 | Capital One | AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation) | 5 Locations | posted: 2026-11-24
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Applications-Development-Technology-Lead_261005825-1 | Citi | Full Stack Software Engineer-Java | New York New York United States | posted: 2026-11-24
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Spain---Remote/Mid-Level-Java-Software-Engineer_R58469 | Trimble | Mid-Level Java Software Engineer | 3 Locations | posted: 2026-11-24
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Portugal---Remote/Software-Engineer--JavaScript--Nodejs-_R58040 | Trimble | Software Engineer (JavaScript, Node.js) | 3 Locations | posted: 2026-11-24
+- [ ] https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Analytics---AI---Senior-Data-Engineer_Req-69592 | The Campbell's Company | Data Analytics & AI - Data Engineer | USA - NJ - Camden | posted: 2026-11-24
+
 ## Processed
