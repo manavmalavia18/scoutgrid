@@ -2615,3 +2615,5 @@
 - [ ] https://jobs.ashbyhq.com/alan/ee153e20-668b-4388-a4d1-370ddac39542 | alan | Fullstack Software Engineer (x/f/m) - Growth | Anywhere in France, Belgium, Spain | posted: 2026-11-24
 
 - [ ] https://jobs.ashbyhq.com/alan/2e09e54e-fc8a-4f61-9b19-36804d5413c6 | alan | Fullstack Software Engineer (x/f/m) - Medical Software | Anywhere in France | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800 | protege | Founding Platform Engineer | Remote | posted: 2026-11-24
