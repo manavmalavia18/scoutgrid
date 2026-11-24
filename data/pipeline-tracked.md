@@ -2260,4 +2260,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/IL---Chicago-350-N-Orleans-St-1300N/Backend-C---Software-Engineer---2-Days-ONSITE---Chicago--IL---FreeWheel_R449192 | Comcast | Backend C++ Software Engineer - 2 Days ONSITE - Chicago, IL - FreeWheel | IL - Chicago, 350 N. Orleans St 1300N | posted: 2026-11-24
 - [ ] https://job-boards.greenhouse.io/pindropsecurity/jobs/8415376 | Pindrop Security | Software Engineer II (BotStopper) | US - Remote; US-Remote | posted: 2026-11-24
 
+- [ ] https://jobs.ashbyhq.com/Clera/e43a059d-73de-41c4-9569-1cd73f6f6693 | Clera | Founding AI Engineer | San Jose · Remote | posted: 2026-11-24
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210811630 | JPMorgan Chase | Software Engineer III - Python,AWS,Spark | New York, NY, United States | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22 | OpenAI | Software Engineer, Full Stack — ChatGPT Voice | San Francisco | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a | OpenAI | Software Engineer, Backend — ChatGPT Voice | San Francisco | posted: 2026-11-24
+- [ ] https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Online-Data-Engineer_Req199721 | The Home Depot | Online Data Engineer | STORE SUPPORT CENTER, ATLANTA - 9090 | posted: 2026-11-24
+- [ ] https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f | Veeva Systems | Associate Software Engineer - 2027 Start Dates | North Carolina - Raleigh | posted: 2026-11-24
+- [ ] https://thejacksonlaboratory.wd503.myworkdayjobs.com/external_jax/job/Farmington-Connecticut/Software-Engineer-III_JR006422 | The Jackson Laboratory | Software Engineer III | 6 Locations | posted: 2026-11-24
+- [ ] https://stripe.com/jobs/search?gh_jid=8415333 | Stripe | Analytics Engineer | New York | posted: 2026-11-24
+- [ ] https://interpublic.wd5.myworkdayjobs.com/OMC/job/Washington-District-of-Columbia-United-States-of-America/Analyst--Analytics_R10081 | Interpublic Group | Analyst, Analytics | Washington, District of Columbia, United States of America | posted: 2026-11-24
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8355591?t=gh_src=&gh_jid=8355591 | Robinhood | Software Engineer, Full Stack, Government Products | Menlo Park, CA; New York, NY | posted: 2026-11-24
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4732121006?gh_jid=4732121006 | Accenture Federal Services | Pega Application Developer | Washington, DC | posted: 2026-11-24
+- [ ] https://talentmanagementsolution.wd3.myworkdayjobs.com/jonassoftwareusa/job/Remote---USA/Jr-DevOps-Engineer_R55595 | Jonas Software | Jr. DevOps Engineer | Remote - USA | posted: 2026-11-23
+
 ## Processed
