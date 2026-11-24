@@ -2187,4 +2187,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586 | Viridien | Machine Learning Researcher - Seismic Foundation Models | Houston, United States of America | posted: 2026-11-23
 
+- [ ] https://jobs.smartrecruiters.com/Eurofins/744000163468691 | Eurofins | Applied AI Engineer | Stafford, TX, United States | posted: 2026-11-24
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210803885 | JPMorgan Chase | Software Engineer III - Fullstack, Java, AWS | NY, United States | posted: 2026-11-24
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/SOFTWARE-ENGINEER---TeraWave---RF-and-Optical-Systems_R76208 | Blue Origin | SOFTWARE ENGINEER – TeraWave – RF and Optical Systems | 2 Locations | posted: 2026-11-23
+- [ ] https://verizon.wd12.myworkdayjobs.com/frontier_career_site/job/Irving-Texas/Engineer-III---Software-Engineer_R-1104182-2 | Verizon | Engineer III - Software Engineer | 3 Locations | posted: 2026-11-23
+- [ ] https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Engineer_R02788 | Altera | AI Engineer | San Jose, California, United States | posted: 2026-11-23
+
 ## Processed
