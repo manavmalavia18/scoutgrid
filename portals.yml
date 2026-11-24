@@ -25588,6 +25588,96 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "KCF Technologies"
+    careers_url: https://job-boards.greenhouse.io/kcftechnologies
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "ABC Supply"
+    careers_url: https://abcsupply.wd1.myworkdayjobs.com/abcsupplycareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Alliant Energy"
+    careers_url: https://alliantenergy.wd1.myworkdayjobs.com/alliant
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "AstraZeneca"
+    careers_url: https://astrazeneca.wd3.myworkdayjobs.com/alexion
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Baker Hughes"
+    careers_url: https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Blue Cross Blue Shield of Massachusetts"
+    careers_url: https://bcbsma.wd5.myworkdayjobs.com/bcbsma
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CardWorks"
+    careers_url: https://cardworks.wd12.myworkdayjobs.com/cardworks_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Cigna Group"
+    careers_url: https://cigna.wd5.myworkdayjobs.com/cignacareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "LPL Financial"
+    careers_url: https://lplfinancial.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Maricopa County"
+    careers_url: https://maricopa.wd1.myworkdayjobs.com/mc_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Meijer"
+    careers_url: https://meijer.wd5.myworkdayjobs.com/meijer
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Nortek Data Center Cooling"
+    careers_url: https://nortekinc.wd503.myworkdayjobs.com/nortekdcc
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Northwest Bank"
+    careers_url: https://northwest.wd1.myworkdayjobs.com/northwest_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Progress Residential"
+    careers_url: https://pretiumenterpriseservices.wd1.myworkdayjobs.com/PR
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Tempur Sealy International"
+    careers_url: https://tempurpedic.wd108.myworkdayjobs.com/tempur-sealy-careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
