@@ -2617,3 +2617,5 @@
 - [ ] https://jobs.ashbyhq.com/alan/2e09e54e-fc8a-4f61-9b19-36804d5413c6 | alan | Fullstack Software Engineer (x/f/m) - Medical Software | Anywhere in France | posted: 2026-11-24
 
 - [ ] https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800 | protege | Founding Platform Engineer | Remote | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/webAI/7e3b6a85-c453-4384-bdb9-50b62965caf1 | webai | Edge Network Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
