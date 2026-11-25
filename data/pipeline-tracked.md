@@ -2310,4 +2310,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5309020007?gh_jid=5309020007 | Anduril Industries | Flight Software Engineer | Atlanta, Georgia, United States | posted: 2026-11-25
 - [ ] https://jobs.lever.co/loopreturns/3acc15ac-63e9-4725-a4dd-87680e56921b | Loop (Returns) | Machine Learning Engineer | Remote; Columbus, OH; Chicago, IL | posted: 2026-11-25
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer---Authentication-Security_JR-0111215-1 | Workday | Software Development Engineer – Authentication Security | USA, CA, Pleasanton | posted: 2026-11-24
+- [ ] https://waystar.wd1.myworkdayjobs.com/waystar/job/Atlanta-GA/Software-Engineer-II_R3354 | Waystar | Software Engineer II | Atlanta, GA | posted: 2026-11-24
+- [ ] https://roguefitness.wd1.myworkdayjobs.com/roguefitness_external_careers/job/Columbus-Ohio/Mobile-Application-Developer_R-103088 | Rogue Fitness | Mobile Application Developer | Columbus, Ohio
+
 ## Processed
