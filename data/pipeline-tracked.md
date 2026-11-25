@@ -2314,4 +2314,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://waystar.wd1.myworkdayjobs.com/waystar/job/Atlanta-GA/Software-Engineer-II_R3354 | Waystar | Software Engineer II | Atlanta, GA | posted: 2026-11-24
 - [ ] https://roguefitness.wd1.myworkdayjobs.com/roguefitness_external_careers/job/Columbus-Ohio/Mobile-Application-Developer_R-103088 | Rogue Fitness | Mobile Application Developer | Columbus, Ohio
 
+- [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4477299009 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | Cambridge, MA USA; San Francisco, CA USA | posted: 2026-11-25
+
 ## Processed
