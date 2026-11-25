@@ -2292,4 +2292,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Burlington-Massachusetts/Software-Engineering---Development--Off_R-795584 | Statestreet | Software Engineering & Development, Off | Burlington Massachusetts | posted: 2026-11-25
 
+- [ ] https://abnormal.ai/careers/jobs/8016918003?gh_jid=8016918003 | Abnormal AI | Software Engineer I - Backend | Remote - Singapore | posted: 2026-11-25
+- [ ] https://jobs.smartrecruiters.com/cityofnewyork/3743990017084136 | City of New York | Data Analytics Specialist | New York City, NY, United States | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/webAI/f083afb4-dbd4-41ae-a9eb-d3c926c4a426 | webAI | Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
+
 ## Processed
