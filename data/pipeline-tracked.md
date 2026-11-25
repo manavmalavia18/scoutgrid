@@ -2304,4 +2304,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5028942101 | Veeam Software | Data Analyst | Remote, United States | posted: 2026-11-25
 - [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428 | Collectors | Associate Analytics Engineer | US - Remote | posted: 2026-11-24
 
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Full-Stack-Software-Developer_335530 | CACI | Full Stack Software Developer | Washington, DC, US | posted: 2026-11-25
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Pega-Application-Developer_335531 | CACI | Pega Application Developer | Washington, DC, US | posted: 2026-11-25
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Junior-Pega-Application-Developer_335532 | CACI | Junior Pega Application Developer | Washington, DC, US | posted: 2026-11-25
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5309020007?gh_jid=5309020007 | Anduril Industries | Flight Software Engineer | Atlanta, Georgia, United States | posted: 2026-11-25
+- [ ] https://jobs.lever.co/loopreturns/3acc15ac-63e9-4725-a4dd-87680e56921b | Loop (Returns) | Machine Learning Engineer | Remote; Columbus, OH; Chicago, IL | posted: 2026-11-25
+
 ## Processed
