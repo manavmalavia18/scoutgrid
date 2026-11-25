@@ -2285,4 +2285,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-Systems-_R1003178-1 | Capital One | AI Engineer 5 (Gen AI Platform Services: Agentic Systems) | 5 Locations | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748 | Clera | Founding AI/ML Engineer | San Jose · Remote | posted: 2026-11-25
+
 ## Processed
