@@ -2333,4 +2333,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Staff-Full-Stack-Engineer--AI---Emerging-Tech_R1005376-1 | Capital One | Full Stack Engineer 5 (AI & Emerging Tech) | 4 Locations | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa | Insitro | Full Stack Software Engineer, Lab Platform (LIMS) | South San Francisco, CA | posted: 2026-11-25
 
+- [ ] https://jobs.smartrecruiters.com/nbcuniversal3/744000163743261 | NBCUniversal3 | Software Engineer (Atlassian Platform Support) | Remote | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/upside/022a5c37-643e-4b1c-a85a-aa5ba6600ca3 | Upside | Analytics Engineer, Data Platform | DC · New York · United States · Austin · Chicago | posted: 2026-11-25
+- [ ] https://jobs.teradyne.com/Teradyne/job/Tualatin-Software-Engineer-%28Teradyne%2C-Oregon%29-OR/1436365100/ | Teradyne | Software Engineer (Teradyne, Oregon) | Tualatin, OR, US
+- [ ] https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912 | Sonos | Junior Software Development Engineer, Web | Boston, MA | posted: 2026-11-25
+
 ## Processed
