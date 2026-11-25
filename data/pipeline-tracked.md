@@ -2296,4 +2296,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/cityofnewyork/3743990017084136 | City of New York | Data Analytics Specialist | New York City, NY, United States | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/webAI/f083afb4-dbd4-41ae-a9eb-d3c926c4a426 | webAI | Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
 
+- [ ] https://jobs.ashbyhq.com/hightouch-inc/3b805697-c41c-4f9b-92b8-4c683236f465 | Hightouch | Software Engineer | Remote (North America) | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/union-tech/f21b6d74-f678-415c-8184-1acd40e830f5 | Union Technologies | Software Engineer | Dallas, TX · San Jose, CA · San Jose · United States | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/vClusterLabs/d150af34-b735-4ad0-8bc2-34af0267f4c7 | vCluster Labs | Demo Platform Engineer | United States · Remote | posted: 2026-11-24
+- [ ] https://jobs.lever.co/Versana/81060535-8619-4bdf-9d2a-55c0ad173d2a | Versana | DevOps Engineer | New York, NY | posted: 2026-11-24
+
 ## Processed
