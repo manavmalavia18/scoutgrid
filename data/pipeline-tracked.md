@@ -2327,4 +2327,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070 | Toyota Motor Corporation | Software Engineer | Plano, Texas | posted: 2026-11-25
 - [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Spain---Remote/Data-Platform-Engineer--Data-Infrastructure---Services_R57954 | Trimble | Data Platform Engineer, Data Infrastructure & Services | 2 Locations | posted: 2026-11-25
 
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8415553 | Reddit | Software Engineer, Ads | San Francisco, CA | posted: 2026-11-25
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineer-II---Advanced-Manufacturing-Engineering_R81860-1 | Medtronic | Software Engineer II - Advanced Manufacturing Engineering | Fridley, Minnesota, United States of America | posted: 2026-11-25
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---Fullstack---Java--Angular--Python_101421 | Nationwide | Specialist, Software Engineer - Fullstack - Java, Angular, Python | Ohio Columbus Three Nationwide Plaza
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Staff-Full-Stack-Engineer--AI---Emerging-Tech_R1005376-1 | Capital One | Full Stack Engineer 5 (AI & Emerging Tech) | 4 Locations | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa | Insitro | Full Stack Software Engineer, Lab Platform (LIMS) | South San Francisco, CA | posted: 2026-11-25
+
 ## Processed
