@@ -2374,4 +2374,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210746076 | JPMorgan Chase | Software Engineer III: Full Stack | Jersey City, NJ, United States | posted: 2026-11-25
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W | Visa | Associate Data Engineer, AI Studio | US - Austin, TX | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/runpod/d7c53f7a-ce66-4ecb-91f6-75b1565d4d62 | Runpod | Software Engineer (Full-Stack) - Multiple Levels | Remote - USA | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51 | CodeRabbit | Software Engineer - New Grad | San Francisco | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/Braintrust/103dc439-307b-4fa7-9c40-efd19d457653 | Braintrust | Analytics Engineer | San Francisco | posted: 2026-11-25
+- [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Industrial-Base-Data-Analyst_R0254298 | Booz Allen Hamilton | Industrial Base Data Analyst | Washington, DC | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/plugmotors/6db37554-cd59-4546-b3d1-fb20bafecf97 | Plug Technologies | Product Analyst | Los Angeles | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a | Ayo Semiconductor | Machine Learning Engineer | Boston | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff | Ayo Semiconductor | Machine Learning Researcher | Boston | posted: 2026-11-25
+
 ## Processed
