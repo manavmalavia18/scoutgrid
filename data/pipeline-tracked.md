@@ -2287,4 +2287,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748 | Clera | Founding AI/ML Engineer | San Jose · Remote | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/base-power/10772e1c-dfad-4161-9e9e-5f34728c4745 | BASE | Software Engineer, Infrastructure | Austin, TX | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/base-power/23bc4e94-d63c-4933-926b-edcb69138410 | BASE | Software Engineer, Backend | Austin, TX | posted: 2026-11-25
+
 ## Processed
