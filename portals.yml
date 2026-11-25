@@ -26068,6 +26068,81 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from linkedin
+  - name: "CesiumAstro"
+    careers_url: https://jobs.lever.co/CesiumAstro
+    provider: lever
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Adolfson & Peterson Construction"
+    careers_url: https://ap.wd12.myworkdayjobs.com/ap_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "City of Arlington"
+    careers_url: https://arlingtontx.wd503.myworkdayjobs.com/cityofarlingtoncareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Terafina"
+    careers_url: https://candescent.wd501.myworkdayjobs.com/hiring
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "City of Charlotte"
+    careers_url: https://charlottenc.wd12.myworkdayjobs.com/citgov
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "General Mills"
+    careers_url: https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Montefiore Einstein Technology"
+    careers_url: https://montefiore.wd12.myworkdayjobs.com/MMC
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "OU Health"
+    careers_url: https://oumedicine.wd5.myworkdayjobs.com/ouhealthcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Piper Sandler"
+    careers_url: https://pipersandler.wd501.myworkdayjobs.com/piper_sandler_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "P.L. Marketing"
+    careers_url: https://plmarketing.wd12.myworkdayjobs.com/plm
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Power Design"
+    careers_url: https://powerdesigninc.wd5.myworkdayjobs.com/externaljobboards
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Power Design"
+    careers_url: https://powerdesigninc.wd5.myworkdayjobs.com/pdi
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Progress Residential"
+    careers_url: https://pretiumenterpriseservices.wd1.myworkdayjobs.com/PR
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Elsevier"
+    careers_url: https://relx.wd3.myworkdayjobs.com/ElsevierJobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from linkedin
+  - name: "Stout"
+    careers_url: https://stout.wd5.myworkdayjobs.com/stout-careers-url
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
