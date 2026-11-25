@@ -2653,3 +2653,8 @@
 - [ ] https://jobs.ashbyhq.com/webAI/f083afb4-dbd4-41ae-a9eb-d3c926c4a426 | webai | Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
 
 - [ ] https://jobs.lever.co/loopreturns/3acc15ac-63e9-4725-a4dd-87680e56921b | loopreturns | Machine Learning Engineer | Remote; Columbus, OH; Chicago, IL | posted: 2026-11-25
+
+- [ ] https://jobs.ashbyhq.com/3y-health/9a3e3338-e093-46b9-83b5-507c0bf02980 | 3y-health | Full Stack Engineer | Remote - Poland · Remote - Romania · Romania · Remote - Estonia · Estonia · Remote - Georgia · Georgia · Remote - Ukraine · Ukraine · Remote - Czech Republic · Czech Republic · Remote - Hungary · Hungary · Remote - Spain · Spain · Remote - Latvia · Latvia · Remote - Portugal · Portugal · Remote - Lithuania · Lithuania | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/3y-health/675bd784-491e-4bec-b4c3-a596cfab3932 | 3y-health | Full Stack AI Engineer | Remote - Poland · Remote - Romania · Romania · Remote - Estonia · Estonia · Remote - Georgia · Georgia · Remote - Ukraine · Ukraine · Remote - Czech Republic · Czech Republic · Remote - Hungary · Hungary · Remote - Spain · Spain · Remote - Latvia · Latvia · Remote - Portugal · Portugal · Remote - Lithuania · Lithuania | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/3y-health/eb262054-63a8-486c-ac2d-e2da66aa3616 | 3y-health | Full Stack Engineer | Remote - Mexico · Remote - Costa Rica · Costa Rica · Remote - Chile · Chile · Remote - Colombia · Colombia | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/3y-health/1487af22-7382-42d3-bad7-61aad8667da4 | 3y-health | Full Stack AI Engineer | Remote - Mexico · Remote - Costa Rica · Costa Rica · Remote - Chile · Chile · Remote - Colombia · Colombia | posted: 2026-11-25
