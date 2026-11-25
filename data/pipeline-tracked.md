@@ -2283,4 +2283,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://bcbsma.wd5.myworkdayjobs.com/bcbsma/job/Boston/AI-Engineer_R08915 | Blue Cross Blue Shield of Massachusetts | AI Engineer Associate | Boston | posted: 2026-11-24
 - [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor---Evernorth---Remote_26011840 | The Cigna Group | Business Analytics Advisor - Evernorth - Remote | United States Work at Home | posted: 2026-11-24
 
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-Systems-_R1003178-1 | Capital One | AI Engineer 5 (Gen AI Platform Services: Agentic Systems) | 5 Locations | posted: 2026-11-25
+
 ## Processed
