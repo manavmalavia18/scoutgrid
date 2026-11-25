@@ -2645,3 +2645,6 @@
 
 - [ ] https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866 | openai | Software Engineer, Space Foundations — Real-Time Systems | Seattle | posted: 2026-11-24
 - [ ] https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092 | openai | Software Engineer, Space Foundations — Search & Databases | Seattle | posted: 2026-11-24
+
+- [ ] https://jobs.ashbyhq.com/base-power/10772e1c-dfad-4161-9e9e-5f34728c4745 | base-power | Software Engineer, Infrastructure | Austin, TX | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/base-power/23bc4e94-d63c-4933-926b-edcb69138410 | base-power | Software Engineer, Backend | Austin, TX | posted: 2026-11-25
