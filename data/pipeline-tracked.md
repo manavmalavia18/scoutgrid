@@ -2354,4 +2354,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer---Network-Virtualization---Multitenancy_1218609-2 | Hewlett Packard Enterprise | Systems Software Engineer – Network Virtualization & Multitenancy | 4 Locations | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/civilgrid/8fda4773-a81f-4e96-b27e-c12c1b53a969 | CivilGrid | Full Stack Engineer | Boston | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/ThinkingMachines/fdb92624-9df4-4a0f-bc23-bfb60b69d7cb | Thinking Machines Lab | Software Engineer, Safety Platform | San Francisco | posted: 2026-11-25
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8355577?t=gh_src=&gh_jid=8355577 | Robinhood | Software Engineer, Web, Government Products | Menlo Park, CA; New York, NY | posted: 2026-11-25
+
 ## Processed
