@@ -2367,4 +2367,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/requisitions/preview/304446 | Uber | Software Engineer II - ML Engineer | San Francisco, CA, United States | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c | Parallel | Early Career Software Engineer, Developer Experience | San Francisco · New York, New York · New York · United States · Palo Alto | posted: 2026-11-25
 
+- [ ] https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Engineer--Technical-Suport----Night-Shift_JR-0099408 | KION Group | Software Engineer, Technical Suport -- Night Shift | 6 Locations | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/megazone/f6137aee-7d4c-4acd-9d8d-20ef24eaf2ed | Megazone Cloud | Full Stack Engineer | Rochester, NY · Irvine, CA · Irvine · United States · Frisco, TX · Frisco | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/megazone/0be79b0c-ac1d-41e4-8277-8788c7cec6ad | Megazone Cloud | Cloud Platform Engineer – Kubernetes / EKS & DevOps | United States- Remote | posted: 2026-11-25
+
 ## Processed
