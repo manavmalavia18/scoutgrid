@@ -2338,4 +2338,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.teradyne.com/Teradyne/job/Tualatin-Software-Engineer-%28Teradyne%2C-Oregon%29-OR/1436365100/ | Teradyne | Software Engineer (Teradyne, Oregon) | Tualatin, OR, US
 - [ ] https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912 | Sonos | Junior Software Development Engineer, Web | Boston, MA | posted: 2026-11-25
 
+- [ ] https://job-boards.greenhouse.io/vestwell/jobs/8209363003 | Vestwell | Associate, Software Engineer | New York, NY / Austin, TX / King of Prussia, PA / Scottsdale, AZ | posted: 2026-11-25
+- [ ] https://job-boards.greenhouse.io/vestwell/jobs/8209319003 | Vestwell | Software Engineer | New York, NY / Austin, TX / King of Prussia, PA / Scottsdale, AZ | posted: 2026-11-25
+- [ ] https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Product-Analyst---Proxy-Meeting-Services_JR1087914-1 | Broadridge | Product Analyst — Proxy Meeting Services | 2 Locations | posted: 2026-11-25
+- [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/AI-Engineer_JR26111069 | Manulife | AI Engineer | 2 Locations | posted: 2026-11-25
+- [ ] https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Machine-Learning-Engineer---AI--Cybersecurity-LLM-Post-Training--Evals--and-Environments-_JR-025200 | Palo Alto Networks | Machine Learning Engineer – AI (Cybersecurity LLM Post-Training, Evals, and Environments) | Santa Clara, United States of America | posted: 2026-11-25
+
 ## Processed
