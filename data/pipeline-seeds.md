@@ -2283,4 +2283,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/loopreturns/3acc15ac-63e9-4725-a4dd-87680e56921b | loopreturns | Machine Learning Engineer | Remote; Columbus, OH; Chicago, IL | posted: 2026-11-25
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5309020007?gh_jid=5309020007 | andurilindustries | Flight Software Engineer | Atlanta, Georgia, United States | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d | render | Software Engineer, Cloud Infrastructure | Remote: United States · San Francisco HQ · San Francisco · United States · SF or Remote (US/Canada) · Remote: Canada · Canada | posted: 2026-11-25
+- [ ] https://careers.cargurus.com/us/en/job/8417873?gh_jid=8417873 | cargurus | Software Development Engineer II | Boston, Massachusetts, United States | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa | insitro | Full Stack Software Engineer, Lab Platform (LIMS) | South San Francisco, CA | posted: 2026-11-25
+
 ## Processed
