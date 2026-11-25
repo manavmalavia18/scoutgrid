@@ -2371,4 +2371,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/megazone/f6137aee-7d4c-4acd-9d8d-20ef24eaf2ed | Megazone Cloud | Full Stack Engineer | Rochester, NY · Irvine, CA · Irvine · United States · Frisco, TX · Frisco | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/megazone/0be79b0c-ac1d-41e4-8277-8788c7cec6ad | Megazone Cloud | Cloud Platform Engineer – Kubernetes / EKS & DevOps | United States- Remote | posted: 2026-11-25
 
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210746076 | JPMorgan Chase | Software Engineer III: Full Stack | Jersey City, NJ, United States | posted: 2026-11-25
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W | Visa | Associate Data Engineer, AI Studio | US - Austin, TX | posted: 2026-11-25
+
 ## Processed
