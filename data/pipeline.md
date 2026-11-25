@@ -2651,3 +2651,5 @@
 
 - [ ] https://abnormal.ai/careers/jobs/8016918003?gh_jid=8016918003 | abnormalsecurity | Software Engineer I - Backend | Remote - Singapore | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/webAI/f083afb4-dbd4-41ae-a9eb-d3c926c4a426 | webai | Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
+
+- [ ] https://jobs.lever.co/loopreturns/3acc15ac-63e9-4725-a4dd-87680e56921b | loopreturns | Machine Learning Engineer | Remote; Columbus, OH; Chicago, IL | posted: 2026-11-25
