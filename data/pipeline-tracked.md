@@ -2344,4 +2344,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/AI-Engineer_JR26111069 | Manulife | AI Engineer | 2 Locations | posted: 2026-11-25
 - [ ] https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Machine-Learning-Engineer---AI--Cybersecurity-LLM-Post-Training--Evals--and-Environments-_JR-025200 | Palo Alto Networks | Machine Learning Engineer – AI (Cybersecurity LLM Post-Training, Evals, and Environments) | Santa Clara, United States of America | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d | Render | Software Engineer, Cloud Infrastructure | Remote: United States · San Francisco HQ · San Francisco · United States · SF or Remote (US/Canada) · Remote: Canada · Canada | posted: 2026-11-25
+- [ ] https://job-boards.greenhouse.io/honeycombinsurance/jobs/4757677005 | Honeycomb | DevOps Engineer | Chicago, IL | posted: 2026-11-25
+- [ ] https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Data-Analyst-II_R_00050187-1 | The University of Texas at Austin | Data Analyst II | AUSTIN, TX | posted: 2026-11-25
+- [ ] https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/DevOps-Engineer-I_REQ20261087 | Early Warning Services | DevOps Engineer I | Chicago | posted: 2026-11-25
+
 ## Processed
