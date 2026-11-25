@@ -1,13 +1,18 @@
 {
-  "at": "2026-11-24T23:31:12.128Z",
-  "leadsScanned": 10010,
-  "totalBoardsKnown": 2682,
-  "alreadyTracked": 2676,
-  "newlyPromoted": 6,
+  "at": "2026-11-25T05:03:37.275Z",
+  "leadsScanned": 10120,
+  "totalBoardsKnown": 2693,
+  "alreadyTracked": 2681,
+  "newlyPromoted": 12,
   "newBoards": [
     {
-      "name": "Crucibl",
-      "careers_url": "https://jobs.ashbyhq.com/crucibl",
+      "name": "Teza Technologies",
+      "careers_url": "https://jobs.ashbyhq.com/teza-technologies",
+      "provider": "ashby"
+    },
+    {
+      "name": "Vibe.co",
+      "careers_url": "https://jobs.ashbyhq.com/vibe-co-2",
       "provider": "ashby"
     },
     {
@@ -16,9 +21,19 @@
       "provider": "lever"
     },
     {
-      "name": "Eastern Research Group",
-      "careers_url": "https://jobs.lever.co/erg",
-      "provider": "lever"
+      "name": "Bonterra",
+      "careers_url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech",
+      "provider": "workday"
+    },
+    {
+      "name": "Equinix",
+      "careers_url": "https://equinix.wd1.myworkdayjobs.com/applications_by_invitations",
+      "provider": "workday"
+    },
+    {
+      "name": "Johns Manville",
+      "careers_url": "https://jm.wd103.myworkdayjobs.com/external",
+      "provider": "workday"
     },
     {
       "name": "Montefiore Einstein Technology",
@@ -33,6 +48,21 @@
     {
       "name": "Elsevier",
       "careers_url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs",
+      "provider": "workday"
+    },
+    {
+      "name": "Rogue Fitness",
+      "careers_url": "https://roguefitness.wd1.myworkdayjobs.com/roguefitness_external_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Schreiber Foods",
+      "careers_url": "https://schreiberfoods.wd115.myworkdayjobs.com/schreiber_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Waystar",
+      "careers_url": "https://waystar.wd1.myworkdayjobs.com/waystar",
       "provider": "workday"
     }
   ]
