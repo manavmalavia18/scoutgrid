@@ -2272,4 +2272,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866 | openai | Software Engineer, Space Foundations — Real-Time Systems | Seattle | posted: 2026-11-24
 - [ ] https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092 | openai | Software Engineer, Space Foundations — Search & Databases | Seattle | posted: 2026-11-24
 
+- [ ] https://abnormal.ai/careers/jobs/8016918003?gh_jid=8016918003 | abnormalsecurity | Software Engineer I - Backend | Remote - Singapore | posted: 2026-11-25
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5494041008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-11-24
+- [ ] https://jobs.ashbyhq.com/webAI/f083afb4-dbd4-41ae-a9eb-d3c926c4a426 | webai | Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
+
 ## Processed
