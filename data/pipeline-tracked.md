@@ -2316,4 +2316,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4477299009 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | Cambridge, MA USA; San Francisco, CA USA | posted: 2026-11-25
 
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/India---Remote/Software-Development-Engineer-3-1_R23141 | WEX | Software Development Engineer 3-1 | India - Remote | posted: 2026-11-25
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/India---Remote/Software-Development-Engineer-3-2_R23140 | WEX | Software Development Engineer 3-2 | India - Remote | posted: 2026-11-25
+
 ## Processed
