@@ -2359,4 +2359,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/New-York-New-York/T-Ads-Software-Engineer--React_REQ380561 | Tmobile | T-Ads Software Engineer, React | 2 Locations | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/e2b/825c8398-7d2f-4614-85c9-1fdc6e86b06b | E2B | Business Analytics Engineer | San Francisco | posted: 2026-11-25
+
 ## Processed
