@@ -2301,4 +2301,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/vClusterLabs/d150af34-b735-4ad0-8bc2-34af0267f4c7 | vCluster Labs | Demo Platform Engineer | United States · Remote | posted: 2026-11-24
 - [ ] https://jobs.lever.co/Versana/81060535-8619-4bdf-9d2a-55c0ad173d2a | Versana | DevOps Engineer | New York, NY | posted: 2026-11-24
 
+- [ ] https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5028942101 | Veeam Software | Data Analyst | Remote, United States | posted: 2026-11-25
+- [ ] https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428 | Collectors | Associate Analytics Engineer | US - Remote | posted: 2026-11-24
+
 ## Processed
