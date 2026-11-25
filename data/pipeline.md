@@ -2648,3 +2648,6 @@
 
 - [ ] https://jobs.ashbyhq.com/base-power/10772e1c-dfad-4161-9e9e-5f34728c4745 | base-power | Software Engineer, Infrastructure | Austin, TX | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/base-power/23bc4e94-d63c-4933-926b-edcb69138410 | base-power | Software Engineer, Backend | Austin, TX | posted: 2026-11-25
+
+- [ ] https://abnormal.ai/careers/jobs/8016918003?gh_jid=8016918003 | abnormalsecurity | Software Engineer I - Backend | Remote - Singapore | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/webAI/f083afb4-dbd4-41ae-a9eb-d3c926c4a426 | webai | Software Engineer | Austin, TX · Washington D.C. Area · Washington · United States | posted: 2026-11-24
