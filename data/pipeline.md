@@ -2658,3 +2658,5 @@
 - [ ] https://jobs.ashbyhq.com/3y-health/675bd784-491e-4bec-b4c3-a596cfab3932 | 3y-health | Full Stack AI Engineer | Remote - Poland · Remote - Romania · Romania · Remote - Estonia · Estonia · Remote - Georgia · Georgia · Remote - Ukraine · Ukraine · Remote - Czech Republic · Czech Republic · Remote - Hungary · Hungary · Remote - Spain · Spain · Remote - Latvia · Latvia · Remote - Portugal · Portugal · Remote - Lithuania · Lithuania | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/3y-health/eb262054-63a8-486c-ac2d-e2da66aa3616 | 3y-health | Full Stack Engineer | Remote - Mexico · Remote - Costa Rica · Costa Rica · Remote - Chile · Chile · Remote - Colombia · Colombia | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/3y-health/1487af22-7382-42d3-bad7-61aad8667da4 | 3y-health | Full Stack AI Engineer | Remote - Mexico · Remote - Costa Rica · Costa Rica · Remote - Chile · Chile · Remote - Colombia · Colombia | posted: 2026-11-25
+
+- [ ] https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa | insitro | Full Stack Software Engineer, Lab Platform (LIMS) | South San Francisco, CA | posted: 2026-11-25
