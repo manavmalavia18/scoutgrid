@@ -2321,4 +2321,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/memx/jobs/5494567008 | MEMX | Software Engineer, Core Software Engineering (2PM - 10PM) | United States | posted: 2026-11-25
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/All-Texas-United-States-of-America/AI-ML-Engineer---Agentic_1202938-1 | Hpe | AI/ML Engineer - Agentic | All, Texas, United States of America | posted: 2026-11-24
+- [ ] https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/Software-Engineer-3--Search-Backend_R0076812 | eBay | Software Engineer 3, Search Backend | Austin | posted: 2026-11-25
+- [ ] https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Part-Time-Lecturer--JD-Flex-LLM-UG-Program--School-of-Law_R138559 | Northeastern University | Part-Time Lecturer, JD/Flex/LLM/UG Program, School of Law | Boston, MA (Main Campus) | posted: 2026-11-25
+- [ ] https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070 | Toyota Motor Corporation | Software Engineer | Plano, Texas | posted: 2026-11-25
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Spain---Remote/Data-Platform-Engineer--Data-Infrastructure---Services_R57954 | Trimble | Data Platform Engineer, Data Infrastructure & Services | 2 Locations | posted: 2026-11-25
+
 ## Processed
