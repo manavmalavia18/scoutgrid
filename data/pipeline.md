@@ -2660,3 +2660,5 @@
 - [ ] https://jobs.ashbyhq.com/3y-health/1487af22-7382-42d3-bad7-61aad8667da4 | 3y-health | Full Stack AI Engineer | Remote - Mexico · Remote - Costa Rica · Costa Rica · Remote - Chile · Chile · Remote - Colombia · Colombia | posted: 2026-11-25
 
 - [ ] https://jobs.ashbyhq.com/insitro/0bff19c6-e165-4be7-a32a-6beeffb51ffa | insitro | Full Stack Software Engineer, Lab Platform (LIMS) | South San Francisco, CA | posted: 2026-11-25
+
+- [ ] https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d | render | Software Engineer, Cloud Infrastructure | Remote: United States · San Francisco HQ · San Francisco · United States · SF or Remote (US/Canada) · Remote: Canada · Canada | posted: 2026-11-25
