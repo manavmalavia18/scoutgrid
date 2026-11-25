@@ -2361,4 +2361,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/e2b/825c8398-7d2f-4614-85c9-1fdc6e86b06b | E2B | Business Analytics Engineer | San Francisco | posted: 2026-11-25
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-3_1219694-1 | Hpe | Systems Software Engineer 3 | Sunnyvale, California, United States of America | posted: 2026-11-25
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer---Libfabric---CXI-Provider--Slingshot-Host-Software-_1218614 | Hpe | Systems Software Engineer – Libfabric / CXI Provider (Slingshot Host Software) | 4 Locations | posted: 2026-11-25
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer---Network-Virtualization---Multitenancy_1218609-1 | Hpe | Systems Software Engineer – Network Virtualization & Multitenancy | 4 Locations | posted: 2026-11-25
+- [ ] https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/requisitions/preview/304446 | Uber | Software Engineer II - ML Engineer | San Francisco, CA, United States | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c | Parallel | Early Career Software Engineer, Developer Experience | San Francisco · New York, New York · New York · United States · Palo Alto | posted: 2026-11-25
+
 ## Processed
