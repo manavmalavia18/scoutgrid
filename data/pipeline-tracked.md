@@ -2349,4 +2349,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Data-Analyst-II_R_00050187-1 | The University of Texas at Austin | Data Analyst II | AUSTIN, TX | posted: 2026-11-25
 - [ ] https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/DevOps-Engineer-I_REQ20261087 | Early Warning Services | DevOps Engineer I | Chicago | posted: 2026-11-25
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-3_1219694-2 | Hewlett Packard Enterprise | Systems Software Engineer 3 | Sunnyvale, California, United States of America | posted: 2026-11-25
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer---Libfabric---CXI-Provider--Slingshot-Host-Software-_1218614-1 | Hewlett Packard Enterprise | Systems Software Engineer – Libfabric / CXI Provider (Slingshot Host Software) | 4 Locations | posted: 2026-11-25
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer---Network-Virtualization---Multitenancy_1218609-2 | Hewlett Packard Enterprise | Systems Software Engineer – Network Virtualization & Multitenancy | 4 Locations | posted: 2026-11-25
+- [ ] https://jobs.ashbyhq.com/civilgrid/8fda4773-a81f-4e96-b27e-c12c1b53a969 | CivilGrid | Full Stack Engineer | Boston | posted: 2026-11-25
+
 ## Processed
