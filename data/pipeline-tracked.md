@@ -2319,4 +2319,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/India---Remote/Software-Development-Engineer-3-1_R23141 | WEX | Software Development Engineer 3-1 | India - Remote | posted: 2026-11-25
 - [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/India---Remote/Software-Development-Engineer-3-2_R23140 | WEX | Software Development Engineer 3-2 | India - Remote | posted: 2026-11-25
 
+- [ ] https://job-boards.greenhouse.io/memx/jobs/5494567008 | MEMX | Software Engineer, Core Software Engineering (2PM - 10PM) | United States | posted: 2026-11-25
+
 ## Processed
