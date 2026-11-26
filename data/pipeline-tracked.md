@@ -2400,4 +2400,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Predictive-Modeler---Commercial-Pricing-Analytics_101092 | Nationwide | Predictive Modeler - Commercial Pricing Analytics | United States Remote
 - [ ] https://jobs.ashbyhq.com/matter-labs/23235c26-230f-42fe-a538-1a82dc18ca92 | Matter Labs | Software Engineer, Node | United States · Europe · Remote | posted: 2026-11-26
 
+- [ ] https://jobs.ashbyhq.com/Forward%20Financing/4dde102d-d0b5-4c46-a6b2-87c44692c71c | Forward Financing | Software Engineer, Security | Remote - United States | posted: 2026-11-25
+- [ ] https://job-boards.greenhouse.io/deepintent/jobs/6268434004 | DeepIntent | Applied AI Engineer | New York, New York | posted: 2026-11-26
+- [ ] https://job-boards.greenhouse.io/faropoint/jobs/5309821007 | Faropoint | Software Engineer | Hoboken, New Jersey | posted: 2026-11-25
+- [ ] https://job-boards.greenhouse.io/jjsnackfoods/jobs/5492097008 | J&J Snack Foods | Software Engineer | TN - La Vergne | posted: 2026-11-25
+
 ## Processed
