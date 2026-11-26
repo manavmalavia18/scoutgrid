@@ -2298,4 +2298,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/rehire/3cd263ad-56f7-4976-bd8c-a4193e18d60f | rehire | Software Engineer – Python & Hardware Test Automation | Argentina · Remote | posted: 2026-11-26
 - [ ] https://jobs.ashbyhq.com/matter-labs/23235c26-230f-42fe-a538-1a82dc18ca92 | matter-labs | Software Engineer, Node | United States · Europe · Remote | posted: 2026-11-26
 
+- [ ] https://jobs.ashbyhq.com/masabi/3f26803b-f6d4-4d2e-94fc-5e2e6dd9dfc4 | masabi | AI Engineer (Remote - Contractor) | Poland · Remote | posted: 2026-11-26
+- [ ] https://jobs.ashbyhq.com/masabi/6fd8569c-9a1e-426c-9381-e2712b22fe56 | masabi | AI Engineer (Remote - Contractor) | Romania · Remote | posted: 2026-11-26
+- [ ] https://jobs.ashbyhq.com/masabi/f24e5f28-c300-489b-aac8-ea388805ebde | masabi | AI Engineer (FTC) | United Kingdom - Remote | posted: 2026-11-26
+- [ ] https://jobs.ashbyhq.com/alan/eecbe61b-ca24-4251-a0dc-f52ee7969e28 | alan | Fullstack Software Engineer (x/f/m) - Mo Companion | Anywhere in France, Belgium, Spain | posted: 2026-11-26
+- [ ] https://jobs.ashbyhq.com/alan/365d6221-3e0f-4243-a1fe-7dd1c284f1c0 | alan | Fullstack Software Engineer (x/f/m) - Mo Medical | Anywhere in France, Belgium, Spain | posted: 2026-11-26
+
 ## Processed
