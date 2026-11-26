@@ -2410,4 +2410,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/alan/365d6221-3e0f-4243-a1fe-7dd1c284f1c0 | Alan | Fullstack Software Engineer (x/f/m) - Mo Medical | Anywhere in France, Belgium, Spain | posted: 2026-11-26
 - [ ] https://jobs.ashbyhq.com/alan/eecbe61b-ca24-4251-a0dc-f52ee7969e28 | Alan | Fullstack Software Engineer (x/f/m) - Mo Companion | Anywhere in France, Belgium, Spain | posted: 2026-11-26
 
+- [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Poland---Remote/Commissions-Analyst_R56345 | Trimble | Junior Data Analyst (Commissions Analyst)) | Poland - Remote | posted: 2026-11-26
+
 ## Processed
