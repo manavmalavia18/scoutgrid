@@ -2293,4 +2293,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/speak/48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a | speak | Backend Engineer, Activation | San Francisco | posted: 2026-11-26
 
+- [ ] https://jobs.ashbyhq.com/supabase/e1880633-5d58-4f38-833e-1bdef24d0bf9 | supabase | Platform Engineer - Database | Remote, EMEA | posted: 2026-11-26
+
 ## Processed
