@@ -2291,4 +2291,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c | parallel | Early Career Software Engineer, Developer Experience | San Francisco · New York, New York · New York · United States · Palo Alto | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/civilgrid/8fda4773-a81f-4e96-b27e-c12c1b53a969 | civilgrid | Full Stack Engineer | Boston | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/speak/48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a | speak | Backend Engineer, Activation | San Francisco | posted: 2026-11-26
+
 ## Processed
