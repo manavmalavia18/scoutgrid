@@ -2382,4 +2382,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a | Ayo Semiconductor | Machine Learning Engineer | Boston | posted: 2026-11-25
 - [ ] https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff | Ayo Semiconductor | Machine Learning Researcher | Boston | posted: 2026-11-25
 
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8942144002 | Discord | Data Engineer | San Francisco Bay Area | posted: 2026-11-26
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-FL/Data-Analyst-III-Healthcare-Analytics_1675733-1 | Centene Corporation | Data Analyst III Healthcare Analytics | 5 Locations | posted: 2026-11-26
+- [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-LA/Data-Analyst-III-Power-BI--Snowflake_1677176 | Centene Corporation | Data Analyst III Power BI, Snowflake | 3 Locations | posted: 2026-11-26
+- [ ] https://jobs.ashbyhq.com/speak/48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a | Speak | Backend Engineer, Activation | San Francisco | posted: 2026-11-26
+
 ## Processed
