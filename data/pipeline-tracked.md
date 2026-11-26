@@ -2405,4 +2405,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/faropoint/jobs/5309821007 | Faropoint | Software Engineer | Hoboken, New Jersey | posted: 2026-11-25
 - [ ] https://job-boards.greenhouse.io/jjsnackfoods/jobs/5492097008 | J&J Snack Foods | Software Engineer | TN - La Vergne | posted: 2026-11-25
 
+- [ ] https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Data-Engineer--Remote-_R059663-1 | First American Financial | Data Engineer (Remote) | 52 Locations | posted: 2026-11-25
+
 ## Processed
