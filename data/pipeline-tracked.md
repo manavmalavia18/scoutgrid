@@ -2392,4 +2392,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/jobgether/d80b146f-5599-4a5f-83d4-7ef3115d3d80 | Jobgether | ETL Developer Remote (Atlanta) | Atlanta | posted: 2026-11-26
 - [ ] https://jobs.lever.co/jobgether/631ea14a-8b86-4628-bd01-1b27f694372e | Jobgether | ETL Developer Remote (San Francisco Bay Area) | San Francisco Bay Area | posted: 2026-11-26
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8258573 | Twilio | Software Engineer | Remote - Ireland | posted: 2026-11-26
+- [ ] https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4 | PostHog | Site Reliability Engineer (US - Pacific/mountain time) | Remote (US) | posted: 2026-11-26
+
 ## Processed
