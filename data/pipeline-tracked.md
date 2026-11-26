@@ -2395,4 +2395,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8258573 | Twilio | Software Engineer | Remote - Ireland | posted: 2026-11-26
 - [ ] https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4 | PostHog | Site Reliability Engineer (US - Pacific/mountain time) | Remote (US) | posted: 2026-11-26
 
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Quincy-Massachusetts/Structured-Trust-and-Analytics--Officer_R-796525-1 | Statestreet | Structured Trust and Analytics, Officer | Quincy, Massachusetts | posted: 2026-11-26
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210806549 | JPMorgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | New York, NY, United States | posted: 2026-11-26
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Predictive-Modeler---Commercial-Pricing-Analytics_101092 | Nationwide | Predictive Modeler - Commercial Pricing Analytics | United States Remote
+- [ ] https://jobs.ashbyhq.com/matter-labs/23235c26-230f-42fe-a538-1a82dc18ca92 | Matter Labs | Software Engineer, Node | United States · Europe · Remote | posted: 2026-11-26
+
 ## Processed
