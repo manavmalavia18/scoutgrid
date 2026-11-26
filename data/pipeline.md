@@ -2674,3 +2674,5 @@
 
 - [ ] https://jobs.ashbyhq.com/matter-labs/23235c26-230f-42fe-a538-1a82dc18ca92 | matter-labs | Software Engineer, Node | United States · Europe · Remote | posted: 2026-11-26
 - [ ] https://jobs.ashbyhq.com/supabase/e1880633-5d58-4f38-833e-1bdef24d0bf9 | supabase | Platform Engineer - Database | Remote, EMEA | posted: 2026-11-26
+
+- [ ] https://jobs.ashbyhq.com/rehire/3cd263ad-56f7-4976-bd8c-a4193e18d60f | rehire | Software Engineer – Python & Hardware Test Automation | Argentina · Remote | posted: 2026-11-26
