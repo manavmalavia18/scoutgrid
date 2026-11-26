@@ -2668,3 +2668,6 @@
 - [ ] https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c | parallel | Early Career Software Engineer, Developer Experience | San Francisco · New York, New York · New York · United States · Palo Alto | posted: 2026-11-25
 
 - [ ] https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51 | coderabbit | Software Engineer - New Grad | San Francisco | posted: 2026-11-25
+
+- [ ] https://jobs.ashbyhq.com/speak/48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a | speak | Backend Engineer, Activation | San Francisco | posted: 2026-11-26
+- [ ] https://careers.cargurus.com/us/en/job/8417873?gh_jid=8417873 | cargurus | Software Development Engineer II | Boston, Massachusetts, United States | posted: 2026-11-25
