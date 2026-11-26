@@ -2387,4 +2387,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://centene.wd5.myworkdayjobs.com/centene_external/job/Remote-LA/Data-Analyst-III-Power-BI--Snowflake_1677176 | Centene Corporation | Data Analyst III Power BI, Snowflake | 3 Locations | posted: 2026-11-26
 - [ ] https://jobs.ashbyhq.com/speak/48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a | Speak | Backend Engineer, Activation | San Francisco | posted: 2026-11-26
 
+- [ ] https://spscommerce.wd108.myworkdayjobs.com/sps/job/Philippines-Remote/Associate-Software-Engineer-I_R-001573 | SPS Commerce | Associate Software Engineer I | Philippines Remote | posted: 2026-11-26
+- [ ] https://jobs.lever.co/jobgether/43253349-c3b0-4f6f-8b2c-6a2c0c15596b | Jobgether | ETL Developer Remote (Boston) | Boston, MA | posted: 2026-11-26
+- [ ] https://jobs.lever.co/jobgether/d80b146f-5599-4a5f-83d4-7ef3115d3d80 | Jobgether | ETL Developer Remote (Atlanta) | Atlanta | posted: 2026-11-26
+- [ ] https://jobs.lever.co/jobgether/631ea14a-8b86-4628-bd01-1b27f694372e | Jobgether | ETL Developer Remote (San Francisco Bay Area) | San Francisco Bay Area | posted: 2026-11-26
+
 ## Processed
