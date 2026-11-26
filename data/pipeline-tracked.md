@@ -2407,4 +2407,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Data-Engineer--Remote-_R059663-1 | First American Financial | Data Engineer (Remote) | 52 Locations | posted: 2026-11-25
 
+- [ ] https://jobs.ashbyhq.com/alan/365d6221-3e0f-4243-a1fe-7dd1c284f1c0 | Alan | Fullstack Software Engineer (x/f/m) - Mo Medical | Anywhere in France, Belgium, Spain | posted: 2026-11-26
+- [ ] https://jobs.ashbyhq.com/alan/eecbe61b-ca24-4251-a0dc-f52ee7969e28 | Alan | Fullstack Software Engineer (x/f/m) - Mo Companion | Anywhere in France, Belgium, Spain | posted: 2026-11-26
+
 ## Processed
