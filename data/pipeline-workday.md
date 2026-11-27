@@ -1522,4 +1522,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Application-Developer--Mid_R0253932 | bah | Application Developer, Mid | Washington, DC | posted: 2026-11-21
 
+- [ ] https://brambles.wd5.myworkdayjobs.com/brambles_careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540 | brambles | Software Developer – Applications | Santa Clara, California, USA | posted: 2026-11-27
+
 ## Processed
