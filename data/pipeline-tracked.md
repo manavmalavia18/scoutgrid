@@ -2416,4 +2416,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://brambles.wd5.myworkdayjobs.com/brambles_careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540 | Brambles | Software Developer – Applications | Santa Clara, California, USA | posted: 2026-11-27
 
+- [ ] https://jobs.ashbyhq.com/Clera/30ae618c-42b8-43a4-b363-b9c232793264 | Clera | Founding Security Software Engineer | San Francisco | posted: 2026-11-27
+- [ ] https://jobs.ashbyhq.com/Clera/bc92529c-ca1b-4fbb-b6c4-4e6ca7a8f540 | Clera | Mid-Level Software Engineer (L2-L3) | remote | posted: 2026-11-27
+- [ ] https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210812608 | JPMorgan Chase | Fullstack Software Engineer III - Java/Spring/React (Multiple Positions) | Chicago, IL, United States | posted: 2026-11-27
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Strategy---Business-Intelligence-Analyst_2026-0036348 | U.S. Bank | Strategy & Business Intelligence Analyst | Atlanta, GA | posted: 2026-11-27
+- [ ] https://jobs.ashbyhq.com/apex-technology-inc/4cabd6f4-8b6e-48cc-9554-5943c1df04bb | Apex | Flight Software Engineer | Los Angeles · Seattle, WA · United States of America | posted: 2026-11-27
+- [ ] https://stripe.com/jobs/search?gh_jid=8421434 | Stripe | Software Engineer | South San Francisco, CA | posted: 2026-11-27
+- [ ] https://stripe.com/jobs/search?gh_jid=8421091 | Stripe | Software Engineer, Backend | Seattle, WA | posted: 2026-11-27
+- [ ] https://stripe.com/jobs/search?gh_jid=8421000 | Stripe | Software Engineer, Full Stack Atlas | South San Francisco, CA | posted: 2026-11-27
+- [ ] https://stripe.com/jobs/search?gh_jid=8421367 | Stripe | Software Engineer, Reporting Platform | New York, NY | posted: 2026-11-27
+
 ## Processed
