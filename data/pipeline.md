@@ -2682,3 +2682,5 @@
 - [ ] https://jobs.ashbyhq.com/masabi/f24e5f28-c300-489b-aac8-ea388805ebde | masabi | AI Engineer (FTC) | United Kingdom - Remote | posted: 2026-11-26
 - [ ] https://jobs.ashbyhq.com/alan/eecbe61b-ca24-4251-a0dc-f52ee7969e28 | alan | Fullstack Software Engineer (x/f/m) - Mo Companion | Anywhere in France, Belgium, Spain | posted: 2026-11-26
 - [ ] https://jobs.ashbyhq.com/alan/365d6221-3e0f-4243-a1fe-7dd1c284f1c0 | alan | Fullstack Software Engineer (x/f/m) - Mo Medical | Anywhere in France, Belgium, Spain | posted: 2026-11-26
+
+- [ ] https://jobs.ashbyhq.com/griffin/41f7a49a-cd20-47b0-98d7-f8218b927461 | griffin | Software Engineer | London or remote within the UK | posted: 2026-11-27
