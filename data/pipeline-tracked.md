@@ -2412,4 +2412,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/Poland---Remote/Commissions-Analyst_R56345 | Trimble | Junior Data Analyst (Commissions Analyst)) | Poland - Remote | posted: 2026-11-26
 
+- [ ] https://job-boards.eu.greenhouse.io/ewor/jobs/5052726101 | EWOR | Applied AI Co-Founder / COO (100 % remote) (m/f/d) | Zagreb, Croatia | posted: 2026-11-27
+
 ## Processed
