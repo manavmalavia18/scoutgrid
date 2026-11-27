@@ -2414,4 +2414,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.eu.greenhouse.io/ewor/jobs/5052726101 | EWOR | Applied AI Co-Founder / COO (100 % remote) (m/f/d) | Zagreb, Croatia | posted: 2026-11-27
 
+- [ ] https://brambles.wd5.myworkdayjobs.com/brambles_careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540 | Brambles | Software Developer – Applications | Santa Clara, California, USA | posted: 2026-11-27
+
 ## Processed
