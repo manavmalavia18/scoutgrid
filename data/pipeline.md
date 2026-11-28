@@ -2684,3 +2684,5 @@
 - [ ] https://jobs.ashbyhq.com/alan/365d6221-3e0f-4243-a1fe-7dd1c284f1c0 | alan | Fullstack Software Engineer (x/f/m) - Mo Medical | Anywhere in France, Belgium, Spain | posted: 2026-11-26
 
 - [ ] https://jobs.ashbyhq.com/griffin/41f7a49a-cd20-47b0-98d7-f8218b927461 | griffin | Software Engineer | London or remote within the UK | posted: 2026-11-27
+
+- [ ] https://jobs.ashbyhq.com/terac/9b04262b-2b03-4705-97af-d5bd6e84ac20 | terac | Software Engineers: Interview on AI Coding Tools | United States · Remote | posted: 2026-11-28
