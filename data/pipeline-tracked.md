@@ -2428,4 +2428,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/interface-ai/c4d8b111-8084-4e02-86d5-c28591439612 | interface.ai | Applied AI Engineer, Business Automation | San Francisco | posted: 2026-11-28
 
+- [ ] https://verizon.wd12.myworkdayjobs.com/frontier_career_site/job/Basking-Ridge-New-Jersey/Business-Intelligence-Assoc-Dir_R-1104273 | Verizon | Business Intelligence-Assoc Dir | 3 Locations | posted: 2026-11-27
+- [ ] https://jobs.ashbyhq.com/terac/9b04262b-2b03-4705-97af-d5bd6e84ac20 | Terac | Software Engineers: Interview on AI Coding Tools | United States · Remote | posted: 2026-11-28
+
 ## Processed
