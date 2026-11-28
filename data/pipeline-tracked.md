@@ -2426,4 +2426,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://stripe.com/jobs/search?gh_jid=8421000 | Stripe | Software Engineer, Full Stack Atlas | South San Francisco, CA | posted: 2026-11-27
 - [ ] https://stripe.com/jobs/search?gh_jid=8421367 | Stripe | Software Engineer, Reporting Platform | New York, NY | posted: 2026-11-27
 
+- [ ] https://jobs.ashbyhq.com/interface-ai/c4d8b111-8084-4e02-86d5-c28591439612 | interface.ai | Applied AI Engineer, Business Automation | San Francisco | posted: 2026-11-28
+
 ## Processed
