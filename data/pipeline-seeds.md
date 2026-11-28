@@ -2306,4 +2306,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/griffin/41f7a49a-cd20-47b0-98d7-f8218b927461 | griffin | Software Engineer | London or remote within the UK | posted: 2026-11-27
 
+- [ ] https://jobs.ashbyhq.com/terac/9b04262b-2b03-4705-97af-d5bd6e84ac20 | terac | Software Engineers: Interview on AI Coding Tools | United States · Remote | posted: 2026-11-28
+- [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4477299009 | lilasciences | ML Scientist, Retrieval & RAG for Scientific Literature | Cambridge, MA USA; San Francisco, CA USA | posted: 2026-11-25
+
 ## Processed
