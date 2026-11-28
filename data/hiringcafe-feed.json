@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-28T06:14:31.121Z",
+  "fetchedAt": "2026-11-28T10:59:40.799Z",
   "provider": "hiringcafe",
   "window": "96h",
   "hcDaysRequested": 2,
@@ -24,29 +24,149 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 14,
+  "pagesFetched": 15,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
     "software engineer": null,
-    "software developer": 45,
+    "software developer": 48,
     "backend engineer": 1,
-    "frontend engineer": null,
+    "frontend engineer": 0,
     "full stack engineer": 3,
     "full stack developer": 3,
     "platform engineer": 11,
     "devops engineer": 3,
     "site reliability engineer": 0,
-    "data engineer": 11,
+    "data engineer": 12,
     "machine learning engineer": 1,
-    "mobile engineer": 1,
+    "mobile engineer": 2,
     "ios engineer": 0,
     "android engineer": 0,
     "qa automation engineer": 0,
     "security engineer": 8
   },
-  "count": 1027,
+  "count": 1013,
   "jobs": [
+    {
+      "title": "Mechanical Desk Engineer - DE - Mobility Customer Services",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526191",
+      "company": "Siemens",
+      "location": "New Castle, Delaware, United States",
+      "postedAt": 1795861321940,
+      "salary": "$79k-$92k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Associate's degree in technical field or equivalent experience; proven troubleshooting and problem-solving; strong computer skills; Microsoft Excel proficiency; ability to travel domestically up to 5%; legal authorization to work in the US without sponsorship.",
+      "tools": [
+        "Microsoft Excel",
+        "computerized maintenance management systems"
+      ],
+      "company_tagline": "A Siemens company providing rail mobility and customer services for locomotive fleets.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
+    },
+    {
+      "title": "Production Operations (ProdOps) Intern - Summer 2027",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525986",
+      "company": "Siemens",
+      "location": "United States or Raleigh",
+      "postedAt": 1795860934992,
+      "salary": "$60k-$71k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time · Internship",
+      "yoe": "",
+      "summary": "Pursuing Bachelor's or Master's in Computer Science, Information Systems, Data Analytics, Engineering, or related field; familiarity with generative AI tools; working knowledge of Excel or Google Sheets; legally authorized to work in the US without sponsorship.",
+      "tools": [
+        "Microsoft Copilot",
+        "ChatGPT",
+        "Microsoft Excel",
+        "Google Sheets",
+        "Python",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "AWS",
+        "Azure",
+        "Jira",
+        "Salesforce"
+      ],
+      "company_tagline": "A technology company helping organizations transform maintenance and operations through connected insights, AI-powered technology, and intelligent asset management solutions.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525465",
+      "company": "Siemens",
+      "location": "Troy, Michigan, United States",
+      "postedAt": 1795860828955,
+      "salary": "$90k-$162k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "Bachelor's degree in computer science or related field; 1+ years in Java or C++ and web technologies; Agile/Scrum experience; legal authorization to work in the US without sponsorship; export control compliance.",
+      "tools": [
+        "C++",
+        "Java",
+        "Angular",
+        "React",
+        "Vue",
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Teamcenter",
+        "Coverity",
+        "Veracode",
+        "findBugs"
+      ],
+      "company_tagline": "A leading provider of solutions for design, simulation, and manufacture of products across many industries.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
+    },
+    {
+      "title": "Software Engineer Advanced",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528194",
+      "company": "Siemens",
+      "location": "Orlando, Florida, United States",
+      "postedAt": 1795860683515,
+      "salary": "$132k-$198k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "4+ YOE",
+      "summary": "Bachelor's in Mathematics, Physics, Computer Science, or Engineering plus 48 months experience, or Master's plus 24 months; experience in numerical analysis, computational geometry, C++ programming, and engineering simulation workflows.",
+      "tools": [
+        "C++"
+      ],
+      "company_tagline": "A software company providing physical simulation and analysis tools for engineers and scientists.",
+      "ats_source": "avature",
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
+    },
+    {
+      "title": "Software Engineers: Interview on AI Coding Tools",
+      "url": "https://jobs.ashbyhq.com/terac/9b04262b-2b03-4705-97af-d5bd6e84ac20",
+      "company": "Terac",
+      "location": "United States",
+      "postedAt": 1795841274206,
+      "salary": "$131k/yr",
+      "workplace": "Remote",
+      "commitment": "Contract",
+      "yoe": "",
+      "summary": "Active professional software developer or engineer; regular user of AI coding tools like Copilot, Cursor, or Claude Code; familiar with integrating generative AI into daily workflows; comfortable discussing technical challenges over remote video call.",
+      "tools": [
+        "GitHub Copilot",
+        "Cursor",
+        "Claude Code"
+      ],
+      "company_tagline": "A company building a pool of vetted human experts for AI research and product teams.",
+      "ats_source": "ashby",
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
+    },
     {
       "title": "Member of Technical Staff Intern",
       "url": "https://jobs.ashbyhq.com/a16z-speedrun/6c5ce031-7a7c-4d43-a86c-fc7948ce15d7",
@@ -61,8 +181,8 @@
       "tools": [],
       "company_tagline": "A small team building training and evaluation environments for frontier AI models.",
       "ats_source": "ashby",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "ETL Developer",
@@ -86,8 +206,8 @@
       ],
       "company_tagline": "A full-service revenue recovery firm specializing in utilities, government, and healthcare markets.",
       "ats_source": "adp",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "AI Automation Engineer",
@@ -116,8 +236,8 @@
       ],
       "company_tagline": "A global IT services and consulting company offering technology solutions and business transformation.",
       "ats_source": "adhoc",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Game Developers: 30-Minute Interview on Platform Selection",
@@ -133,8 +253,8 @@
       "tools": [],
       "company_tagline": "A company building a pool of vetted human experts for AI research and studies.",
       "ats_source": "ashby",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer",
@@ -158,8 +278,8 @@
       ],
       "company_tagline": "A financial infrastructure platform for businesses, enabling companies to accept payments and grow revenue.",
       "ats_source": "adhoc",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer, Backend",
@@ -188,8 +308,8 @@
       ],
       "company_tagline": "A financial infrastructure platform for businesses, enabling companies to accept payments and grow revenue.",
       "ats_source": "adhoc",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer, Reporting Platform",
@@ -215,8 +335,8 @@
       ],
       "company_tagline": "A financial infrastructure platform for businesses, enabling payments and revenue growth.",
       "ats_source": "adhoc",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "DeltaV C&Q Engineer",
@@ -239,7 +359,7 @@
       "company_tagline": "A multinational technology company providing IT services and consulting.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Web Content Developer",
@@ -266,8 +386,8 @@
       ],
       "company_tagline": "A consulting and technology services company that designs, builds, and modernizes revenue-generating software and data engineering solutions.",
       "ats_source": "teamtailor",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Intern, Product Engineering",
@@ -284,7 +404,7 @@
       "company_tagline": "A provider of frictionless wealth management infrastructure, real-time data solutions, and an enhanced advisor experience.",
       "ats_source": "adp",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer - Server",
@@ -310,8 +430,8 @@
       ],
       "company_tagline": "A global leader in application control and allowlisting, empowering organizations to run only what they trust and operate free from malware and ransomware.",
       "ats_source": "grnhse",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Fullstack Software Engineer III - Java/Spring/React (Multiple Positions)",
@@ -336,8 +456,8 @@
       ],
       "company_tagline": "A global financial institution offering innovative financial solutions to consumers, small businesses, and corporate clients.",
       "ats_source": "oraclecloud",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Technical Specialist (195207)",
@@ -366,8 +486,8 @@
       ],
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Security Engineer II - Endpoint Security Platforms (Employee Compute / GitOps Automation)",
@@ -396,7 +516,7 @@
       "company_tagline": "One of the oldest financial institutions offering innovative financial solutions to consumers, small businesses, and prominent corporate, institutional, and government clients.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer, Full Stack Atlas",
@@ -420,7 +540,7 @@
       "company_tagline": "A financial infrastructure platform for businesses, enabling companies to accept payments and grow revenue.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Tooling Engineer",
@@ -444,7 +564,7 @@
       "company_tagline": "A company building AI-native, autonomous factories for modern contract manufacturing.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Sr.Application Developer-Treasury, Asset Liability & Loan Pricing",
@@ -474,7 +594,7 @@
       "company_tagline": "A Federal Home Loan Bank providing competitively priced funding and community investment support to member institutions in Illinois and Wisconsin.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer, Simulation",
@@ -497,7 +617,7 @@
       "company_tagline": "A company building an end-to-end AI platform for autonomous driving, enabling vehicles to learn from real-world experience.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Technical Strategist",
@@ -516,7 +636,7 @@
       "company_tagline": "A premier economics, technology, and strategy consulting firm helping companies lead through transformation.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "PLC Engineer",
@@ -539,7 +659,7 @@
       "company_tagline": "A technology company providing automation and engineering solutions for life science manufacturing.",
       "ats_source": "taleo_careersection",
       "discoveredAt": "2026-11-27T15:44:37.633Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "DeltaV C&Q Engineer",
@@ -593,7 +713,7 @@
       "company_tagline": "A semiconductor company building products for AI, data centers, PCs, gaming, and embedded systems.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "System Validation Engineer, Sensing Platform",
@@ -615,7 +735,7 @@
       "company_tagline": "A VC-funded deep-tech startup building edge-AI models for real-time human awareness using wireless sensors.",
       "ats_source": "lever",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "DevOps Security Engineer",
@@ -637,7 +757,7 @@
       "company_tagline": "A mission-driven IT services company supporting digital transformation for federal government agencies.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer II",
@@ -661,7 +781,7 @@
       "company_tagline": "The world's leading AI-powered developer platform with over 150 million developers.",
       "ats_source": "icims2",
       "discoveredAt": "2026-11-27T15:44:37.633Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Development Engineer, Amazon Leo - GNC SW",
@@ -681,8 +801,8 @@
       ],
       "company_tagline": "A company developing a low Earth orbit satellite network to deliver internet connectivity.",
       "ats_source": "adhoc",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Support Engineer",
@@ -705,8 +825,8 @@
       ],
       "company_tagline": "A global engineering group providing digital manufacturing solutions and software support.",
       "ats_source": "adhoc",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "IoT engineer II - ST, Seattle, WA",
@@ -735,8 +855,8 @@
       ],
       "company_tagline": "A global coffee company that designs and supports connected retail device platforms.",
       "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Informatica Developer l - Must Be Local to Denver",
@@ -759,8 +879,8 @@
       ],
       "company_tagline": "America's leading candy, snack, and beverage distributor with more than 25 distribution centers delivering products anywhere in the U.S.",
       "ats_source": "brassring",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Solution Architect-Salesforce",
@@ -781,8 +901,8 @@
       ],
       "company_tagline": "A global technology and consulting company helping clients with hybrid cloud and AI transformation.",
       "ats_source": "avature",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Development Engineer, Aurora Control Plane",
@@ -804,7 +924,7 @@
       "company_tagline": "A global technology company offering cloud computing and e-commerce services.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Development Engineer, AWS Security: AWS Field Security, AWS Security: AWS Field Security",
@@ -834,7 +954,7 @@
       "company_tagline": "A cloud services provider building AI-powered security platforms for AWS.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "IT Data Engineer II",
@@ -864,7 +984,7 @@
       "company_tagline": "A home and community-based services provider supporting individuals with disabilities and older adults.",
       "ats_source": "avature",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "3D Printing Test & Development Technician",
@@ -883,7 +1003,7 @@
       "company_tagline": "A company developing next-generation 3D printing products.",
       "ats_source": "ultipro",
       "discoveredAt": "2026-11-27T15:44:37.633Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Applied AI Co-Founder / CTO (100 % remote) (m/f/d)",
@@ -900,7 +1020,7 @@
       "company_tagline": "A fellowship for outlier founders building transformative tech, offering funding, mentorship, and community.",
       "ats_source": "teamtailor",
       "discoveredAt": "2026-11-27T15:44:37.633Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Design Lead",
@@ -925,7 +1045,7 @@
       "company_tagline": "A global IT services and technology company delivering digital, engineering, cloud, and AI solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Senior Software Engineer",
@@ -955,7 +1075,7 @@
       "company_tagline": "A global business, legal, and financial services company providing knowledge-based solutions to clients worldwide.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-11-27T15:16:08.863Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Moveworks AI Engineer (1725)",
@@ -985,7 +1105,7 @@
       "company_tagline": "A technology company building enterprise AI agents and automation solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Senior Mechanical Engineer",
@@ -1006,8 +1126,8 @@
       ],
       "company_tagline": "A family-owned manufacturer and distributor of mouldings, doors, windows, and specialty building products.",
       "ats_source": "successfactors",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Healthcare Engineer",
@@ -1028,7 +1148,7 @@
       "company_tagline": "",
       "ats_source": "usagov",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "AI Co-Founder / CTO (100 % remote) (m/f/d)",
@@ -1045,7 +1165,7 @@
       "company_tagline": "A startup incubator supporting entrepreneurs to build and scale their own companies.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-11-27T15:44:37.633Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer",
@@ -1070,7 +1190,7 @@
       "company_tagline": "A job discovery platform for remote and expert roles, connecting candidates with partner companies.",
       "ats_source": "join",
       "discoveredAt": "2026-11-27T15:16:08.863Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Member of Technical Staff, Product Engineer",
@@ -1089,7 +1209,7 @@
       "company_tagline": "An AI lab pioneering general world models for robotics, science, healthcare, education, gaming, and defense.",
       "ats_source": "ashby",
       "discoveredAt": "2026-11-27T15:16:08.863Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Manufacturing Process & Quality Systems Engineer",
@@ -1114,7 +1234,7 @@
       "company_tagline": "A precision manufacturing company advancing through innovative thinking and state-of-the-art machining.",
       "ats_source": "adhoc",
       "discoveredAt": "2026-11-27T15:44:37.633Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Senior Design Lead (198839)",
@@ -1143,8 +1263,8 @@
       ],
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Engineer",
@@ -1160,8 +1280,8 @@
       "tools": [],
       "company_tagline": "A global provider of cash management and security services.",
       "ats_source": "adhoc",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Full Stack Software Engineer (.NET / Angular / Azure)",
@@ -1190,8 +1310,8 @@
       ],
       "company_tagline": "A forward-thinking software provider helping community and regional financial institutions solve customer needs through open and flexible technologies.",
       "ats_source": "workday",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software/Firmware Engineer - Early Career",
@@ -1213,8 +1333,8 @@
       ],
       "company_tagline": "A semiconductor company providing essential building blocks for data infrastructure across enterprise, cloud, AI, automotive, and carrier architectures.",
       "ats_source": "workday",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "AI Platform Engineer",
@@ -1235,8 +1355,8 @@
       ],
       "company_tagline": "A trading firm that builds AI platforms for operational efficiency and software development.",
       "ats_source": "applicantpro",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Applied AI Engineer",
@@ -1254,8 +1374,8 @@
       ],
       "company_tagline": "A global, diversified alternative investment firm delivering results for investors.",
       "ats_source": "eightfold",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Data Engineer II - Retail Technology",
@@ -1284,8 +1404,8 @@
       ],
       "company_tagline": "A large independent tire business with hundreds of locations across the western states, known for its profit-sharing and benefits package.",
       "ats_source": "workday",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Solutions Engineer",
@@ -1310,8 +1430,8 @@
       ],
       "company_tagline": "A public research university committed to equity, inclusion, and employee well-being, improving lives in Wisconsin and beyond.",
       "ats_source": "workday",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "System Engineer II",
@@ -1336,8 +1456,8 @@
       ],
       "company_tagline": "A public research university committed to equity, inclusion, and employee well-being, improving lives in Wisconsin and beyond.",
       "ats_source": "workday",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Network Security Engineer",
@@ -1366,8 +1486,8 @@
       ],
       "company_tagline": "A community bank offering relationship-based banking services with regional expertise.",
       "ats_source": "workday",
-      "discoveredAt": "2026-11-28T06:14:31.107Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "discoveredAt": "2026-11-28T10:59:40.786Z",
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "AI Automation Engineer II",
@@ -1395,7 +1515,7 @@
       "company_tagline": "A Texas-based bank providing banking, investment, and insurance services with a legacy of over 150 years.",
       "ats_source": "phenompeople",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Support Engineer - AI-Driven (US Timezone)",
@@ -1415,7 +1535,7 @@
       "company_tagline": "A tech-driven platform providing liquidity solutions to LPs and GPs in the private-markets secondaries space.",
       "ats_source": "join",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Cloud Integration Engineer",
@@ -1445,7 +1565,7 @@
       "company_tagline": "A provider of invoice factoring and commercial finance solutions that help businesses unlock working capital, improve cash flow, and grow.",
       "ats_source": "jazzhr",
       "discoveredAt": "2026-11-27T21:16:05.806Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Application Development and Support Specialist - ITS3",
@@ -1470,7 +1590,7 @@
       "company_tagline": "The information technology agency for the State of Minnesota, delivering secure and reliable technology solutions.",
       "ats_source": "oraclepeoplesoft",
       "discoveredAt": "2026-11-27T15:16:08.863Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Software Developer – Applications",
@@ -1496,7 +1616,7 @@
       "company_tagline": "A global supply chain company that helps move goods more efficiently and sustainably through its share-and-reuse business model.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-27T15:16:08.863Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Land Mobile Radio System Analyst I",
@@ -1523,7 +1643,7 @@
       "company_tagline": "A county government providing public services and infrastructure.",
       "ats_source": "workday",
       "discoveredAt": "2026-11-27T15:16:08.863Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Security Engineer",
@@ -1552,7 +1672,7 @@
       "company_tagline": "A non-profit organization managing the nation's organ match list to direct lifesaving organs to people in need.",
       "ats_source": "paycom",
       "discoveredAt": "2026-11-27T15:16:08.863Z",
-      "lastSeenAt": "2026-11-28T06:14:31.107Z"
+      "lastSeenAt": "2026-11-28T10:59:40.786Z"
     },
     {
       "title": "Enterprise Applications Engineer, Zendesk",
@@ -25338,474 +25458,6 @@
       "ats_source": "pageup",
       "discoveredAt": "2026-11-24T13:47:04.049Z",
       "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Web Developer",
-      "url": "https://jobs.smartrecruiters.com/Optimizely/744000163432739-web-developer",
-      "company": "Optimizely",
-      "location": "New York City, New York, United States",
-      "postedAt": 1795517568872,
-      "salary": "$74k-$137k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "2-4 years web development experience; strong JavaScript, React, HTML, CSS, Tailwind, Next.js, Git; experience with Azure App Services, Functions, SQL Databases, and Optimizely; bachelor's degree in computer science or related field or equivalent experience.",
-      "tools": [
-        "JavaScript",
-        "React",
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Figma",
-        "Next.js",
-        "Git",
-        "Azure App Services",
-        "Azure Functions",
-        "SQL Databases",
-        "Optimizely"
-      ],
-      "company_tagline": "A marketing technology company providing AI-powered content creation, CMS, and experimentation platforms.",
-      "ats_source": "smartrecruiters",
-      "discoveredAt": "2026-11-24T13:47:04.049Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Software Engineer, Infrastructure",
-      "url": "https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2",
-      "company": "Rerun",
-      "location": "United States or Sweden or Toronto",
-      "postedAt": 1795517000282,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Strong software engineering background; deep Kubernetes operator experience (CRDs, controllers); proficiency in Go; ability to read Rust; AWS and infrastructure-as-code (Terraform/OpenTofu); observability; English communication; embrace AI in engineering.",
-      "tools": [
-        "Kubernetes",
-        "Go",
-        "Rust",
-        "AWS",
-        "Terraform",
-        "OpenTofu",
-        "controller-runtime",
-        "kubebuilder",
-        "operator-sdk"
-      ],
-      "company_tagline": "A remote-first company building the multimodal data stack for embodied AI.",
-      "ats_source": "ashby",
-      "discoveredAt": "2026-11-24T12:46:36.567Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Software Engineer, GDC Networking, Google Cloud",
-      "url": "https://careers.google.com/jobs/results/133761892706329286-software-engineer/",
-      "company": "Google",
-      "location": "Sunnyvale, California, United States",
-      "postedAt": 1795516655190,
-      "salary": "$147k-$210k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "Bachelor's degree or equivalent practical experience; 2 years software development or 1 year with advanced degree; 2 years large-scale infrastructure, distributed systems, networks, compute, storage or hardware architecture; experience in C, C++, Python, or Go.",
-      "tools": [
-        "C",
-        "C++",
-        "Python",
-        "Go",
-        "Kubernetes",
-        "Anthos",
-        "IPv6",
-        "iptables",
-        "DNS"
-      ],
-      "company_tagline": "A technology company developing next-generation products and cloud solutions.",
-      "ats_source": "google",
-      "discoveredAt": "2026-11-24T12:46:36.567Z",
-      "lastSeenAt": "2026-11-24T21:50:47.116Z"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://vsco.taleo.net/careersection/8_vss_in_prof/jobdetail.ftl?job=04OZM&lang=en",
-      "company": "Victoria's Secret & Co.",
-      "location": "United States",
-      "postedAt": 1795512266025,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "Bachelor's degree; 3-5 years data warehouse experience; 2+ years direct marketing in multi-channel business; 2+ years Snowflake; SQL, R, Python; MS Excel; strong communication and analytical skills.",
-      "tools": [
-        "Snowflake",
-        "SQL",
-        "R",
-        "Python",
-        "Microsoft Excel"
-      ],
-      "company_tagline": "A retailer managing customer marketing databases and data mart operations.",
-      "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-24T12:15:48.626Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Software Development Engineer II",
-      "url": "https://www.amazon.jobs/en/jobs/10612376/software-development-engineer-ii",
-      "company": "Amazon",
-      "location": "Seattle, Washington, United States",
-      "postedAt": 1795512156255,
-      "salary": "$144k-$194k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years professional software development, 2+ years design/architecture, 1+ years large-scale systems, 1+ years OOD, Bachelor's in CS/Engineering/Math or related, programming in C#, C++, Java, or Perl.",
-      "tools": [
-        "C#",
-        "C++",
-        "Java",
-        "Perl"
-      ],
-      "company_tagline": "A technology company that designs, builds, and operates large-scale, high-availability systems.",
-      "ats_source": "adhoc",
-      "discoveredAt": "2026-11-24T12:15:48.626Z",
-      "lastSeenAt": "2026-11-24T19:49:58.810Z"
-    },
-    {
-      "title": "Software Development Engineer, Device Software, Vega OS",
-      "url": "https://www.amazon.jobs/en/jobs/10611483/software-development-engineer-device-software-vega-os",
-      "company": "Amazon",
-      "location": "Irvine, California, United States",
-      "postedAt": 1795512154311,
-      "salary": "$144k-$194k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years non-internship software development experience, 2+ years design/architecture, 1+ years large-scale systems, Bachelor's in CS/Engineering/Math or related, programming in C#, C++, Java, or Perl.",
-      "tools": [
-        "Java",
-        "C++",
-        "C#",
-        "Rust",
-        "Go",
-        "Kotlin",
-        "Perl"
-      ],
-      "company_tagline": "An inventive research and development company that designs and engineers high-profile consumer electronics.",
-      "ats_source": "adhoc",
-      "discoveredAt": "2026-11-24T12:15:48.626Z",
-      "lastSeenAt": "2026-11-24T19:49:58.810Z"
-    },
-    {
-      "title": "Software Development Engineer, Device Software, Vega OS",
-      "url": "https://www.amazon.jobs/en/jobs/10611485/software-development-engineer-device-software-vega-os",
-      "company": "Amazon",
-      "location": "Irvine, California, United States",
-      "postedAt": 1795512154310,
-      "salary": "$144k-$194k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years non-internship software development experience, 2+ years design/architecture, 1+ years large-scale systems, Bachelor's in CS/Engineering/Math or related, programming in C#, C++, Java, or Perl.",
-      "tools": [
-        "Java",
-        "C++",
-        "C#",
-        "Rust",
-        "Go",
-        "Kotlin",
-        "Perl"
-      ],
-      "company_tagline": "An inventive research and development company that designs and engineers high-profile consumer electronics.",
-      "ats_source": "adhoc",
-      "discoveredAt": "2026-11-24T12:15:48.626Z",
-      "lastSeenAt": "2026-11-24T19:49:58.810Z"
-    },
-    {
-      "title": "Software Engineer III, Infrastructure, Google Play",
-      "url": "https://careers.google.com/jobs/results/142467825775059654-software-engineer-iii/",
-      "company": "Google",
-      "location": "Mountain View, California, United States",
-      "postedAt": 1795511860547,
-      "salary": "$147k-$210k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "Bachelor's degree or equivalent practical experience; 2 years experience with large-scale infrastructure, distributed systems, networks, compute technologies, storage, or hardware architecture; 2 years software development in Java; experience in infrastructure systems or IaaS.",
-      "tools": [
-        "Java"
-      ],
-      "company_tagline": "A technology company developing next-generation products and services that connect billions of users.",
-      "ats_source": "google",
-      "discoveredAt": "2026-11-24T12:46:36.567Z",
-      "lastSeenAt": "2026-11-24T16:49:36.257Z"
-    },
-    {
-      "title": "Junior Security Engineer",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000851&lang=en",
-      "company": "Commonwealth of Massachusetts",
-      "location": "Chelsea, Massachusetts, United States",
-      "postedAt": 1795509536000,
-      "salary": "$76k-$113k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "1+ YOE",
-      "summary": "1+ year information technology security experience or equivalent combination; understanding of TCP/IP, networking, and scripting; Microsoft Office and Office 365; strong communication and problem-solving skills.",
-      "tools": [
-        "Microsoft Office",
-        "Office 365",
-        "Python",
-        "Perl"
-      ],
-      "company_tagline": "The lead enterprise technology organization for the Commonwealth of Massachusetts, providing digital services and security operations.",
-      "ats_source": "taleo_careersection",
-      "discoveredAt": "2026-11-24T15:17:37.437Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Embedded Linux Engineer (C/C++ & Device Drivers)",
-      "url": "https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5",
-      "company": "Cintal",
-      "location": "Chillicothe, Illinois, United States",
-      "postedAt": 1795508548651,
-      "salary": "$60k-$85k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "Bachelor's degree in computer engineering, electrical engineering, computer science or related field; 2+ years embedded software/systems experience; strong C/C++ and Embedded Linux skills; device driver and hardware interfacing experience; authorized to work in the US.",
-      "tools": [
-        "C",
-        "C++",
-        "Linux",
-        "Git",
-        "UART",
-        "SPI",
-        "I2C",
-        "CAN",
-        "Ethernet",
-        "TCP/IP",
-        "USB",
-        "VxWorks"
-      ],
-      "company_tagline": "A global technology company developing products and services for heavy equipment, industrial, defense, agriculture, and medical industries.",
-      "ats_source": "rippling",
-      "discoveredAt": "2026-11-24T12:46:36.567Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Specialist, Technology Engineer (AWS)",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Technology-Engineer--AWS-_101410",
-      "company": "Nationwide",
-      "location": "Columbus, Ohio, United States",
-      "postedAt": 1795507649000,
-      "salary": "$96k-$178k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "4+ YOE",
-      "summary": "4+ years experience with moderately complex integrated solutions; AWS infrastructure engineering; infrastructure-as-code (AWS CDK, Terraform, CloudFormation); strong troubleshooting; secure access patterns; ability to work with cross-functional teams.",
-      "tools": [
-        "AWS CDK",
-        "GitHub Actions",
-        "Harness",
-        "Python",
-        "Go",
-        "TypeScript",
-        "Lambda",
-        "Step Functions",
-        "S3",
-        "KMS",
-        "EventBridge",
-        "API Gateway"
-      ],
-      "company_tagline": "A Fortune 100 company providing insurance and financial services, committed to delivering extraordinary care to customers.",
-      "ats_source": "paradox",
-      "discoveredAt": "2026-11-24T12:15:48.626Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Software Development Engineer in Test II",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6269317004",
-      "company": "Sony Interactive Entertainment",
-      "location": "San Mateo or Aliso Viejo or San Diego",
-      "postedAt": 1795507346000,
-      "salary": "",
-      "workplace": "Hybrid",
-      "commitment": "Contract",
-      "yoe": "3+ YOE",
-      "summary": "Bachelor's degree in Computer Science or related field; 3+ years UI automation experience; experience with version control, CI systems (Jenkins preferred), Selenium or Appium, and programming languages (Python preferred).",
-      "tools": [
-        "Jenkins",
-        "Selenium",
-        "Appium",
-        "Python",
-        "Angular",
-        "Ember.js",
-        "React",
-        "Node.js",
-        "React Native"
-      ],
-      "company_tagline": "A technology company behind the PlayStation brand, delivering gaming hardware and network services.",
-      "ats_source": "paradox",
-      "discoveredAt": "2026-11-24T13:16:51.430Z",
-      "lastSeenAt": "2026-11-24T23:55:09.719Z"
-    },
-    {
-      "title": "Engineer II",
-      "url": "https://fisglobal.phenompro.com/us/en/job/JR0310116/Engineer-II",
-      "company": "FIS, Inc.",
-      "location": "Jacksonville, Florida, United States",
-      "postedAt": 1795507200000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Full-stack development experience with TypeScript/Node.js or Java/Spring Boot or Python/FastAPI; hands-on AI coding agents (GitHub Copilot, Claude Code) and MCP servers; automated testing, version control; degree in computer science or related field or equivalent experience.",
-      "tools": [
-        "TypeScript",
-        "Node.js",
-        "Java",
-        "Spring Boot",
-        "Python",
-        "FastAPI",
-        "GitHub Copilot",
-        "Claude Code",
-        "MCP servers",
-        "React",
-        "Next.js",
-        "Express"
-      ],
-      "company_tagline": "A financial technology company that helps businesses, banks, and communities move, manage, and grow money.",
-      "ats_source": "phenompeople",
-      "discoveredAt": "2026-11-24T14:47:28.404Z",
-      "lastSeenAt": "2026-11-24T14:47:28.404Z"
-    },
-    {
-      "title": "SMPO Delivery Consultant (Scheduling Migration Tool Developer)",
-      "url": "https://careers.ibm.com/en_US/careers/JobDetail/SMPO-Delivery-Consultant-Scheduling-Migration-Tool-Developer/146428",
-      "company": "IBM",
-      "location": "Coral Gables or New York or North Carolina or Idaho or Virginia or North Dakota or Alaska or Alabama or Arkansas or Colorado or Michigan or Oklahoma or Oregon or Pennsylvania or Utah or Indiana or Arizona or Kentucky or Washington or Mississippi or Massachusetts or Maryland or Delaware or Kansas or Louisiana or Vermont or Nebraska or Wisconsin or New Mexico or Nevada or California or New Jersey or Connecticut or West Virginia or Guam or District of Columbia or Rhode Island or Maine or New Hampshire or Wyoming",
-      "postedAt": 1795506899088,
-      "salary": "$147k-$200k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Bachelor's degree; experience with zTPS software products, configuration optimization, consulting services delivery, adoption strategy development, and technical analysis; must be authorized to work without visa sponsorship.",
-      "tools": [
-        "zTPS",
-        "zModernization"
-      ],
-      "company_tagline": "A global technology and consulting company that helps clients solve complex business challenges through innovation and digital transformation.",
-      "ats_source": "avature",
-      "discoveredAt": "2026-11-24T12:15:48.626Z",
-      "lastSeenAt": "2026-11-24T21:50:47.116Z"
-    },
-    {
-      "title": "Ground Software Engineering Intern",
-      "url": "https://jobs.dayforcehcm.com/en-US/yss/candidateportal/jobs/4902",
-      "company": "York Space Systems",
-      "location": "Greenwood Village, Colorado, United States",
-      "postedAt": 1795503600000,
-      "salary": "$50k-$62k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Internship",
-      "yoe": "1+ YOE",
-      "summary": "Bachelor's degree or pursuing in Computer Science or related field; 1+ year software engineering; familiarity with React or Angular, Git, REST APIs, SQL; permanent U.S. work authorization; full-time in Greenwood Village, CO office.",
-      "tools": [
-        "React",
-        "TypeScript",
-        "C#",
-        ".NET",
-        "Docker",
-        "Kafka",
-        "REST",
-        "Git",
-        "SQL",
-        "Angular",
-        "TanStack Query",
-        "Yarn"
-      ],
-      "company_tagline": "An innovative aerospace company specializing in end-to-end customer solutions and rapid production of spacecraft platforms.",
-      "ats_source": "dayforce",
-      "discoveredAt": "2026-11-25T13:55:10.675Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Business Technology Analyst/Developer",
-      "url": "https://jobs.dayforcehcm.com/en-US/marquette/candidateportal/jobs/732",
-      "company": "Marquette Transportation Company",
-      "location": "New Orleans or Paducah",
-      "postedAt": 1795503600000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Bachelor's degree in Computer Science, Data Science, Analytics or equivalent; hands-on AI tool experience; web application development experience; SQL experience a plus; strong problem-solving and communication skills; in-office in New Orleans or Paducah with quarterly travel.",
-      "tools": [
-        "SQL",
-        "AI tools"
-      ],
-      "company_tagline": "A leading provider of inland marine transportation services operating towboats and barges on the Mississippi River System and Gulf-Intracoastal Waterway.",
-      "ats_source": "dayforce",
-      "discoveredAt": "2026-11-25T13:55:10.675Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Research & Development Design Engineer",
-      "url": "https://jobs.dayforcehcm.com/en-US/efcoforms/candidateportal/jobs/4756",
-      "company": "EFCO Formwork Solutions",
-      "location": "Des Moines, Iowa, United States",
-      "postedAt": 1795503600000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Bachelor of Science in Mechanical, Civil, or related engineering required; CAD and product design skills; proficiency in standard office software; ability to perform light physical work and read/write complex English documents.",
-      "tools": [
-        "CAD"
-      ],
-      "company_tagline": "A construction solutions company delivering innovative, cost-effective concrete forming products and services.",
-      "ats_source": "dayforce",
-      "discoveredAt": "2026-11-24T20:20:14.094Z",
-      "lastSeenAt": "2026-11-25T23:41:01.391Z"
-    },
-    {
-      "title": "Research & Development Design Engineer",
-      "url": "https://jobs.dayforcehcm.com/en-US/efcoforms/efcocareers/jobs/4758",
-      "company": "EFCO Formwork Solutions",
-      "location": "Des Moines, Iowa, United States",
-      "postedAt": 1795503600000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Bachelor of Science in Mechanical, Civil, or related engineering required; CAD and product design skills; proficiency in standard office software; ability to perform light physical work and read/write complex English documents.",
-      "tools": [
-        "CAD"
-      ],
-      "company_tagline": "A construction solutions company delivering innovative, cost-effective concrete forming products and services.",
-      "ats_source": "dayforce",
-      "discoveredAt": "2026-11-24T17:49:57.059Z",
-      "lastSeenAt": "2026-11-25T22:30:24.002Z"
-    },
-    {
-      "title": "Electrical Engineer, Instrumentation and Controls",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8952023002?gh_jid=8952023002",
-      "company": "SpaceX",
-      "location": "McGregor, Texas, United States",
-      "postedAt": 1795502688000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "1+ YOE",
-      "summary": "Bachelor's degree in physics, electrical engineering, computer engineering or other engineering discipline; 1+ years experience with data acquisition systems; ability to work at heights, lift 25 lbs, and travel up to 25%; ITAR compliance required.",
-      "tools": [
-        "PLC",
-        "data acquisition systems",
-        "Modbus",
-        "Profinet",
-        "EtherNet/IP"
-      ],
-      "company_tagline": "A company developing technologies to enable human life on Mars.",
-      "ats_source": "grnhse",
-      "discoveredAt": "2026-11-24T12:15:48.626Z",
-      "lastSeenAt": "2026-11-25T14:27:36.062Z"
     }
   ]
 }
